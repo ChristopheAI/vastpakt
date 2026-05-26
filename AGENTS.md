@@ -98,6 +98,7 @@ The job of this agent:
 - learn from Swipefile which ordinary sentence gets selling power;
 - use Swipefile-style copy thinking: concrete before/after, show the crash, authentic proof, small missing detail, say less when the object explains, and ship imperfect offers that can be tested;
 - keep the language Flemish/KMO-readable without forced dialect;
+- use `je/jouw` as the default public-site address; avoid `ge/gij/uw` unless preserving a source quote or deliberately testing a more informal variant;
 - turn market pain into a precise Vastpakt translation;
 - reject wording that sounds polished but unproven.
 

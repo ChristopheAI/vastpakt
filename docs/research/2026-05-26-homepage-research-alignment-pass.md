@@ -13,7 +13,7 @@ Source: `docs/research/2026-05-26-reddit-open-reading-round-4.md`
 Strong lines:
 
 ```text
-Eerst zien waar ge staat.
+Eerst zien waar je staat.
 Daarna pas kiezen wat moet veranderen.
 ```
 
