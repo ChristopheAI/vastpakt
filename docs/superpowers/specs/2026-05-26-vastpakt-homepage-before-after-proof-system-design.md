@@ -955,6 +955,45 @@ The page can use this as a resource-readiness line:
 We maken zichtbaar wat samen hoort: werk, mens, middel, plaats en bewijs.
 ```
 
+### Reddit Internal Ops Reading: Communication Readiness
+
+The next B2B internal-operation reading added communication as the hidden process layer. CCs, customer handoff emails, payment reminders, supplier quotes, project stops, bills, and admin mail often reveal missing process rules.
+
+Useful public language:
+
+```text
+Mail is vaak geen communicatieprobleem. Het is een zichtbaar geworden procesgat.
+```
+
+```text
+Een bericht moet tonen waarom iemand erbij zit, wat er moet gebeuren en wie de volgende stap heeft.
+```
+
+```text
+Als de reden voor een mail niet zichtbaar is, voelt opvolging snel als escalatie.
+```
+
+Good proof situations:
+
+- CC zonder rol.
+- Mail zonder waarom.
+- Klantoverdracht zonder vervanger.
+- Belofte aan klant zonder eigenaar.
+- Offertes zonder vergelijkingsbasis.
+- Herinnering zonder toon en timing.
+- Factuurmail zonder opvolgstatus.
+- Inbox als administratieve wachtrij.
+- Feedback zonder stopregel.
+- Projectstop zonder leveringsstatus.
+
+Guardrail: this is not an inbox-zero, email-template, CRM, or collections page. The practical promise is operational communication: which role, reason, next step, proof, and status should sit behind a message.
+
+The page can use this as a communication-readiness line:
+
+```text
+We kijken waar mail eigenlijk proceswerk moet doen.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -981,6 +1020,8 @@ We maken zichtbaar wat samen hoort: werk, mens, middel, plaats en bewijs.
 - Do not let accounting examples become software selection or tax advice; use them to show where operational triggers are missing.
 - Resource planning examples should show samenhang: work, person, vehicle, material, location, document, proof, hours, and next step.
 - Planning, CRM, SharePoint, and field-service examples are proof lenses; do not turn the homepage into a software-category pitch.
+- Communication examples should focus on role, reason, next step, proof, and status behind messages, not inbox cleanup or email templates.
+- CC, customer handoff, reminder, quote, and project-stop examples are proof lenses for hidden process rules.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -1137,6 +1178,10 @@ Een ploeg staat ingepland, maar de juiste wagen staat elders.
 Een opdracht heeft een locatie, maar het materiaal hangt in een aparte chat.
 Een klantmail hoort bij een job, maar de factuurroute zit in een ander systeem.
 Een planning lijkt klaar, tot iemand vraagt waar de laatste wijziging staat.
+Een manager staat in CC, maar niemand ziet of dat info, opvolging of escalatie betekent.
+Een klant moet worden overgedragen, maar vervanger, timing en boodschap liggen niet klaar.
+Een factuurherinnering wordt herschreven op gevoel omdat status en volgende stap niet neutraal klaarstaan.
+Een project stopt, maar feedback, levering, bestanden en factuurstatus hangen los.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
