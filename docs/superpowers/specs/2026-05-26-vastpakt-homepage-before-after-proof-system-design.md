@@ -797,6 +797,45 @@ The page can use this as a method line:
 Van afspraak naar werkregel.
 ```
 
+### Reddit Internal Ops Reading: Meaning Must Travel With The Record
+
+The next B2B internal-operation reading added a system-boundary layer. Even when the rule exists, meaning often gets lost when work moves between invoice software, Peppol/UBL, timesheets, SharePoint, email, an intermediary, or a client-facing explanation.
+
+Useful public language:
+
+```text
+Een record is pas bruikbaar als de betekenis meereist.
+```
+
+```text
+Niet alleen: waar staat het? Maar ook: begrijpt het volgende systeem nog wat het betekent?
+```
+
+```text
+Als betekenis in de mail zit en het werk in de tool, begint het zoeken opnieuw.
+```
+
+Good proof situations:
+
+- Factuur zonder betaalschema.
+- Betalingstermijn buiten het systeem.
+- Timesheet zonder maandpakket.
+- Uren in tool A, factuur in tool B.
+- Klanttool zonder eigen master.
+- SharePoint zonder vindbare betekenis.
+- Metadata zonder discipline.
+- Datafout zonder herstelspoor.
+- Tussenpartij zonder zichtbaar eigenaarschap.
+- Machineleesbaar document zonder menselijk zicht.
+
+Guardrail: this is not a Peppol, invoicing, SharePoint, HR, or legal-specialist page. The practical promise is broader: visible handoff points where information changes system, person, or party, and where meaning must stay attached.
+
+The page can use this as a diagnostic line:
+
+```text
+We kijken waar betekenis uit het werk valt.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -815,6 +854,8 @@ Van afspraak naar werkregel.
 - Risk-boundary examples must stay practical: where work starts, pauses, transfers, escalates, or stops.
 - Commercial conditions should be translated into visible work rules: date, owner, approval, access, capacity, proof, invoice, and handover.
 - Contract, clause, work order, and timesheet examples must not become legal analysis; keep them as operational translation examples.
+- System examples should focus on meaning transfer, not tool specialization: what must remain understandable when a record moves between person, tool, accountant, intermediary, client, or technician.
+- E-invoicing, SharePoint, timesheet, and invoice examples are proof lenses, not category promises.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -955,6 +996,10 @@ Een clausule bestaat wel, maar niemand weet welke actie ze morgen verandert.
 Uren worden ingediend, maar niemand ziet waarop ze goedgekeurd worden.
 Een werkorder telt dagen af, maar planning ziet de limiet te laat.
 Een betaalmijlpaal staat op papier, maar niemand ziet welk bewijs-moment erbij hoort.
+Een factuur heeft een nummer, maar het betaalschema zit in een losse mail.
+Een uurstaat geraakt tot bij de klant, maar niet als pakket dat facturatie kan vertrouwen.
+Documentatie staat in SharePoint, maar de betekenis is niet vindbaar voor onderhoud.
+Een klant krijgt nieuwe cijfers, maar intern ontbreekt het herstelspoor naar de oude fout.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
