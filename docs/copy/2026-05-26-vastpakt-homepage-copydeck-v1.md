@@ -100,13 +100,13 @@ Why: it captures the quiet failure mode. Work is not visibly broken. It becomes 
 Subline:
 
 ```text
-We maken zichtbaar welke routine vandaag draait op geheugen, losse mails en onduidelijke afspraken.
+We maken zichtbaar waar routine, manueel werk en vergeten opvolging vandaag draaien op geheugen, losse mails of onduidelijke afspraken.
 ```
 
 Support line:
 
 ```text
-Eén stuk werking op tafel: wat binnenkomt, wie aan zet is, welk bewijs erbij hoort, en wat de volgende stap is.
+Eén stuk werking op tafel: waar info binnenkomt, waar ze opnieuw wordt overgenomen, wie aan zet is, welk bewijs erbij hoort en wat de volgende stap is.
 ```
 
 Primary CTA:
@@ -163,10 +163,10 @@ Use three first cards. Each should feel like a normal workday, not a category pi
 
 ```text
 Haak:
-De offerte is verstuurd. Daarna moet iemand het onthouden.
+De offerte is verstuurd. Daarna begint het onthouden.
 
 Voor:
-De offerte zit in mail, de prijs in een bestand, de opvolging in iemands hoofd.
+Prijs in Excel, offerte in mail, opvolging in iemands hoofd.
 
 Ontbreekt:
 Status, eigenaar, volgende stap en reden van wachten.
@@ -183,10 +183,10 @@ Ge moet niet zoeken. Ge kunt wijzen.
 
 ```text
 Haak:
-Het werk is klaar, maar de factuur ontstaat pas als iemand eraan denkt.
+Het werk is klaar, maar administratie krijgt geen seintje.
 
 Voor:
-Start, oplevering, akkoord en factuur leven elk apart.
+Start in de planning, akkoord in de mail, bewijs in een map, factuur in een ander systeem.
 
 Ontbreekt:
 Het moment waarop werk boekhoudklaar wordt.
@@ -202,10 +202,10 @@ Facturatie wacht niet op geheugen. Ze volgt uit zichtbaar werk.
 
 ```text
 Haak:
-Iedereen weet ongeveer hoe het loopt. Tot die ene persoon er niet is.
+Iedereen weet ongeveer hoe het loopt. Tot de persoon die het weet er niet is.
 
 Voor:
-Uitzonderingen, prioriteiten, afspraken en reminders zitten in gewoonte.
+Losse tools, workarounds, reminders en uitzonderingen blijven werken zolang dezelfde persoon ze blijft onthouden.
 
 Ontbreekt:
 Een overdraagbaar spoor buiten één hoofd.
@@ -222,13 +222,13 @@ Het werk is nog niet magisch opgelost. Het ligt wel op tafel.
 Section headline:
 
 ```text
-Zo hangt werking los.
+Waar het manuele werk eigenlijk begint.
 ```
 
 Lead:
 
 ```text
-Niet omdat mensen hun werk niet doen. Omdat te veel kleine waarheden nergens samen liggen.
+Copy-paste, dubbele invoer en vergeten opvolging zijn zelden het echte beginpunt. Er hangt meestal al iets los: eigenaar, status, bewijs of volgende stap.
 ```
 
 Problem lines to use:
@@ -255,22 +255,22 @@ Blijft dit stuk werking zichtbaar als de enige persoon die het kent er vandaag n
 Headline:
 
 ```text
-Eerst zicht. Dan pas vastpakken.
+Eerst zien waar het manuele werk ontstaat.
 ```
 
 Lead:
 
 ```text
-We starten niet met software, AI of een groot veranderplan. We kijken eerst naar één stuk werking zoals het vandaag echt loopt.
+Veel KMO's willen minder manueel werk. Terecht. Maar eerst moet zichtbaar zijn waar dat werk ontstaat: in mail, Excel, CRM, Teams, afspraken of geheugen.
 ```
 
 Steps:
 
 ```text
 1. Ge toont één normale situatie.
-2. We volgen waar ze binnenkomt, waar ze wacht en wie ermee verder moet.
+2. We volgen waar info binnenkomt, opnieuw wordt overgenomen, blijft wachten of van tool verandert.
 3. We leggen status, eigenaar, bewijs, afspraak en volgende stap naast elkaar.
-4. We tonen waar het loshangt.
+4. We tonen waar betekenis kwijt raakt.
 5. Daarna kiezen we één klein stuk om vast te pakken.
 ```
 
@@ -291,14 +291,14 @@ De Eerste Zicht-scan
 Lead:
 
 ```text
-Een korte scan van één stuk werking dat vandaag tijd, geld of opvolging lekt.
+Een korte scan van één stuk werking waar vandaag manueel werk, dubbele invoer, vergeten opvolging of losse tools samenkomen.
 ```
 
 What you bring:
 
 ```text
 Eén situatie uit uw werkdag.
-Een paar echte voorbeelden: mails, bestanden, afspraken, screenshots of notities.
+Een paar echte voorbeelden: mails, Excel, CRM, Teams, offertes, afspraken, screenshots of notities.
 Iemand die kan tonen hoe het vandaag loopt.
 ```
 
@@ -306,7 +306,7 @@ What you get:
 
 ```text
 Een Situatiekaart.
-Een lijst van loshangende punten.
+Een lijst van plekken waar status, eigenaar, bewijs of volgende stap loskomt.
 Een overdraagbaarheidscheck.
 Een klein voor/na-beeld.
 Een voorstel voor welk stuk eerst vastgepakt kan worden.
@@ -323,7 +323,7 @@ Het moment waarop werk niet meer alleen in hoofden, mailboxen of gewoontes zit. 
 Headline:
 
 ```text
-Niet voor elk probleem. Wel voor werk dat te veel op geheugen draait.
+Niet voor elk probleem. Wel voor routines die op geheugen blijven draaien.
 ```
 
 For you if:
@@ -332,6 +332,7 @@ For you if:
 Opvolging zit verspreid over mail, telefoon, WhatsApp of geheugen.
 Mensen zoeken telkens opnieuw naar status, bewijs of eigenaar.
 Facturatie, akkoord of overdracht hangt af van iemand die het moet onthouden.
+Er is manueel werk, copy-paste of dubbele invoer, maar het echte knelpunt is nog niet helder.
 Ge wilt eerst zien wat loshangt voor ge een tool of automatisering kiest.
 ```
 
@@ -368,7 +369,7 @@ Toon waar het vandaag blijft hangen.
 Support:
 
 ```text
-Stuur één concrete situatie. Ge moet nog niet weten wat de oplossing is.
+Stuur één concrete situatie met manueel werk, vergeten opvolging, dubbele invoer of losse tools. Ge moet nog niet weten wat de oplossing is.
 ```
 
 Return promise:
