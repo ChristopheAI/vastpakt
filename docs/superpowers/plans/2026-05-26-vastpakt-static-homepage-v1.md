@@ -58,7 +58,7 @@ Add this exact initial structure:
       <section class="hero section-band">
         <div class="hero-copy">
           <p class="eyebrow">Voor Vlaamse KMO's waar werk niet kapot is, maar wel te veel blijft hangen.</p>
-          <h1>We blijven opvolgen, maar niemand ziet waar het staat.</h1>
+          <h1>Alles loopt. Tot iemand vraagt waar het staat.</h1>
           <p class="hero-lede">We maken zichtbaar welke routine vandaag draait op geheugen, losse mails en onduidelijke afspraken.</p>
           <div class="hero-actions" aria-label="Eerste acties">
             <a class="button primary" href="#contact">Toon waar het vandaag blijft hangen</a>
@@ -747,7 +747,7 @@ Run:
 
 ```bash
 node --check script.js
-rg -n "We blijven opvolgen|routine vandaag draait|Situatiekaart|Aanvraag zonder eigenaar|Offerte zonder opvolgspoor|Bewijs naar geld|Geen nieuwe tool|Ge krijgt terug" index.html
+rg -n "Alles loopt|routine vandaag draait|Situatiekaart|Aanvraag zonder eigenaar|Offerte zonder opvolgspoor|Bewijs naar geld|Geen nieuwe tool|Ge krijgt terug" index.html
 git diff --check
 ```
 
