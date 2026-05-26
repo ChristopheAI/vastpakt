@@ -56,6 +56,35 @@ Als betekenis in de mail zit en het werk in de tool, begint het zoeken opnieuw.
 - Say what gets put on the table.
 - Prefer "wij maken zichtbaar" over "wij transformeren".
 - Prefer ordinary work objects: mail, offerte, afspraak, bewijs, factuur, planning, overdracht.
+- Use market words as entry points: routine, manueel werk, copy-paste, dubbele invoer, vergeten opvolging, losse tools, bestaande systemen, scan, knelpunt.
+- Keep market words one step before automation: first visible work, then possible tool, koppeling, or automation.
+
+## Market Words To Use
+
+The market says:
+
+```text
+repetitieve taken
+manueel werk
+copy-paste
+dubbele invoer
+vergeten opvolging
+losse tools
+bestaande systemen
+tijdvreters
+knelpunten
+quick wins
+```
+
+Vastpakt translation:
+
+```text
+Waar ontstaat dat manuele werk?
+Welke informatie wordt opnieuw overgenomen?
+Waar raakt status, bewijs of volgende stap kwijt?
+Welke routine draait vandaag op mail, Excel, CRM, Teams of geheugen?
+Welk klein stuk kunnen we eerst zichtbaar maken?
+```
 
 ## Hero
 
