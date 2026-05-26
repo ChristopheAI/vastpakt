@@ -1173,6 +1173,14 @@ Geen nieuwe tool om uw onduidelijkheid in te bewaren.
 
 ## Recommended Homepage Structure
 
+Copy source for the first build:
+
+```text
+docs/copy/2026-05-26-vastpakt-homepage-copydeck-v1.md
+```
+
+Use the copydeck as the live copy source before building. This spec explains why the page exists; the copydeck chooses the public lines.
+
 ### 1. Hero
 
 Job: make the category and promise clear in seconds.
