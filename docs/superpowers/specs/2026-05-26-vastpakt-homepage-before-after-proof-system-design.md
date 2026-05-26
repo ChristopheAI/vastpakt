@@ -326,6 +326,27 @@ Then immediately make the next move practical:
 Daar maken we eerst zicht op.
 ```
 
+### Swipefile: Sharp Headline, Immediate Reassurance
+
+A harder truth only works if the next line makes the first step feel safe.
+
+Use the structure:
+
+```text
+Kwetsbaarheid:
+Uw opvolging zit in één hoofd.
+
+Geruststelling:
+Daarom maken we eerst één stuk zichtbaar. Niet alles. Niet meteen automatiseren.
+```
+
+Rules:
+
+- Do not use shock for theatre.
+- The hard line must name a real operational risk.
+- The reassurance must be specific: one piece, Situatiekaart, no big project, no tool choice first.
+- Never leave the reader in fear. The next sentence must restore calm.
+
 ### Swipefile: Obsession Beats Trophy Bragging
 
 Trust should come from attention to the work, not authority theatre.
@@ -362,6 +383,33 @@ Als iemand vraagt waar het staat, moet ge niet meer zoeken. Ge kunt wijzen.
 ```
 
 The site should sell this relief without turning it into status theatre.
+
+### Swipefile: Future State As A Normal Workday
+
+The after-state should not be abstract improvement. It should feel like an ordinary moment that now goes better.
+
+Use scenes such as:
+
+```text
+Morgen vraagt iemand: "Waar staat die offerte?"
+En ge moet niet zoeken. Ge kunt wijzen.
+```
+
+or:
+
+```text
+Niet meer zoeken.
+Niet meer "ik denk dat Sarah dat weet".
+Niet meer drie keer navragen.
+Wel: één zichtbaar spoor.
+```
+
+Rules:
+
+- Do not sell the Situatiekaart as the final benefit.
+- Sell the moment where the client can answer, hand over, or decide without searching.
+- Keep the future state concrete: mailbox, offerte, status, eigenaar, volgende stap.
+- Avoid grand transformation language.
 
 ### Swipefile: PAS For Flow, 4Cs For Finish
 
@@ -417,6 +465,8 @@ Any section that does not make that action more logical should be cut.
 - Eerste Zicht is the middle route between doing nothing and starting too big.
 - The post-scan path is a short reality loop around one visible priority, not a broad transformation promise.
 - The page has one reader, one problem, and one action.
+- If a hard truth is used, the next line must immediately reassure and narrow the scope.
+- The after-state must be shown as a normal workday moment, not only as a diagram or deliverable.
 
 ## Recommended Homepage Structure
 
@@ -429,6 +479,13 @@ Candidate copy direction:
 ```text
 Eerst een werking zichtbaar maken.
 Dan pas kiezen wat moet veranderen.
+```
+
+Optional sharp/reassuring variant:
+
+```text
+Uw opvolging zit misschien in één hoofd.
+Daarom maken we eerst één stuk zichtbaar. Niet alles. Niet meteen automatiseren.
 ```
 
 Supporting line:
@@ -456,6 +513,7 @@ Hero visual:
 - The first row must be visible on mobile without forcing the reader to scroll.
 - The object should explain enough that nearby copy can stay short.
 - At least one label should point to the missing detail: owner, status, reminder, or next step.
+- If the hero uses a hard truth, the visual must make the safe next step clear.
 
 ### 2. Proof Object Strip
 
@@ -476,6 +534,7 @@ Each card shows:
 - `Ontbreekt`: the one owner, status, reminder, rule, or next step that changes the meaning.
 - `Zicht`: what Vastpakt maps.
 - `Na`: what becomes followable.
+- `Werkdag`: one normal moment after the scan where someone can answer, point, hand over, or decide.
 
 ### 3. Problem Section: Zo Hangt Werking Los
 
@@ -785,6 +844,7 @@ Wat als we nog niet weten waar het probleem zit?
 Kan Vastpakt daarna ook helpen uitvoeren?
 Wordt dit meteen een groot traject?
 Wat gebeurt er na de eerste 30 dagen?
+Wat als de scan toont dat iets vandaag te veel in één hoofd zit?
 ```
 
 ### 10. Final CTA
@@ -818,6 +878,8 @@ Use:
 - Short labels that point to missing owner, status, reminder, rule, or next step.
 - A visual moment where scattered work becomes one visible object.
 - Small accumulation examples only when they are real or clearly marked as examples.
+- Sharp truth followed immediately by scoped reassurance.
+- A future-state workday scene where visible work changes one ordinary question or handoff.
 
 Avoid:
 
@@ -830,6 +892,8 @@ Avoid:
 - Trophy bragging, badges, or authority theatre without real local evidence.
 - Clever outreach gimmicks without a concrete proof object.
 - Long explanatory copy beside a visual that could carry the point itself.
+- Shock lines that name fear without immediately showing the safe next step.
+- Future-state promises that sound like transformation instead of one clearer work moment.
 
 ## Content Model
 
@@ -844,6 +908,7 @@ ProofCard
 - stuck_point
 - visible_map
 - after
+- workday_scene
 - artifact_type
 - assumptions_to_question
 - friction_removed
@@ -914,6 +979,18 @@ OutreachProofPiece
 - mini_map
 - one_question
 - next_step
+
+ReassurancePair
+- hard_truth
+- immediate_reassurance
+- scope_boundary
+- proof_object
+
+FutureWorkdayScene
+- question_or_trigger
+- old_response
+- new_response
+- visible_object
 ```
 
 ## Acceptance Criteria
@@ -1082,6 +1159,46 @@ If the page mentions work after the scan, it must be framed as a short reality l
 - 30-day action window.
 - End review: keep, remove, improve, or choose the next piece.
 - No broad transformation promise.
+
+### Sharp Reassurance Test
+
+Any hard truth must be followed immediately by practical reassurance.
+
+Good pattern:
+
+```text
+Uw opvolging zit misschien in één hoofd.
+Daarom maken we eerst één stuk zichtbaar. Niet alles. Niet meteen automatiseren.
+```
+
+Fail pattern:
+
+```text
+Uw bedrijf loopt risico.
+```
+
+without a concrete first visible step.
+
+The hard truth must name a specific operational vulnerability, not create vague anxiety.
+
+### Future Workday Test
+
+At least one after-state must be written as a normal workday scene.
+
+It must answer:
+
+- What question does someone ask?
+- What did the person do before?
+- What can they do after the scan?
+- Which visible object makes that possible?
+
+Example:
+
+```text
+Morgen vraagt iemand: "Waar staat die offerte?"
+Vroeger zocht ge in mailbox, WhatsApp of geheugen.
+Nu wijst ge naar eigenaar, status en volgende stap.
+```
 
 ## Open Implementation Notes
 
