@@ -722,6 +722,42 @@ The page can use this to make proof clarity more operational:
 Als er iets schuurt, ziet iedereen sneller wat er al gebeurd is en wat nu moet volgen.
 ```
 
+### Reddit Internal Ops Reading: Risk Boundaries Must Be Visible
+
+The next B2B internal-operation reading added a risk-boundary layer. Risky work is not only a bad-client problem. It is often an invisible-boundary problem: payment, transfer, ownership, pause, notice, access, and stop rules are not visible while work keeps moving.
+
+Useful public language:
+
+```text
+Goed werk begint met weten waar de grens ligt.
+```
+
+```text
+Als niemand ziet wanneer werk pauzeert, blijft iedereen te lang voortdoen.
+```
+
+```text
+Overdracht moet een moment zijn, geen gevoel.
+```
+
+Good proof situations:
+
+- Werk zonder stopregel.
+- Overdracht zonder moment.
+- Eigendom zonder afspraak.
+- Opdracht zonder randvoorwaarden.
+- Stoppen zonder proces.
+- Clausule zonder werkdag.
+- Voorschot zonder route.
+
+Guardrail: this should not sound like contract review. The practical promise is that before work becomes risky, the business can see where work starts, pauses, transfers, escalates, or stops.
+
+The page can use this as a pre-mess visibility line:
+
+```text
+Voor ge verder doet, moet duidelijk zijn waar werk begint, pauzeert, verhuist of stopt.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -737,6 +773,7 @@ Als er iets schuurt, ziet iedereen sneller wat er al gebeurd is en wat nu moet v
 - Context must stay attached to work: status, owner, agreement, latest version, exception, proof, next step, and billing trigger should not live in separate personal memory.
 - Conditions must remain visible enough to decide whether work should continue, pause, be invoiced, be corrected, or be re-confirmed.
 - Dispute and complaint examples must stay operational: what happened, what is disputed, what proof exists, and what next step follows.
+- Risk-boundary examples must stay practical: where work starts, pauses, transfers, escalates, or stops.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -757,6 +794,7 @@ Als er iets schuurt, ziet iedereen sneller wat er al gebeurd is en wat nu moet v
 - Document and proof examples should be framed as operational trust, not archive hygiene.
 - Agreement/scope/payment examples should be framed as operational clarity, not legal advice.
 - Do not promise to win arguments; promise less searching, less guessing, and clearer next steps when something schuurt.
+- Do not offer contract review; show how contractual or commercial conditions become visible operating rules.
 - Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
@@ -869,6 +907,9 @@ Een mijlpaal is gehaald, maar betaling, pauze of vervolg staat nergens helder na
 Een klacht komt binnen, maar niemand ziet welk voorbeeld erbij hoort.
 Een klant is kwaad, maar intern reist vooral emotie rond in plaats van status.
 Goedkeuring stond in één hoofd, en die persoon is intussen weg.
+Werk loopt verder, ook al is nergens zichtbaar wanneer het moet pauzeren.
+Iets wordt opgeleverd, maar niemand ziet wat exact mee verhuist.
+Een samenwerking stopt, maar toegang, betaling en overdracht hangen nog los.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
