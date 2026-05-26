@@ -836,6 +836,45 @@ The page can use this as a diagnostic line:
 We kijken waar betekenis uit het werk valt.
 ```
 
+### Reddit Internal Ops Reading: Capacity Needs Role-Fit
+
+The next B2B internal-operation reading added a people-and-work layer. Capacity is not only whether someone has hours. It is whether work, role, availability, client demand, and responsibility are visibly matched.
+
+Useful public language:
+
+```text
+Capaciteit is pas echt als het juiste werk bij de juiste rol ligt.
+```
+
+```text
+Iemand vrij hebben is niet hetzelfde als iemand inzetbaar hebben.
+```
+
+```text
+Werk verdelen zonder rolzicht maakt van mensen opvulling.
+```
+
+Good proof situations:
+
+- Uren zonder passend werk.
+- Werk zonder rolfit.
+- Rol zonder grens.
+- Beschikbaarheid zonder inzetbaarheid.
+- Zieke collega zonder prioriteitenlijst.
+- Vervanging zonder eigenaar.
+- Functieprofiel zonder actuele werkelijkheid.
+- Bench zonder intern werkspoor.
+- Client start zonder startpad.
+- Capaciteit zonder fallback.
+
+Guardrail: this is not an HR, labor-law, staffing, or recruitment page. The practical promise is operational visibility: where work, role, availability, client demand, and responsibility drift apart.
+
+The page can use this as a capacity line:
+
+```text
+We kijken niet alleen wie tijd heeft. We kijken welk werk bij welke rol hoort.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -856,6 +895,8 @@ We kijken waar betekenis uit het werk valt.
 - Contract, clause, work order, and timesheet examples must not become legal analysis; keep them as operational translation examples.
 - System examples should focus on meaning transfer, not tool specialization: what must remain understandable when a record moves between person, tool, accountant, intermediary, client, or technician.
 - E-invoicing, SharePoint, timesheet, and invoice examples are proof lenses, not category promises.
+- Capacity examples should distinguish available hours from useful capacity: role fit, priority, fallback, owner, client demand, and whether work should continue, shift, pause, or stop.
+- People-and-work examples must not become HR advice; keep them as operational visibility examples.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -1000,6 +1041,10 @@ Een factuur heeft een nummer, maar het betaalschema zit in een losse mail.
 Een uurstaat geraakt tot bij de klant, maar niet als pakket dat facturatie kan vertrouwen.
 Documentatie staat in SharePoint, maar de betekenis is niet vindbaar voor onderhoud.
 Een klant krijgt nieuwe cijfers, maar intern ontbreekt het herstelspoor naar de oude fout.
+Iemand heeft nog uren vrij, maar niemand ziet welk zinvol werk bij die rol past.
+Een collega valt uit, en pas dan blijkt dat er geen prioriteitenlijst bestaat.
+Een functie verandert, maar verantwoordelijkheid, grens en fallback blijven vaag.
+Een client start later dan gepland, maar intern is niet zichtbaar wat die persoon intussen doet.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
