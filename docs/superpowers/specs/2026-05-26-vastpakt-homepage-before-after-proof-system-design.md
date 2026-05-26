@@ -994,6 +994,46 @@ The page can use this as a communication-readiness line:
 We kijken waar mail eigenlijk proceswerk moet doen.
 ```
 
+### Reddit Internal Ops Reading: Stop Conditions Need A Visible State
+
+The next B2B internal-operation reading added the stop-state layer. Work does not only need a start, owner, and next step. It also needs a visible state when it stops, pauses, changes direction, ends, or transfers.
+
+Useful public language:
+
+```text
+Een stopmoment is ook een werkstap.
+```
+
+```text
+Als werk stopt, moet zichtbaar zijn wat geleverd is, wat open staat, wat betaald wordt en wie het overneemt.
+```
+
+```text
+Werk stopt zelden proper als stopregels niet zichtbaar zijn.
+```
+
+Good proof situations:
+
+- Projectstop zonder leveringsstatus.
+- Feedback zonder eindpunt.
+- Fixed fee zonder zichtbare factuurregel.
+- Contracteinde zonder overdracht.
+- Opzeg zonder werkverdeling.
+- Reorganisatie zonder werkstaat.
+- Klant weigert betaling zonder bewijsroute.
+- Stoppen zonder factuurmoment.
+- Scopewijziging zonder akkoord.
+- Teamlead of goedkeurder weg zonder vervanger.
+- Werk droogt op, maar status blijft onbenoemd.
+
+Guardrail: this is not legal, contract, HR, debt-collection, or freelancer-protection advice. The practical promise is operational stop visibility: delivery state, open work, proof, payment trigger, owner, transfer, and next step.
+
+The page can use this as a stop-state line:
+
+```text
+We maken zichtbaar wat er gebeurt wanneer werk stopt, pauzeert of verandert.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -1022,6 +1062,8 @@ We kijken waar mail eigenlijk proceswerk moet doen.
 - Planning, CRM, SharePoint, and field-service examples are proof lenses; do not turn the homepage into a software-category pitch.
 - Communication examples should focus on role, reason, next step, proof, and status behind messages, not inbox cleanup or email templates.
 - CC, customer handoff, reminder, quote, and project-stop examples are proof lenses for hidden process rules.
+- Stop-state examples should focus on delivery state, open work, proof, payment trigger, owner, transfer, and next step.
+- Contract termination, fixed-fee, cancellation, and reorganisation examples must stay operational, not legal, HR, or debt-collection advice.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -1182,6 +1224,10 @@ Een manager staat in CC, maar niemand ziet of dat info, opvolging of escalatie b
 Een klant moet worden overgedragen, maar vervanger, timing en boodschap liggen niet klaar.
 Een factuurherinnering wordt herschreven op gevoel omdat status en volgende stap niet neutraal klaarstaan.
 Een project stopt, maar feedback, levering, bestanden en factuurstatus hangen los.
+Een project stopt, maar niemand ziet wat geleverd is, wat open staat en wat gefactureerd wordt.
+Een contract eindigt, maar werk, toegang en overdracht hebben geen zichtbare staat.
+Een klant verandert richting, maar akkoord, feedback en betaling blijven in losse berichten hangen.
+Een collega vertrekt, maar niemand ziet welk werk daardoor valt, schuift of stopt.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
