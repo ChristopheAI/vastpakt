@@ -25,6 +25,43 @@ Transfer the persuasive order, not the aggressive sales-page tone.
 - Keep CTAs visible and consistent.
 - End with a final reminder plus trust.
 
+### Flowlift: Use-Case Structure Without Automation-First Positioning
+
+Transfer the use-case grammar, not the automation category.
+
+Flowlift makes use cases concrete by naming a business type, a recognizable operational pain, a before-state, implementation steps, a time window, measured outcome, and a matching CTA. That structure is useful for Vastpakt, but the positioning is not.
+
+Do not copy:
+
+- automation-first framing;
+- large quantified claims before proof exists;
+- AI transformation language;
+- fake ROI theatre;
+- technology lists as trust proof;
+- "win hours back" as the main promise.
+
+Adapted Vastpakt proof-card grammar:
+
+- `Werkdag`: where this shows up in normal work.
+- `Voor`: what is currently loose.
+- `Ontbreekt`: owner, status, proof, reminder, approval, route, fallback, or stopmoment.
+- `Situatiekaart`: what gets put on the table.
+- `Na`: what someone can now point to, hand over, or decide.
+- `Vervolg`: which one small piece can be fixed after zicht.
+
+The first use-case families should stay operational:
+
+- `Opvolging`: email, meeting, quote, customer response, reminder.
+- `Bewijs naar geld`: quote, approval, delivery, timesheet, invoice trigger.
+- `Overdraagbaarheid`: Excel/CRM sync, Teams/Outlook follow-up, person absent, work handoff.
+- `Werk naast systemen`: data exists in tools, but meaning and next step do not travel.
+
+Guardrail:
+
+```text
+Before automation: what is actually loose?
+```
+
 ### Swipefile: Before and After
 
 The page should not only claim improvement. It should visibly contrast the current loose state with the calmer next state.
