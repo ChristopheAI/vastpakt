@@ -1034,6 +1034,47 @@ The page can use this as a stop-state line:
 We maken zichtbaar wat er gebeurt wanneer werk stopt, pauzeert of verandert.
 ```
 
+### Reddit Internal Ops Reading: Current Clarity Gaps
+
+The next B2B internal-operation reading compared the Reddit evidence with the current homepage direction. The strategy is strong, but the page still needs to become clearer for a cold Flemish KMO reader.
+
+Fresh lesson:
+
+```text
+Niet elke losse werking ziet eruit als chaos. Soms ziet ze eruit als stilte.
+```
+
+```text
+Als niemand nog vraagt, beslist of terugkoppelt, is dat ook een status.
+```
+
+The website must answer four things faster:
+
+1. Which annoying situation is this for?
+2. What does Vastpakt first put on the table?
+3. What does the first step give back?
+4. What will Vastpakt not pretend to solve?
+
+Current not-yet-crystal-clear items:
+
+- The first-screen trigger is still too broad if it only says "werking zichtbaar maken".
+- The Situatiekaart is named, but its ordinary contents need to be visible earlier: ingang, status, eigenaar, akkoord, bewijs, volgende stap, fallback, and factuur- or stopmoment.
+- The boundary between scan and fixing needs one clear sentence: first show where it hangs loose, then choose one piece to fix.
+- The proof examples should collapse into three first-version families: opvolging, bewijs naar geld, and overdraagbaarheid.
+- The contact step should say what comes back after the reader submits one loose situation.
+- The public guardrail should be short: no legal advice, no accounting advice, no new tool to store unclear work.
+- The urgency should come from normal transitions: someone leaves, a client disputes, a teamlead disappears, a project pauses, an invoice waits, or a reorganisation freezes decisions.
+
+Useful public language:
+
+```text
+Eerst tonen we waar het loshangt. Daarna kiezen we samen één stuk dat we vastpakken.
+```
+
+```text
+Geen nieuwe tool om uw onduidelijkheid in te bewaren.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -1064,6 +1105,10 @@ We maken zichtbaar wat er gebeurt wanneer werk stopt, pauzeert of verandert.
 - CC, customer handoff, reminder, quote, and project-stop examples are proof lenses for hidden process rules.
 - Stop-state examples should focus on delivery state, open work, proof, payment trigger, owner, transfer, and next step.
 - Contract termination, fixed-fee, cancellation, and reorganisation examples must stay operational, not legal, HR, or debt-collection advice.
+- The homepage must make the Situatiekaart concrete early: ingang, status, eigenaar, akkoord, bewijs, volgende stap, fallback, and factuur- or stopmoment.
+- The first version should prioritize three proof families: opvolging, bewijs naar geld, and overdraagbaarheid.
+- The CTA must say what the reader gets back after submitting one loose situation.
+- Public guardrails should be short and concrete: no legal advice, no accounting advice, and no new tool to store unclear work.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -1228,6 +1273,9 @@ Een project stopt, maar niemand ziet wat geleverd is, wat open staat en wat gefa
 Een contract eindigt, maar werk, toegang en overdracht hebben geen zichtbare staat.
 Een klant verandert richting, maar akkoord, feedback en betaling blijven in losse berichten hangen.
 Een collega vertrekt, maar niemand ziet welk werk daardoor valt, schuift of stopt.
+Een reorganisatie is aangekondigd, maar niemand ziet wat vandaag nog werk, wachtstand of einde is.
+Een afdeling staat in freeze, maar nieuwe vragen blijven binnenkomen zonder harde grens.
+Werk droogt op, maar niemand zegt of dat pauze, afbouw of vergeten eigenaarschap betekent.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
@@ -1415,6 +1463,12 @@ Low-friction contact block:
 ```text
 Toon één stuk werking dat vandaag blijft hangen.
 Wij zeggen of een Eerste Zicht-scan zinvol is.
+```
+
+Make the return promise explicit:
+
+```text
+Ge krijgt terug of dit geschikt is voor een Eerste Zicht-scan, en welk stuk we eerst zouden bekijken.
 ```
 
 Fields:
