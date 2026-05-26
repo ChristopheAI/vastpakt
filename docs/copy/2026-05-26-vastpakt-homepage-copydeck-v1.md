@@ -202,6 +202,275 @@ Small-leak pattern:
 0 eigenaar zichtbaar
 ```
 
+## Swipefile Ordinary Sentence Pass
+
+Swipefile lens:
+
+```text
+Swipefile is how we learn which ordinary sentence gets selling power.
+```
+
+Do not make the work sound bigger. Make it more visible.
+
+### Sentence Set 1: Offerte
+
+Source signal:
+
+- market language: opvolging, offerte, CRM, Excel, vergeten opvolging;
+- Reddit/workday language: quotes, contracts, Excel spreadsheets, moving data from one system to another;
+- Swipefile move: show the crash, tiny missing detail, future workday.
+
+Raw ordinary sentence:
+
+```text
+Offerte verstuurd.
+```
+
+Why this gets selling power:
+
+```text
+It sounds complete, but it is not followable yet.
+```
+
+Vastpakt translation:
+
+```text
+Offerte verstuurd.
+Niemand ziet wie opvolgt.
+```
+
+Candidate copy:
+
+```text
+Offerte verstuurd.
+Prijs in Excel.
+Mail naar de klant.
+Opvolging in iemands hoofd.
+
+Vrijdag vraagt iemand waar het staat.
+Dan begint het zoeken.
+```
+
+What still needs proof:
+
+```text
+Need one real Flemish/KMO example where quote follow-up sits between Excel, mail and memory.
+```
+
+### Sentence Set 2: Factuur
+
+Source signal:
+
+- market language: facturatie, bestaande systemen, dubbele invoer, losse tools;
+- Reddit/workday language: invoice status, bookkeeping, manual way;
+- Swipefile move: before/after, tiny missing detail, say less when the object explains.
+
+Raw ordinary sentence:
+
+```text
+Het werk is klaar.
+```
+
+Why this gets selling power:
+
+```text
+The work can be done while the invoice trigger is still invisible.
+```
+
+Vastpakt translation:
+
+```text
+Het werk is klaar.
+De factuur niet.
+```
+
+Candidate copy:
+
+```text
+Het werk is klaar.
+De factuur niet.
+
+Planning zegt afgerond.
+Mail bevat het akkoord.
+Bewijs zit in een map.
+Boekhouding wacht op een seintje.
+```
+
+What still needs proof:
+
+```text
+Need one real example of the moment when work becomes billable but nobody gets the signal.
+```
+
+### Sentence Set 3: Akkoord
+
+Source signal:
+
+- market language: bewijs, akkoord, mail, bestaande systemen;
+- Reddit/workday language: contracts, quotes, bookkeeping;
+- Swipefile move: show authentic proof, small missing detail.
+
+Raw ordinary sentence:
+
+```text
+De klant zei akkoord.
+```
+
+Why this gets selling power:
+
+```text
+An akkoord only helps if the next person can find what was agreed.
+```
+
+Vastpakt translation:
+
+```text
+De klant zei akkoord.
+Niemand vindt de mail.
+```
+
+Candidate copy:
+
+```text
+De klant zei akkoord.
+Maar waarop?
+
+De prijs staat in Excel.
+Het akkoord zit in een maildraad.
+De uitvoering start in een ander systeem.
+```
+
+What still needs proof:
+
+```text
+Need real wording from KMO operators around finding the latest agreement or proof.
+```
+
+### Sentence Set 4: One Person Knows
+
+Source signal:
+
+- market language: workarounds, losse tools, vergeten opvolging, bestaande systemen;
+- Reddit/workday language: small manual actions, repetitive tasks, too small for CRM;
+- Swipefile move: show the crash, future workday, authenticity over bragging.
+
+Raw ordinary sentence:
+
+```text
+Sarah weet het.
+```
+
+Why this gets selling power:
+
+```text
+The system works until the person who carries it is not there.
+```
+
+Vastpakt translation:
+
+```text
+Sarah weet het.
+Sarah is er niet.
+```
+
+Candidate copy:
+
+```text
+Sarah weet het.
+Sarah is er niet.
+
+Welke mail?
+Welke afspraak?
+Welke versie?
+Welke volgende stap?
+```
+
+What still needs proof:
+
+```text
+Need a sourced Flemish/Dutch work example around handover, absence or one-person routing.
+```
+
+### Sentence Set 5: Tool Choice
+
+Source signal:
+
+- market language: bestaande tools, losse tools, scan, knelpunten;
+- Reddit/workday language: too small for CRM, factuur.xlsx, one or two outgoing invoices;
+- Swipefile move: sensible middle option, do not brag, ship imperfect offer.
+
+Raw ordinary sentence:
+
+```text
+We hebben misschien een CRM nodig.
+```
+
+Why this gets selling power:
+
+```text
+The buyer is not always asking for software. They are asking where the work stops being followable.
+```
+
+Vastpakt translation:
+
+```text
+Ge moet nog niet klaar zijn voor een CRM.
+Eén concrete situatie is genoeg.
+```
+
+Candidate copy:
+
+```text
+Nog geen CRM nodig?
+Kan zijn.
+
+Toon eerst één situatie waar mail, Excel, factuur of opvolging uit elkaar loopt.
+Dan ziet ge of een tool nodig is, of gewoon een beter spoor.
+```
+
+What still needs proof:
+
+```text
+Need more Flemish/KMO source language around "te klein voor CRM" or "Excel is nog genoeg".
+```
+
+### Strongest Ordinary Lines For The Homepage
+
+Use first:
+
+```text
+Offerte verstuurd.
+Niemand ziet wie opvolgt.
+```
+
+```text
+Het werk is klaar.
+De factuur niet.
+```
+
+```text
+Sarah weet het.
+Sarah is er niet.
+```
+
+Use carefully:
+
+```text
+De klant zei akkoord.
+Niemand vindt de mail.
+```
+
+Reason: strong, but still needs more sourced Flemish/KMO proof.
+
+Do not use as hero yet:
+
+```text
+Ge moet nog niet klaar zijn voor een CRM.
+Eén concrete situatie is genoeg.
+```
+
+Reason: good qualification/offer language, but less emotionally immediate than offerte, factuur or one-person dependency.
+
 ## Hero
 
 Chosen H1:
