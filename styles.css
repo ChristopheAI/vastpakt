@@ -120,10 +120,16 @@ h3 {
 }
 
 .hero-lede,
+.hero-proofline,
 .section-heading p {
   max-width: 720px;
   color: var(--muted);
   font-size: clamp(1.04rem, 1.5vw, 1.28rem);
+}
+
+.hero-proofline {
+  color: var(--accent-dark);
+  font-weight: 850;
 }
 
 .hero-actions {
@@ -246,6 +252,25 @@ dd {
   gap: 18px;
 }
 
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.research-grid article {
+  min-height: 160px;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--soft);
+}
+
+.research-grid p {
+  margin-bottom: 0;
+  color: var(--muted);
+}
+
 .proof-card,
 .fit-grid > div,
 .deliverables,
@@ -273,6 +298,16 @@ dd {
   padding: 18px;
   border-left: 5px solid var(--accent);
   background: var(--soft);
+  font-weight: 850;
+}
+
+.boundary-note {
+  max-width: 920px;
+  margin: 28px 0 0;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f7efe8;
   font-weight: 850;
 }
 
@@ -344,6 +379,7 @@ input[type="checkbox"] {
 
   .hero,
   .proof-grid,
+  .research-grid,
   .offer-layout,
   .fit-grid,
   .contact-section {
