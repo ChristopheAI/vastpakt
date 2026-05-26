@@ -1117,6 +1117,7 @@ Geen nieuwe tool om uw onduidelijkheid in te bewaren.
 - Public brand stays `Vastpakt`.
 - Method language uses `eerst zicht`, not as a separate brand.
 - Core anchor: "Eerst een werking zichtbaar maken. Dan pas kiezen wat moet veranderen."
+- Core public subline: "We maken zichtbaar welke routine vandaag draait op geheugen, losse mails en onduidelijke afspraken."
 - Public-facing hero language may use the warmer frame: "Eerst zien waar ge staat. Daarna pas kiezen wat moet veranderen."
 - The site must sell diagnosis and practical technical samenhang, not AI capability.
 - The site must sell more visible status, not more paperwork.
@@ -1205,7 +1206,7 @@ Meer zicht, niet meer papierwerk.
 Supporting line:
 
 ```text
-Vastpakt helpt KMO's zien waar werk vandaag blijft hangen tussen aanvraag, afspraak, offerte, factuur en opvolging.
+We maken zichtbaar welke routine vandaag draait op geheugen, losse mails en onduidelijke afspraken.
 ```
 
 Primary CTA:

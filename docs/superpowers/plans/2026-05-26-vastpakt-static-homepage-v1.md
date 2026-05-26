@@ -59,7 +59,7 @@ Add this exact initial structure:
         <div class="hero-copy">
           <p class="eyebrow">Voor Vlaamse KMO's waar werk niet kapot is, maar wel te veel blijft hangen.</p>
           <h1>We blijven opvolgen, maar niemand ziet waar het staat.</h1>
-          <p class="hero-lede">Vastpakt maakt één stuk werking zichtbaar: status, eigenaar, bewijs, volgende stap en wat er gebeurt als iemand wegvalt.</p>
+          <p class="hero-lede">We maken zichtbaar welke routine vandaag draait op geheugen, losse mails en onduidelijke afspraken.</p>
           <div class="hero-actions" aria-label="Eerste acties">
             <a class="button primary" href="#contact">Toon waar het vandaag blijft hangen</a>
             <a class="button secondary" href="#voorbeelden">Bekijk voorbeelden</a>
@@ -747,7 +747,7 @@ Run:
 
 ```bash
 node --check script.js
-rg -n "We blijven opvolgen|Situatiekaart|Aanvraag zonder eigenaar|Offerte zonder opvolgspoor|Bewijs naar geld|Geen nieuwe tool|Ge krijgt terug" index.html
+rg -n "We blijven opvolgen|routine vandaag draait|Situatiekaart|Aanvraag zonder eigenaar|Offerte zonder opvolgspoor|Bewijs naar geld|Geen nieuwe tool|Ge krijgt terug" index.html
 git diff --check
 ```
 
