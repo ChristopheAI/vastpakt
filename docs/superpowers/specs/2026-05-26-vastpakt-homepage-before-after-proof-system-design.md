@@ -95,6 +95,35 @@ The page should avoid trophies, badges, and self-praise until real proof exists.
 - Prefer one concrete walkthrough over "expertise".
 - Prefer local, practical wording over agency confidence.
 
+### Swipefile: Real Business Runs Without One Head
+
+The strongest operating-system lesson is that real business work should keep moving without depending on one person's memory.
+
+- If a workflow only works while one person remembers everything, that is a visible risk.
+- Vastpakt should surface what lives in one head, one inbox, or one informal habit.
+- The before/after promise is not "fully automated"; it is "overdraagbaar en bespreekbaar".
+
+### Swipefile: Website Complexity Trap
+
+The website should not grow to look professional. It should stay small enough that the first operational truth lands.
+
+- More sections do not equal more trust.
+- More navigation does not equal more maturity.
+- The first version should prove the method, not display every possible future service.
+
+### Swipefile: Simple Follow-Up SOP
+
+After a scan, the follow-up should be as simple as:
+
+```text
+Ik maakte dit voor u.
+Dit is wat het toont.
+Dit is hoe het helpt.
+Dit is de volgende stap.
+```
+
+This should shape both the sales follow-up and the way scan outputs are summarized.
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -103,6 +132,7 @@ The page should avoid trophies, badges, and self-praise until real proof exists.
 - The site must sell diagnosis and practical technical samenhang, not AI capability.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
+- The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
 
 ## Recommended Homepage Structure
 
@@ -173,6 +203,12 @@ Een beslissing is genomen, maar de volgende stap is nergens vastgelegd.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
+
+Add a direct dependency question:
+
+```text
+Blijft dit stuk werking zichtbaar als de enige persoon die het kent er vandaag niet is?
+```
 
 ### 4. Method Section: Eerst Zicht
 
@@ -265,6 +301,22 @@ Na:
 Planning wordt bespreekbaar en overdraagbaar.
 ```
 
+#### Werking In Een Hoofd
+
+```text
+Voor:
+Een stuk werking draait omdat een zaakvoerder of medewerker telkens weet wat bedoeld wordt.
+
+Wat blijft hangen:
+De stappen zijn niet fout, maar ze zijn niet overdraagbaar.
+
+Vastpakt maakt zichtbaar:
+Welke beslissingen, uitzonderingen en herinneringen vandaag alleen in iemands hoofd zitten.
+
+Na:
+Het werk is nog niet magisch opgelost, maar het ligt op tafel en kan door iemand anders gevolgd worden.
+```
+
 ### 6. Offer Section: Eerste Zicht-scan
 
 Job: make the first step tangible.
@@ -282,6 +334,8 @@ What the client gets:
 - Lijst van loshangende punten.
 - Lijst van aannames en stappen die het gesprek moeten overleven.
 - Een klein voor/na-beeld van de gekozen werking.
+- Een overdraagbaarheidscheck: wat zit vandaag in een hoofd, inbox, gewoonte of losse afspraak?
+- Een korte opvolgmail volgens de scan-SOP.
 - Eerste prioriteiten.
 - Een concreet voorstel voor wat Vastpakt mee kan vastpakken.
 
@@ -291,6 +345,23 @@ What the client brings:
 - A short walkthrough of how it happens today.
 - Existing examples such as mails, forms, spreadsheets, planning notes, or screenshots.
 - Permission to question why each handoff, field, reminder, or decision exists.
+- A named fallback scenario: what breaks if the key person is absent, overloaded, or unavailable?
+
+Follow-up email format:
+
+```text
+Ik maakte dit voor u:
+[naam van situatiekaart of voor/na-beeld]
+
+Dit toont:
+[waar opvolging, eigenaarschap of volgende stap vandaag loshangt]
+
+Dit helpt omdat:
+[het werk bespreekbaar, overdraagbaar of beter opvolgbaar wordt]
+
+Volgende stap:
+[een klein voorstel om dit stuk werking vast te pakken]
+```
 
 ### 7. Qualification Section
 
@@ -368,6 +439,7 @@ Use:
 - Warm but restrained human tone.
 - Visible contrast between loose before and calmer after.
 - One repeated trust fact instead of many disconnected claims.
+- A compact first version that proves the core before adding breadth.
 
 Avoid:
 
@@ -393,6 +465,8 @@ ProofCard
 - artifact_type
 - assumptions_to_question
 - friction_removed
+- key_person_dependency
+- transferability_after
 
 FAQItem
 - question
@@ -408,6 +482,12 @@ WalkthroughNote
 - observed_uncertainty
 - source_artifact
 - mapped_to_card
+
+FollowUpEmail
+- made_for_you
+- what_it_shows
+- why_it_helps
+- next_step
 ```
 
 ## Acceptance Criteria
@@ -450,6 +530,31 @@ At least one proof card must show a step, handoff, reminder, field, or decision 
 ### Authenticity Test
 
 The page must include practical evidence before self-praise. If a claim cannot be tied to a proof object, walkthrough note, or concrete output, it should not appear in the first version.
+
+### Transferability Test
+
+At least one proof card must answer:
+
+- Which person does this depend on today?
+- What becomes visible if that person is absent?
+- What can another person follow after the scan?
+
+### Simplicity Test
+
+The first version must not introduce more pages, sections, or offers than needed to prove the route:
+
+```text
+recognize loose work -> see proof -> understand first scan -> qualify fit -> contact
+```
+
+### Follow-Up Test
+
+The scan output must be easy to summarize in four lines:
+
+- I made this for you.
+- This is what it shows.
+- This is how it helps.
+- This is the next step.
 
 ## Open Implementation Notes
 
