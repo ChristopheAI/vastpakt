@@ -40,8 +40,8 @@ Add this exact initial structure:
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Vastpakt - Eerst zien waar ge staat</title>
-    <meta name="description" content="Vastpakt helpt Vlaamse KMO's eerst zien waar werk blijft hangen tussen aanvraag, afspraak, offerte, factuur en opvolging.">
+    <title>Vastpakt - Waar opvolging loshangt</title>
+    <meta name="description" content="Vastpakt helpt Vlaamse KMO's zichtbaar maken waar opvolging, bewijs, factuurmomenten of overdracht vandaag loshangen.">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -57,27 +57,28 @@ Add this exact initial structure:
     <main id="top">
       <section class="hero section-band">
         <div class="hero-copy">
-          <p class="eyebrow">Voor Vlaamse KMO's waar werk te veel in hoofden, mails of gewoontes zit.</p>
-          <h1>Eerst zien waar ge staat. Daarna pas kiezen wat moet veranderen.</h1>
-          <p class="hero-lede">Vastpakt helpt zien waar werk vandaag blijft hangen tussen aanvraag, afspraak, offerte, factuur en opvolging.</p>
+          <p class="eyebrow">Voor Vlaamse KMO's waar werk niet kapot is, maar wel te veel blijft hangen.</p>
+          <h1>We blijven opvolgen, maar niemand ziet waar het staat.</h1>
+          <p class="hero-lede">Vastpakt maakt één stuk werking zichtbaar: status, eigenaar, bewijs, volgende stap en wat er gebeurt als iemand wegvalt.</p>
           <div class="hero-actions" aria-label="Eerste acties">
             <a class="button primary" href="#contact">Toon waar het vandaag blijft hangen</a>
             <a class="button secondary" href="#voorbeelden">Bekijk voorbeelden</a>
           </div>
-          <p class="reassurance">Meer zicht, niet meer papierwerk. Geen nieuwe tool om uw onduidelijkheid in te bewaren.</p>
+          <p class="reassurance">Eerst tonen we waar het loshangt. Daarna kiezen we samen één stuk dat we vastpakken.</p>
         </div>
-        <div class="situation-card hero-card" aria-label="Voorbeeld van een Situatiekaart">
-          <p class="card-label">Situatiekaart</p>
+        <div class="situation-card hero-card" aria-label="Research-backed voorbeeld van een Situatiekaart">
+          <p class="card-label">Situatiekaart uit een normale werkdag</p>
           <div class="flow-row">
-            <span>Aanvraag</span>
+            <span>Offerte verstuurd</span>
             <span class="missing">Geen eigenaar</span>
-            <span>Volgende stap?</span>
+            <span>Factuurmoment?</span>
           </div>
           <dl class="state-list">
-            <div><dt>Status</dt><dd>Wacht op klant</dd></div>
+            <div><dt>Status</dt><dd>Wacht op akkoord</dd></div>
             <div><dt>Eigenaar</dt><dd>Niet zichtbaar</dd></div>
-            <div><dt>Bewijs</dt><dd>Mail + offerte</dd></div>
-            <div><dt>Actie</dt><dd>Vrijdag opvolgen</dd></div>
+            <div><dt>Bewijs</dt><dd>Offerte + maildraad</dd></div>
+            <div><dt>Volgende stap</dt><dd>Vrijdag opvolgen of pauzeren</dd></div>
+            <div><dt>Als Sarah wegvalt</dt><dd>Niemand ziet het spoor</dd></div>
           </dl>
         </div>
       </section>
@@ -746,7 +747,7 @@ Run:
 
 ```bash
 node --check script.js
-rg -n "Eerst zien waar ge staat|Situatiekaart|Aanvraag zonder eigenaar|Offerte zonder opvolgspoor|Bewijs naar geld|Geen nieuwe tool|Ge krijgt terug" index.html
+rg -n "We blijven opvolgen|Situatiekaart|Aanvraag zonder eigenaar|Offerte zonder opvolgspoor|Bewijs naar geld|Geen nieuwe tool|Ge krijgt terug" index.html
 git diff --check
 ```
 
