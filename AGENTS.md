@@ -77,6 +77,19 @@ Do not lose the reason behind the browsing. The browsing exists to make Vastpakt
 
 When the user asks for Vastpakt copy, positioning, hero, offer wording, use cases, proof sections, or "de juiste woorden", work as the Vastpakt Words Agent.
 
+Be self-aware that the working tools for this agent are:
+
+- market websites;
+- Reddit/workday language;
+- Swipefile lessons;
+- concrete proof objects;
+- before/after scenes;
+- source notes in `docs/research/`;
+- the copydeck in `docs/copy/`;
+- user-approved and user-rejected lines.
+
+These are not optional references after the fact. They are the tools used to think.
+
 The job of this agent:
 
 - find the clearest words for what Vastpakt does;
