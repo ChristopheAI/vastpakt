@@ -51,6 +51,50 @@ The page should qualify and disqualify calmly.
 - Vastpakt is not for people who want a tool while keeping the same unclear responsibility.
 - Vastpakt is for people willing to make one real piece of operation visible first.
 
+### Swipefile: One Big Fact
+
+The page should not stack ten weak claims. It should repeat one trust-building operating fact.
+
+```text
+Eerst een werking zichtbaar maken. Dan pas kiezen wat moet veranderen.
+```
+
+This fact should act as method, qualification, and trust anchor. It implies restraint, sequence, and seriousness.
+
+### Swipefile: Question Assumptions
+
+The strongest operational proof is often not adding a tool, but deleting inherited friction.
+
+- Ask which steps exist only because "we do it this way".
+- Separate real requirements from traditions.
+- Count fields, handoffs, reminders, and decisions that can be reduced.
+- Show a smaller flow after assumptions are questioned.
+
+### Swipefile: Talk-Out-Loud Diagnosis
+
+Do not invent the problem from outside. Let the people doing the work narrate where they get stuck.
+
+- A walkthrough is source material.
+- Hesitation, "normally I ask X", and "then I wait for Y" are evidence.
+- The scan should capture real words and real moments of uncertainty.
+
+### Swipefile: Ship Imperfect Offers
+
+The first Vastpakt offer should be small enough to test, not broad enough to impress.
+
+- Start with one operational piece.
+- Time-box the first scan.
+- Treat the first proof cards as learning artifacts.
+- Improve the offer after real KMO reactions instead of polishing in private.
+
+### Swipefile: Do Not Brag, Show Authenticity
+
+The page should avoid trophies, badges, and self-praise until real proof exists.
+
+- Prefer a real messy example over a polished claim.
+- Prefer one concrete walkthrough over "expertise".
+- Prefer local, practical wording over agency confidence.
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -138,9 +182,11 @@ Sequence:
 
 ```text
 1. We kiezen een stuk werking.
-2. We brengen binnenkomst, opvolging, eigenaar en volgende stap in kaart.
-3. We tonen waar het blijft hangen.
-4. We bepalen samen wat eerst vastgepakt moet worden.
+2. We laten iemand hardop tonen hoe het vandaag loopt.
+3. We brengen binnenkomst, opvolging, eigenaar en volgende stap in kaart.
+4. We scheiden echte vereisten van gewoontes.
+5. We tonen waar het blijft hangen.
+6. We bepalen samen wat eerst vastgepakt moet worden.
 ```
 
 Important copy rule:
@@ -234,6 +280,8 @@ What the client gets:
 
 - Situatiekaart.
 - Lijst van loshangende punten.
+- Lijst van aannames en stappen die het gesprek moeten overleven.
+- Een klein voor/na-beeld van de gekozen werking.
 - Eerste prioriteiten.
 - Een concreet voorstel voor wat Vastpakt mee kan vastpakken.
 
@@ -242,6 +290,7 @@ What the client brings:
 - One workflow or recurring situation.
 - A short walkthrough of how it happens today.
 - Existing examples such as mails, forms, spreadsheets, planning notes, or screenshots.
+- Permission to question why each handoff, field, reminder, or decision exists.
 
 ### 7. Qualification Section
 
@@ -317,6 +366,8 @@ Use:
 - Simple diagrams and annotated operational flows.
 - Clear reading order.
 - Warm but restrained human tone.
+- Visible contrast between loose before and calmer after.
+- One repeated trust fact instead of many disconnected claims.
 
 Avoid:
 
@@ -326,6 +377,7 @@ Avoid:
 - Abstract icons pretending to be proof.
 - Huge metric claims without real evidence.
 - Aggressive scarcity or fake urgency.
+- Trophy bragging, badges, or authority theatre without real local evidence.
 
 ## Content Model
 
@@ -339,6 +391,8 @@ ProofCard
 - visible_map
 - after
 - artifact_type
+- assumptions_to_question
+- friction_removed
 
 FAQItem
 - question
@@ -348,6 +402,12 @@ QualificationItem
 - label
 - explanation
 - fit_type: for_you | not_for_you
+
+WalkthroughNote
+- quote
+- observed_uncertainty
+- source_artifact
+- mapped_to_card
 ```
 
 ## Acceptance Criteria
@@ -382,6 +442,14 @@ The first offer must answer:
 - What do I get?
 - What happens after?
 - What is not included yet?
+
+### Assumption Test
+
+At least one proof card must show a step, handoff, reminder, field, or decision rule that became questionable after the walkthrough.
+
+### Authenticity Test
+
+The page must include practical evidence before self-praise. If a claim cannot be tied to a proof object, walkthrough note, or concrete output, it should not appear in the first version.
 
 ## Open Implementation Notes
 
