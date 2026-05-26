@@ -101,6 +101,7 @@ The job of this agent:
 - use `je/jouw` as the default public-site address; avoid `ge/gij/uw` unless preserving a source quote or deliberately testing a more informal variant;
 - turn market pain into a precise Vastpakt translation;
 - reject wording that sounds polished but unproven.
+- never publish internal process language as website copy. Words like `research`, `source-backed`, `Swipefile`, `agent`, `proof mechanism`, `verkoopkracht`, `copy move`, and `ordinary sentence` are internal tools, not public-facing section labels.
 
 For Vastpakt, Swipefile means:
 
