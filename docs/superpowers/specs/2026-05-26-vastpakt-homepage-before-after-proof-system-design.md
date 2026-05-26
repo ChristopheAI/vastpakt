@@ -547,6 +547,38 @@ Good proof situations:
 
 The page can use these to show that zicht protects both sides: the person doing the work and the person waiting, paying, approving, or questioning it.
 
+### Reddit Service Reading: Intern Gedoe Becomes Klantgedoe
+
+Service-business reading added a customer-trust lens.
+
+Useful public language:
+
+```text
+Intern gedoe mag geen klantgedoe worden.
+```
+
+Use this as problem-section guidance, not as the hero promise. It explains why visible status matters beyond internal neatness.
+
+Trust breaks when one of these is missing:
+
+- A date.
+- An owner.
+- A recognizable appointment or confirmation.
+- A route from cost to explanation.
+- A way to see which promise, assumption, or proof belongs to the situation.
+
+Good proof situations:
+
+- Afspraak waar niemand kwam.
+- Hulp die opnieuw werk wordt.
+- Bedrag zonder route.
+- Kost met doorkijk.
+- Voorstel zonder aannames.
+- Afspraak zonder herkenning.
+- Garantie zonder datum.
+
+The page should show that what stays unclear inside the business quickly becomes waiting, chasing, doubt, or extra work for the customer.
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -556,6 +588,7 @@ The page can use these to show that zicht protects both sides: the person doing 
 - The site must sell diagnosis and practical technical samenhang, not AI capability.
 - The site must sell more visible status, not more paperwork.
 - The site may include proof clarity: what must remain aantoonbaar later if someone asks, doubts, pays, disputes, or takes over.
+- The site may connect internal visibility to customer trust: internal gedoe should not become klantgedoe.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -571,6 +604,7 @@ The page can use these to show that zicht protects both sides: the person doing 
 - `Handwerk` is a diagnostic lens, not the public headline.
 - Status clarity is broader than follow-up: owner, next step, proof, decision, and fallback must be visible enough to discuss.
 - Proof clarity must stay practical, not juridisch: fewer searches, fewer guesses, less achteraf miserie.
+- Customer-trust language should stay concrete: date, owner, cost route, confirmation, promise, proof.
 - Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
@@ -669,6 +703,8 @@ Een factuur wordt pas duidelijk wanneer iemand achteraf begint te zoeken.
 Een afspraak, bewijsstuk of akkoord bestaat wel, maar niemand ziet waar het staat.
 Een interventie is gebeurd, maar niemand ziet nog wat de toestand ervoor was.
 Een kost staat op papier, maar de tastbare uitleg ontbreekt.
+Intern loopt de planning mis, maar buiten moet de klant opnieuw beginnen regelen.
+Een belofte is gemaakt, maar niemand ziet welke datum, eigenaar of bevestiging erbij hoort.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
