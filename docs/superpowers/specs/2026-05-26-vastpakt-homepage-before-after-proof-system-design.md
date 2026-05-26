@@ -612,6 +612,43 @@ Guardrail: much of the source language came from Dutch/NL and English Reddit thr
 
 The page should show that Vastpakt makes work discussable before it becomes personal pressure: what entered, who owns it, what it blocks, what it triggers, and what happens if the key person is absent.
 
+### Reddit Internal Ops Reading: Context Must Stay Attached To Work
+
+The next B2B internal-operation reading added a sharper context lesson. The problem is not only that work gets added invisibly. The problem is that work, context, decision, proof, and billing trigger often live in different places.
+
+Useful public language:
+
+```text
+Het werk staat ergens. De context staat ergens anders.
+```
+
+```text
+Documentatie is pas nuttig als de volgende persoon ermee kan werken.
+```
+
+```text
+Iedere open lus heeft een laatste actie en een volgende stap nodig.
+```
+
+Good proof situations:
+
+- Document zonder status.
+- Versie zonder vertrouwen.
+- Overname zonder rechten.
+- Werkdruk zonder totaalbeeld.
+- Open lus zonder volgende stap.
+- Factuur zonder afspraakspoor.
+- Akkoord zonder drager.
+
+Guardrail: this should not become a document-management, project-management, HR, or accounting-software pitch. The page should show practical context attached to work: owner, status, latest version, agreement, exception, due date, last follow-up, next follow-up, and trigger.
+
+The page can use this to make "more visible status, not more paperwork" more concrete:
+
+```text
+Niet meer metadata vragen.
+Meer context bij het werk vangen.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -624,6 +661,7 @@ The page should show that Vastpakt makes work discussable before it becomes pers
 - The site may connect internal visibility to customer trust: internal gedoe should not become klantgedoe.
 - Internal-operation proof outranks B2C-service examples for the core Vastpakt market.
 - Capacity and tradeoff clarity belong beside status clarity: what entered, who owns it, what waits, and what gets triggered.
+- Context must stay attached to work: status, owner, agreement, latest version, exception, proof, next step, and billing trigger should not live in separate personal memory.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -641,6 +679,7 @@ The page should show that Vastpakt makes work discussable before it becomes pers
 - Proof clarity must stay practical, not juridisch: fewer searches, fewer guesses, less achteraf miserie.
 - Customer-trust language should stay concrete: date, owner, cost route, confirmation, promise, proof.
 - Billing triggers are a strong money-adjacent proof example, especially when project start/finish status does not reach invoicing.
+- Document and proof examples should be framed as operational trust, not archive hygiene.
 - Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
@@ -744,6 +783,9 @@ Een belofte is gemaakt, maar niemand ziet welke datum, eigenaar of bevestiging e
 Werk komt erbij, maar niemand ziet wat daardoor moet wachten.
 Een project is gestart of afgerond, maar facturatie krijgt geen seintje.
 Een collega vertrekt en pas dan wordt zichtbaar hoeveel in één hoofd zat.
+Een document bestaat wel, maar niemand weet of het de juiste versie is.
+Een factuur klopt misschien, maar de afspraak erachter zit in een maildraad.
+Een open vraag blijft open omdat niemand ziet wat de laatste actie was.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
