@@ -916,6 +916,45 @@ The page can use this as an owner-operation line:
 We kijken waar uw werking boekhoudklaar moet worden.
 ```
 
+### Reddit Internal Ops Reading: Shared Resources Beside The Work
+
+The next B2B internal-operation reading broadened accounting readiness into resource readiness. Small teams do not only need to know what work exists. They also need to know which person, vehicle, material, location, document, client thread, and invoice route belongs to that work.
+
+Useful public language:
+
+```text
+Een opdracht is pas planbaar als mens, middel en plaats mee zichtbaar zijn.
+```
+
+```text
+Een planning faalt niet alleen door te weinig tijd, maar door middelen die los van het werk leven.
+```
+
+```text
+Als de wagen in Excel staat, de wijziging in WhatsApp en het uur in iemands hoofd, is er geen planning.
+```
+
+Good proof situations:
+
+- Wagen dubbel gepland.
+- Materiaal zonder opdracht.
+- Locatie zonder juiste ploeg.
+- Planning in Excel, wijziging in WhatsApp.
+- Uren zonder weekoverzicht.
+- Job zonder emaildraad.
+- Klantportal naast eigen CRM.
+- Offertes zonder vergelijkbare basis.
+- Document zonder actuele versie.
+- Tool erbij, waarheid nog verspreid.
+
+Guardrail: this is not a generic planning, CRM, SharePoint, or field-service software page. The practical promise is operational samenhang: which people, resources, locations, documents, and proof belong to the same work.
+
+The page can use this as a resource-readiness line:
+
+```text
+We maken zichtbaar wat samen hoort: werk, mens, middel, plaats en bewijs.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -940,6 +979,8 @@ We kijken waar uw werking boekhoudklaar moet worden.
 - People-and-work examples must not become HR advice; keep them as operational visibility examples.
 - Accounting, invoice, Peppol, and expense examples should stay operational: signal, proof, owner, route, overview, and whether work is ready for the accountant.
 - Do not let accounting examples become software selection or tax advice; use them to show where operational triggers are missing.
+- Resource planning examples should show samenhang: work, person, vehicle, material, location, document, proof, hours, and next step.
+- Planning, CRM, SharePoint, and field-service examples are proof lenses; do not turn the homepage into a software-category pitch.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -1092,6 +1133,10 @@ Een project is afgerond, maar niemand krijgt het seintje om te factureren.
 Een kost is gemaakt, maar zakelijke uitleg en bewijs hangen niet aan dezelfde route.
 De accountant verwerkt per kwartaal, maar de werking mist elke week overzicht.
 Er is een boekhoudtool gekozen, maar projectstart, akkoord en factuur blijven los.
+Een ploeg staat ingepland, maar de juiste wagen staat elders.
+Een opdracht heeft een locatie, maar het materiaal hangt in een aparte chat.
+Een klantmail hoort bij een job, maar de factuurroute zit in een ander systeem.
+Een planning lijkt klaar, tot iemand vraagt waar de laatste wijziging staat.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
