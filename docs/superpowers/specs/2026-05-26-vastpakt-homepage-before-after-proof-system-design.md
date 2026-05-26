@@ -758,6 +758,45 @@ The page can use this as a pre-mess visibility line:
 Voor ge verder doet, moet duidelijk zijn waar werk begint, pauzeert, verhuist of stopt.
 ```
 
+### Reddit Internal Ops Reading: Clauses Need Operating Translation
+
+The next B2B internal-operation reading added a translation layer. A clause, work order, payment condition, liability rule, client template, or timesheet rule only helps when the team can see what it changes in daily work.
+
+Useful public language:
+
+```text
+Een afspraak telt pas mee als iemand weet wat ze morgen verandert.
+```
+
+```text
+Een clausule is pas nuttig als ze zegt wat iemand maandag moet doen.
+```
+
+```text
+Uren schrijven helpt pas als duidelijk is waarop ze goedgekeurd worden.
+```
+
+Good proof situations:
+
+- Clausule zonder actie.
+- Contract zonder werkregel.
+- Werkorder zonder capaciteitsbeeld.
+- Uren zonder goedkeuringsbasis.
+- Template zonder eigenaarschap.
+- Limiet zonder planning.
+- Onderhandeling zonder status.
+- Aansprakelijkheid zonder werkafspraak.
+- Betaalmijlpaal zonder bewijs-moment.
+- Klanttool zonder eigen waarheid.
+
+Guardrail: this is not contract review. The practical promise is translation: commercial conditions become visible operating rules around dates, access, approval, payment, capacity, proof, invoice, and handover.
+
+The page can use this as a method line:
+
+```text
+Van afspraak naar werkregel.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -774,6 +813,8 @@ Voor ge verder doet, moet duidelijk zijn waar werk begint, pauzeert, verhuist of
 - Conditions must remain visible enough to decide whether work should continue, pause, be invoiced, be corrected, or be re-confirmed.
 - Dispute and complaint examples must stay operational: what happened, what is disputed, what proof exists, and what next step follows.
 - Risk-boundary examples must stay practical: where work starts, pauses, transfers, escalates, or stops.
+- Commercial conditions should be translated into visible work rules: date, owner, approval, access, capacity, proof, invoice, and handover.
+- Contract, clause, work order, and timesheet examples must not become legal analysis; keep them as operational translation examples.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -910,6 +951,10 @@ Goedkeuring stond in één hoofd, en die persoon is intussen weg.
 Werk loopt verder, ook al is nergens zichtbaar wanneer het moet pauzeren.
 Iets wordt opgeleverd, maar niemand ziet wat exact mee verhuist.
 Een samenwerking stopt, maar toegang, betaling en overdracht hangen nog los.
+Een clausule bestaat wel, maar niemand weet welke actie ze morgen verandert.
+Uren worden ingediend, maar niemand ziet waarop ze goedgekeurd worden.
+Een werkorder telt dagen af, maar planning ziet de limiet te laat.
+Een betaalmijlpaal staat op papier, maar niemand ziet welk bewijs-moment erbij hoort.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
