@@ -875,6 +875,47 @@ The page can use this as a capacity line:
 We kijken niet alleen wie tijd heeft. We kijken welk werk bij welke rol hoort.
 ```
 
+### Reddit Internal Ops Reading: Accounting Readiness Before Tool Choice
+
+The next B2B internal-operation reading moved closer to small-business and owner operation: bookkeeping, invoices, accountants, proof for expenses, Peppol/UBL, finance dashboards, and small-company admin systems.
+
+The important Vastpakt lesson is not "pick accounting software". Accounting, invoicing, and proof depend on operational triggers that often happen before accounting starts.
+
+Useful public language:
+
+```text
+Facturatie faalt vaak niet in de factuur. Ze faalt waar niemand ziet dat werk gestart of afgerond is.
+```
+
+```text
+Een boekhoudtool lost geen werking op die geen seintjes geeft.
+```
+
+```text
+Eerst boekhoudklaar werken. Dan pas boekhoudsoftware kiezen.
+```
+
+Good proof situations:
+
+- Project klaar, factuur mist.
+- Project gestart, facturatie weet van niets.
+- Excel-overzicht naast Excel-factuur.
+- Factuurmap zonder trigger.
+- Accountant per kwartaal, werking per dag.
+- Kosten zonder zakelijke uitleg.
+- Tool voor accountant, geen zicht voor zaakvoerder.
+- Peppol klaar, interne route niet klaar.
+- Automatisering zonder verantwoordelijke controle.
+- Offerte, project en factuur zonder doorlopende lijn.
+
+Guardrail: this is not an accounting, tax, Peppol, or software-selection page. The practical promise is operational readiness: where work becomes accounting-ready through signal, proof, owner, route, and overview.
+
+The page can use this as an owner-operation line:
+
+```text
+We kijken waar uw werking boekhoudklaar moet worden.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -897,6 +938,8 @@ We kijken niet alleen wie tijd heeft. We kijken welk werk bij welke rol hoort.
 - E-invoicing, SharePoint, timesheet, and invoice examples are proof lenses, not category promises.
 - Capacity examples should distinguish available hours from useful capacity: role fit, priority, fallback, owner, client demand, and whether work should continue, shift, pause, or stop.
 - People-and-work examples must not become HR advice; keep them as operational visibility examples.
+- Accounting, invoice, Peppol, and expense examples should stay operational: signal, proof, owner, route, overview, and whether work is ready for the accountant.
+- Do not let accounting examples become software selection or tax advice; use them to show where operational triggers are missing.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -1045,6 +1088,10 @@ Iemand heeft nog uren vrij, maar niemand ziet welk zinvol werk bij die rol past.
 Een collega valt uit, en pas dan blijkt dat er geen prioriteitenlijst bestaat.
 Een functie verandert, maar verantwoordelijkheid, grens en fallback blijven vaag.
 Een client start later dan gepland, maar intern is niet zichtbaar wat die persoon intussen doet.
+Een project is afgerond, maar niemand krijgt het seintje om te factureren.
+Een kost is gemaakt, maar zakelijke uitleg en bewijs hangen niet aan dezelfde route.
+De accountant verwerkt per kwartaal, maar de werking mist elke week overzicht.
+Er is een boekhoudtool gekozen, maar projectstart, akkoord en factuur blijven los.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
