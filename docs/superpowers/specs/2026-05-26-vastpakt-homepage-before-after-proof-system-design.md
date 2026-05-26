@@ -124,6 +124,73 @@ Dit is de volgende stap.
 
 This should shape both the sales follow-up and the way scan outputs are summarized.
 
+### Swipefile: Signup Forms and Demo Forms
+
+The first contact step should be a tiny diagnostic exchange, not a heavy lead form.
+
+- One promise beats a polished but busy form.
+- The CTA block should explain what the reader gives and what Vastpakt returns.
+- Ask only for what is needed to judge whether a first scan makes sense.
+- The form itself should prove the method: one loose situation in, one clearer next step out.
+- Personality is allowed, but tricks are not. Vastpakt should feel human, not playful-for-playful's-sake.
+
+Recommended first-contact prompt:
+
+```text
+Toon één stuk werking dat vandaag blijft hangen.
+Wij zeggen of een Eerste Zicht-scan zinvol is.
+```
+
+Minimum fields:
+
+- Naam.
+- E-mail.
+- Waar blijft iets vandaag hangen?
+
+### Swipefile: See Exact Prices Before You Call
+
+The strongest trust move is removing uncertainty before the conversation.
+
+- Do not hide the shape of the engagement behind "plan een gesprek".
+- Show concrete examples before asking for contact.
+- Show what kind of situation fits, what the first scan produces, and where the first effort starts.
+- Exact fixed pricing is not required for version one, but concrete scenario anchors are required.
+- The reader should contact Vastpakt with "that looks like my situation", not "what do you actually do?"
+
+### Swipefile: Real Human Stories
+
+Proof should not read like a corporate case study before real case depth exists. It should read like recognizable human work.
+
+- Use one real person, team, or role as the story anchor.
+- Show the before feeling in plain language: waiting, asking, remembering, chasing, rechecking.
+- Show the moment the work became visible.
+- Tie every story to a proof object, screenshot, situation card, or map.
+- Reuse the same story fragments across homepage, follow-up email, and sales call.
+
+Story pattern:
+
+```text
+Before: how the work felt to the person doing it.
+Moment: what became visible in the walkthrough.
+Object: what Vastpakt put on the table.
+After: what another person can now follow, question, or decide.
+```
+
+### Swipefile: Weird Story Hook
+
+Memorable does not mean exaggerated. For Vastpakt, it means starting from one concrete operational detail that sounds almost too familiar.
+
+- Begin a proof card with the detail that sticks, not the method.
+- Use the odd real-world object: one Excel nobody touches, one WhatsApp thread, one mailbox label, one remembered exception.
+- Do not force humor. The detail should feel observed, not written.
+- The method follows after recognition.
+
+Example hook direction:
+
+```text
+De planning stond niet in software. Ze zat in het hoofd van één persoon, op drie WhatsApp-berichten en een Excel die niemand durfde aanraken.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -133,6 +200,8 @@ This should shape both the sales follow-up and the way scan outputs are summariz
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
+- The first contact step is a diagnostic exchange, not a generic sales appointment.
+- Concrete scenario anchors must appear before the first heavy ask.
 
 ## Recommended Homepage Structure
 
@@ -156,7 +225,7 @@ Vastpakt helpt KMO's zien waar opvolging, aanvragen, offertes of beslissingen va
 Primary CTA:
 
 ```text
-Plan een Eerste Zicht-scan
+Toon waar het vandaag blijft hangen
 ```
 
 Secondary CTA:
@@ -185,6 +254,7 @@ Offerte zonder opvolgspoor
 
 Each card shows:
 
+- `Haak`: one concrete detail that makes the situation instantly recognizable.
 - `Voor`: what is loose.
 - `Zicht`: what Vastpakt maps.
 - `Na`: what becomes followable.
@@ -240,6 +310,9 @@ Initial library cards:
 #### Mailbox Als Takenlijst
 
 ```text
+Haak:
+De mailbox is geen inbox meer. Het is de plek waar taken, antwoorden en herinneringen elkaar verstoppen.
+
 Voor:
 Vragen, antwoorden en reminders zitten door elkaar in de mailbox.
 
@@ -256,6 +329,9 @@ De mailbox blijft ingang, maar opvolging krijgt een spoor.
 #### Offerte Zonder Opvolgspoor
 
 ```text
+Haak:
+De offerte is weg, maar de volgende stap leeft alleen nog in iemands geheugen.
+
 Voor:
 Een offerte is verstuurd en daarna hangt alles af van geheugen.
 
@@ -272,6 +348,9 @@ Elke offerte heeft een opvolgroute.
 #### Aanvraag Zonder Eigenaar
 
 ```text
+Haak:
+De aanvraag bestaat wel, maar niemand kan in één oogopslag zeggen van wie ze nu is.
+
 Voor:
 Een aanvraag komt binnen via mail, telefoon of WhatsApp.
 
@@ -288,6 +367,9 @@ Elke aanvraag krijgt een plaats en een volgende stap.
 #### Planning In Een Hoofd
 
 ```text
+Haak:
+De planning staat niet in software. Ze zit in één hoofd, een paar berichten en gewoontes die niemand uitschrijft.
+
 Voor:
 De planning werkt zolang een specifieke persoon alles onthoudt.
 
@@ -304,6 +386,9 @@ Planning wordt bespreekbaar en overdraagbaar.
 #### Werking In Een Hoofd
 
 ```text
+Haak:
+Iedereen weet ongeveer hoe het loopt, tot de persoon die "ongeveer" kent er niet is.
+
 Voor:
 Een stuk werking draait omdat een zaakvoerder of medewerker telkens weet wat bedoeld wordt.
 
@@ -346,6 +431,23 @@ What the client brings:
 - Existing examples such as mails, forms, spreadsheets, planning notes, or screenshots.
 - Permission to question why each handoff, field, reminder, or decision exists.
 - A named fallback scenario: what breaks if the key person is absent, overloaded, or unavailable?
+
+Low-friction contact block:
+
+```text
+Toon één stuk werking dat vandaag blijft hangen.
+Wij zeggen of een Eerste Zicht-scan zinvol is.
+```
+
+Fields:
+
+```text
+Naam
+E-mail
+Waar blijft iets vandaag hangen?
+```
+
+Do not ask for company size, budget, stack, preferred date, or project scope in the first form unless real usage proves that the extra field qualifies better-fit leads without lowering the right-fit response rate.
 
 Follow-up email format:
 
@@ -425,7 +527,7 @@ Laat ons een stuk werking zichtbaar maken.
 CTA:
 
 ```text
-Plan een Eerste Zicht-scan
+Toon waar het vandaag blijft hangen
 ```
 
 ## Visual Direction
@@ -458,6 +560,7 @@ The first implementation should support these content units:
 ```text
 ProofCard
 - title
+- sticky_detail
 - before
 - stuck_point
 - visible_map
@@ -488,6 +591,19 @@ FollowUpEmail
 - what_it_shows
 - why_it_helps
 - next_step
+
+HumanStory
+- role_or_person
+- before_feeling
+- visible_moment
+- proof_object
+- after_followability
+
+ContactPrompt
+- headline
+- promise
+- fields
+- response_rule
 ```
 
 ## Acceptance Criteria
@@ -523,6 +639,25 @@ The first offer must answer:
 - What happens after?
 - What is not included yet?
 
+### Contact Threshold Test
+
+The first contact action must feel lighter than a sales call and more concrete than a newsletter signup.
+
+- It asks for one loose situation.
+- It explains what Vastpakt will do with that input.
+- It does not ask for budget or full project scope.
+- It can be answered by a busy KMO reader in under two minutes.
+
+### Scenario Clarity Test
+
+Before the final CTA, the reader must see enough concrete scenarios to say:
+
+```text
+Dat lijkt op onze werking.
+```
+
+At least three proof cards must include a sticky operational detail before explaining the method.
+
 ### Assumption Test
 
 At least one proof card must show a step, handoff, reminder, field, or decision rule that became questionable after the walkthrough.
@@ -538,6 +673,14 @@ At least one proof card must answer:
 - Which person does this depend on today?
 - What becomes visible if that person is absent?
 - What can another person follow after the scan?
+
+### Human Story Test
+
+At least one proof example must be written around a person or role, not an abstract company process.
+
+- What did this person keep remembering, chasing, or asking?
+- What became visible during the walkthrough?
+- What object made it easier for someone else to understand?
 
 ### Simplicity Test
 
