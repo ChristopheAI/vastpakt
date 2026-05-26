@@ -86,6 +86,50 @@ Welke routine draait vandaag op mail, Excel, CRM, Teams of geheugen?
 Welk klein stuk kunnen we eerst zichtbaar maken?
 ```
 
+## Swipefile Copy Moves To Keep
+
+Use these as copy checks, not as visible section names:
+
+- `Show the crash`: show the exact loose moment instead of saying "process problem".
+- `Before and after`: each proof card needs before, missing detail, visible state, after.
+- `Tiny missing detail`: one missing owner/status/reminder changes the meaning of the work.
+- `Say less when the object explains`: the Situatiekaart should carry proof.
+- `Future workday`: sell the moment where someone can answer, hand over, or decide without searching.
+- `Small leaks accumulate`: show repeated small manual actions without inventing ROI.
+- `Sensible middle option`: between doing nothing and automating too early.
+- `No bragging`: no expertise theatre before proof objects.
+
+Swipefile-derived lines worth using:
+
+```text
+Niet meer zoeken.
+Niet meer "ik denk dat Sarah dat weet".
+Niet meer drie keer navragen.
+Wel: één zichtbaar spoor.
+```
+
+```text
+Offerte verstuurd.
+```
+
+is not enough. The work only becomes followable when it also shows:
+
+```text
+Eigenaar.
+Status.
+Volgende stap.
+Bewijs.
+```
+
+Small-leak pattern:
+
+```text
+1 offerte verstuurd
+3 keer navragen
+2 systemen open
+0 eigenaar zichtbaar
+```
+
 ## Hero
 
 Chosen H1:
@@ -107,6 +151,12 @@ Support line:
 
 ```text
 Eén stuk werking op tafel: waar info binnenkomt, waar ze opnieuw wordt overgenomen, wie aan zet is, welk bewijs erbij hoort en wat de volgende stap is.
+```
+
+Alternate sharper support line to test:
+
+```text
+Niet meer zoeken in mail, Excel, CRM en geheugen. Eén zichtbaar spoor voor status, eigenaar, bewijs en volgende stap.
 ```
 
 Primary CTA:
@@ -139,11 +189,11 @@ Hero proof object copy:
 
 ```text
 Situatiekaart
-Offerte verstuurd
+Offerte verstuurd.
+Eigenaar: ontbreekt
 Status: wacht op akkoord
-Eigenaar: niet zichtbaar
 Bewijs: offerte + maildraad
-Volgende stap: opvolgen of pauzeren
+Volgende stap: opvolgen vrijdag
 Als Sarah wegvalt: niemand ziet het spoor
 ```
 
@@ -163,7 +213,7 @@ Use three first cards. Each should feel like a normal workday, not a category pi
 
 ```text
 Haak:
-De offerte is verstuurd. Daarna begint het onthouden.
+Offerte verstuurd.
 
 Voor:
 Prijs in Excel, offerte in mail, opvolging in iemands hoofd.
@@ -177,6 +227,15 @@ Waar de offerte staat, wie aan zet is, welk akkoord of bezwaar erbij hoort, en w
 Na:
 Morgen vraagt iemand: "Waar staan we met die offerte?"
 Ge moet niet zoeken. Ge kunt wijzen.
+```
+
+Small leak:
+
+```text
+1 offerte verstuurd.
+3 keer navragen.
+2 systemen open.
+0 eigenaar zichtbaar.
 ```
 
 ### Card 2: Factuur Zonder Seintje
@@ -242,6 +301,14 @@ Een collega vertrekt en pas dan wordt zichtbaar hoeveel in één hoofd zat.
 Een klantmail hoort bij een job, maar de factuurroute zit in een ander systeem.
 Een planning lijkt klaar, tot iemand vraagt waar de laatste wijziging staat.
 Een project stopt, maar niemand ziet wat geleverd is, wat open staat en wat gefactureerd wordt.
+```
+
+Future-workday bridge:
+
+```text
+Vandaag zoekt ge in mail, Excel, Teams en geheugen.
+Morgen moet iemand kunnen vragen: "Waar staat dit?"
+En iemand anders moet kunnen wijzen.
 ```
 
 Dependency question:
@@ -356,6 +423,19 @@ Meteen alles herwerken of automatiseren.
 
 Logische eerste stap:
 Eerst één werking zichtbaar maken.
+```
+
+Swipefile middle-option version:
+
+```text
+Te weinig:
+Blijven rondvragen waar het staat.
+
+Te veel:
+Meteen een tool, koppeling of automatisering kiezen.
+
+Logische eerste stap:
+Eerst zien waar status, eigenaar, bewijs en volgende stap loskomen.
 ```
 
 ## CTA / Form
