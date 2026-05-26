@@ -236,6 +236,48 @@ The scan is the sampling phase. It protects the client from choosing a tool, aut
 - Show that first looking broadly prevents locking in the wrong project.
 - After enough reality is visible, choose one concrete piece to fix.
 
+### X: Manual Task Discovery Without Automation-Bro Framing
+
+The Mike Scully post is useful as a discovery lens, not as Vastpakt positioning.
+
+Do not copy the `large businesses`, `$10k+`, or "automate for profit" frame. For Vastpakt, the transferable lesson is simpler and stronger:
+
+```text
+Vraag niet: wat wilt ge automatiseren?
+Kijk eerst: waar verstopt handwerk zich vandaag?
+```
+
+Search for five handwork signals:
+
+- Copying the same information between systems, spreadsheets, inboxes, forms, or planning tools.
+- Recurring reports that someone manually pulls, cleans, combines, or forwards.
+- Customer onboarding, follow-up, or communication steps that depend on one person remembering the next move.
+- Approvals and handoffs that wait inside email threads, WhatsApp, or "ik zal het vragen".
+- Routing decisions where one person decides who should handle a request, lead, ticket, or exception.
+
+Use observation before advice:
+
+- Ask for a typical busy-day walkthrough.
+- Let the person show the work hardop.
+- Watch for repeated copy-paste, context switching, waiting, sighs, cleanup rituals, and "dat doe ik elke week/maand".
+- Ask which task they wish would disappear, where things slip through, and what eats a whole Monday or month-end.
+
+Cost sizing can be used only to size a leak, not to invent ROI theatre:
+
+```text
+aantal mensen x uren per week x interne kost x 52
+```
+
+Quick-win criteria:
+
+- High annoyance.
+- Measurable time, follow-up, or status leak.
+- Multiple people affected.
+- Simple enough to map and improve.
+- Not mission-critical as a first experiment.
+
+Vastpakt's move is visibility before automation: make the handwork visible, name who is affected, then choose the first safe piece to improve.
+
 ### Swipefile: Make Eerste Zicht The Sensible Middle Option
 
 The page should position Eerste Zicht as the calm middle route between inaction and overcommitment.
@@ -467,6 +509,8 @@ Any section that does not make that action more logical should be cut.
 - The page has one reader, one problem, and one action.
 - If a hard truth is used, the next line must immediately reassure and narrow the scope.
 - The after-state must be shown as a normal workday moment, not only as a diagram or deliverable.
+- Manual-task discovery is used to reveal hidden handwork, not to pitch automation first.
+- Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
 
@@ -569,9 +613,10 @@ Sequence:
 1. We kiezen een stuk werking.
 2. We laten iemand hardop tonen hoe het vandaag loopt.
 3. We brengen binnenkomst, opvolging, eigenaar en volgende stap in kaart.
-4. We scheiden echte vereisten van gewoontes.
-5. We tonen waar het blijft hangen.
-6. We kiezen pas daarna welk stuk eerst vastgepakt wordt.
+4. We zoeken waar handwerk zich verstopt: kopiëren, rapporteren, opvolgen, goedkeuren, routeren.
+5. We scheiden echte vereisten van gewoontes.
+6. We tonen waar het blijft hangen.
+7. We kiezen pas daarna welk stuk eerst vastgepakt wordt.
 ```
 
 Important copy rule:
@@ -579,6 +624,15 @@ Important copy rule:
 ```text
 Geen automatisering voordat duidelijk is wat er eigenlijk moet blijven volgen.
 ```
+
+Handwork detector questions:
+
+- Waar wordt dezelfde info op meerdere plaatsen bijgewerkt?
+- Welke rapportage komt elke week of maand terug?
+- Waar valt opvolging tussen de mazen?
+- Waar wachten mensen op akkoord?
+- Waar beslist één persoon waar iets naartoe moet?
+- Hoeveel mensen en uren raakt dit ongeveer per week?
 
 ### 5. Before/After Proof Library Preview
 
@@ -713,8 +767,9 @@ Het ligt op tafel. Iedereen kan zien waar het blijft hangen.
 What the client brings:
 
 - One workflow or recurring situation.
-- A short walkthrough of how it happens today.
+- A short walkthrough of how it happens today, preferably from a typical busy day.
 - Existing examples such as mails, forms, spreadsheets, planning notes, or screenshots.
+- Recurring reports, repeated email chains, approval waits, or routing examples if those are where the handwork lives.
 - Permission to question why each handoff, field, reminder, or decision exists.
 - A named fallback scenario: what breaks if the key person is absent, overloaded, or unavailable?
 
@@ -991,6 +1046,14 @@ FutureWorkdayScene
 - old_response
 - new_response
 - visible_object
+
+HandworkSignal
+- signal_type: copy_between_systems | recurring_report | onboarding_followup | approval_wait | routing_decision
+- observed_behavior
+- people_affected
+- hours_per_week_estimate
+- visibility_gap
+- first_safe_step
 ```
 
 ## Acceptance Criteria
@@ -1025,6 +1088,29 @@ The first offer must answer:
 - What do I get?
 - What happens after?
 - What is not included yet?
+
+### Handwork Detector Test
+
+At least one proof example must identify repeated handwork before suggesting any automation, tool, or redesign.
+
+It must name:
+
+- The hidden manual behavior.
+- Who is affected.
+- Where status, owner, reminder, approval, or routing disappears.
+- Why this is safe enough for a first visible scan.
+
+If time or cost is mentioned, the formula must be explicit and grounded in the client's walkthrough or estimate, not invented by the page.
+
+### Quick-Win Test
+
+The first proposed follow-up priority must be:
+
+- Annoying enough that the team recognizes it.
+- Measurable enough to compare before and after.
+- Shared by more than one person or role.
+- Simple enough to map without a full transformation project.
+- Non-mission-critical as a first experiment.
 
 ### Contact Threshold Test
 
