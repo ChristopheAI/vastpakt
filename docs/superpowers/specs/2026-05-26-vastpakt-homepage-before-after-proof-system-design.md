@@ -191,6 +191,217 @@ Example hook direction:
 De planning stond niet in software. Ze zat in het hoofd van één persoon, op drie WhatsApp-berichten en een Excel die niemand durfde aanraken.
 ```
 
+### Swipefile: Give One Small Object Ritual Weight
+
+The Situatiekaart should not feel like "a document after a meeting". It should feel like the moment loose work first lands on the table.
+
+- Make the Situatiekaart visually and verbally important.
+- Show the shift from scattered work to one visible object.
+- Repeat this object in the hero, offer, follow-up, and proof examples.
+- Do not make Vastpakt sound bigger. Make the first visible-work moment feel important.
+
+### Swipefile: Say Less When the Object Explains
+
+If the proof object is strong, the copy should point instead of explain.
+
+- Use short labels such as `Hier blijft het hangen`, `Geen eigenaar`, `Wacht op klant`, `Volgende stap ontbreekt`.
+- Let diagrams, annotations, and before/after objects carry the proof.
+- Replace consultant paragraphs with operating-room labels.
+- Every long paragraph near a proof object must justify why the object cannot say it better.
+
+### Swipefile: Show How Small Leaks Accumulate
+
+Vastpakt should not make fake metric claims, but it can show how repeated loose moments become a visible burden.
+
+- One loose request is a detail.
+- Eight loose requests becomes operational risk.
+- One missing reminder is small.
+- Weekly missing reminders become repeated loss of control.
+
+Example pattern:
+
+```text
+1 losse aanvraag
+4 keer navragen
+9 dagen wachten
+0 eigenaar zichtbaar
+```
+
+### Swipefile: Sample Before Specializing
+
+The scan is the sampling phase. It protects the client from choosing a tool, automation, or redesign too early.
+
+- Look across mail, phone, WhatsApp, Excel, planning, forms, and decisions before focusing.
+- Do not sell early specialization as professionalism.
+- Show that first looking broadly prevents locking in the wrong project.
+- After enough reality is visible, choose one concrete piece to fix.
+
+### Swipefile: Make Eerste Zicht The Sensible Middle Option
+
+The page should position Eerste Zicht as the calm middle route between inaction and overcommitment.
+
+```text
+Te weinig:
+Blijven gokken waar het blijft hangen.
+
+Te veel:
+Meteen alles herwerken of automatiseren.
+
+Logische eerste stap:
+Eerst één werking zichtbaar maken.
+```
+
+### Swipefile: Make The Page Usable With A Tiny Check
+
+A small diagnostic check can prove the method better than another explanation.
+
+Working title:
+
+```text
+De Loshang-check
+```
+
+Questions:
+
+- Wie is eigenaar van de volgende stap?
+- Waar staat de status?
+- Wat gebeurt er als die persoon er niet is?
+- Welke reminder zit alleen in iemands hoofd?
+- Kan iemand anders dit morgen volgen?
+
+This should stay practical. It is not a gimmick quiz or gated lead magnet.
+
+### Swipefile: Tiny Missing Detail, Big Consequence
+
+The page should show how one missing field changes the whole meaning of work.
+
+Example:
+
+```text
+Offerte verstuurd.
+```
+
+is not the same as:
+
+```text
+Offerte verstuurd.
+Eigenaar: Sarah
+Volgende stap: opvolgen vrijdag
+Status: wacht op klant
+```
+
+### Swipefile: Lumpy Outreach Without The Gimmick
+
+Outreach should not ask for attention first. It should send a small visible proof piece.
+
+- Use a mini-Situatiekaart.
+- Use one annotated screenshot.
+- Use one concrete question about follow-up that is visible from the outside.
+- Do not send novelty objects or clever gifts unless the real proof object would not carry attention.
+
+### Swipefile: The Visual Is The Message
+
+The first recognition moment should be visible before the reader reads a full explanation.
+
+- Show the stuck state.
+- Use one simple diagram, list, or annotated object.
+- Let the image trigger self-recognition before the method appears.
+- Avoid decorative metaphors that do not map to real work.
+
+### Swipefile: Name The Silent Frustration
+
+The page can be sharper than consultancy language without becoming aggressive.
+
+Use questions a KMO person may already be thinking:
+
+```text
+Waarom moet ik dit wéér zelf opvolgen?
+Waarom weet niemand waar deze offerte staat?
+Waarom zit dit nog altijd in mijn hoofd?
+```
+
+Then immediately make the next move practical:
+
+```text
+Daar maken we eerst zicht op.
+```
+
+### Swipefile: Obsession Beats Trophy Bragging
+
+Trust should come from attention to the work, not authority theatre.
+
+- Do not lead with expertise labels, badges, AI capability, or generic experience claims.
+- Show that Vastpakt cares about status, owner, reminder, route, exception, and next step.
+- Prove sharp looking before claiming strategic value.
+
+### Swipefile: Thirty-Day Reality Loops
+
+After the scan, the next offer should be a short work cycle, not a vague transformation.
+
+```text
+Geen jaarplan voor uw werking.
+Eerst één stuk zichtbaar.
+Dan 30 dagen vastpakken wat echt lekt.
+```
+
+Each cycle should end with:
+
+- What worked.
+- What dragged.
+- What can be removed.
+- What should be the next visible piece.
+
+### Swipefile: Sell The Relief Of Being Able To Point
+
+The hidden benefit is not looking smart. It is being able to answer calmly because the work is visible.
+
+Core moment:
+
+```text
+Als iemand vraagt waar het staat, moet ge niet meer zoeken. Ge kunt wijzen.
+```
+
+The site should sell this relief without turning it into status theatre.
+
+### Swipefile: PAS For Flow, 4Cs For Finish
+
+Use PAS to shape the homepage route:
+
+```text
+Problem: werking hangt los.
+Agitate: daardoor blijft opvolging in hoofden, mailboxen en gewoontes zitten.
+Solution: eerst één stuk zichtbaar maken, dan pas vastpakken.
+```
+
+Use 4Cs to edit every section:
+
+- Clear: can a cold KMO reader understand it?
+- Concise: can it be shorter?
+- Compelling: does it make the loose work felt?
+- Credible: is there a proof object nearby?
+
+### Swipefile: Every Section Must Reduce Doubt
+
+Each homepage section needs one psychological job:
+
+- Recognition: where does it hang?
+- Proof: what does visible work look like?
+- Safety: why is this not a huge project?
+- Choice: why is Eerste Zicht the sensible next step?
+- Action: what can the reader send now?
+
+### Swipefile: One Reader, One Problem, One Action
+
+The homepage is not a library of all insights.
+
+```text
+Lezer: Vlaamse KMO-zaakvoerder of teamlead.
+Probleem: opvolging hangt los.
+Actie: toon één stuk werking dat vandaag blijft hangen.
+```
+
+Any section that does not make that action more logical should be cut.
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -202,6 +413,10 @@ De planning stond niet in software. Ze zat in het hoofd van één persoon, op dr
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
 - The first contact step is a diagnostic exchange, not a generic sales appointment.
 - Concrete scenario anchors must appear before the first heavy ask.
+- The Situatiekaart is the central proof object and should receive ritual weight.
+- Eerste Zicht is the middle route between doing nothing and starting too big.
+- The post-scan path is a short reality loop around one visible priority, not a broad transformation promise.
+- The page has one reader, one problem, and one action.
 
 ## Recommended Homepage Structure
 
@@ -239,6 +454,8 @@ Hero visual:
 - A small proof object, not an abstract illustration.
 - Preferred object: a three-step operational flow such as `Aanvraag -> opvolging -> beslissing`.
 - The first row must be visible on mobile without forcing the reader to scroll.
+- The object should explain enough that nearby copy can stay short.
+- At least one label should point to the missing detail: owner, status, reminder, or next step.
 
 ### 2. Proof Object Strip
 
@@ -256,6 +473,7 @@ Each card shows:
 
 - `Haak`: one concrete detail that makes the situation instantly recognizable.
 - `Voor`: what is loose.
+- `Ontbreekt`: the one owner, status, reminder, rule, or next step that changes the meaning.
 - `Zicht`: what Vastpakt maps.
 - `Na`: what becomes followable.
 
@@ -284,6 +502,8 @@ Blijft dit stuk werking zichtbaar als de enige persoon die het kent er vandaag n
 
 Job: explain what happens before any automation, tool, or redesign.
 
+Position this as the sampling phase before focus:
+
 Sequence:
 
 ```text
@@ -292,7 +512,7 @@ Sequence:
 3. We brengen binnenkomst, opvolging, eigenaar en volgende stap in kaart.
 4. We scheiden echte vereisten van gewoontes.
 5. We tonen waar het blijft hangen.
-6. We bepalen samen wat eerst vastgepakt moet worden.
+6. We kiezen pas daarna welk stuk eerst vastgepakt wordt.
 ```
 
 Important copy rule:
@@ -424,6 +644,13 @@ What the client gets:
 - Eerste prioriteiten.
 - Een concreet voorstel voor wat Vastpakt mee kan vastpakken.
 
+The Situatiekaart should be framed as the first visible-work moment:
+
+```text
+Het moment waarop het werk niet meer alleen in hoofden, mailboxen of gewoontes zit.
+Het ligt op tafel. Iedereen kan zien waar het blijft hangen.
+```
+
 What the client brings:
 
 - One workflow or recurring situation.
@@ -449,6 +676,30 @@ Waar blijft iets vandaag hangen?
 
 Do not ask for company size, budget, stack, preferred date, or project scope in the first form unless real usage proves that the extra field qualifies better-fit leads without lowering the right-fit response rate.
 
+Optional diagnostic check:
+
+```text
+De Loshang-check
+```
+
+Questions:
+
+- Wie is eigenaar van de volgende stap?
+- Waar staat de status?
+- Wat gebeurt er als die persoon er niet is?
+- Welke reminder zit alleen in iemands hoofd?
+- Kan iemand anders dit morgen volgen?
+
+Possible outcomes:
+
+```text
+Laag risico: dit stuk werking is redelijk zichtbaar.
+Middel risico: opvolging hangt op één of twee plekken los.
+Hoog risico: dit zit vooral in hoofden, mailboxen of gewoontes.
+```
+
+This check should be ungated in the first version unless there is a clear reason to capture the answer in the contact form.
+
 Follow-up email format:
 
 ```text
@@ -463,6 +714,13 @@ Dit helpt omdat:
 
 Volgende stap:
 [een klein voorstel om dit stuk werking vast te pakken]
+```
+
+Post-scan work cycle:
+
+```text
+30 dagen: één prioriteit vastpakken.
+Einde: houden, schrappen, verbeteren, of volgend stuk kiezen.
 ```
 
 ### 7. Qualification Section
@@ -489,6 +747,19 @@ For you if:
 - The same question keeps coming back.
 - You want one piece of operation visible before choosing changes.
 
+Decision frame:
+
+```text
+Te weinig:
+Blijven gokken waar het blijft hangen.
+
+Te veel:
+Meteen alles herwerken of automatiseren.
+
+Logische eerste stap:
+Eerst één werking zichtbaar maken.
+```
+
 ### 8. Personal Note
 
 Job: make Christophe visible enough to create trust without turning the page into a biography.
@@ -512,6 +783,8 @@ Wat krijg ik concreet na de scan?
 Hoe groot mag het eerste stuk werking zijn?
 Wat als we nog niet weten waar het probleem zit?
 Kan Vastpakt daarna ook helpen uitvoeren?
+Wordt dit meteen een groot traject?
+Wat gebeurt er na de eerste 30 dagen?
 ```
 
 ### 10. Final CTA
@@ -542,6 +815,9 @@ Use:
 - Visible contrast between loose before and calmer after.
 - One repeated trust fact instead of many disconnected claims.
 - A compact first version that proves the core before adding breadth.
+- Short labels that point to missing owner, status, reminder, rule, or next step.
+- A visual moment where scattered work becomes one visible object.
+- Small accumulation examples only when they are real or clearly marked as examples.
 
 Avoid:
 
@@ -552,6 +828,8 @@ Avoid:
 - Huge metric claims without real evidence.
 - Aggressive scarcity or fake urgency.
 - Trophy bragging, badges, or authority theatre without real local evidence.
+- Clever outreach gimmicks without a concrete proof object.
+- Long explanatory copy beside a visual that could carry the point itself.
 
 ## Content Model
 
@@ -561,6 +839,7 @@ The first implementation should support these content units:
 ProofCard
 - title
 - sticky_detail
+- missing_detail
 - before
 - stuck_point
 - visible_map
@@ -604,6 +883,37 @@ ContactPrompt
 - promise
 - fields
 - response_rule
+
+DiagnosticCheck
+- title
+- questions
+- low_risk_result
+- medium_risk_result
+- high_risk_result
+
+DecisionFrame
+- too_little
+- too_much
+- sensible_first_step
+
+SectionJob
+- section_name
+- psychological_job
+- keep_if
+- cut_if
+
+ThirtyDayCycle
+- visible_priority
+- action_window
+- end_review
+- next_decision
+
+OutreachProofPiece
+- target_context
+- visible_observation
+- mini_map
+- one_question
+- next_step
 ```
 
 ## Acceptance Criteria
@@ -698,6 +1008,80 @@ The scan output must be easy to summarize in four lines:
 - This is what it shows.
 - This is how it helps.
 - This is the next step.
+
+### Situatiekaart Weight Test
+
+The Situatiekaart must feel like the central proof object, not a downloadable afterthought.
+
+- It appears or is clearly implied in the hero.
+- It returns in the offer section.
+- The follow-up email names the object directly.
+- The visual treatment makes scattered work becoming visible feel like the main moment.
+
+### Missing Detail Test
+
+At least one proof object must show that one missing detail changes the whole meaning of the work.
+
+```text
+Offerte verstuurd.
+```
+
+must be contrasted with a fuller operational state such as:
+
+```text
+Offerte verstuurd.
+Eigenaar: Sarah
+Volgende stap: opvolgen vrijdag
+Status: wacht op klant
+```
+
+### Choice Frame Test
+
+The page must show why Eerste Zicht is the sensible middle route.
+
+- Doing nothing stays vague.
+- Starting with tools or automation is too early.
+- Making one piece visible is the safe next step.
+
+### Diagnostic Check Test
+
+If the Loshang-check is included, it must be useful without becoming a gimmick.
+
+- It can be completed without creating an account.
+- It uses practical questions about owner, status, reminder, absence, and followability.
+- The result teaches the reader what "loshangend" means.
+- It does not distract from the main contact action.
+
+### Section Job Test
+
+Every homepage section must reduce one specific doubt or move the reader toward the one action.
+
+Keep a section only if it helps one of these:
+
+- Recognize loose work.
+- See proof.
+- Understand the first scan.
+- Feel the first step is safe.
+- Decide whether Vastpakt is for them.
+- Send one loose situation.
+
+### 4Cs Edit Test
+
+Every major copy block must pass:
+
+- Clear: a cold KMO reader understands it.
+- Concise: no paragraph is longer than the proof moment needs.
+- Compelling: the loose work is felt, not only named.
+- Credible: a proof object, example, or concrete output sits nearby.
+
+### Thirty-Day Loop Test
+
+If the page mentions work after the scan, it must be framed as a short reality loop.
+
+- One visible priority.
+- 30-day action window.
+- End review: keep, remove, improve, or choose the next piece.
+- No broad transformation promise.
 
 ## Open Implementation Notes
 
