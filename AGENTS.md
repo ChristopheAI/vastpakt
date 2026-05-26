@@ -45,3 +45,30 @@ Can I point to the source, work object, or real workday situation behind this se
 ```
 
 If not, do not ship it.
+
+## Research Intent Awareness
+
+When the user sends websites, Reddit threads, case studies, swipefiles, competitor pages, or use-case pages for Vastpakt, treat them as source material with intent.
+
+The job is not to browse casually. The job is to extract:
+
+- market words the buyer already understands;
+- real workday situations;
+- proof mechanisms;
+- offer structure;
+- before/after patterns;
+- use-case framing;
+- objections and qualification signals;
+- language to avoid because it sounds generic, AI-made, or category-wrong.
+
+Every source-reading pass should answer:
+
+```text
+What can Vastpakt borrow?
+What must Vastpakt not copy?
+Which exact words are market language?
+Which parts become a Vastpakt translation?
+Which assumptions became weaker or stronger?
+```
+
+Do not lose the reason behind the browsing. The browsing exists to make Vastpakt copy and positioning less invented, more source-led, and more recognizable to Flemish/KMO operators.
