@@ -2,7 +2,7 @@
 
 ## Page Job
 
-This page must help a cold Flemish KMO reader recognize one piece of loose business operation, understand that Vastpakt first makes it visible, and confidently take a low-risk first step without confusing Vastpakt for an AI agency, a website shop, or generic process consultancy.
+This page must help a cold Flemish KMO reader recognize one place where they do not clearly know where work stands, understand that Vastpakt first makes that visible, and confidently take a low-risk first step without confusing Vastpakt for an AI agency, a website shop, extra administration, or generic process consultancy.
 
 ## Source Lessons
 
@@ -486,18 +486,48 @@ The homepage is not a library of all insights.
 
 ```text
 Lezer: Vlaamse KMO-zaakvoerder of teamlead.
-Probleem: opvolging hangt los.
-Actie: toon één stuk werking dat vandaag blijft hangen.
+Probleem: niemand ziet zeker waar een stuk werk staat.
+Actie: toon één situatie waar vandaag onduidelijk is wie aan zet is, wat volgt, of wat later bewijs nodig heeft.
 ```
 
 Any section that does not make that action more logical should be cut.
+
+### Reddit Open Reading: Status Clarity Before Workflow Language
+
+The Flemish/Belgian Reddit reading widened the frame.
+
+Do not make `handwerk`, `workflow`, or `automation` the public-facing problem. Those are internal diagnostic lenses. Readers more often talk about not knowing what they must really know, where they stand, what is proven, what may come back later, or which step they cannot forget.
+
+Better public frame:
+
+```text
+Eerst zien waar ge staat.
+Daarna pas kiezen wat moet veranderen.
+```
+
+Method frame remains:
+
+```text
+Eerst een werking zichtbaar maken.
+Dan pas kiezen wat moet veranderen.
+```
+
+Reassurance frame:
+
+```text
+Meer zicht, niet meer papierwerk.
+```
+
+The page must show that Vastpakt reduces uncertainty without creating bureaucratic weight.
 
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
 - Method language uses `eerst zicht`, not as a separate brand.
 - Core anchor: "Eerst een werking zichtbaar maken. Dan pas kiezen wat moet veranderen."
+- Public-facing hero language may use the warmer frame: "Eerst zien waar ge staat. Daarna pas kiezen wat moet veranderen."
 - The site must sell diagnosis and practical technical samenhang, not AI capability.
+- The site must sell more visible status, not more paperwork.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -510,6 +540,8 @@ Any section that does not make that action more logical should be cut.
 - If a hard truth is used, the next line must immediately reassure and narrow the scope.
 - The after-state must be shown as a normal workday moment, not only as a diagram or deliverable.
 - Manual-task discovery is used to reveal hidden handwork, not to pitch automation first.
+- `Handwerk` is a diagnostic lens, not the public headline.
+- Status clarity is broader than follow-up: owner, next step, proof, decision, and fallback must be visible enough to discuss.
 - Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
@@ -519,6 +551,13 @@ Any section that does not make that action more logical should be cut.
 Job: make the category and promise clear in seconds.
 
 Candidate copy direction:
+
+```text
+Eerst zien waar ge staat.
+Daarna pas kiezen wat moet veranderen.
+```
+
+Method-support variant:
 
 ```text
 Eerst een werking zichtbaar maken.
@@ -532,10 +571,16 @@ Uw opvolging zit misschien in één hoofd.
 Daarom maken we eerst één stuk zichtbaar. Niet alles. Niet meteen automatiseren.
 ```
 
+Administrative reassurance variant:
+
+```text
+Meer zicht, niet meer papierwerk.
+```
+
 Supporting line:
 
 ```text
-Vastpakt helpt KMO's zien waar opvolging, aanvragen, offertes of beslissingen vandaag loshangen.
+Vastpakt helpt KMO's zien waar werk vandaag blijft hangen tussen aanvraag, afspraak, offerte, factuur en opvolging.
 ```
 
 Primary CTA:
@@ -591,6 +636,8 @@ Een klant vraagt iets aan, maar niemand ziet wie volgt.
 Een offerte is verstuurd, maar de herinnering zit in iemands hoofd.
 Een planning werkt zolang dezelfde persoon alles onthoudt.
 Een beslissing is genomen, maar de volgende stap is nergens vastgelegd.
+Een factuur wordt pas duidelijk wanneer iemand achteraf begint te zoeken.
+Een afspraak, bewijsstuk of akkoord bestaat wel, maar niemand ziet waar het staat.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
