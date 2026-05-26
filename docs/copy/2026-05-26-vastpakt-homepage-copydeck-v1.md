@@ -86,6 +86,78 @@ Welke routine draait vandaag op mail, Excel, CRM, Teams of geheugen?
 Welk klein stuk kunnen we eerst zichtbaar maken?
 ```
 
+## Market/Reddit Language Confirmation
+
+Closest company-language matches:
+
+- Werkflow: manueel werk, copy-paste, dubbele invoer, vergeten opvolging, losse tools, workarounds, processen die tijd vreten, niet weten waar te beginnen.
+- HWStudio: analyse, interne tools, minder copy-paste, minder fouten, minder manueel gedoe, deep scan, scope op papier.
+- Codelines: eerst processen in kaart, bestaande systemen verbinden, waar lopen processen vast, bottlenecks, manuele copy-paste verdwijnt.
+- Flowlift: concrete use cases around CRM, Exact, data, automatisering and reporting.
+- LeadExpert: opvolging, WhatsApp, facturen, afspraken and repetitive tasks, but too lead/AI-first for Vastpakt's core.
+
+Reddit confirms the same pain in less polished words:
+
+```text
+repetitive tasks
+Excel spreadsheets
+Word docs
+quotes
+contracts
+bookkeeping
+moving data from one system to another
+invoice status
+too small for CRM
+factuur.xlsx
+different amounts and deadlines
+```
+
+Decision:
+
+```text
+Vastpakken is not proven market terminology. It is our positioning verb.
+```
+
+Use market words for recognition:
+
+```text
+manueel werk
+copy-paste
+dubbele invoer
+vergeten opvolging
+losse tools
+bestaande systemen
+knelpunten
+```
+
+Then make the Vastpakt turn:
+
+```text
+Waar raakt status, eigenaar, bewijs of volgende stap los?
+```
+
+Source-backed copy lines to test:
+
+```text
+Ge weet dat het slimmer kan. Eerst moeten we zien waar het loskomt.
+```
+
+```text
+Copy-paste, dubbele invoer en vergeten opvolging zijn signalen. De vraag is: waar komt het werk los?
+```
+
+```text
+Als info van mail naar Excel naar CRM naar factuur moet, moet betekenis mee verhuizen.
+```
+
+```text
+Niet elk manueel stuk moet ge automatiseren. Sommige stukken moet ge eerst begrijpen.
+```
+
+```text
+Ge moet nog niet klaar zijn voor een CRM. Eén concrete situatie is genoeg.
+```
+
 ## Swipefile Copy Moves To Keep
 
 Use these as copy checks, not as visible section names:
@@ -175,6 +247,12 @@ Reassurance:
 
 ```text
 Eerst tonen we waar het loshangt. Daarna kiezen we samen één stuk dat we vastpakken.
+```
+
+Alternate market-led bridge:
+
+```text
+Ge weet dat het slimmer kan. Eerst moeten we zien waar het loskomt.
 ```
 
 Rejected reassurance:
@@ -347,6 +425,12 @@ Method guardrail:
 Geen automatisering voordat duidelijk is wat er eigenlijk moet blijven volgen.
 ```
 
+Sharper market/Reddit guardrail:
+
+```text
+Niet elk manueel stuk moet ge automatiseren. Sommige stukken moet ge eerst begrijpen.
+```
+
 ## Offer Section
 
 Headline:
@@ -410,6 +494,13 @@ Ge zoekt juridisch advies.
 Ge zoekt boekhoudadvies.
 Ge wilt meteen een nieuwe tool zonder de werking te bekijken.
 Ge wilt een groot transformatietraject zonder eerst één stuk zichtbaar te maken.
+```
+
+Market qualification insight:
+
+```text
+Eén factuur per maand en alles zit bij één persoon? Misschien is er geen scan nodig.
+Meerdere klanten, deadlines, bedragen, statussen, eigenaars of overdrachten? Dan moet zichtbaar blijven waar het staat.
 ```
 
 Choice frame:
