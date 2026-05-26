@@ -649,6 +649,43 @@ Niet meer metadata vragen.
 Meer context bij het werk vangen.
 ```
 
+### Reddit Internal Ops Reading: Conditions Must Stay Visible
+
+The next B2B internal-operation reading added a condition layer. A task is not enough; the business must also see what was agreed, what counts as done, when payment follows, what is out of scope, and what happens if something is not paid or not approved.
+
+Useful public language:
+
+```text
+Werk mag pas doorlopen als de voorwaarden zichtbaar blijven.
+```
+
+```text
+Een factuur vertelt niet altijd heel het verhaal. De afspraak erachter moet vindbaar blijven.
+```
+
+```text
+Oplevering zonder zichtbaar akkoord blijft een open deur.
+```
+
+Good proof situations:
+
+- Scope zonder rand.
+- Mijlpaal zonder betaalmoment.
+- Factuur zonder betaalplan.
+- Peppol zonder werking.
+- Akkoord op foute brondata.
+- Correctie zonder herstelpad.
+- Oplevering zonder akkoord.
+- Expertise als wachtstand.
+
+Guardrail: avoid making this sound legalistic. Vastpakt is not legal support. The practical promise is that working agreements, source assumptions, payment triggers, delivery moments, and correction paths stay visible enough to discuss before they become conflict.
+
+The page can use this to add a fourth visibility layer:
+
+```text
+Status, capaciteit, context en voorwaarden.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -662,6 +699,7 @@ Meer context bij het werk vangen.
 - Internal-operation proof outranks B2C-service examples for the core Vastpakt market.
 - Capacity and tradeoff clarity belong beside status clarity: what entered, who owns it, what waits, and what gets triggered.
 - Context must stay attached to work: status, owner, agreement, latest version, exception, proof, next step, and billing trigger should not live in separate personal memory.
+- Conditions must remain visible enough to decide whether work should continue, pause, be invoiced, be corrected, or be re-confirmed.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -680,6 +718,7 @@ Meer context bij het werk vangen.
 - Customer-trust language should stay concrete: date, owner, cost route, confirmation, promise, proof.
 - Billing triggers are a strong money-adjacent proof example, especially when project start/finish status does not reach invoicing.
 - Document and proof examples should be framed as operational trust, not archive hygiene.
+- Agreement/scope/payment examples should be framed as operational clarity, not legal advice.
 - Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
@@ -786,6 +825,9 @@ Een collega vertrekt en pas dan wordt zichtbaar hoeveel in één hoofd zat.
 Een document bestaat wel, maar niemand weet of het de juiste versie is.
 Een factuur klopt misschien, maar de afspraak erachter zit in een maildraad.
 Een open vraag blijft open omdat niemand ziet wat de laatste actie was.
+Een klant gaf akkoord, maar niemand ziet nog op welke berekening dat akkoord steunde.
+Een klus is klaar, maar er is geen zichtbaar moment waarop oplevering akkoord was.
+Een mijlpaal is gehaald, maar betaling, pauze of vervolg staat nergens helder naast het werk.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
