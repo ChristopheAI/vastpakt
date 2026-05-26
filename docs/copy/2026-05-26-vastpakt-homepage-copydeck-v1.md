@@ -51,6 +51,8 @@ Als betekenis in de mail zit en het werk in de tool, begint het zoeken opnieuw.
 - No AI-first, automation-first, software-first, legal, or accounting posture.
 - No fake metrics.
 - No generic "process optimalisatie".
+- No invented reassurance like "geen audit" unless a source or real offer boundary proves that exact word matters.
+- No vague reflective phrases like "wat ge probeert vast te houden". Say the object: mail, offerte, afspraak, bewijs, factuur, planning, overdracht.
 - Say what gets put on the table.
 - Prefer "wij maken zichtbaar" over "wij transformeren".
 - Prefer ordinary work objects: mail, offerte, afspraak, bewijs, factuur, planning, overdracht.
@@ -93,8 +95,16 @@ Bekijk herkenbare voorbeelden
 Reassurance:
 
 ```text
+Eerst tonen we waar het loshangt. Daarna kiezen we samen één stuk dat we vastpakken.
+```
+
+Rejected reassurance:
+
+```text
 Geen audit. Geen nieuwe tool. Eerst zien wat ge vandaag eigenlijk al probeert vast te houden.
 ```
+
+Reason: BS LLM language. "Audit" was not source-led, "probeert vast te houden" is vague, and the line sounds like invented reassurance instead of workday truth.
 
 Hero proof object copy:
 
