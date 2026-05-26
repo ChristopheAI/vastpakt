@@ -686,6 +686,42 @@ The page can use this to add a fourth visibility layer:
 Status, capaciteit, context en voorwaarden.
 ```
 
+### Reddit Internal Ops Reading: Disputes Need Transferable Facts
+
+The next B2B internal-operation reading added a dispute and complaint layer. Complaints, late payments, wrong data, and angry customers become heavier when the next person receives emotion without proof, status, previous action, or decision route.
+
+Useful public language:
+
+```text
+Een klacht is geen verhaal zolang niemand ziet wat er al gebeurd is.
+```
+
+```text
+Goedkeuring mag niet verdwijnen wanneer de persoon verdwijnt.
+```
+
+```text
+Bewijs op vijf plaatsen is nog geen verhaal.
+```
+
+Good proof situations:
+
+- Klacht zonder voorbeeld.
+- Emotie zonder status.
+- Factuur zonder route.
+- Goedkeuring zonder drager.
+- Bewijs verspreid over tools.
+- Betwisting zonder afspraakvlak.
+- Escalatie zonder stap.
+
+Guardrail: this should not become legal advice or a "win disputes" promise. The practical promise is that if something schuurt, everyone can see faster what already happened, what is disputed, what proof exists, and what next step follows.
+
+The page can use this to make proof clarity more operational:
+
+```text
+Als er iets schuurt, ziet iedereen sneller wat er al gebeurd is en wat nu moet volgen.
+```
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -700,6 +736,7 @@ Status, capaciteit, context en voorwaarden.
 - Capacity and tradeoff clarity belong beside status clarity: what entered, who owns it, what waits, and what gets triggered.
 - Context must stay attached to work: status, owner, agreement, latest version, exception, proof, next step, and billing trigger should not live in separate personal memory.
 - Conditions must remain visible enough to decide whether work should continue, pause, be invoiced, be corrected, or be re-confirmed.
+- Dispute and complaint examples must stay operational: what happened, what is disputed, what proof exists, and what next step follows.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -719,6 +756,7 @@ Status, capaciteit, context en voorwaarden.
 - Billing triggers are a strong money-adjacent proof example, especially when project start/finish status does not reach invoicing.
 - Document and proof examples should be framed as operational trust, not archive hygiene.
 - Agreement/scope/payment examples should be framed as operational clarity, not legal advice.
+- Do not promise to win arguments; promise less searching, less guessing, and clearer next steps when something schuurt.
 - Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
@@ -828,6 +866,9 @@ Een open vraag blijft open omdat niemand ziet wat de laatste actie was.
 Een klant gaf akkoord, maar niemand ziet nog op welke berekening dat akkoord steunde.
 Een klus is klaar, maar er is geen zichtbaar moment waarop oplevering akkoord was.
 Een mijlpaal is gehaald, maar betaling, pauze of vervolg staat nergens helder naast het werk.
+Een klacht komt binnen, maar niemand ziet welk voorbeeld erbij hoort.
+Een klant is kwaad, maar intern reist vooral emotie rond in plaats van status.
+Goedkeuring stond in één hoofd, en die persoon is intussen weg.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
