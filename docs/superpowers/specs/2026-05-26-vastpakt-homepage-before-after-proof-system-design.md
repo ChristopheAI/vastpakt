@@ -579,6 +579,39 @@ Good proof situations:
 
 The page should show that what stays unclear inside the business quickly becomes waiting, chasing, doubt, or extra work for the customer.
 
+### Reddit Internal Ops Reading: Work Added Without Visible Tradeoff
+
+B2B internal-operation reading is a closer core match than broad B2C service frustration. The strongest pattern is not "customers complain"; it is that internal work keeps moving without a visible owner, capacity tradeoff, status, handover path, or admin trigger.
+
+Useful public language:
+
+```text
+Werk komt erbij, maar nergens wordt zichtbaar wat eraf gaat.
+```
+
+```text
+Een project start of stopt, maar facturatie krijgt geen seintje.
+```
+
+```text
+Ge kunt pas nee zeggen als zichtbaar is wat eerst moet blijven liggen.
+```
+
+Good proof situations:
+
+- Taken zonder ingang.
+- Werk dat erbij komt zonder keuze.
+- Uren zonder verhaal.
+- Planning zonder capaciteit.
+- Project zonder factuur-seintje.
+- Collega als geheugen.
+- Overdracht zonder drager.
+- Teamplanning zonder middelpunt.
+
+Guardrail: much of the source language came from Dutch/NL and English Reddit threads. Use the operating patterns, but translate the final copy into grounded Flemish/KMO language later.
+
+The page should show that Vastpakt makes work discussable before it becomes personal pressure: what entered, who owns it, what it blocks, what it triggers, and what happens if the key person is absent.
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -589,6 +622,8 @@ The page should show that what stays unclear inside the business quickly becomes
 - The site must sell more visible status, not more paperwork.
 - The site may include proof clarity: what must remain aantoonbaar later if someone asks, doubts, pays, disputes, or takes over.
 - The site may connect internal visibility to customer trust: internal gedoe should not become klantgedoe.
+- Internal-operation proof outranks B2C-service examples for the core Vastpakt market.
+- Capacity and tradeoff clarity belong beside status clarity: what entered, who owns it, what waits, and what gets triggered.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -605,6 +640,7 @@ The page should show that what stays unclear inside the business quickly becomes
 - Status clarity is broader than follow-up: owner, next step, proof, decision, and fallback must be visible enough to discuss.
 - Proof clarity must stay practical, not juridisch: fewer searches, fewer guesses, less achteraf miserie.
 - Customer-trust language should stay concrete: date, owner, cost route, confirmation, promise, proof.
+- Billing triggers are a strong money-adjacent proof example, especially when project start/finish status does not reach invoicing.
 - Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
@@ -705,6 +741,9 @@ Een interventie is gebeurd, maar niemand ziet nog wat de toestand ervoor was.
 Een kost staat op papier, maar de tastbare uitleg ontbreekt.
 Intern loopt de planning mis, maar buiten moet de klant opnieuw beginnen regelen.
 Een belofte is gemaakt, maar niemand ziet welke datum, eigenaar of bevestiging erbij hoort.
+Werk komt erbij, maar niemand ziet wat daardoor moet wachten.
+Een project is gestart of afgerond, maar facturatie krijgt geen seintje.
+Een collega vertrekt en pas dan wordt zichtbaar hoeveel in één hoofd zat.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
