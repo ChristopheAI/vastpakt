@@ -520,6 +520,33 @@ Meer zicht, niet meer papierwerk.
 
 The page must show that Vastpakt reduces uncertainty without creating bureaucratic weight.
 
+### Reddit Curious Reading: Proof Before Achteraf Miserie
+
+The next reading round added a second visibility job: not only where the situation stands now, but what must remain aantoonbaar later.
+
+Useful public language:
+
+```text
+Wat moet later nog aantoonbaar zijn?
+```
+
+Use this carefully. Vastpakt is not legal dispute support and should not sound like it wants to turn every client interaction into a dossier. The practical lesson is lighter:
+
+```text
+Minder zoeken, minder gokken, minder achteraf miserie.
+```
+
+Good proof situations:
+
+- Afspraak zonder bewijs.
+- Interventie zonder voor/na.
+- Factuur zonder tastbare uitleg.
+- Werkbon zonder verhaal.
+- Belofte zonder papertrail.
+- Correctie zonder route.
+
+The page can use these to show that zicht protects both sides: the person doing the work and the person waiting, paying, approving, or questioning it.
+
 ## Protected Decisions
 
 - Public brand stays `Vastpakt`.
@@ -528,6 +555,7 @@ The page must show that Vastpakt reduces uncertainty without creating bureaucrat
 - Public-facing hero language may use the warmer frame: "Eerst zien waar ge staat. Daarna pas kiezen wat moet veranderen."
 - The site must sell diagnosis and practical technical samenhang, not AI capability.
 - The site must sell more visible status, not more paperwork.
+- The site may include proof clarity: what must remain aantoonbaar later if someone asks, doubts, pays, disputes, or takes over.
 - The first viewport must pass a 5-second cold-reader comprehension test.
 - Proof objects outrank decorative polish.
 - The deeper promise is overdraagbaarheid: from work that sits in one head to work that lies on the table.
@@ -542,6 +570,7 @@ The page must show that Vastpakt reduces uncertainty without creating bureaucrat
 - Manual-task discovery is used to reveal hidden handwork, not to pitch automation first.
 - `Handwerk` is a diagnostic lens, not the public headline.
 - Status clarity is broader than follow-up: owner, next step, proof, decision, and fallback must be visible enough to discuss.
+- Proof clarity must stay practical, not juridisch: fewer searches, fewer guesses, less achteraf miserie.
 - Time or cost sizing may prioritize the first piece, but must not become fake ROI theatre.
 
 ## Recommended Homepage Structure
@@ -638,6 +667,8 @@ Een planning werkt zolang dezelfde persoon alles onthoudt.
 Een beslissing is genomen, maar de volgende stap is nergens vastgelegd.
 Een factuur wordt pas duidelijk wanneer iemand achteraf begint te zoeken.
 Een afspraak, bewijsstuk of akkoord bestaat wel, maar niemand ziet waar het staat.
+Een interventie is gebeurd, maar niemand ziet nog wat de toestand ervoor was.
+Een kost staat op papier, maar de tastbare uitleg ontbreekt.
 ```
 
 This section should feel specific and slightly uncomfortable. It should not sound like generic "process optimization".
