@@ -357,6 +357,33 @@ http://192.168.0.165:3001/dashboard
 
 All three monitors produced `UP` heartbeats in Uptime Kuma after service restart.
 
+**Kuma cleanup performed:**
+
+- `AdGuard Home` was updated from stale `http://192.168.0.161/` to live `http://192.168.0.160/`.
+- `Vaultwarden` was updated from stale HTTP port `80` to live `https://192.168.0.147/` with TLS verification ignored for the internal certificate.
+- `n8n` was paused because `http://192.168.0.226:5678` is unreachable and points to removed/stale infrastructure.
+- Active monitors were given explicit `48s` timeouts to avoid Uptime Kuma `timeout=0` runtime behavior.
+
+**Cleanup rollback backup:**
+
+```text
+/root/codex-backups/kuma-before-monitor-cleanup-20260528-133848.db
+```
+
+**Cleanup validation:**
+
+- `AdGuard Home`: `UP`, `200 - OK`.
+- `Vaultwarden`: `UP`, `200 - OK`.
+- `Vastpakt homepage`: `UP`, keyword found.
+- `Vastpakt analytics script`: `UP`, keyword found.
+- `Vastpakt contact API validation`: `UP`, `400 - Bad Request`, keyword found.
+
+**Open monitoring action:**
+
+The default notification channel `n8n Discord Alert` still points to `http://192.168.0.226:5678/webhook/uptime-alert`.
+That host is unreachable, so alert delivery is not verified.
+Replace this with a live Discord webhook, a live n8n webhook, or another notification channel before relying on alerts.
+
 ---
 
 ## Status Log
@@ -368,3 +395,4 @@ All three monitors produced `UP` heartbeats in Uptime Kuma after service restart
 - 2026-05-28: `analytics.vastpakt.be` added as Cloudflare Tunnel route to the existing Umami service.
 - 2026-05-28: Vastpakt Umami website created and live pageview verified for `vastpakt.be/#contact`.
 - 2026-05-28: Uptime Kuma monitors added for Vastpakt homepage, analytics script, and safe contact API validation.
+- 2026-05-28: Uptime Kuma stale monitor noise cleaned up for AdGuard, Vaultwarden, and removed n8n.
