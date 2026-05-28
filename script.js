@@ -45,6 +45,7 @@ if (contactForm && contactStatus) {
       contactStatus.textContent = data.message || "Verstuurd. Je krijgt binnen 24 uur antwoord.";
 
       if (response.ok && data.ok) {
+        window.umami?.track("contact_form_submitted");
         contactForm.reset();
       }
     } catch (error) {
