@@ -312,6 +312,53 @@ analytics.vastpakt.be
 
 ---
 
+## Task 11: Add Self-Hosted Uptime Monitoring
+
+**Status:** Done
+
+**Monitoring service:**
+
+Use existing Uptime Kuma on Proxmox CT `110`:
+
+```text
+http://192.168.0.165:3001/dashboard
+```
+
+**Monitors added:**
+
+- `Vastpakt homepage`
+  - Type: HTTP keyword
+  - URL: `https://vastpakt.be/`
+  - Keyword: `Vastpakt`
+  - Interval: 60 seconds
+- `Vastpakt analytics script`
+  - Type: HTTP keyword
+  - URL: `https://analytics.vastpakt.be/cvh-insights`
+  - Keyword: `window`
+  - Interval: 60 seconds
+- `Vastpakt contact API validation`
+  - Type: HTTP keyword
+  - URL: `https://vastpakt.be/api/contact`
+  - Method: POST
+  - Body: invalid empty JSON payload
+  - Expected status: `400`
+  - Keyword: `concreet voorbeeld`
+  - Interval: 3600 seconds
+  - Purpose: prove the contact API responds without sending a real email every check.
+
+**Rollback backups:**
+
+```text
+/root/codex-backups/kuma-before-vastpakt-monitors-20260528-133052.db
+/root/codex-backups/kuma-before-vastpakt-timeout-fix-20260528-133339.db
+```
+
+**Validation:**
+
+All three monitors produced `UP` heartbeats in Uptime Kuma after service restart.
+
+---
+
 ## Status Log
 
 - 2026-05-28: Cloudflare zone created.
@@ -320,3 +367,4 @@ analytics.vastpakt.be
 - 2026-05-28: Cloudflare check triggered; propagation still pending.
 - 2026-05-28: `analytics.vastpakt.be` added as Cloudflare Tunnel route to the existing Umami service.
 - 2026-05-28: Vastpakt Umami website created and live pageview verified for `vastpakt.be/#contact`.
+- 2026-05-28: Uptime Kuma monitors added for Vastpakt homepage, analytics script, and safe contact API validation.
