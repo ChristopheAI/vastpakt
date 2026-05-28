@@ -1,5 +1,7 @@
 const form = document.querySelector("#loshangCheck");
 const result = document.querySelector("#checkResult");
+const contactForm = document.querySelector("#contactForm");
+const contactStatus = document.querySelector("#contactStatus");
 
 const messages = [
   "Vink aan wat herkenbaar is. Eén vinkje is al genoeg om één plek met tijdverlies klein te bekijken.",
@@ -17,4 +19,38 @@ function updateResult() {
 
 if (form && result) {
   form.addEventListener("change", updateResult);
+}
+
+if (contactForm && contactStatus) {
+  contactForm.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    const submitButton = contactForm.querySelector('button[type="submit"]');
+    const formData = new FormData(contactForm);
+    const payload = Object.fromEntries(formData.entries());
+
+    contactStatus.textContent = "Even verzenden...";
+    submitButton.disabled = true;
+
+    try {
+      const response = await fetch(contactForm.action, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
+      });
+      const data = await response.json();
+
+      contactStatus.textContent = data.message || "Verstuurd. Je krijgt binnen 24 uur antwoord.";
+
+      if (response.ok && data.ok) {
+        contactForm.reset();
+      }
+    } catch (error) {
+      contactStatus.textContent = "Het verzenden lukt nu niet. Mail rechtstreeks naar christophe@vastpakt.be.";
+    } finally {
+      submitButton.disabled = false;
+    }
+  });
 }

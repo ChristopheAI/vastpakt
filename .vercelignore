@@ -2,6 +2,8 @@
 !index.html
 !styles.css
 !script.js
+!api/
+!api/contact.js
 !robots.txt
 !sitemap.xml
 !vercel.json

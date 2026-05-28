@@ -300,20 +300,25 @@
             </div>
           </div>
         </div>
-        <form class="contact-form">
+        <form class="contact-form" id="contactForm" action="/api/contact" method="post">
           <label>
             Naam
-            <input type="text" name="name" autocomplete="name">
+            <input type="text" name="name" autocomplete="name" required>
           </label>
           <label>
             E-mail
-            <input type="email" name="email" autocomplete="email">
+            <input type="email" name="email" autocomplete="email" required>
           </label>
           <label>
             Welk voorbeeld wil je tonen?
-            <textarea name="situation" rows="5" placeholder="Bijvoorbeeld: een offerte is verstuurd, maar ik zie niet wie opvolgt of welke laatste stap genomen is."></textarea>
+            <textarea name="situation" rows="5" minlength="20" required placeholder="Bijvoorbeeld: een offerte is verstuurd, maar ik zie niet wie opvolgt of welke laatste stap genomen is."></textarea>
           </label>
-          <button class="button primary" type="button">Stuur dit voorbeeld</button>
+          <label class="contact-form__company" aria-hidden="true">
+            Bedrijf
+            <input type="text" name="company" tabindex="-1" autocomplete="off">
+          </label>
+          <button class="button primary" type="submit">Stuur dit voorbeeld</button>
+          <p class="form-status" id="contactStatus" role="status" aria-live="polite"></p>
         </form>
       </section>
 
@@ -505,6 +510,6 @@
       </nav>
     </footer>
 
-    <script src="script.js?v=loop98"></script>
+    <script src="script.js?v=contact1"></script>
   </body>
 </html>
