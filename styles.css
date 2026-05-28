@@ -830,14 +830,12 @@ input[type="checkbox"] {
   }
 
   .scroller-cta,
-  .proof-grid,
   .connection-grid,
   .steps,
   .faq-list,
   .offer-layout,
   .fit-grid,
   .boundary-grid,
-  .person-block,
   .contact-section,
   .site-footer {
     grid-template-columns: 1fr;
@@ -859,7 +857,9 @@ input[type="checkbox"] {
 }
 
 @media (max-width: 780px) {
-  .hero {
+  .hero,
+  .proof-grid,
+  .person-block {
     grid-template-columns: 1fr;
   }
 }
