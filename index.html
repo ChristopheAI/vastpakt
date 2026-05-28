@@ -6,7 +6,7 @@
     <title>Vastpakt - Waar werk loskomt</title>
     <meta
       name="description"
-      content="Vastpakt maakt zichtbaar waar manueel werk, opvolging, bewijs en factuurmomenten vandaag loskomen tussen mail, Excel, CRM en geheugen."
+      content="Stuur één voorbeeld uit je werkdag: mail, offerte, Excel-rij, CRM-notitie of afspraak. Binnen 24 uur krijg je terug wat eerst zichtbaar moet worden."
     >
     <link rel="stylesheet" href="styles.css">
   </head>
@@ -14,9 +14,9 @@
     <header class="site-header" aria-label="Hoofdnavigatie">
       <a class="brand" href="#top" aria-label="Vastpakt start">Vastpakt</a>
       <nav class="nav-links" aria-label="Pagina onderdelen">
+        <a href="#check">Check</a>
         <a href="#voorbeelden">Voorbeelden</a>
         <a href="#scan">Eerste Zicht</a>
-        <a href="#check">Check</a>
         <a href="#contact">Contact</a>
       </nav>
     </header>
@@ -25,13 +25,13 @@
       <section class="hero section-band">
         <div class="hero-copy">
           <p class="eyebrow">Voor Vlaamse KMO's met manueel werk, losse tools en vergeten opvolging.</p>
-          <h1>Alles loopt. Tot iemand vraagt waar het staat.</h1>
+          <h1>Alles loopt.<br class="mobile-beat-break"> <span class="keep-together">Tot iemand</span> vraagt waar het staat.</h1>
           <p class="hero-lede">
-            Vastpakt maakt zichtbaar waar status, eigenaar, bewijs of volgende stap loskomt tussen mail, Excel, CRM, facturatie en geheugen.
+            Vastpakt kijkt hoe het vandaag loopt. Offerte verstuurd. Akkoord of bewijs in mail of map. Dan zie je welke stap ontbreekt.
           </p>
-          <p class="hero-proofline">Eerst zien waar je staat. Meer zicht, niet meer papierwerk.</p>
+          <p class="hero-proofline">Eerst één werking zichtbaar maken.<br> <span class="keep-together">Dan pas</span> kiezen wat moet veranderen.</p>
           <div class="hero-actions" aria-label="Eerste acties">
-            <a class="button primary" href="#contact">Toon één situatie</a>
+            <a class="button primary" href="#contact">Stuur één voorbeeld</a>
             <a class="button secondary" href="#voorbeelden">Bekijk voorbeelden</a>
           </div>
           <p class="reassurance">
@@ -39,256 +39,265 @@
           </p>
         </div>
 
-        <aside class="situation-card hero-card" aria-label="Voorbeeld van een Situatiekaart">
-          <p class="card-label">Situatiekaart</p>
-          <div class="sentence-stack">
-            <span>Offerte verstuurd.</span>
-            <strong>Niemand ziet wie opvolgt.</strong>
+        <aside class="situation-card hero-card" aria-label="Voorbeeld van één offerte">
+          <p class="card-label">Voorbeeld van één offerte</p>
+          <div class="scene-contrast" aria-label="Voor en na één offerte">
+            <div>
+              <span class="contrast-label">Vandaag</span>
+              <p>Je stuurt een offerte.</p>
+              <strong>"Ik hoor het wel."</strong>
+            </div>
+            <div>
+              <span class="contrast-label">Daarna</span>
+              <p>Wat gebeurt er daarna?</p>
+              <strong>Open, wachten, opvolgen of afsluiten.</strong>
+            </div>
           </div>
-          <dl class="state-list">
+          <div class="work-trace" aria-label="Werkspoor nadat de offerte verstuurd is">
+            <span>Offerte verstuurd</span>
+            <span>Ontvangen?</span>
+            <span>Nog vragen?</span>
+            <span class="trace-missing">Wachten?</span>
+            <span>Afsluiten?</span>
+          </div>
+          <dl class="state-list hero-state-list">
             <div>
               <dt>Ingang</dt>
-              <dd>Mail van klant</dd>
+              <dd>Offerte verstuurd</dd>
             </div>
             <div>
-              <dt>Status</dt>
-              <dd>Wacht op akkoord</dd>
+              <dt>Werkvraag</dt>
+              <dd>Wat gebeurt er daarna?</dd>
             </div>
             <div>
-              <dt>Eigenaar</dt>
-              <dd class="missing-text">Ontbreekt</dd>
+              <dt>Open</dt>
+              <dd class="missing-text">Nog geen spoor</dd>
             </div>
             <div>
-              <dt>Bewijs</dt>
-              <dd>Offerte + maildraad</dd>
-            </div>
-            <div>
-              <dt>Akkoord</dt>
-              <dd>Nog niet zichtbaar</dd>
-            </div>
-            <div>
-              <dt>Volgende stap</dt>
-              <dd>Vrijdag opvolgen</dd>
-            </div>
-            <div>
-              <dt>Factuurmoment</dt>
-              <dd>Pas na akkoord</dd>
+              <dt>Mogelijke stap</dt>
+              <dd>Opvolgen of afsluiten</dd>
             </div>
           </dl>
-          <p class="card-footer">Als Sarah wegvalt: niemand ziet het spoor.</p>
+          <div class="leak-strip" aria-label="Kleine signalen die opstapelen">
+            <span><strong>1</strong> offerte</span>
+            <span><strong>1</strong> onbeantwoorde mail</span>
+            <span><strong>?</strong> klant reageert nog</span>
+            <span><strong>0</strong> afsluiting zichtbaar</span>
+          </div>
+          <p class="card-footer">Welke offertes zijn nog lopende? Welke laatste stap is genomen? Dat wil je zien voordat je iets verandert.</p>
+        </aside>
+      </section>
+
+      <section id="check" class="section-band check-section">
+        <div class="section-heading">
+          <p class="eyebrow">Waar gaat tijd verloren?</p>
+          <h2>Vink aan waar je vandaag zoekt, overneemt of rondvraagt.</h2>
+          <p>
+            Vijf signalen. Waar moet je telkens zoeken, overtypen of rondvragen?
+          </p>
+        </div>
+
+        <form class="check-form" id="loshangCheck">
+          <label><input type="checkbox" name="signal"> <span>Ik typ dezelfde gegevens opnieuw over tussen mail, Excel, CRM, facturatie of Word.</span></label>
+          <label><input type="checkbox" name="signal"> <span>Ik moet zoeken welke offerte, aanvraag of taak nog wacht op antwoord.</span></label>
+          <label><input type="checkbox" name="signal"> <span>Werk is klaar, maar het factuurmoment of bewijsstuk zit nog ergens anders.</span></label>
+          <label><input type="checkbox" name="signal"> <span>Een afspraak of akkoord staat in mail of Teams, maar niet naast het dossier.</span></label>
+          <label><input type="checkbox" name="signal"> <span>Als één persoon er niet is, weet niemand welke volgende stap hoort te gebeuren.</span></label>
+          <output class="check-result" id="checkResult">Vink aan wat herkenbaar is. Eén vinkje is al genoeg om één plek met tijdverlies klein te bekijken.</output>
+        </form>
+
+        <aside class="practice-proof" aria-label="Praktijkvoorbeeld BAVAST">
+          <p class="source-label">Voorbeeld uit de praktijk</p>
+          <h3>Van Plaud-transcript naar Word-rapport.</h3>
+          <p>
+            Bij BAVAST wordt rapportinhoud uit een Plaud-transcript klaargezet in het bestaande Word-template. De controle blijft bij de plaatsbeschrijver.
+          </p>
         </aside>
       </section>
 
       <section id="voorbeelden" class="section-band proof-section">
         <div class="section-heading">
-          <p class="eyebrow">Herkenbare situaties</p>
-          <h2>Drie plekken waar werk vaak loskomt.</h2>
+          <p class="eyebrow">Praktijkvoorbeelden</p>
+          <h2>Vier voorbeelden waar losse info, stappen of documenten bij elkaar moesten komen.</h2>
         </div>
+
+        <figure class="examples-visual">
+          <img
+            src="assets/images/vastpakt-examples-work-objects-loop92.jpg"
+            alt="Anonieme werkobjecten op een bureau met dashboard, lijst, rapport en websiteblokken"
+            width="1536"
+            height="1024"
+            loading="lazy"
+            decoding="async"
+          >
+        </figure>
 
         <div class="proof-grid">
           <article class="proof-card">
-            <p class="source-label">Offerte</p>
-            <h3>Offerte verstuurd. Niemand ziet wie opvolgt.</h3>
+            <p class="source-label">Praktijkcase: werkplaatsvoorraad</p>
+            <h3>Van losse telling naar voorraad in kg.</h3>
+            <p class="card-scene">Een poederlakkerij moest snel zien wat in huis was, wat bijna op was en hoeveel kg na verbruik overbleef.</p>
             <dl>
               <div>
-                <dt>Voor</dt>
-                <dd>Prijs in Excel, offerte in mail, opvolging in iemands hoofd.</dd>
+                <dt>Waar het loskomt</dt>
+                <dd>RAL-code, merk, laktype, gewicht en status zaten niet in één bruikbaar overzicht.</dd>
               </div>
               <div>
-                <dt>Ontbreekt</dt>
-                <dd>Status, eigenaar, volgende stap en reden van wachten.</dd>
+                <dt>Wat zichtbaar werd</dt>
+                <dd>Een webapp met voorraadlijst, nieuw poeder toevoegen, verbruik registreren en dashboard.</dd>
               </div>
               <div>
-                <dt>Na</dt>
-                <dd>Morgen vraagt iemand waar ze staat. Je kunt wijzen.</dd>
+                <dt>Wat veranderde</dt>
+                <dd>De voorraad wordt vandaag nog opgevolgd in de dagelijkse werking.</dd>
+              </div>
+              <div>
+                <dt>Vervolg</dt>
+                <dd>Eerst gewicht en verbruik laten kloppen, daarna pas extra schermen.</dd>
               </div>
             </dl>
           </article>
 
           <article class="proof-card">
-            <p class="source-label">Factuur</p>
-            <h3>Het werk is klaar. De factuur niet.</h3>
+            <p class="source-label">Praktijkcase: merkwebsite</p>
+            <h3>Goedgekeurd design.<br class="mobile-beat-break"> Beheerbare blokken.</h3>
+            <p class="card-scene">De site moest aangepast kunnen worden zonder dat elke beheerder opnieuw aan het ontwerp kwam.</p>
             <dl>
               <div>
-                <dt>Voor</dt>
-                <dd>Planning zegt afgerond, bewijs zit in een map, boekhouding wacht.</dd>
+                <dt>Waar het loskomt</dt>
+                <dd>Design, modelinformatie, dealerdata en aanvragen moesten samen beheersbaar blijven in WordPress.</dd>
               </div>
               <div>
-                <dt>Ontbreekt</dt>
-                <dd>Het moment waarop werk boekhoudklaar wordt.</dd>
+                <dt>Wat zichtbaar werd</dt>
+                <dd>Welke onderdelen vaste plugins of blokken moesten worden: configurator, dealerzoeker, secties, vertalingen en admin.</dd>
               </div>
               <div>
-                <dt>Na</dt>
-                <dd>Oplevering, akkoord en factuurtrigger hangen samen.</dd>
+                <dt>Waarom dit telt</dt>
+                <dd>Beheerders kunnen inhoud aanpassen zonder het goedgekeurde ontwerp telkens opnieuw open te trekken.</dd>
+              </div>
+              <div>
+                <dt>Vervolg</dt>
+                <dd>Lokale validatie, verpakte pluginbestanden en daarna pas upload naar WordPress.</dd>
               </div>
             </dl>
           </article>
 
           <article class="proof-card">
-            <p class="source-label">Overdracht</p>
-            <h3>Sarah weet het. Sarah is er niet.</h3>
+            <p class="source-label">Praktijkcase: mailboxen</p>
+            <h3>Drie mailboxen.<br class="mobile-beat-break"> Eén lijst per mailbox.</h3>
+            <p class="card-scene">De vraag was eenvoudig: welke e-mailadressen kwamen in elke mailbox terug, inkomend of uitgaand?</p>
             <dl>
               <div>
-                <dt>Voor</dt>
-                <dd>Losse tools, workarounds en uitzonderingen blijven in één hoofd.</dd>
+                <dt>Waar het loskomt</dt>
+                <dd>De adressen zaten verspreid over drie individuele mailboxen met hetzelfde domein.</dd>
               </div>
               <div>
-                <dt>Ontbreekt</dt>
-                <dd>Een overdraagbaar spoor buiten die persoon.</dd>
+                <dt>Wat zichtbaar werd</dt>
+                <dd>Per mailbox: uniek adres, inkomend, uitgaand, eerste keer gezien en laatste keer gezien.</dd>
               </div>
               <div>
-                <dt>Na</dt>
-                <dd>Welke mail, afspraak, versie en volgende stap nodig zijn, ligt op tafel.</dd>
+                <dt>Wat veranderde</dt>
+                <dd>Uit 76.307 berichten kwam een Excel-bestand met drie tabbladen en 9.743 adressen per mailbox opgeteld.</dd>
+              </div>
+              <div>
+                <dt>Vervolg</dt>
+                <dd>De klant kon daarna zelf filteren en snoeien, zonder namen of bedrijven te moeten laten verrijken.</dd>
+              </div>
+            </dl>
+          </article>
+
+          <article class="proof-card proof-card-case">
+            <p class="source-label">Praktijkcase: Word-rapport</p>
+            <h3>Van transcript naar gecontroleerd Word-rapport.</h3>
+            <p class="card-scene">Een plaatsbeschrijving start als Plaud-transcript. Vroeger moest de inhoud handmatig naar een Word-rapport.</p>
+            <dl>
+              <div>
+                <dt>Waar het loskomt</dt>
+                <dd>Transcript, ruimtes, vaststellingen en rapportstructuur moeten telkens opnieuw in het juiste document terechtkomen.</dd>
+              </div>
+              <div>
+                <dt>Wat zichtbaar werd</dt>
+                <dd>Welke stappen nodig zijn: transcript lezen, ruimtes herkennen, rapportinhoud maken, Word-document voorbereiden en controle houden.</dd>
+              </div>
+              <div>
+                <dt>Wat veranderde</dt>
+                <dd>De rapportinhoud wordt klaargezet in het bestaande BAVAST Word-template. De plaatsbeschrijver controleert het resultaat.</dd>
+              </div>
+              <div>
+                <dt>Waarom dit telt</dt>
+                <dd>Hetzelfde dossierwerk blijft herkenbaar, maar het overzetten naar Word hangt niet meer aan copy-paste.</dd>
               </div>
             </dl>
           </article>
         </div>
       </section>
 
-      <section class="section-band problem-section">
-        <div class="section-heading">
-          <p class="eyebrow">Waar het manuele werk begint</p>
-          <h2>Copy-paste, dubbele invoer en vergeten opvolging zijn signalen.</h2>
+      <section class="section-band scroller-cta" aria-label="Tussenstap naar contact">
+        <div class="scroller-cta-copy">
+          <p class="eyebrow">Eerste stap</p>
+          <h2>Herken je één plek waar dit bij jou gebeurt?</h2>
           <p>
-            De vraag is niet meteen welke tool je nodig hebt. De vraag is waar status, bewijs of volgende stap onderweg loskomt.
+            De voorbeelden hierboven gaan telkens over iets concreets: voorraad, websitebeheer, mailboxen of een rapport.
+          </p>
+          <p>
+            Jouw voorbeeld mag even klein zijn: één mail, offerte, Excel-rij, CRM-notitie of Word-document waar je opnieuw moet zoeken, overtypen of rondvragen.
           </p>
         </div>
-
-        <ul class="problem-list">
-          <li>Een klant vraagt iets aan, maar niemand ziet wie volgt.</li>
-          <li>Een akkoord bestaat wel, maar niemand ziet nog waarop het steunde.</li>
-          <li>Een klantmail hoort bij een job, maar de factuurroute zit in een ander systeem.</li>
-          <li>Een planning lijkt klaar, tot iemand vraagt waar de laatste wijziging staat.</li>
-        </ul>
-
-        <p class="dependency-question">
-          Blijft dit stuk werking zichtbaar als de enige persoon die het kent er vandaag niet is?
-        </p>
-      </section>
-
-      <section class="section-band research-section">
-        <div class="section-heading">
-          <p class="eyebrow">Wat samen moet blijven</p>
-          <h2>Het werk staat ergens. De context staat vaak ergens anders.</h2>
-          <p>
-            Een factuur, mail of planning vertelt zelden heel het verhaal. De afspraak erachter moet vindbaar blijven.
-          </p>
+        <div class="scroller-actions" aria-label="Volgende acties">
+          <a class="button primary" href="#contact">Stuur dat voorbeeld</a>
+          <a class="button secondary" href="#scan">Wat wordt duidelijk?</a>
         </div>
-
-        <div class="research-grid">
-          <article>
-            <h3>Status</h3>
-            <p>Wat is open, wie bezit het, wat moet volgen?</p>
-          </article>
-          <article>
-            <h3>Context</h3>
-            <p>Welke afspraak, versie, uitzondering of bron hoort erbij?</p>
-          </article>
-          <article>
-            <h3>Voorwaarden</h3>
-            <p>Wanneer mag werk doorlopen, pauzeren, gefactureerd of gecorrigeerd worden?</p>
-          </article>
-          <article>
-            <h3>Bewijsroute</h3>
-            <p>Wat gebeurde al, welk bewijs bestaat, en wat is de volgende stap als het schuurt?</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="section-band stop-section">
-        <div class="section-heading">
-          <p class="eyebrow">Niet alleen de happy path</p>
-          <h2>Een stopmoment is ook een werkstap.</h2>
-          <p>
-            Veel bedrijven zien hoe werk start. Minder bedrijven zien wat er gebeurt wanneer werk stopt, pauzeert, schuift of blijft hangen.
-          </p>
-        </div>
-
-        <ul class="problem-list">
-          <li>Een project stopt, maar niemand ziet wat geleverd is en wat open staat.</li>
-          <li>Een goedkeurder valt weg, maar het akkoord hing aan die persoon.</li>
-          <li>Een klant betwist iets, maar afspraak, bewijs en factuur liggen niet naast elkaar.</li>
-          <li>Een freeze wordt aangekondigd, maar nieuwe vragen blijven binnenkomen.</li>
-        </ul>
       </section>
 
       <section id="scan" class="section-band offer-section">
         <div class="offer-layout">
           <div>
-            <p class="eyebrow">Eerste Zicht-scan</p>
-            <h2>Je moet nog niet klaar zijn voor een CRM. Eén concrete situatie is genoeg.</h2>
+            <p class="eyebrow">Eerste Zicht</p>
+            <h2>Eén voorbeeld op tafel, voordat je iets verandert.</h2>
             <p>
-              We volgen waar info binnenkomt, opnieuw wordt overgenomen, blijft wachten of van tool verandert.
+              Toon één voorbeeld uit je werkdag. Dan kijken we wat daar loskomt en welke vraag eerst zichtbaar moet worden.
             </p>
+            <div class="exchange-card">
+              <div>
+                <h3>Jij toont</h3>
+                <p>één mail, offerte, Excel-rij, CRM-notitie of afspraak waar vandaag iets blijft hangen.</p>
+              </div>
+              <div>
+                <h3>Wij sturen terug</h3>
+                <p>of dit past, welke vraag eerst zichtbaar moet worden en wat de kleine volgende stap is.</p>
+              </div>
+            </div>
+            <div class="offer-actions" aria-label="Actie na Eerste Zicht">
+              <a class="button primary" href="#contact">Stuur één voorbeeld</a>
+            </div>
           </div>
           <div class="deliverables">
-            <h3>Wat je krijgt</h3>
+            <h3>Wat wordt duidelijk</h3>
             <ul>
-              <li>Een Situatiekaart.</li>
-              <li>Een lijst waar status, eigenaar, bewijs of volgende stap loskomt.</li>
-              <li>Een overdraagbaarheidscheck.</li>
-              <li>Een klein voor/na-beeld.</li>
-              <li>Een voorstel voor één eerste prioriteit.</li>
+              <li>waar je voorbeeld blijft hangen;</li>
+              <li>welke vraag eerst zichtbaar moet worden;</li>
+              <li>of dit past als volgende stap.</li>
             </ul>
           </div>
         </div>
-      </section>
-
-      <section id="check" class="section-band check-section">
-        <div class="section-heading">
-          <p class="eyebrow">Loshang-check</p>
-          <h2>Vijf vragen om te voelen of werk te veel op geheugen draait.</h2>
-        </div>
-
-        <form class="check-form" id="loshangCheck">
-          <label><input type="checkbox" name="signal"> Wie eigenaar is van de volgende stap, is niet altijd zichtbaar.</label>
-          <label><input type="checkbox" name="signal"> De status staat in mails, WhatsApp, Excel of geheugen.</label>
-          <label><input type="checkbox" name="signal"> Als één persoon er niet is, moet iemand zoeken of navragen.</label>
-          <label><input type="checkbox" name="signal"> Een reminder zit vooral in iemands hoofd.</label>
-          <label><input type="checkbox" name="signal"> Iemand anders kan dit morgen niet vlot volgen.</label>
-          <output class="check-result" id="checkResult">Vink aan wat herkenbaar is.</output>
-        </form>
-      </section>
-
-      <section class="section-band qualification-section">
-        <div class="section-heading">
-          <p class="eyebrow">Past dit?</p>
-          <h2>Niet elk manueel stuk moet je automatiseren. Sommige stukken moet je eerst begrijpen.</h2>
-        </div>
-
-        <div class="fit-grid">
-          <div>
-            <h3>Wel passend als</h3>
-            <ul>
-              <li>opvolging verspreid zit over mailbox, telefoon, WhatsApp of geheugen;</li>
-              <li>mensen telkens opnieuw zoeken naar status, bewijs of eigenaar;</li>
-              <li>je eerst wilt zien wat loshangt voor je een tool of automatisering kiest.</li>
-            </ul>
-          </div>
-          <div>
-            <h3>Niet passend als</h3>
-            <ul>
-              <li>je juridisch of boekhoudkundig advies zoekt;</li>
-              <li>je meteen een nieuwe tool wilt zonder de werking te bekijken;</li>
-              <li>alles vandaag bij één persoon zit en de schaal nog geen zichtbaarheid vraagt.</li>
-            </ul>
-          </div>
-        </div>
-        <p class="boundary-note">
-          Geen nieuwe tool om je onduidelijkheid in te bewaren. Wel: zichtbaar maken welke afspraak, status, eigenaar, bewijs en volgende stap bij het werk horen.
-        </p>
       </section>
 
       <section id="contact" class="section-band contact-section">
         <div class="contact-copy">
           <p class="eyebrow">Eerste stap</p>
-          <h2>Toon waar het vandaag blijft hangen.</h2>
+          <h2>Stuur één voorbeeld uit je werkdag.</h2>
           <p>
-            Stuur één concrete situatie met manueel werk, vergeten opvolging, dubbele invoer of losse tools.
+            Eén echte plek met tijdverlies is genoeg om te starten.
           </p>
-          <p>
-            Je krijgt terug of dit geschikt is voor een Eerste Zicht-scan, en welk stuk we eerst zouden bekijken.
-          </p>
+          <div class="contact-exchange" aria-label="Wat je stuurt en wat je terugkrijgt">
+            <div>
+              <h3>Stuur dit</h3>
+              <p>Een mail, offerte, Excel-rij, CRM-notitie, Word-document of afspraak. Iets waar je opnieuw moet zoeken, overnemen of uitleg vragen.</p>
+            </div>
+            <div>
+              <h3>Krijg dit terug</h3>
+              <p>Binnen 24 uur: of dit past, waar je voorbeeld blijft hangen, en welke vraag eerst zichtbaar moet worden.</p>
+            </div>
+          </div>
         </div>
         <form class="contact-form">
           <label>
@@ -300,14 +309,201 @@
             <input type="email" name="email" autocomplete="email">
           </label>
           <label>
-            Waar blijft iets vandaag hangen?
-            <textarea name="situation" rows="5"></textarea>
+            Welk voorbeeld wil je tonen?
+            <textarea name="situation" rows="5" placeholder="Bijvoorbeeld: een offerte is verstuurd, maar ik zie niet wie opvolgt of welke laatste stap genomen is."></textarea>
           </label>
-          <button class="button primary" type="button">Leg je situatie voor</button>
+          <button class="button primary" type="button">Stuur dit voorbeeld</button>
         </form>
       </section>
+
+      <section class="section-band person-section" aria-label="Wie je voorbeeld bekijkt">
+        <div class="person-block">
+          <figure class="person-photo">
+            <img
+              src="assets/images/christophe-vastpakt-person-block-loop57.jpg"
+              alt="Christophe bekijkt een voorbeeld op zijn laptop"
+              width="1024"
+              height="1536"
+              loading="lazy"
+            >
+          </figure>
+          <div class="person-content">
+            <div class="person-intro">
+              <p class="eyebrow">Wie kijkt mee?</p>
+              <h2>Je voorbeeld komt rechtstreeks bij Christophe terecht.</h2>
+              <p>
+                Christophe is zaakvoerder van Vastpakt. Hij bekijkt zelf waar je vandaag zoekt, overneemt of rondvraagt.
+              </p>
+            </div>
+            <div class="person-facts" aria-label="Wat er gebeurt nadat je een voorbeeld stuurt">
+              <article>
+                <h3>Binnen 24 uur</h3>
+                <p>Christophe antwoordt zelf op het voorbeeld dat je stuurt.</p>
+              </article>
+              <article>
+                <h3>Eerlijk ja of nee</h3>
+                <p>Past het niet, dan zeggen we dat.</p>
+              </article>
+              <article>
+                <h3>Eerst dat ene voorbeeld</h3>
+                <p>Eén concrete plek met tijdverlies volstaat.</p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-band problem-section">
+        <div class="section-heading">
+          <p class="eyebrow">Waarom eerst zichtbaar maken?</p>
+          <h2>Copy-paste, dubbele invoer en vergeten opvolging tonen waar je moet kijken.</h2>
+          <p>
+            De vraag is niet meteen welke tool je nodig hebt. Eerst moet je zien waar status, bewijs of volgende stap loskomt.
+          </p>
+        </div>
+
+        <ul class="problem-list">
+          <li>Een klant vraagt iets aan, maar niemand ziet wie volgt.</li>
+          <li>Een akkoord bestaat wel, maar niemand ziet nog waarop het steunde.</li>
+          <li>Een klantmail hoort bij een job, maar de factuurroute zit in een ander systeem.</li>
+          <li>Een planning lijkt klaar, tot iemand vraagt waar de laatste wijziging staat.</li>
+        </ul>
+
+        <p class="dependency-question">
+          Blijft dit stuk werk zichtbaar als de enige persoon die het kent er vandaag niet is?
+        </p>
+      </section>
+
+      <section class="section-band method-section">
+        <div class="section-heading">
+          <p class="eyebrow">Zo kijken we</p>
+          <h2>Eerst zien waar het manuele werk ontstaat.</h2>
+          <p>
+            Veel KMO's willen minder manueel werk. Terecht. Maar eerst moet zichtbaar zijn waar dat werk ontstaat: in mail, Excel, CRM, Teams, afspraken of geheugen.
+          </p>
+        </div>
+
+        <ol class="steps">
+          <li>
+            <strong>Je toont één normale situatie.</strong>
+            Een aanvraag, offerte, akkoord, planning, factuurmoment of overdracht die vandaag te veel rondvraag vraagt.
+          </li>
+          <li>
+            <strong>We volgen waar info binnenkomt, wacht of opnieuw wordt overgenomen.</strong>
+            Waar komt ze binnen, waar wordt ze opnieuw overgenomen, waar blijft ze wachten? Zo kan iemand anders het morgen ook volgen.
+          </li>
+          <li>
+            <strong>We leggen de losse stukken naast elkaar.</strong>
+            Status, eigenaar, bewijs, afspraak, voorwaarde en volgende stap komen op één spoor.
+          </li>
+          <li>
+            <strong>Daarna pas kiezen we wat verandert.</strong>
+            Eerst het stuk waar iemand morgen opnieuw zou moeten zoeken.
+          </li>
+        </ol>
+      </section>
+
+      <section class="section-band connection-section">
+        <div class="section-heading">
+          <p class="eyebrow">Wat samen moet blijven</p>
+          <h2>Het werk staat ergens.<br> De context staat vaak ergens anders.</h2>
+          <p>
+            Een factuur, mail of planning vertelt zelden heel het verhaal. De afspraak erachter moet vindbaar blijven.
+          </p>
+        </div>
+
+        <div class="connection-grid">
+          <article>
+            <h3>Status</h3>
+            <p>Wat is open, wie is aan zet, wat moet volgen?</p>
+          </article>
+          <article>
+            <h3>Context</h3>
+            <p>Welke afspraak, versie, uitzondering of bron hoort erbij?</p>
+          </article>
+          <article>
+            <h3>Voorwaarden</h3>
+            <p>Wanneer mag werk doorlopen, pauzeren, gefactureerd of gecorrigeerd worden?</p>
+          </article>
+          <article>
+            <h3>Bewijsroute</h3>
+            <p>Wat gebeurde al, welk bewijs bestaat, en wat toon je als het schuurt?</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="past-dit" class="section-band qualification-section">
+        <div class="section-heading">
+          <p class="eyebrow">Past dit?</p>
+          <h2>Twijfel je wat Vastpakt wel en niet doet?<br> Hou het klein.</h2>
+          <p>
+            Eén losse situatie is genoeg om eerlijk te zeggen of dit past.
+          </p>
+        </div>
+
+        <div class="boundary-grid">
+          <article>
+            <h3>Wel</h3>
+            <ul>
+              <li>één stuk werk zichtbaar maken;</li>
+              <li>afspraak, status, eigenaar, bewijs en volgende stap naast elkaar leggen;</li>
+              <li>één plek kiezen om eerst helder te maken.</li>
+            </ul>
+          </article>
+          <article>
+            <h3>Niet</h3>
+            <ul>
+              <li>juridisch advies;</li>
+              <li>boekhoudadvies;</li>
+              <li>een nieuwe tool verkopen;</li>
+              <li>alles automatiseren zonder eerst te zien wat onduidelijk is.</li>
+            </ul>
+          </article>
+        </div>
+        <p class="boundary-note">
+          Twijfel je of dit past? Stuur één voorbeeld. Dan krijg je terug wat opvalt in jouw voorbeeld.
+        </p>
+      </section>
+
+      <section class="section-band faq-section">
+        <div class="section-heading">
+          <p class="eyebrow">Veelgestelde vragen</p>
+          <h2>Helder genoeg om te beslissen of dit past.</h2>
+        </div>
+
+        <div class="faq-list">
+          <article>
+            <h3>Is dit automatisering?</h3>
+            <p>Niet als eerste stap. Soms komt automatisering later. Eerst moet zichtbaar zijn wat er vandaag eigenlijk moet blijven volgen.</p>
+          </article>
+          <article>
+            <h3>Moeten we van tool veranderen?</h3>
+            <p>Nee. Vaak zit het probleem niet in de tool, maar tussen de tool, de mail, de afspraak en iemands geheugen.</p>
+          </article>
+          <article>
+            <h3>Wat als we nog niet weten waar het probleem zit?</h3>
+            <p>Dan hoef je dat niet eerst uit te zoeken. Eén normale situatie is genoeg om te zien waar status, eigenaar, bewijs of volgende stap loskomt.</p>
+          </article>
+          <article>
+            <h3>Is dit juridisch of boekhoudkundig advies?</h3>
+            <p>Nee. Vastpakt geeft geen juridisch of boekhoudkundig advies. We maken wel zichtbaar welke afspraak, bewijsroute, factuurtrigger of overdracht vandaag onduidelijk is.</p>
+          </article>
+        </div>
+      </section>
+
     </main>
 
-    <script src="script.js"></script>
+    <footer class="site-footer" aria-label="Footer">
+      <a class="brand" href="#top" aria-label="Vastpakt start">Vastpakt</a>
+      <p>Eerst één voorbeeld uit je werkdag bekijken. Dan pas kiezen wat moet veranderen.</p>
+      <nav class="footer-links" aria-label="Footer navigatie">
+        <a href="#check">Check</a>
+        <a href="#voorbeelden">Voorbeelden</a>
+        <a href="#scan">Eerste Zicht</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </footer>
+
+    <script src="script.js?v=loop95"></script>
   </body>
 </html>

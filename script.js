@@ -2,12 +2,12 @@ const form = document.querySelector("#loshangCheck");
 const result = document.querySelector("#checkResult");
 
 const messages = [
-  "Vink aan wat herkenbaar is.",
-  "Er zit één los punt in. Klein genoeg om zichtbaar te maken.",
-  "Er hangen twee punten los. Dit is waarschijnlijk meer dan gewoon drukte.",
-  "Drie signalen. Hier draait werk vermoedelijk op geheugen of losse afspraken.",
-  "Vier signalen. Dit is een sterke kandidaat voor een Eerste Zicht-scan.",
-  "Vijf signalen. Begin niet met een tool. Begin met één Situatiekaart."
+  "Vink aan wat herkenbaar is. Eén vinkje is al genoeg om één plek met tijdverlies klein te bekijken.",
+  "Eén plek met tijdverlies. Kies één voorbeeld en kijk wat je telkens opnieuw moet zoeken of overnemen.",
+  "Twee plekken. Dit lijkt niet alleen drukte, maar werk dat tussen tools of mensen blijft hangen.",
+  "Drie plekken. Start niet met een nieuwe tool. Start met één situatie waar zoeken of copy-paste terugkomt.",
+  "Vier plekken. Neem één echte mail, offerte, Excel-rij of dossier mee en leg het spoor ernaast.",
+  "Vijf plekken. Dit is waarschijnlijk het eerste stuk werk dat zichtbaar moet worden voordat je iets verandert."
 ];
 
 function updateResult() {
