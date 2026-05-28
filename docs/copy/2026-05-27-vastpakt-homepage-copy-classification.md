@@ -808,3 +808,21 @@ Purpose: internal trace for the homepage copy pass. These labels are not public 
 - Public copy impact: no visible copy changed.
 - Classification: visual hierarchy correction / trust-module rhythm / external inspiration translated into Vastpakt person/contact layout / no new public claim.
 - Boundary: no extra biography, testimonials, stats, social proof, client logos, or contact-form destination were added.
+
+## Loop 98 Lower Support Module Rhythm
+
+- Source used: Land-book how-it-works, value-proposition, FAQ, footer, resources and mobile scans plus current rendered Vastpakt lower-route measurement after loop 97.
+- Verdict: the remaining design weakness was not the hero, examples or person block. The method and connection sections collapsed too early and became a long support route after contact.
+- Changed only the responsive breakpoint: method steps and connection cards now use two columns on tablet/app-browser widths and stack only below `780px`.
+- Reason: these blocks are support modules. They should scan as grouped evidence/explanation, not read like a second long page after the visitor already reached the contact route.
+- Public copy impact: no visible copy changed.
+- Classification: visual hierarchy correction / support-module rhythm / external inspiration translated into Vastpakt section layout / no new public claim.
+- Boundary: no Land-book visual style, new proof claim, testimonial, logo, stat, footer expansion or contact-form destination was added.
+
+## Loop 99 Land-book CTA Hard Stop
+
+- Source used: Land-book pricing and call-to-action scans, rendered Vastpakt loop 98, and local inspection of the contact form and `script.js`.
+- Verdict: the next weakness is not another design polish pass. The page now leads clearly to the contact action, but that action is not wired to a real submit route.
+- Public homepage copy stayed unchanged.
+- Classification: contact-path implementation blocker / CTA truth risk / hold.
+- Boundary: do not add more CTA design, social proof, reassurance, or visual polish to compensate for a form button that does not submit. Confirm the real destination first, then finish the form or replace it with a truthful contact route.

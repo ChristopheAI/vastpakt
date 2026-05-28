@@ -830,8 +830,6 @@ input[type="checkbox"] {
   }
 
   .scroller-cta,
-  .connection-grid,
-  .steps,
   .faq-list,
   .offer-layout,
   .fit-grid,
@@ -839,6 +837,11 @@ input[type="checkbox"] {
   .contact-section,
   .site-footer {
     grid-template-columns: 1fr;
+  }
+
+  .connection-grid,
+  .steps {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .person-photo img {
@@ -859,7 +862,9 @@ input[type="checkbox"] {
 @media (max-width: 780px) {
   .hero,
   .proof-grid,
-  .person-block {
+  .person-block,
+  .connection-grid,
+  .steps {
     grid-template-columns: 1fr;
   }
 }
