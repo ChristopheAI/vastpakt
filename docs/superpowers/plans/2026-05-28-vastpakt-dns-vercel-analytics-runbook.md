@@ -255,11 +255,11 @@ https://www.vastpakt.be
 
 ## Task 9: Set Up Self-Hosted Analytics Route
 
-**Status:** Pending
+**Status:** Done
 
 **Default recommendation:**
 
-Start with Plausible CE on:
+Use the existing self-hosted Umami stack on Proxmox CT `2026`, exposed through the existing Cloudflare Tunnel in CT `2025`:
 
 ```text
 analytics.vastpakt.be
@@ -272,18 +272,21 @@ analytics.vastpakt.be
 
 **Infrastructure decision:**
 
-- Caddy direct TLS: Cloudflare `analytics` record should usually be DNS-only.
-- Cloudflare Tunnel: create a tunnel route for `analytics.vastpakt.be` and keep Proxmox origin private.
+- Cloudflare DNS: proxied `analytics.vastpakt.be` CNAME to the existing tunnel target.
+- Cloudflare Tunnel: `/etc/cloudflared/config.yml` routes `analytics.vastpakt.be` to `http://192.168.0.139:3000`.
+- Umami tracker script: `https://analytics.vastpakt.be/cvh-insights`.
 
-**Do not do yet:**
+**Validation:**
 
-Do not add tracking script to the website until analytics is reachable and stable.
+- `https://analytics.vastpakt.be/` returns HTTP 200.
+- `https://analytics.vastpakt.be/cvh-insights` returns HTTP 200.
+- `https://analytics.vastpakt.be/api/gather` accepts events.
 
 ---
 
 ## Task 10: Add Analytics Script To Vastpakt Site
 
-**Status:** Pending
+**Status:** Done
 
 **Prerequisites:**
 
@@ -301,6 +304,12 @@ Do not add tracking script to the website until analytics is reachable and stabl
 - Confirm one visit appears in analytics.
 - Confirm no cookie banner is needed for the chosen configuration, or add proper disclosure if needed.
 
+**Implemented:**
+
+- `index.html` loads the Umami tracker from `https://analytics.vastpakt.be/cvh-insights`.
+- Website id: `cdc47221-8fbd-4120-a10b-79a8ecd6e520`.
+- `script.js` emits `contact_form_submitted` after a successful contact form response.
+
 ---
 
 ## Status Log
@@ -309,3 +318,5 @@ Do not add tracking script to the website until analytics is reachable and stabl
 - 2026-05-28: Vimexx nameserver profile `Cloudflare vastpakt.be` created.
 - 2026-05-28: `vastpakt.be` linked to the Cloudflare nameserver profile in Vimexx.
 - 2026-05-28: Cloudflare check triggered; propagation still pending.
+- 2026-05-28: `analytics.vastpakt.be` added as Cloudflare Tunnel route to the existing Umami service.
+- 2026-05-28: Vastpakt Umami website created and live pageview verified for `vastpakt.be/#contact`.
