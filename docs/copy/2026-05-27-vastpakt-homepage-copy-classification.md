@@ -260,6 +260,76 @@ Purpose: internal trace for the homepage copy pass. These labels are not public 
 - What stayed: the underlying concern remains covered more safely by `Wat samen moet blijven`, `Past dit?`, and the FAQ boundary around legal/accounting advice.
 - Classification: removal / flow tightening; no new public claim.
 
+## Loop 100 Six Fingers Question-Mechanic Translation
+
+- Source used: `docs/research/2026-05-29-six-fingers-zicht-verruimen-autoresearch.md` plus the current homepage route.
+- Decision: borrow Six Fingers' architecture of service explanation through project questions, not its innovation-agency language.
+- Changed the method section from a four-step process list to three work questions: `Offerte verstuurd. Wie volgt op?`, `Klant akkoord. Waar zit het bewijs?`, and `Werk klaar. Welke stap moet nu volgen?`
+- Classification: these three questions are Vastpakt translations built from existing work objects already present in the homepage and local copy classification: offerte/opvolging, akkoord/bewijs, werk/factuurmoment/volgende stap.
+- Public guardrail: do not present these as measured client claims. They are question routes that explain how Vastpakt looks at one example.
+- Removed from this section: broader process wording around `manuele werk ontstaat` and the four-step internal method sequence. Reason: it explained the process, but the Six Fingers read showed that concrete questions make the service easier to understand.
+- Kept out of public copy: `Zicht verruimen`, `Branchmarking`, `What's Next`, `verbeeldingskracht`, `dominante logica`, `toekomstbestendig`, and `sectorgrenzen`.
+
+## Loop 101 Six Fingers Hero Question
+
+- Source used: Six Fingers' repeated project-question architecture from `docs/research/2026-05-29-six-fingers-zicht-verruimen-autoresearch.md`, plus the existing hero proof object around one offerte.
+- Changed the H1 from `Alles loopt. Tot iemand vraagt waar het staat.` to `Offerte verstuurd. Wie volgt op?`
+- Classification: `Offerte verstuurd` is existing hero proof-object language; `Wie volgt op?` is a Vastpakt translation of the captured work question `Wat gebeurt er daarna?` and existing opvolging/status source language.
+- Changed the hero lede to `Vastpakt volgt één voorbeeld uit je werkdag. Waar staat het nu? Welk bewijs hoort erbij? Welke stap ontbreekt?`
+- Classification: Vastpakt translation, built from existing public work objects and the proof-card language around status, bewijs, and volgende stap.
+- Changed `Eerst één werking zichtbaar maken` to `Eerst zien welke vraag speelt` in the hero proofline.
+- Classification: Vastpakt translation from the Six Fingers question-mechanic; keep under review because it is less source-near than the previous stable anchor, but more ordinary than `Eerst de vraag zichtbaar`.
+- Guardrail: this is not a new measured claim. It narrows the first viewport around the existing offerte proof object instead of introducing a new category or method name.
+
+## Loop 102 Hero Scope Correction
+
+- Source used: user correction that Vastpakt studies more than offertes, plus existing `één voorbeeld uit je werkdag` route in the contact, offer, meta description, and footer.
+- Verdict: loop 101 was too narrow as H1 positioning. The offerte should remain a hero proof object, not the whole public entry frame.
+- Changed the H1 from `Offerte verstuurd. Wie volgt op?` to `Eén voorbeeld uit je werkdag. Welke stap ontbreekt?`
+- Classification: light edit / Vastpakt translation from existing approved route language: `één voorbeeld uit je werkdag`, `welke stap ontbreekt`, and `volgende stap`.
+- Changed the lede to `Mail, Excel-rij, CRM-notitie, afspraak of document. Waar staat het nu? Welk bewijs hoort erbij? Wie moet volgen?`
+- Classification: market/workday object list from existing contact/meta copy plus Vastpakt translation around status, bewijs and opvolging.
+- Guardrail: the right hero level is broad workday object, not one specific offerte. The right proof level can still use the offerte card as one example.
+
+## Loop 103 Six Fingers Core Lesson Tightening
+
+- Source used: user confirmation that the Six Fingers core lesson is question-led service explanation, plus the loop 100 research note.
+- Changed the H1 from `Eén voorbeeld uit je werkdag. Welke stap ontbreekt?` to `Eén voorbeeld uit je werkdag. Welke vraag komt eerst?`
+- Classification: Vastpakt translation from the Six Fingers pattern of making abstract service value concrete through project questions. This is broader and more accurate than narrowing the first viewport to `stap`, while staying shorter than the draft `Welke vraag moet eerst zichtbaar worden?`.
+- Changed the lede to `Gaat het over opvolging, bewijs of de volgende stap? Vastpakt maakt zichtbaar waar je voorbeeld vandaag loskomt.`
+- Classification: work-object/question-route language built from existing Vastpakt fields and homepage copy. It is not a measured proof claim.
+- Guardrail: keep the hero proof card concrete, but let the H1 express the broader Vastpakt mechanism: finding the first question in one workday example.
+
+## Loop 104 Hero Stroef Language Exa Check
+
+- Source used: Exa search for Flemish/Belgian KMO process, opvolging, Excel, mail, CRM and facturatie language.
+- Useful source signals: Codelines uses `waar loopt het vandaag stroef?`, `duidelijkere opvolging`, `informatie ... verspreid zit over Excel, e-mail en losse systemen`; Odoo/ODIVE uses `opvolging ergens tussen CRM, offerte en factuur verdwijnt`, `wie doet wat, wanneer`; other sources use `blijven hangen`, `overzicht`, `dubbele invoer`, and `manuele stappen`.
+- Verdict: `Vastpakt maakt zichtbaar waar je voorbeeld vandaag loskomt` is understandable internally but too constructed as public hero copy.
+- Changed it to: `Vastpakt kijkt waar je voorbeeld vandaag stroef loopt.`
+- Classification: light edit / market-language move from `waar loopt het vandaag stroef?`, with `je voorbeeld` retained from the existing one-example route.
+- Guardrail: do not overuse `stroef` everywhere. It works in the hero because it is ordinary and broad; deeper sections can still use more precise words like `blijft hangen`, `wacht`, `opvolging`, `bewijs`, and `volgende stap`.
+
+## Loop 105 Hero Example Word Correction
+
+- Source used: user correction that `voorbeeld` does not fit in the hero sentence.
+- Verdict: correct. `Voorbeeld` works for CTA, contact and offer instructions, but in the hero lede it sounds as if the visitor has already selected or submitted an example.
+- Changed `Vastpakt kijkt waar je voorbeeld vandaag stroef loopt.` to `Vastpakt kijkt waar je werk vandaag stroef loopt.`
+- Classification: light edit / public-scope correction. `werk` is broader and fits the first-viewport promise better; the page can still ask for one example as the action.
+- Guardrail: keep `één voorbeeld` in the H1 and CTA because that is the entry route, but avoid saying `je voorbeeld` before the visitor has acted.
+
+## Loop 108 Christophe As The Person Who Vastpakt
+
+- Source used: user-provided captured sentence: `ik heb iemand nodig dat het eindelijk vastpakt`, refined by the user to `ik heb iemand nodig die dit vastpakt` and `die iemand ben ik, Christophe`.
+- Verdict: this is a stronger positioning core than another question-mechanic hero, but it must be tied immediately to concrete work objects so `vastpakt` does not become an unsupported generic verb.
+- Changed the H1 from `Eén voorbeeld uit je werkdag. Welke vraag komt eerst?` to `Iemand nodig die dit vastpakt?`
+- Classification: light edit of the captured user/customer sentence. It is not external market language, but it is direct project language approved as the core.
+- Changed the hero lede to name Christophe directly: `Dat is waar Vastpakt begint. Christophe kijkt mee waar opvolging, bewijs of de volgende stap vandaag blijft hangen.`
+- Classification: Vastpakt translation from the captured sentence plus existing work-object routes around opvolging, bewijs and volgende stap.
+- Changed the first check heading from broad time-loss language to `Vink aan waar Christophe eerst moet meekijken.`
+- Classification: small Vastpakt turn that makes the person-specific promise concrete in the first section.
+- Retired several remaining public `loskomt` uses while touching the same route, replacing them with `blijft hangen` or `onduidelijk wordt`.
+- Guardrail: do not expand this into biography. The public point is not Christophe as personality; it is Christophe as the named person who looks at the loose work object and answers what to do first.
+
 ## Loop 39 Person Trust Pattern Review
 
 - Source used: Exa search/fetch of solo consultant and founder-led service pages, plus local Swipefile proof-placement discipline.
