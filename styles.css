@@ -212,14 +212,11 @@ h3 {
 
 .scene-contrast > div {
   min-height: 126px;
-  padding: 14px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
+  padding: 14px 16px;
   background: var(--soft);
 }
 
 .scene-contrast > div:first-child {
-  border-color: rgba(180, 91, 56, 0.34);
   background: var(--soft-warm);
 }
 
@@ -403,6 +400,71 @@ dd {
   color: var(--accent-dark);
 }
 
+.first-response-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.74fr) minmax(0, 1.26fr);
+  gap: 18px;
+  align-items: start;
+  margin: -14px 0 22px;
+  padding: 20px;
+  border: 1px solid rgba(54, 88, 86, 0.32);
+  border-radius: 8px;
+  background: var(--soft);
+}
+
+.first-response-card h3 {
+  margin-bottom: 0;
+  font-size: clamp(1.18rem, 1.8vw, 1.55rem);
+}
+
+.first-response-card ol {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.first-response-card li {
+  padding: 14px 16px 14px 0;
+  border-left: 1px solid var(--line);
+  padding-left: 16px;
+  color: var(--muted);
+}
+
+.first-response-card li:first-child {
+  border-left: 0;
+  padding-left: 0;
+}
+
+.first-response-card strong {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+
+.check-action-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  align-items: center;
+  justify-content: space-between;
+  margin: -4px 0 22px;
+  padding: 16px;
+  border: 1px solid rgba(47, 111, 87, 0.34);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.check-action-row p {
+  max-width: 620px;
+  margin: 0;
+  color: var(--accent-dark);
+  font-weight: 850;
+}
+
 .card-scene {
   margin: 0 0 18px;
   padding: 14px;
@@ -412,6 +474,12 @@ dd {
   color: var(--ink);
   font-weight: 850;
   line-height: 1.28;
+}
+
+.connection-intro {
+  max-width: 70ch;
+  margin: 28px 0 18px;
+  color: var(--muted);
 }
 
 .connection-grid {
@@ -438,29 +506,6 @@ dd {
 .deliverables,
 .contact-form {
   padding: 22px;
-}
-
-.scroller-cta {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 24px;
-  align-items: center;
-  border-block: 1px solid var(--line);
-  background: var(--soft);
-}
-
-.scroller-cta-copy p {
-  max-width: 720px;
-  margin-bottom: 0;
-  color: var(--muted);
-  font-size: clamp(1.04rem, 1.5vw, 1.22rem);
-}
-
-.scroller-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  justify-content: flex-end;
 }
 
 .steps {
@@ -523,8 +568,9 @@ dd {
 .dependency-question {
   max-width: 790px;
   margin-top: 28px;
-  padding: 18px;
-  border-left: 5px solid var(--accent);
+  padding: 20px 22px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
   background: var(--soft);
   font-weight: 850;
 }
@@ -573,36 +619,29 @@ dd {
   background: var(--soft);
 }
 
-.exchange-card,
-.contact-exchange {
+.exchange-card {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 12px;
   margin-top: 24px;
 }
 
-.exchange-card > div,
-.contact-exchange > div {
+.exchange-card > div {
   padding: 18px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--panel);
+  background: var(--soft-warm);
 }
 
-.exchange-card > div:last-child,
-.contact-exchange > div:last-child {
+.exchange-card > div:last-child {
   background: var(--soft);
 }
 
-.exchange-card h3,
-.contact-exchange h3 {
+.exchange-card h3 {
   margin-bottom: 8px;
   font-size: 0.95rem;
   color: var(--accent-dark);
 }
 
-.exchange-card p,
-.contact-exchange p {
+.exchange-card p {
   margin: 0;
   color: var(--muted);
 }
@@ -737,10 +776,23 @@ dd {
 }
 
 .check-form label,
-.contact-form label {
+.contact-form label,
+.form-field {
   display: grid;
   gap: 6px;
   font-weight: 750;
+}
+
+.form-field label {
+  font-weight: 750;
+}
+
+.field-help {
+  max-width: 58ch;
+  color: var(--muted);
+  font-size: 0.94rem;
+  font-weight: 500;
+  line-height: 1.45;
 }
 
 .contact-form__company {
@@ -848,17 +900,18 @@ input[type="checkbox"] {
     flex-wrap: wrap;
   }
 
-  .scroller-cta,
   .faq-list,
   .offer-layout,
   .fit-grid,
   .boundary-grid,
   .contact-section,
+  .first-response-card,
   .site-footer {
     grid-template-columns: 1fr;
   }
 
   .connection-grid,
+  .first-response-card ol,
   .steps {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -872,7 +925,6 @@ input[type="checkbox"] {
     min-height: 210px;
   }
 
-  .scroller-actions,
   .footer-links {
     justify-content: flex-start;
   }
@@ -883,6 +935,7 @@ input[type="checkbox"] {
   .proof-grid,
   .person-block,
   .connection-grid,
+  .first-response-card ol,
   .steps {
     grid-template-columns: 1fr;
   }
@@ -912,9 +965,26 @@ input[type="checkbox"] {
     grid-template-columns: 1fr 1fr;
   }
 
-  .exchange-card,
-  .contact-exchange {
+  .exchange-card {
     grid-template-columns: 1fr;
+  }
+
+  .first-response-card {
+    gap: 14px;
+    padding: 16px;
+  }
+
+  .first-response-card li {
+    padding: 10px 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-radius: 0;
+    background: transparent;
+  }
+
+  .check-action-row {
+    align-items: stretch;
   }
 
   .button {
