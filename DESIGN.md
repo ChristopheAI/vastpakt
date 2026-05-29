@@ -20,7 +20,7 @@ colors:
   warn: "#b45b38"         # terracotta: the "stuck / not yet" signal, used sparingly
 
 typography:
-  family: "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"  # system stack; one distinctive webfont still an open taste call
+  family: "Schibsted Grotesk, ui-sans-serif, system-ui, -apple-system, sans-serif"  # webfont via <link> in head; system stack as fallback
   h1:
     fontSize: "clamp(2.55rem, 5.4vw, 5.1rem)"
     fontWeight: 850
@@ -169,13 +169,14 @@ removes the AI default while preserving the calm, light, person-led identity.
    `soft-warm` "problem" state tint. The sticky header and the two section
    gradients were retinted to match (cool, tokenized), so nothing reads as cream.
 
-2. **Type family: drop the unused Inter reference, lead with the system stack.**
-   Inter was never loaded (no font link in the head), so the page already
-   rendered in the system font for nearly every visitor. The stack now leads with
-   `ui-sans-serif, system-ui`. This removes the tell at zero cost and matches what
-   ships. **Still open as a taste call:** loading one distinctive, non-tell
-   webfont for more brand character. That needs Christophe's eye, so it is left
-   for him, not assumed.
+2. **Type family: Schibsted Grotesk, chosen on the real UI.** Inter was never
+   loaded, so the page rendered in the system font. Three non-tell candidates
+   (Hanken Grotesk, Schibsted Grotesk, Bricolage Grotesque) were loaded live on
+   the hero and compared as real renders, not names. Christophe picked Schibsted
+   Grotesk: editorial and confident, with a utility/operator clarity that fits
+   "grounded, Flemish, not SaaS" without reading as trendy. It loads via a
+   `<link>` in the head (preconnect + stylesheet, not a blocking `@import`), with
+   the system stack as fallback. Not on Impeccable's overused-face tell list.
 
 3. **Card shadow: from floaty to defined.** `0 18px 60px` (60px blur) became
    `0 3px 8px` (8px blur). Cards keep slight lift but no longer pair a 1px border
