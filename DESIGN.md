@@ -185,3 +185,23 @@ removes the AI default while preserving the calm, light, person-led identity.
 With these resolved, the detector runs clean (0 anti-patterns), and this file is
 now a hard guardrail: every future edit, by anyone or any AI harness, reads it
 first and preserves the identity instead of re-deciding it from scratch.
+
+## 8. The first-response artifact (operating truth)
+
+Confirmed by Christophe on 2026-05-29. The first response is a free, short,
+written first look at the one example you submitted, within 24 hours. It is not
+an audit, not a call, not a paid deliverable. It is a complete small piece of
+work that stands alone, not the full fix.
+
+Four parts (the post-first-contact summary pattern, transformed to Vastpakt's
+voice; never framed as audit/scan/report):
+
+1. Wat je stuurde, in jouw woorden.
+2. Wat er eigenlijk speelt: waar status, bewijs of volgende stap onduidelijk wordt.
+3. De kleine volgende stap, als je verder wil.
+4. Wat dit niet is: het eerlijke nee.
+
+Any homepage copy about the first response must stay true to this. Do not
+promise more than this artifact delivers, and do not let it drift into
+"audit / scan / report" framing. This is what makes the offer-certainty claim
+honest rather than invented.

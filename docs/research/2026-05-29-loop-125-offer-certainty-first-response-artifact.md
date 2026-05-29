@@ -73,9 +73,16 @@ One bounded change. No other section touched.
 
 Keep. It turns the first-response moment from a friendly filter into a concrete, named thing, in Vastpakt's plain voice, with no consulting jargon and no metrics. Browser check: fits the flat exchange card, no overflow, symmetry with "Jij toont" preserved.
 
-## Operating-Truth Caveat
+## Operating-Truth Caveat (RESOLVED 2026-05-29)
 
-The program warns: do not publish offer copy unless the operating truth is known. The page already implies written + 24h + honest no (person section), and loop 50 proposed this artifact. But "een korte geschreven eerste blik" is now an explicit promise. Confirm with Christophe that this is exactly what he sends, and that it is free / a fit-look, not a paid deliverable, before treating this as settled.
+The program warns: do not publish offer copy unless the operating truth is known. Confirmed with Christophe on 2026-05-29. The first response is a free, short written first look at the submitted example, within 24 hours, not a call or paid deliverable. A follow-up Exa search on how solo operators structure such a summary surfaced the post-first-contact summary pattern (The AI Career Lab, Marilyn Wo), transformed into a four-part shape now recorded in DESIGN.md section 8:
+
+1. Wat je stuurde, in jouw woorden.
+2. Wat er eigenlijk speelt (status, bewijs, volgende stap).
+3. De kleine volgende stap, als je verder wil.
+4. Wat dit niet is: het eerlijke nee.
+
+The "Wij sturen terug" copy is therefore confirmed honest, not invented. Verdict stands: keep.
 
 ## Next Action
 
