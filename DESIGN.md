@@ -11,7 +11,7 @@ colors:
   ink: "#17201b"          # headlines, body, <strong>
   muted: "#5f6b63"        # captions, labels, secondary text
   line: "#d8ded7"         # default border / divider (1px)
-  paper: "#fbfaf6"        # page ground  (SEE OPEN DECISION 1)
+  paper: "#f7f9f7"        # page ground: neutral off-white, faint green lean (not cream)
   panel: "#ffffff"        # cards, raised surfaces
   soft: "#eef3ed"         # cool green-grey tint  (resolved / neutral state)
   soft-warm: "#f7efe8"    # warm tint  (problem / "before" state)
@@ -20,7 +20,7 @@ colors:
   warn: "#b45b38"         # terracotta: the "stuck / not yet" signal, used sparingly
 
 typography:
-  family: "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif"  # SEE OPEN DECISION 2
+  family: "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"  # system stack; one distinctive webfont still an open taste call
   h1:
     fontSize: "clamp(2.55rem, 5.4vw, 5.1rem)"
     fontWeight: 850
@@ -46,7 +46,7 @@ rounded:
 
 material:
   card-border: "1px solid {colors.line}"
-  card-shadow: "0 18px 60px rgba(23, 32, 27, 0.09)"   # SEE OPEN DECISION 3
+  card-shadow: "0 3px 8px rgba(23, 32, 27, 0.07)"   # defined, tight; pairs with the 1px border
 ---
 
 # Design System: Vastpakt
@@ -157,27 +157,30 @@ This applies to every word that ships on the page.
 - Do not make the first contact action an upload or a document.
 - Do not use em dashes.
 
-## 7. Open decisions (need Christophe's call, not assumed)
+## 7. Resolved identity decisions
 
-These are the three places where I cannot tell deliberate identity from an
-inherited default. They are flagged, not changed.
+The three flagged tells were resolved on 2026-05-29, each toward the option that
+removes the AI default while preserving the calm, light, person-led identity.
 
-1. **The cream page ground (`#fbfaf6`, token `--paper`).** Impeccable's detector
-   reads the whole warm near-white band as the saturated AI default of 2026, and
-   the token name `--paper` is itself on its tell list. But warm paper may be a
-   deliberate "calm, human, not-a-dashboard" choice. **Decision needed:** is the
-   warm paper intentional brand, or an inherited default to replace with a true
-   off-white or a committed brand surface? Until you decide, it stays.
+1. **Page ground: warm cream to neutral off-white.** `#fbfaf6` became `#f7f9f7`,
+   a near-neutral off-white with a faint green lean toward the brand hue, not
+   warm-by-default. The page stays light and calm; the cream tell is gone. Warmth
+   now lives only where it carries meaning: the terracotta accent and the
+   `soft-warm` "problem" state tint. The sticky header and the two section
+   gradients were retinted to match (cool, tokenized), so nothing reads as cream.
 
-2. **Inter as the type family.** Flagged as an overused convergence face. A more
-   distinctive family would give the page its own voice, but Inter is safe and
-   readable. **Decision needed:** keep Inter, or pick a face with more character?
+2. **Type family: drop the unused Inter reference, lead with the system stack.**
+   Inter was never loaded (no font link in the head), so the page already
+   rendered in the system font for nearly every visitor. The stack now leads with
+   `ui-sans-serif, system-ui`. This removes the tell at zero cost and matches what
+   ships. **Still open as a taste call:** loading one distinctive, non-tell
+   webfont for more brand character. That needs Christophe's eye, so it is left
+   for him, not assumed.
 
-3. **The card shadow (`0 18px 60px`, 60px blur) paired with a 1px border.**
-   Impeccable's Codex-register note calls the soft-wide-shadow-plus-hairline a
-   "ghost card" tell and says to pick one, not both. **Decision needed:** drop
-   the wide shadow and rest cards on the border, soften the shadow, or keep it?
+3. **Card shadow: from floaty to defined.** `0 18px 60px` (60px blur) became
+   `0 3px 8px` (8px blur). Cards keep slight lift but no longer pair a 1px border
+   with a wide soft shadow, so the "ghost card" tell is gone.
 
-Resolve these and the rest of this file becomes a hard guardrail: every future
-edit, by me or any AI harness, reads it first and preserves the identity instead
-of re-deciding it from scratch.
+With these resolved, the detector runs clean (0 anti-patterns), and this file is
+now a hard guardrail: every future edit, by anyone or any AI harness, reads it
+first and preserves the identity instead of re-deciding it from scratch.

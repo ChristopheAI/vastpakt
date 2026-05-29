@@ -3,15 +3,15 @@
   --ink: #17201b;
   --muted: #5f6b63;
   --line: #d8ded7;
-  --paper: #fbfaf6;
+  --paper: #f7f9f7;
   --panel: #ffffff;
   --soft: #eef3ed;
   --soft-warm: #f7efe8;
   --accent: #2f6f57;
   --accent-dark: #194536;
   --warn: #b45b38;
-  --shadow: 0 18px 60px rgba(23, 32, 27, 0.09);
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --shadow: 0 3px 8px rgba(23, 32, 27, 0.07);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 }
 
 * {
@@ -42,7 +42,7 @@ a {
   justify-content: space-between;
   gap: 24px;
   padding: 18px clamp(18px, 4vw, 56px);
-  background: rgba(251, 250, 246, 0.94);
+  background: rgba(247, 249, 247, 0.94);
   border-bottom: 1px solid var(--line);
   backdrop-filter: blur(14px);
 }
@@ -373,7 +373,7 @@ dd {
 
 .proof-card-case {
   border-color: rgba(54, 88, 86, 0.32);
-  background: linear-gradient(180deg, #fffdf8 0%, #f8f3e9 100%);
+  background: linear-gradient(180deg, var(--paper) 0%, var(--soft) 100%);
 }
 
 .practice-proof {
@@ -382,7 +382,7 @@ dd {
   padding: 18px;
   border: 1px solid rgba(54, 88, 86, 0.32);
   border-radius: 8px;
-  background: linear-gradient(180deg, #fffdf8 0%, #f8f3e9 100%);
+  background: linear-gradient(180deg, var(--paper) 0%, var(--soft) 100%);
 }
 
 .practice-proof h3 {
