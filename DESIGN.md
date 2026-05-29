@@ -1,6 +1,6 @@
 ---
 name: Vastpakt
-description: "Person-led operational clarity for Flemish KMOs. One concrete stuck spot made visible before anything changes. Calm, grounded, no tool-first hype."
+description: "Recognition-first operational clarity for Flemish KMOs. Open with the stuck work, land immediately with Christophe looking at one real example. Calm, grounded, no tool-first hype."
 register: brand
 
 # Visual values below mirror styles.css :root verbatim. styles.css is the
@@ -53,13 +53,43 @@ material:
 
 ## 1. North star
 
-Vastpakt is one person, Christophe, who picks up the operational thread a small
-Flemish business has lost: the offer nobody is following up, the proof that lives
-in five places, the next step nobody can point to. The page exists to make one
-concrete stuck spot visible. It does not sell software.
+**Recognition first, Christophe as the safe entry point.**
 
-The interface should feel like a calm, capable colleague looking at your real
-work with you. Grounded, plainspoken, Flemish. Not a SaaS dashboard, not a
+Vastpakt earns attention by naming the stuck work a Flemish KMO recognises
+instantly, and only then makes clear that one real person, Christophe, looks at
+one real example. The problem opens the door. Christophe makes it concrete, safe
+and actionable.
+
+This replaces the older "north star is person-led" rule. Person-led was right for
+trust but weaker for recognition. Vastpakt does not sell Christophe as a
+consultant. It sells the feeling "ik zie eindelijk waar dit werk loskomt", and
+that becomes safe because Christophe is the one who does it. So the page opens
+with the practitioner pain, for example "Werk blijft hangen tussen Excel, mail en
+WhatsApp", and lands immediately with the person who picks up one concrete
+situation.
+
+The seven rules that hold this together:
+
+1. **The hero may lead with a concrete stuck-work scene.** Excel, mail, WhatsApp,
+   offerte, factuur, planning, akkoord, versie, opvolging. The opening line is the
+   reader's workday, not a positioning statement.
+2. **Christophe appears in the first screen or first interaction.** The visitor
+   should know quickly that a real person, not an agency funnel, a generic scan or
+   a tool, looks at the example.
+3. **The CTA stays small and concrete.** Prefer "Stuur één voorbeeld" over generic
+   asks like "Boek een call", "Vraag advies" or "Start project".
+4. **Vastpakt is not tool-first.** Never position the first answer as automation,
+   software, AI, procesoptimalisatie, digitale transformatie or a new system.
+5. **The diagnostic frame stays.** Status, eigenaar, bewijs, beslissing, volgende
+   actie.
+6. **The recognition test.** A Vlaamse KMO-zaakvoerder or operations person should
+   think: "Ja, zo loopt het hier vast. Alles staat ergens, maar niemand weet zeker
+   wat klopt of wat nu moet gebeuren."
+7. **Person-led, reframed.** The problem opens the door. Christophe makes it
+   concrete, safe and actionable.
+
+The interface should still feel like a calm, capable colleague looking at your
+real work with you. Grounded, plainspoken, Flemish. Not a SaaS dashboard, not a
 consultancy brochure, not an AI demo.
 
 Everything below serves one test, borrowed from how the copy already gets
