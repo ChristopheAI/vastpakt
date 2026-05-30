@@ -95,3 +95,24 @@ Kept deliberately:
 
 - `Eerste Zicht` in navigation, because it is the offer label, but the explanatory card no longer requires the term to carry meaning.
 - `status` in metadata and hero, because Exa repeatedly shows status, betaalstatus, laatste actie and opvolging language in adjacent market pages. It now sits beside `akkoord` and `laatste actie`, not as an internal field model.
+
+## Follow-up: person/trust language pass
+
+User prompt: continue the recursive market-language loop on the Over Vastpakt page.
+
+Exa signals:
+
+- AD-apt uses `persoonlijke aanpak`, `persoonlijk aanspreekpunt`, `vertrouwenspersoon`, and says contact from first visit through completion goes through the zaakvoerder.
+- VOF-oprichten uses `één vast aanspreekpunt`, `rechtstreeks samen`, `geen callcenters of wisselende contactpersonen`, and `we reageren binnen 24 uur`.
+- Level9Services and AG Office use first-person solo-operator framing: `Ik ben ...`, `persoonlijk`, `bekijken we`, and direct contact.
+
+Decision:
+
+- Replace `Wie kijkt mee?` because it sounds vague and internal to the page flow.
+- Replace `Vastpakt is de website van Christophe...` because it explains the entity in a crawler-friendly way but reads awkwardly to a human.
+- Public copy now says: `Wie bekijkt je vraag? Christophe is zaakvoerder van Vastpakt. Je vraag komt rechtstreeks bij hem terecht; hij schrijft zelf de eerste reactie.`
+
+Classification:
+
+- `Wie bekijkt je vraag?`: market/workday question, aligned with the contact route.
+- `zaakvoerder`, `rechtstreeks`, `zelf`: source-supported trust language from local facts and Exa person-led service pages.
