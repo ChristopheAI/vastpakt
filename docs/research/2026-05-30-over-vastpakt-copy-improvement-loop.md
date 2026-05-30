@@ -116,3 +116,41 @@ Classification:
 
 - `Wie bekijkt je vraag?`: market/workday question, aligned with the contact route.
 - `zaakvoerder`, `rechtstreeks`, `zelf`: source-supported trust language from local facts and Exa person-led service pages.
+
+## Follow-up: Google Autosuggest plus Exa noun pass
+
+User requested a second Browser tab and Google Autosuggest as an additional market-language signal.
+
+Google Autosuggest signals captured:
+
+- `offerte opvolging`
+- `offerte opvolging mail`
+- `offerte opvolging mail voorbeeld`
+- `offerte opvolgen`
+- `offerte opvolgen voorbeeld`
+- `offerte opvolgen mail`
+- `hoe offerte opvolgen`
+- `facturen bijhouden`
+- `facturen bijhouden excel`
+- `klantenbestand excel`
+- `klantenbestand excel template`
+- `klantenbestand excel maken`
+
+Exa confirmation:
+
+- KMO-Facturatie uses `klantenbestand`, `exporteren en importeren in Excel`, `offertes`, `facturen`, `betalingsopvolging`, and `welke laatste actie werd genomen`.
+- CoManage uses `Excel-klantenbestand`, `klantgegevens`, `offerte`, `factuur`, and CRM import language.
+- Afandi uses `openstaande saldi`, `openstaande facturen`, `facturen`, `offertes`, and `zonder manuele overschrijving`.
+- ETS/Admin2Win uses `openstaande klanten`, `rappelbeheer`, `opvolging van openstaande facturen`, and the sales document chain from offerte to factuur.
+
+Decision:
+
+- Replace generic `Excel-lijst` with `klantenbestand in Excel`.
+- Replace `factuur die blijft wachten` with `openstaande factuur`.
+- Add `offerte die opvolging vraagt` in the hero noun list because Google Autosuggest strongly supports `offerte opvolgen/opvolging`.
+
+Classification:
+
+- `offerte die opvolging vraagt`: light edit from Google Autosuggest + existing Vastpakt offerte-opvolging language.
+- `klantenbestand in Excel`: market language from Google Autosuggest and Exa.
+- `openstaande factuur`: market language from Exa; safer than the constructed phrase `factuur die blijft wachten`.
