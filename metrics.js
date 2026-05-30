@@ -15,12 +15,15 @@ const contactFormMetrics = document.querySelector("#contactForm");
 if (contactFormMetrics) {
   let formStarted = false;
 
-  contactFormMetrics.addEventListener("focusin", () => {
+  function trackFormStarted() {
     if (formStarted) {
       return;
     }
 
     formStarted = true;
     trackEvent("contact_form_started");
-  });
+  }
+
+  contactFormMetrics.addEventListener("focusin", trackFormStarted);
+  contactFormMetrics.addEventListener("pointerdown", trackFormStarted);
 }
