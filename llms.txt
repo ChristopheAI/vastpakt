@@ -1,0 +1,42 @@
+# Vastpakt
+
+> Vastpakt helpt Vlaamse KMO's waar werk blijft hangen tussen Excel, mail, WhatsApp, CRM, facturatie, afspraken of documenten.
+
+Vastpakt is de website van Christophe. De eerste stap is geen nieuwe tool of groot traject. Een bezoeker stuurt of beschrijft een echte werksituatie. Christophe geeft binnen 24 uur een korte geschreven eerste blik terug, of een eerlijk nee.
+
+## Belangrijkste pagina
+
+- [Homepage](https://vastpakt.be/): legt uit voor wie Vastpakt is, welke signalen herkenbaar zijn, welke praktijkvoorbeelden bestaan en hoe iemand een vraag kan sturen.
+
+## Herkenbare werkobjecten
+
+- Mail
+- Offerte
+- Excel-rij
+- CRM-notitie
+- Afspraak
+- Factuurroute
+- Planningwijziging
+- Word-document
+
+## Eerste Zicht
+
+Eerste Zicht is de kleine eerste stap. De vraag is waar status, eigenaar, bewijs, akkoord of volgende stap onduidelijk wordt.
+
+Wat iemand terugkrijgt:
+
+- wat er werd gestuurd, in de woorden van de bezoeker;
+- waar status, bewijs of volgende stap onduidelijk wordt;
+- de kleine volgende stap, als verdergaan zinvol is;
+- een eerlijk nee als het niet past.
+
+## Contact
+
+- Publieke contactroute: https://vastpakt.be/#contact
+- E-mail: christophe@vastpakt.be
+
+## Crawlbestanden
+
+- Sitemap: https://vastpakt.be/sitemap.xml
+- Robots: https://vastpakt.be/robots.txt
+- Security contact: https://vastpakt.be/.well-known/security.txt

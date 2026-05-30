@@ -1,0 +1,4 @@
+Contact: mailto:christophe@vastpakt.be
+Preferred-Languages: nl, en
+Canonical: https://vastpakt.be/.well-known/security.txt
+Expires: 2027-05-30T00:00:00Z

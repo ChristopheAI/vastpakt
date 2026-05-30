@@ -5,6 +5,9 @@
 !api/
 !api/contact.js
 !favicon.svg
+!llms.txt
+!.well-known/
+!.well-known/security.txt
 !robots.txt
 !sitemap.xml
 !vercel.json
