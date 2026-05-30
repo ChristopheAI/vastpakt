@@ -65,3 +65,33 @@ Classification:
 
 - `Waar mag je vraag over gaan?`: Vastpakt translation. It fits the current contact route and avoids internal taxonomy.
 - Concrete noun list: market/workday language from local copydeck plus Exa source language.
+
+## Follow-up: remaining internal-language pass
+
+User request: keep going with remaining internal language and use Exa to catch public market language.
+
+Additional Exa signals:
+
+- DeskManager uses ordinary admin language: facturatie, offertes, klantenbeheer, projectopvolging, losse info, centraal overzicht, planning, afspraken, Excel, agenda's, papieren notities, taken and deadlines.
+- KMO-Facturatie uses: facturen, offertes, bestelbonnen, werkbonnen, betalingsopvolging, betaalstatus, laatste actie, aanvaarding/weigering, overzicht van offertes.
+- Afandi uses: offerte tot definitieve factuur, zonder manuele overschrijving, betalingen opvolgen, openstaande saldi, herinneringen.
+- UNIVO uses: klantenbeheer, contactgeschiedenis, notities, klantcommunicatie, taken, afspraken, facturen, projectopvolging, werfplanning.
+
+Removed or weakened public internal terms:
+
+- `werksituatie op tafel leggen` -> `één concrete vraag beschrijven`
+- `factuurroute` -> `factuur die blijft wachten`
+- `Wat kijkt Christophe eerst na?` -> `Waar kijkt Christophe eerst naar?`
+- `Wie is eigenaar van de volgende stap?` -> `Wie moet opvolgen?`
+- `bewijs` in one checklist line -> `akkoord, document of factuurmoment`
+- `In Eerste Zicht lees je...` -> `Je krijgt een korte geschreven reactie...`
+- `losse plek in het werk` -> `onduidelijke stap`
+- `Vastpakt kijkt naar wat er vandaag al ligt` -> `Voorbeelden uit mail, lijsten en documenten`
+- `Publieke contactroute` -> `Contactpagina`
+- `Antwoord` -> `Reactie`
+- `bewijs` in the top page layer -> `akkoord`, `document`, `laatste actie`
+
+Kept deliberately:
+
+- `Eerste Zicht` in navigation, because it is the offer label, but the explanatory card no longer requires the term to carry meaning.
+- `status` in metadata and hero, because Exa repeatedly shows status, betaalstatus, laatste actie and opvolging language in adjacent market pages. It now sits beside `akkoord` and `laatste actie`, not as an internal field model.
