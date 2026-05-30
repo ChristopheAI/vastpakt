@@ -7,6 +7,7 @@ Vastpakt is de website van Christophe. De eerste stap is geen nieuwe tool of gro
 ## Belangrijkste pagina
 
 - [Homepage](https://vastpakt.be/): legt uit voor wie Vastpakt is, welke signalen herkenbaar zijn, welke praktijkvoorbeelden bestaan en hoe iemand een vraag kan sturen.
+- [Over Vastpakt](https://vastpakt.be/over-vastpakt/): legt kort uit wat Vastpakt is, wie de eerste situatie bekijkt, welke werkobjecten herkenbaar zijn en wat Eerste Zicht teruggeeft.
 
 ## Herkenbare werkobjecten
 

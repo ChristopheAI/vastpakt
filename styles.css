@@ -181,6 +181,81 @@ h3 {
   background: transparent;
 }
 
+.info-hero {
+  display: grid;
+  gap: 18px;
+  padding-top: clamp(42px, 6vw, 78px);
+  padding-bottom: clamp(34px, 5vw, 64px);
+}
+
+.info-lede {
+  max-width: 760px;
+  margin: 0;
+  color: var(--muted);
+  font-size: clamp(1.06rem, 1.5vw, 1.25rem);
+}
+
+.info-grid-section {
+  padding-top: clamp(24px, 4vw, 48px);
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  max-width: 1040px;
+}
+
+.info-grid article,
+.info-facts div {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+}
+
+.info-grid article {
+  padding: clamp(20px, 3vw, 30px);
+}
+
+.info-grid h2 {
+  margin-bottom: 12px;
+  font-size: clamp(1.35rem, 2vw, 1.85rem);
+}
+
+.info-grid p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.info-proof-section {
+  display: grid;
+  gap: 28px;
+}
+
+.info-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  max-width: 980px;
+  margin: 0;
+}
+
+.info-facts div {
+  padding: 18px;
+}
+
+.info-facts dt {
+  margin-bottom: 6px;
+  color: var(--accent-dark);
+  font-weight: 850;
+}
+
+.info-facts dd {
+  margin: 0;
+  color: var(--muted);
+}
+
 .button:disabled {
   cursor: wait;
   opacity: 0.62;
@@ -994,6 +1069,8 @@ input[type="checkbox"] {
   .offer-layout,
   .fit-grid,
   .boundary-grid,
+  .info-grid,
+  .info-facts,
   .contact-section,
   .first-response-card,
   .site-footer {
