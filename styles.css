@@ -228,6 +228,18 @@ h3 {
   color: var(--muted);
 }
 
+.info-points {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding-left: 20px;
+  color: var(--muted);
+}
+
+.info-points li::marker {
+  color: var(--accent);
+}
+
 .info-proof-section {
   display: grid;
   gap: 28px;
