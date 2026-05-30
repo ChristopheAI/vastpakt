@@ -6,6 +6,7 @@
 !api/contact.js
 !favicon.svg
 !llms.txt
+!metrics.js
 !.well-known/
 !.well-known/security.txt
 !robots.txt
