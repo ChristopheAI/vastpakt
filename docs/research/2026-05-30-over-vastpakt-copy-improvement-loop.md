@@ -44,3 +44,24 @@ The live `/over-vastpakt/` page worked technically, but the copy mostly repeated
 ## Guardrail
 
 This is still an entity/trust page, not a conversion landing page. Do not turn it into an all-in-one platform page or an SEO article.
+
+## Follow-up: `werkobjecten` market-language correction
+
+User challenge: `Welke werkobjecten passen?` sounds like internal language rather than market language.
+
+Additional Exa signals:
+
+- Odoo/Belgian KMO lead-to-cash pages talk about leadopvolging in persoonlijke mailboxen, offertes in losse PDFs, facturatie in an apart boekhoudritme, overdrachtsmomenten without owner, scope, betaalvoorwaarden, leveringsafspraak, factuur and klantdata.
+- KMO-Facturatie talks about offertes, bestelbonnen, digitale werkbonnen, facturen, betalingsopvolging, klantenfiche, verzonden e-mails and which last step happened on an offer.
+- BlueCRM talks about klantgegevens in Excel, contracten in a map, afspraken on a post-it, e-mails, afspraken, notities, facturen, foto's, documenten, taken and klant/prospect dossiers.
+
+Decision:
+
+- Remove `werkobjecten` from public heading and OG image alt.
+- Replace with a reader question: `Waar mag je vraag over gaan?`
+- Keep concrete nouns in the body: klantmail, offerte, Excel-lijst, CRM-notitie, afspraak, planningwijziging, factuur, Word-document.
+
+Classification:
+
+- `Waar mag je vraag over gaan?`: Vastpakt translation. It fits the current contact route and avoids internal taxonomy.
+- Concrete noun list: market/workday language from local copydeck plus Exa source language.
