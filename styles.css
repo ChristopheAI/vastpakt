@@ -11,7 +11,7 @@
   --accent-dark: #194536;
   --warn: #b45b38;
   --shadow: 0 3px 8px rgba(23, 32, 27, 0.07);
-  font-family: "Schibsted Grotesk", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 * {
@@ -224,6 +224,13 @@ h3 {
   height: clamp(260px, 32vw, 380px);
 }
 
+.hero-person-photo picture,
+.hero-person-mobile picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .hero-person-photo img {
   display: block;
   width: 100%;
@@ -409,6 +416,10 @@ dd {
   overflow: hidden;
   background: #f5f1e8;
   height: clamp(240px, 28vw, 360px);
+}
+
+.examples-visual picture {
+  display: block;
 }
 
 .examples-visual img {

@@ -4,10 +4,13 @@
 !script.js
 !api/
 !api/contact.js
+!favicon.svg
 !robots.txt
 !sitemap.xml
 !vercel.json
 !assets/
 !assets/images/
 !assets/images/christophe-vastpakt-person-block-loop57.jpg
+!assets/images/christophe-vastpakt-person-block-loop57*.webp
 !assets/images/vastpakt-examples-work-objects-loop92.jpg
+!assets/images/vastpakt-examples-work-objects-loop92*.webp

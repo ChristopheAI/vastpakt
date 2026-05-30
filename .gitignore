@@ -2,3 +2,5 @@
 .vercel/
 node_modules/
 tmp/
+docs/research/**/downloaded/*.mp4
+docs/research/**/downloaded/*.m4a

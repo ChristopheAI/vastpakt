@@ -9,9 +9,7 @@
       content="Werk blijft hangen tussen Excel, mail en WhatsApp? Stuur één voorbeeld. Christophe toont binnen 24 uur waar status, eigenaar, bewijs of volgende stap ontbreekt."
     >
     <link rel="canonical" href="https://vastpakt.be/">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;800;900&display=swap">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -32,20 +30,28 @@
           <h1>Werk blijft hangen tussen Excel, mail en WhatsApp.</h1>
           <p class="hero-questions">Welke versie klopt? Wie volgt op? Waar staat bewijs? Wie heeft wat goedgekeurd? Waar leeft de volgende actie?</p>
           <p class="hero-lede">
-            Stuur één echte situatie naar Christophe: een mail, offerte, Excel-rij, CRM-notitie, afspraak of factuurroute. Binnen 24 uur krijg je een geschreven eerste zicht op waar status, eigenaar, bewijs of volgende stap onduidelijk wordt.
+            Stuur één echte situatie naar Christophe: een mail, offerte, Excel-rij, CRM-notitie, afspraak of factuurroute. Binnen 24 uur krijg je een geschreven eerste blik op waar status, eigenaar, bewijs of volgende stap onduidelijk wordt.
           </p>
           <div class="hero-actions" aria-label="Eerste acties">
             <a class="button primary" href="#contact">Stuur één voorbeeld</a>
             <a class="button secondary" href="#scan">Bekijk hoe Eerste Zicht werkt</a>
           </div>
           <figure class="hero-person-mobile">
-            <img
-              src="assets/images/christophe-vastpakt-person-block-loop57.jpg"
-              alt="Christophe, zaakvoerder van Vastpakt"
-              width="1024"
-              height="1536"
-              loading="lazy"
-            >
+            <picture>
+              <source
+                type="image/webp"
+                srcset="assets/images/christophe-vastpakt-person-block-loop57-800.webp 800w, assets/images/christophe-vastpakt-person-block-loop57.webp 1023w"
+                sizes="calc(100vw - 32px)"
+              >
+              <img
+                src="assets/images/christophe-vastpakt-person-block-loop57.jpg"
+                alt="Christophe, zaakvoerder van Vastpakt"
+                width="1024"
+                height="1536"
+                decoding="async"
+                fetchpriority="high"
+              >
+            </picture>
           </figure>
           <p class="reassurance">
             Geen nieuwe tool als eerste antwoord. Eerst zichtbaar maken waar het werk loskomt.
@@ -54,12 +60,21 @@
 
         <aside class="hero-person" aria-label="Wie pakt dit op">
           <figure class="hero-person-photo">
-            <img
-              src="assets/images/christophe-vastpakt-person-block-loop57.jpg"
-              alt="Christophe, zaakvoerder van Vastpakt"
-              width="1024"
-              height="1536"
-            >
+            <picture>
+              <source
+                type="image/webp"
+                srcset="assets/images/christophe-vastpakt-person-block-loop57-800.webp 800w, assets/images/christophe-vastpakt-person-block-loop57.webp 1023w"
+                sizes="(max-width: 780px) calc(100vw - 32px), min(42vw, 560px)"
+              >
+              <img
+                src="assets/images/christophe-vastpakt-person-block-loop57.jpg"
+                alt="Christophe, zaakvoerder van Vastpakt"
+                width="1024"
+                height="1536"
+                decoding="async"
+                fetchpriority="high"
+              >
+            </picture>
           </figure>
           <div class="hero-person-note">
             <p><strong>Ik ben Christophe.</strong> Stuur één voorbeeld uit je werkdag. Binnen 24 uur krijg je een korte geschreven eerste blik terug, of een eerlijk nee.</p>
@@ -119,14 +134,21 @@
         </div>
 
         <figure class="examples-visual">
-          <img
-            src="assets/images/vastpakt-examples-work-objects-loop92.jpg"
-            alt="Anonieme werkobjecten op een bureau met dashboard, lijst, rapport en websiteblokken"
-            width="1536"
-            height="1024"
-            loading="lazy"
-            decoding="async"
-          >
+          <picture>
+            <source
+              type="image/webp"
+              srcset="assets/images/vastpakt-examples-work-objects-loop92-800.webp 800w, assets/images/vastpakt-examples-work-objects-loop92-1200.webp 1200w"
+              sizes="(max-width: 900px) calc(100vw - 32px), calc(100vw - 112px)"
+            >
+            <img
+              src="assets/images/vastpakt-examples-work-objects-loop92.jpg"
+              alt="Anonieme werkobjecten op een bureau met dashboard, lijst, rapport en websiteblokken"
+              width="1536"
+              height="1024"
+              loading="lazy"
+              decoding="async"
+            >
+          </picture>
         </figure>
 
         <div class="proof-grid">
