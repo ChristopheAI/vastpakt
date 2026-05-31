@@ -9,6 +9,7 @@ Vastpakt is de website van Christophe. De eerste stap is geen nieuwe tool of gro
 - [Homepage](https://vastpakt.be/): legt uit voor wie Vastpakt is, welke signalen herkenbaar zijn, welke praktijkvoorbeelden bestaan en hoe iemand een vraag kan sturen.
 - [Dubbel werk](https://vastpakt.be/dubbel-werk/): focust op informatie die opnieuw wordt overgenomen tussen Excel, mail en facturatie.
 - [Offerte-opvolging](https://vastpakt.be/offerte-opvolging/): focust op een offerte die verstuurd is, maar waarvan status, eigenaar of volgende stap niet duidelijk zichtbaar is.
+- [Facturatie en bewijs](https://vastpakt.be/facturatie-bewijs/): focust op werk dat klaar is, maar waar facturatie wacht op akkoord, bewijs of een seintje.
 - [Over Vastpakt](https://vastpakt.be/over-vastpakt/): legt kort uit wat Vastpakt is, wie de eerste situatie bekijkt, welke werkobjecten herkenbaar zijn en wat Eerste Zicht teruggeeft.
 
 ## Herkenbare werkobjecten
