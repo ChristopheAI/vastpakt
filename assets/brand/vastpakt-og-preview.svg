@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Vastpakt social preview</title>
+  <desc id="desc">Social preview met Vastpakt logo en de werkvraag: Offerte verstuurd. Wie volgt op?</desc>
+  <rect width="1200" height="630" fill="#f7efe8"/>
+  <rect x="72" y="72" width="180" height="180" rx="29" fill="#245d49"/>
+  <path d="M117 114 L154 202 L207 114" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M122 207 H190" fill="none" stroke="#f7efe8" stroke-width="15" stroke-linecap="round"/>
+  <path d="M200 197 V217" fill="none" stroke="#f7efe8" stroke-width="15" stroke-linecap="round"/>
+  <text x="330" y="145" fill="#194536" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="850" letter-spacing="0">Vastpakt · Eerste zicht</text>
+  <text x="330" y="275" fill="#17201b" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="850" letter-spacing="0">Offerte verstuurd.</text>
+  <text x="330" y="362" fill="#17201b" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="850" letter-spacing="0">Wie volgt op?</text>
+  <text x="330" y="455" fill="#194536" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="750" letter-spacing="0">Binnen 24 uur een geschreven eerste blik op waar</text>
+  <text x="330" y="505" fill="#194536" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="750" letter-spacing="0">opvolging, akkoord, status of laatste actie blijft hangen.</text>
+</svg>
