@@ -384,7 +384,7 @@ h3 {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 18%;
+  object-position: center 8%;
 }
 
 .hero-person-note p {
@@ -1210,7 +1210,7 @@ input[type="checkbox"] {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: center 38%;
+    object-position: center 8%;
   }
 
   .hero-person-photo {
