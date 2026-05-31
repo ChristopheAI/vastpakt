@@ -46,6 +46,10 @@ if (contactForm && contactStatus) {
 
       if (response.ok && data.ok) {
         window.umami?.track("contact_form_submitted");
+        window.gtag?.("event", "generate_lead", {
+          form_id: "contactForm",
+          form_name: "contact_form"
+        });
         contactForm.reset();
       }
     } catch (error) {
