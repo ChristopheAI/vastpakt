@@ -190,6 +190,38 @@ h3 {
   background: transparent;
 }
 
+.analytics-consent {
+  position: fixed;
+  right: clamp(14px, 3vw, 28px);
+  bottom: clamp(14px, 3vw, 28px);
+  z-index: 30;
+  display: grid;
+  width: min(520px, calc(100vw - 28px));
+  gap: 14px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+}
+
+.analytics-consent p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.analytics-consent-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.analytics-consent .button {
+  min-height: 42px;
+  cursor: pointer;
+}
+
 .ad-landing-hero {
   display: grid;
   grid-template-columns: minmax(0, 1.02fr) minmax(320px, 0.98fr);
