@@ -1,0 +1,35 @@
+name: site-shots
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/shots.yml'
+      - '.github/workflows/shoot.js'
+      - 'redesign-moodboard/shots/urls.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  shots:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install playwright@1.48.0
+      - run: npx playwright install --with-deps chromium
+      - run: node .github/workflows/shoot.js
+      - name: commit screenshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add redesign-moodboard/shots
+          if git diff --staged --quiet; then
+            echo "no screenshot changes"
+          else
+            git commit -m "chore: add site reference screenshots [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
