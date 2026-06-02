@@ -1,0 +1,323 @@
+{
+  "typography": {
+    "h1": {
+      "fontFamily": "Manrope, \"Manrope Placeholder\", sans-serif",
+      "fontSize": "64px",
+      "fontWeight": "500",
+      "lineHeight": "70.4px",
+      "letterSpacing": "-3.2px",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    "h2": {
+      "fontFamily": "Manrope, \"Manrope Placeholder\", sans-serif",
+      "fontSize": "64px",
+      "fontWeight": "500",
+      "lineHeight": "70.4px",
+      "letterSpacing": "-3.2px",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    "h3": {
+      "fontFamily": "Manrope, \"Manrope Placeholder\", sans-serif",
+      "fontSize": "22px",
+      "fontWeight": "500",
+      "lineHeight": "26.4px",
+      "letterSpacing": "-0.88px",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 0)"
+    },
+    "p": {
+      "fontFamily": "Manrope, \"Manrope Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.48px",
+      "textTransform": "none",
+      "color": "rgba(0, 0, 0, 0.7)"
+    },
+    "link": {
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 238)"
+    },
+    "button": null
+  },
+  "fonts": [
+    "Inter 400 normal",
+    "Inter 500 normal",
+    "Inter 700 normal",
+    "Inter 700 italic",
+    "Inter 400 italic",
+    "Manrope 500 normal",
+    "Bespoke Serif 400 italic",
+    "Manrope 700 normal",
+    "Inter Placeholder normal normal",
+    "Manrope Placeholder normal normal",
+    "Bespoke Serif Placeholder normal normal"
+  ],
+  "palette": {
+    "backgrounds": [
+      [
+        "rgb(239, 234, 229)",
+        47
+      ],
+      [
+        "rgb(0, 0, 0)",
+        19
+      ],
+      [
+        "rgb(248, 245, 241)",
+        14
+      ],
+      [
+        "rgb(255, 255, 255)",
+        11
+      ],
+      [
+        "rgb(158, 135, 114)",
+        3
+      ],
+      [
+        "rgba(255, 255, 255, 0.3)",
+        3
+      ],
+      [
+        "rgba(0, 0, 0, 0.08)",
+        3
+      ],
+      [
+        "rgba(0, 0, 0, 0.6)",
+        3
+      ]
+    ],
+    "text": [
+      [
+        "rgb(0, 0, 0)",
+        1361
+      ],
+      [
+        "rgb(198, 81, 37)",
+        450
+      ],
+      [
+        "rgba(0, 0, 0, 0.7)",
+        129
+      ],
+      [
+        "rgb(0, 0, 238)",
+        114
+      ],
+      [
+        "rgb(158, 135, 114)",
+        63
+      ],
+      [
+        "rgb(255, 255, 255)",
+        46
+      ],
+      [
+        "rgb(239, 234, 229)",
+        15
+      ],
+      [
+        "rgba(255, 255, 255, 0.7)",
+        4
+      ]
+    ]
+  },
+  "radius": [
+    [
+      "8px",
+      96
+    ],
+    [
+      "46px",
+      90
+    ],
+    [
+      "100px",
+      21
+    ],
+    [
+      "20px",
+      12
+    ],
+    [
+      "99px",
+      9
+    ],
+    [
+      "113px",
+      6
+    ],
+    [
+      "12px",
+      5
+    ],
+    [
+      "50px",
+      4
+    ]
+  ],
+  "shadow": [
+    [
+      "rgb(239, 234, 229) 0px 0px 0px 2px",
+      3
+    ],
+    [
+      "rgb(0, 0, 0) 0px 0px 0px 1px inset",
+      2
+    ],
+    [
+      "rgba(0, 0, 0, 0.17) 0px 0.602187px 1.56569px -1.5px, rgba(0, 0, 0, 0.14) 0px 2.28853px 5.95019px -3px, rgba(0, 0, 0, 0.02) 0px 10px 26px -4.5px",
+      1
+    ]
+  ],
+  "verticalSpacing": [
+    [
+      "32px",
+      96
+    ],
+    [
+      "12px",
+      24
+    ],
+    [
+      "80px",
+      21
+    ],
+    [
+      "24px",
+      8
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "64px",
+      3
+    ],
+    [
+      "8px",
+      2
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "140px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "70px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ]
+  ],
+  "gaps": [
+    [
+      "12px",
+      42
+    ],
+    [
+      "25px",
+      39
+    ],
+    [
+      "8px",
+      36
+    ],
+    [
+      "10px",
+      26
+    ],
+    [
+      "48px",
+      13
+    ],
+    [
+      "18px",
+      13
+    ],
+    [
+      "24px",
+      10
+    ],
+    [
+      "15px",
+      7
+    ],
+    [
+      "2px",
+      6
+    ],
+    [
+      "16px",
+      3
+    ]
+  ],
+  "fontSizes": [
+    [
+      "12px",
+      1871
+    ],
+    [
+      "16px",
+      165
+    ],
+    [
+      "18px",
+      73
+    ],
+    [
+      "64px",
+      21
+    ],
+    [
+      "22px",
+      20
+    ],
+    [
+      "40px",
+      14
+    ],
+    [
+      "14px",
+      13
+    ],
+    [
+      "42px",
+      3
+    ],
+    [
+      "26px",
+      2
+    ]
+  ],
+  "fontWeights": [
+    [
+      "400",
+      1909
+    ],
+    [
+      "500",
+      273
+    ]
+  ],
+  "cssVariables": {},
+  "_url": "https://illustrate.framer.website/"
+}
