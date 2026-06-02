@@ -1,2 +1,5 @@
-# Scratch list — current site under review
-https://krits.be/
+# Discovery batch — warm/editorial/personal templates for Vastpakt
+https://neutra.framer.website/
+https://clavo.framer.website/
+https://athos.framer.website/
+https://athos2.framer.website/
