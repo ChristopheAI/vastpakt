@@ -1,8 +1,3 @@
-# Flemish intent round — direct KMO/AI/maatwerk peers + one warm personal brand
-https://caikmo.be/
-https://www.nunki.ai/
-https://nordant.be/ai-consultant/
-https://www.codelines.be/oplossingen/ai-ontwikkeling/
-https://hugarro.be/
-https://leadexpert.be/
-https://www.sofieloos.be/
+# Screenshot our own v3 through the same pipeline (desktop + mobile).
+# file:// path resolves on the GitHub-hosted runner workspace.
+file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3/index.html
