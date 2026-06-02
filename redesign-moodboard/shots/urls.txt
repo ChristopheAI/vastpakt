@@ -1,5 +1,6 @@
-# Discovery batch — warm/editorial/personal templates for Vastpakt
-https://neutra.framer.website/
-https://clavo.framer.website/
-https://athos.framer.website/
-https://athos2.framer.website/
+# Discovery round 2 — warm/editorial/personal + a real benchmark
+https://formix.framer.website/
+https://serif.ca/
+https://coachify.framer.website/
+https://nikka.framer.website/
+https://dominicus.framer.website/
