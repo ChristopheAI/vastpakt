@@ -1,2 +1,4 @@
-# Brightsquare realisaties — find the project closest to Vastpakt
-https://www.brightsquare.be/realisaties/
+# Open specific Brightsquare cases (guessed slugs) to check if real software sits behind them
+https://www.brightsquare.be/realisaties/hyltis/
+https://www.brightsquare.be/realisaties/eazychef/
+https://www.brightsquare.be/realisaties/aug-e/
