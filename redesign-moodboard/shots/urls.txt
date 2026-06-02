@@ -1,11 +1,2 @@
-# Sites to screenshot for the Vastpakt redesign visual review
-# Personal-brand / copywriter register (right family)
-https://sarapannecoucke.be/
-https://www.stillebliksem.be/
-https://pietervanleuven.com/
-# Competitors (reference only)
-https://www.letsdevelop.tech/
-https://we-are.be/nl
-# S-tier template demos (Warm Craft shortlist)
-https://illustrate.framer.website/
-https://palmer-template.framer.website/
+# Scratch list — current site under review
+https://krits.be/
