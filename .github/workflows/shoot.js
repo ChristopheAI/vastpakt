@@ -19,9 +19,16 @@ const urls = fs
   const mob = await mobCtx.newPage();
 
   for (const url of urls) {
-    const slug = url
-      .replace(/^https?:\/\//, '')
-      .replace(/^file:\/\/.*\//, '')
+    let base;
+    if (url.startsWith('file://')) {
+      // Local repo file: name it after the path inside redesign-moodboard/
+      const p = url.replace(/^file:\/\//, '');
+      const m = p.match(/redesign-moodboard\/(.*?)(?:\/index\.html)?$/i);
+      base = m ? m[1] : p;
+    } else {
+      base = url.replace(/^https?:\/\//, '');
+    }
+    const slug = base
       .replace(/[^a-z0-9]+/gi, '-')
       .replace(/^-+|-+$/g, '')
       .slice(0, 60);

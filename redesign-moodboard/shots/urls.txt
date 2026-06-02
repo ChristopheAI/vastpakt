@@ -1,2 +1,3 @@
-# We Are — what we do (the offering Christophe says matches his)
-https://we-are.be/nl/what-we-do
+# Render local explorations (file:// works in CI). Path = GitHub Actions workspace.
+file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3/index.html
+file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.1/index.html
