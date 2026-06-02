@@ -1,3 +1,7 @@
-# Screenshot our own v3 through the same pipeline (desktop + mobile).
-# file:// path resolves on the GitHub-hosted runner workspace.
-file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3/index.html
+# Competitor-space S-tier hunt — Belgian software/AI studios + craft/ethos benchmark
+https://www.inthepocket.com/
+https://www.craftzing.com/
+https://www.ml6.eu/
+https://bothrs.com/
+https://www.raccoons.be/
+https://37signals.com/
