@@ -1,3 +1,4 @@
-# Iteratie 2 — basis v3.4 vs v3.5 (wrijvingsverlager)
+# Iteratie 3 — basis v3.4 + v3.6 (frictie-fix) + v3.7 (divergentie: donkere hero)
 file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.4/index.html
-file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.5/index.html
+file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.6/index.html
+file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.7/index.html

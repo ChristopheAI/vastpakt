@@ -11,6 +11,7 @@ Regel: een wijziging is enkel "beter" als ≥1 as stijgt ZONDER dat een andere d
 | v3.2   | 4 | 5 | 3 | 4 | 3 | 19 | KILL — wig vlak na hero = defensief; T+R dalen, niets stijgt. Volgorde v3.1 behouden. |
 | v3.3   | 4 | 4 | 4 | 5 | 4 | 21 | TRADE — bewijs-kaart in hero: K↑ (WIIFM), maar D↓ (mens-wig weg uit hero). → synthese v3.4. |
 | v3.4   | 4 | 5 | 4 | 5 | 4 | 22 | ✅ BASIS — synthese mens+bewijs in hero-kaart: K↑ zonder D/R-verlies. T-plafond = echt bewijs nodig. |
+| v3.5   | 3 | 5 | 4 | 5 | 4 | 21 | KILL — frictie-regel onder fold + redundant; linkerkolom te dik (C↓). Lever juist, plek fout → v3.6. |
 
 ## Per-as-notities
 - **C 4:** sterke typografie/ritme; plafond op 5 vereist echte beeld-/fotodichtheid (nu strepen-placeholder).

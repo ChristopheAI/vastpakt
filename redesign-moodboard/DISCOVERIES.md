@@ -84,6 +84,14 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
   **T→5 vereist een ECHTE genoemde case + echte foto** (zie D05). ← content-afhankelijkheid
   van Christophe; niet door mij te verzinnen.
 
+## D10 — Frictie-verlager = juiste hefboom, maar hoort IN de kaart, niet in de linkerkolom ⚠️
+- **Bewijs:** v3.5 zette voorbeeldzin + "2 min·24u·geen verkooppraat" als aparte regel
+  onder de hero-CTA. Op 1440×1000 valt die NÉT onder de fold (knoppen = foldrand) en
+  dupliceert "24u"/eerlijkheid uit de kaart-foot → linkerkolom wordt te dik.
+- **Bron:** shots/v3-5-fold.png (regel onzichtbaar) + v3-5-full.png.
+- **Score:** C 4→3 (drukker), K ~flat (below fold + redundant) → geen schone winst = KILL.
+- **Refinement:** vouw het voorbeeld IN de kaart-foot, op het punt van de vraag → v3.6.
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
