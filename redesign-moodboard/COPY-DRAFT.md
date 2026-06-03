@@ -40,7 +40,7 @@ BAVAST zet die ruwe input — tekst en foto's — nu automatisch om in het ingev
 
 **Bekijk het werk →** (`/werk/`)
 
-> ⚠️ Vóór live: sector/naam BAVAST/cijfer publiek tonen? + klant-quote? Zie CASES-bavast.md.
+> ✅ Sector/naam BAVAST/cijfer publiek bevestigd (2026-06-03). Open: een letterlijke klant-quote (nice-to-have). Zie CASES-bavast.md.
 
 ## 5 · De wig ✅
 ## En je praat met wie het bouwt.

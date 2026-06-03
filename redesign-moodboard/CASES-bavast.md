@@ -35,7 +35,6 @@ Korter: **data erin → BAVAST structureert → rapport eruit.**
 - "op het vaste template van de klant" = de brug-belofte: op wat je al gebruikt, niet alles vervangen.
 
 ## Open (vóór het live gaat)
-- [ ] Mag de **sector** ("plaatsbeschrijver/vastgoed-expert") getoond worden, of generieker?
-- [ ] Mag de naam **BAVAST** publiek?
-- [ ] Mag het cijfer **"30 min–1 u per dossier"** publiek vermeld worden?
-- [ ] Een letterlijke **klant-quote** beschikbaar? (= sterkste social proof)
+- [x] Sector ("plaatsbeschrijver"), naam **BAVAST** en cijfer **"30 min–1 u per dossier"** mogen
+  publiek getoond worden — bevestigd door Christophe 2026-06-03.
+- [ ] Een letterlijke **klant-quote** beschikbaar? (= sterkste social proof; nog niet aangeleverd)
