@@ -11,12 +11,12 @@ de eerste stap → slot-CTA.
 ---
 
 ## 1 · Hero ✅
-*(eyebrow)* Voor Vlaamse KMO's die verzuipen in manueel werk, losse tools en vergeten opvolging.
+*(eyebrow)* Voor Vlaamse KMO's die alles rechthouden met Excel, mail en hun geheugen.
 
 # Je werkt harder dan je bedrijf. Dat is niet jouw schuld.
-Jij bent niet traag. Je manier van werken groeide gewoon niet mee.
+Je hield alles zelf recht. Dat werkte — tot je groeide.
 
-Ik bouw één brug tussen je bestaande tools — zodat het dubbele werk wegvalt. Zonder alles te vervangen. En jij blijft eigenaar van alles.
+Ik verbind de tools die je al gebruikt, zodat overtikken, dubbel invoeren en opvolgen vanzelf gaan. Zonder alles te vervangen. Jij blijft eigenaar.
 
 **[ Beschrijf één situatie → ]** — Binnen 24u een eerlijk antwoord, ook als dat "nee" is.
 
@@ -28,15 +28,19 @@ Niemand deed iets fout. Je droeg het gewoon te lang alleen.
 
 ## 3 · De brug ✅
 ## We halen het uit jouw hoofd.
-Niet je hele bedrijf omgooien. We pakken één plek waar het vastloopt en bouwen daar een brug — op de tools die je al gebruikt.
+We pakken één plek waar het vastloopt — je offertes, je facturatie, je opvolging — en verbinden daar de tools die je al gebruikt.
 
-Wat jij nu onthoudt, gebeurt vanzelf. En jij blijft eigenaar van alles wat we bouwen.
+De opvolging die je nu in je hoofd houdt, gebeurt vanzelf. En jij blijft eigenaar van alles wat we bouwen.
 
-## 4 · Werk-teaser ✅ → /werk/
-## Liever zien dan lezen?
-Bekijk een paar echte voorbeelden van werk dat anders bleef liggen.
+## 4 · Werk — echte case (BAVAST) ✅ → /werk/
+## Het zat vast in één hoofd. Nu in een systeem.
+Bij een plaatsbeschrijver wist één iemand hoe alles moest: welke foto bij welke ruimte, hoe het Word-rapport opgebouwd werd, in welke volgorde. Elk dossier opnieuw: dicteren, overtikken, knippen, plakken, controleren, wachten op freelance hulp.
+
+BAVAST zet die ruwe input — tekst en foto's — nu automatisch om in het ingevulde rapport. **30 minuten tot een uur minder werk per dossier**, minder fouten, en geen wachten meer.
 
 **Bekijk het werk →** (`/werk/`)
+
+> ⚠️ Vóór live: sector/naam BAVAST/cijfer publiek tonen? + klant-quote? Zie CASES-bavast.md.
 
 ## 5 · De wig ✅
 ## En je praat met wie het bouwt.
