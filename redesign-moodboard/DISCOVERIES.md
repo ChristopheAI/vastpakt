@@ -159,6 +159,15 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
 - **Implicatie:** mijn "kleine eerste stap, eerst kijken dan kiezen" is goed gericht — maak
   'm explicieter als de-risker ("afgebakend, je ziet snel iets werkends").
 
+## D19 — VoC-hefbomen toegepast: continuïteit + menselijk register = T-winst ✅ (NIEUWE BASIS v3.8)
+- **Bewijs:** v3.8 = v3.6 + bus-factor-continuïteit in de wedge ("valt mij ooit iets — elke
+  ontwikkelaar kan verder") + identiteits-register in de closing ("jij runt een zaak, geen
+  administratie").
+- **Bron:** shots/v3-8-full.png.
+- **Score:** C4 D5 T5 R5 K5 = 24. T 4→5 (solo-angst geneutraliseerd) zonder daling = KEEP.
+- **CAVEAT:** T's reële plafond hangt nog op kosten-helderheid (D13) + echt bewijs/foto
+  (D05) — beide user-content; niet door mij te leveren zonder de eerlijkheids-wig te breken.
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?

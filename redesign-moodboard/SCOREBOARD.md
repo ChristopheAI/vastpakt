@@ -14,6 +14,7 @@ Regel: een wijziging is enkel "beter" als ≥1 as stijgt ZONDER dat een andere d
 | v3.5   | 3 | 5 | 4 | 5 | 4 | 21 | KILL — frictie-regel onder fold + redundant; linkerkolom te dik (C↓). Lever juist, plek fout → v3.6. |
 | v3.6   | 4 | 5 | 4 | 5 | 5 | 23 | ✅ BASIS — voorbeeld-prompt IN kaart-foot: K 4→5 op het beslismoment, geen C-kost. |
 | v3.7   | 3 | 4 | 4 | 3 | 4 | 18 | KILL (divergentie) — donkere hero = agency-register (R↓,D↓) + kleur-lek in kaart. Bevestigt: warm-licht is dragend. |
+| v3.8   | 4 | 5 | 5 | 5 | 5 | 24 | ✅ BASIS — VoC: continuïteit/bus-factor + menselijk register. T↑. Reële T-plafond = kosten (D13) + echt bewijs (D05), beide user-content. |
 
 ## Per-as-notities
 - **C 4:** sterke typografie/ritme; plafond op 5 vereist echte beeld-/fotodichtheid (nu strepen-placeholder).
@@ -22,8 +23,8 @@ Regel: een wijziging is enkel "beter" als ≥1 as stijgt ZONDER dat een andere d
 - **R 5 (v3.1):** warm, "ik", anti-hype, italic. Risico: niet té veel "tegen-de-ander".
 - **K 3 → muur:** stijgt met wrijvingsverlaging + bewijs dat actie rechtvaardigt (L1, L3).
 
-## Status na iteratie 3
-- **Basis = v3.6 (23/25).** Verloop: v3.1 (21) → v3.4 (22) → v3.6 (23).
+## Status na VoC-iteratie
+- **Basis = v3.8 (24/25).** Verloop: v3.1 (21) → v3.4 (22) → v3.6 (23) → v3.8 (24).
 - **C, D, R, K zitten aan/bij het plafond** van wat zonder echte content kan (D5, R5, K5).
 - **Enige resterende hefboom = T 4→5**, en die zit VAST op een content-afhankelijkheid:
   een ECHTE genoemde case (sector + vóór→na + cijfer) + een ECHTE foto van Christophe.
