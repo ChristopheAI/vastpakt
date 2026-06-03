@@ -92,6 +92,23 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
 - **Score:** C 4→3 (drukker), K ~flat (below fold + redundant) → geen schone winst = KILL.
 - **Refinement:** vouw het voorbeeld IN de kaart-foot, op het punt van de vraag → v3.6.
 
+## D11 — Voorbeeld-prompt in de kaart-foot = schone K-winst ✅ (NIEUWE BASIS v3.6)
+- **Bewijs:** v3.6 embedt "bv. 'offertes blijven hangen tussen mail en Excel.'" in de
+  kaart-foot, op het punt van de vraag. Geen extra regel, geen dubbele "24u", kaart
+  volledig boven de fold.
+- **Bron:** shots/v3-6-fold.png.
+- **Score:** C4 D5 T4 R5 K5 = 23. K 4→5 zonder daling = KEEP als basis.
+
+## D12 — Donkere hero verliest de warme wig (en lekt kleur in de kaart) ❌ (divergentie bevestigt de kern)
+- **Bewijs:** v3.7 maakte de hero forest-dark. (a) Technisch: `.hero { color: paper }`
+  lekt in de lichte kaart → "Ik ben Christophe" wordt bleek/onleesbaar. (b) Belangrijker:
+  donkergroen leest corporate/agency (ML6, We Are) → R 5→3, D 5→4: schuift Vastpakt
+  NAAR de concurrent-look.
+- **Bron:** shots/v3-7-fold.png.
+- **Score:** C3 D4 T4 R3 K4 = 18 → KILL.
+- **Implicatie:** de warme-crème ondergrond is DRAGEND, geen smaak. Licht wint. Divergentie
+  bevestigt de kern i.p.v. die te ondermijnen — precies waarvoor de regel dient.
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
