@@ -75,6 +75,15 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
   hero-kaart** (gezicht + beschikbaar-pill + één concrete vóór→na-regel).
   ← strategische vork, voorgelegd aan Christophe.
 
+## D09 — Synthese werkt: persoon + bewijs in één hero-kaart = K↑ zonder D/R-verlies ✅ (NIEUWE BASIS)
+- **Bewijs:** v3.4 combineert gezicht + "Ik ben Christophe · kijkt, bouwt, blijft" +
+  beschikbaar-pill + compacte vóór→na + 24u-belofte, in één korte kaart.
+- **Bron:** shots/v3-4-fold.png + v3-4-m.png.
+- **Score:** C4 D5 T4 R5 K4 = 22 (nieuwe hoogste). K 3→4 zonder daling = KEEP als basis.
+- **Plafond:** T blijft 4 — labeled-illustratief bewijs overtuigt een scepticus niet vol.
+  **T→5 vereist een ECHTE genoemde case + echte foto** (zie D05). ← content-afhankelijkheid
+  van Christophe; niet door mij te verzinnen.
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
