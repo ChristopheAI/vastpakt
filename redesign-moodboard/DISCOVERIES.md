@@ -215,6 +215,22 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
   register, scanbaar (geen dichtheid-terugval D10), geen verzonnen claims (D05). Te scoren vs v3.8.
 - **Status:** 🔎 — playbook klaar; v3.9-toepassing wacht op go van Christophe (hero-richting = keuze).
 
+## D23 — Problem-Solution-lead (v3.9): strategische side-grade, rubric verzadigd
+- **Bewijs:** shots/v3-9-fold.png + v3-9-m.png. Hero = schuld-absolutie kop ("De chaos is niet
+  jouw schuld. Je systemen groeiden niet mee.") + objectie-killers in de brug ("met je huidige
+  team, zonder alles te vervangen"). Functie nu gedragen door eyebrow + brug + before/after-kaart.
+- **Score:** C4 D5 T5 R5 K5 = 24 (= v3.8). **Geen numerieke winst** — D/T/R/K waren al gemaxed,
+  dus de verbeteringen (emotie R, baan/tool-angst T, audience-fit K) landen op verzadigde assen.
+  Eerlijk: een 25 zou de meetlat oprekken.
+- **Echte verschil (strategisch, niet numeriek):** v3.9 past beter bij KOUD/sceptisch (problem-
+  aware) verkeer — Great Leads/Schwartz raden de indirecte lead daarvoor aan. v3.8's expliciete
+  Promise-hero is helderder voor WARM/referral-verkeer dat al weet wat je doet.
+- **Trade-off:** kleine helderheids-kost — de kop zegt niet meer letterlijk wát je levert
+  (opgevangen door eyebrow op mobiel, before/after-kaart op desktop). Daarom blijft C = 4.
+- **Implicatie:** keuze is audience-afhankelijk → ideaal een **LIVE A/B** (v3.8 vs v3.9 hero).
+  Boeken (Kennedy, Ca$hvertising) prediken testen. Baseline voorlopig v3.9 (volgt playbook-intentie).
+- **Status:** 🔎 aanrader: live A/B v3.8↔v3.9 zodra site draait.
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
