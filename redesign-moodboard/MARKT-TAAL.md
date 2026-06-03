@@ -172,3 +172,49 @@
   continuïteit-wig ("ik blijf na oplevering"). Omgekeerd gebruiken: "erbij blijven om het beter te maken".
 - Het hele **"idee → demo → product"**-frame is Miran's aanbod (starters met een demo). Vastpakt's lezer
   is een KMO die verzuipt in werk, geen starter. Leen de moves, niet het verhaal.
+
+---
+
+## Bron 04 — miransweb.com (volledige website, zelfde maker als Bron 03)
+- **Herkomst:** volledige site-copy, geplakt door Christophe (2026-06-03).
+- **Plaatsing:** NL, solo AI-first developer/architect. **Bijna identiek register** aan Vastpakt
+  (solo, mens-vooraan, direct contact, eerlijk, anti-hype) → rijkste model tot nu toe voor de
+  Over-mij, de prijs-sectie, de /werk/-structuur en de FAQ.
+- **Cruciale differentiatie:** Miran **leidt met de bouw** ("Ik bedenk het. AI bouwt.", idee→product/SaaS).
+  Vastpakt **leidt met de pijn** (verzuipt in bestaand werk → "we halen het uit je hoofd"). Register lenen,
+  niet het idee-naar-product-verhaal — anders verliest Vastpakt z'n sterkere, problem-first hoek.
+
+### Verbatim (sleutelzinnen)
+> Bouwen kan iedereen. Goed bouwen niet.
+> Ik bedenk het. AI bouwt.
+> Geen bureau, geen accountmanager — jij werkt direct met de persoon die nadenkt over jouw systeem.
+> "Ik zeg liever 'dat hoeft niet gebouwd te worden' dan dat ik iets bouw dat niemand nodig heeft."
+> Jij betaalt voor mijn oordeel en resultaat, niet alleen voor mijn code.
+> Goede software lost een echt probleem op — niet een bedacht probleem.
+> Geen zwart gat na een offerte.
+> Je belt met mij, mailt met mij, werkt met mij.
+> Vibecoding levert een prototype — ik lever software die het ook volgende maand nog doet, ook als er honderd gebruikers op zitten.
+> Je denkt in trajecten — niet in losse uurtjes. / Je behandelt een developer als vakman.
+> Ik werk liever met een eerlijk budget dan met een tarief dat leidt tot compromissen. Een gesprek kost niks.
+> (Over mij) Dat kon ik niet — maar ik ging het uitzoeken.
+> (Over mij) AI … niet omdat het mij vervangt, maar omdat het mij sneller maakt. Ik bedenk de oplossing, maak het plan, bewaak de logica en corrigeer wat niet klopt.
+
+### Transfer per Vastpakt-sectie (hervertaald, niet letterlijk)
+- **Eerlijk-nee (wig):** model = "ik zeg liever dat het niet hoeft, dan iets bouwen dat niemand nodig heeft."
+- **Waarde-herkadering:** "je betaalt voor het resultaat, niet voor losse uurtjes/code."
+- **Werkwijze:** zijn 4 blokken (denk verder dan de opdracht · verplaats me in je workflow · geen zwart gat na
+  de offerte · direct contact) zijn een sterk model als Vastpakt ooit een aanpak-sectie/pagina wil.
+- **Voor wie / zelfselectie (ADR-0004):** concrete taal — "denk in trajecten, niet in uurtjes", "vakman".
+- **Prijs (blok 8):** transparante **"vanaf €X"** + filosofie "een gesprek kost niks / liever eerlijk budget
+  dan compromissen". Sterk, eerlijk model. ⚠️ Miran's *bedragen* zijn voor maatwerk-SaaS — niet overnemen;
+  Vastpakt's eigen cijfers/keuze vereist (vast bedrag? vanaf? geen bedrag?).
+- **/werk/-structuur:** per case = stack-tags · probleem · wat gebouwd · resultaat; + optionele lange
+  detailpagina. Goed model voor de BAVAST-case-pagina.
+- **Social proof:** echte quotes met naam/rol/bedrijf — precies wat Vastpakt mist (zie BAVAST-quote, open).
+- **Over-mij:** origin-story (hoe erin gerold + nieuwsgierigheid "dat kon ik niet, maar ik ging het uitzoeken")
+  + AI-houding ("vervangt me niet, maakt me sneller; ik bewaak de logica") + menselijke touch. = hét sjabloon.
+
+### Wat NIET overnemen
+- "Ik bedenk het. AI bouwt." / het idee→product-frame → Vastpakt leidt met de pijn, niet met de bouw.
+- Miran's prijs-bedragen (andere dienst).
+- Te techy taal (PHP/stack-tags) op de homepage — past bij zijn dev-publiek, niet bij Vastpakt's KMO-lezer.
