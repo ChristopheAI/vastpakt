@@ -120,3 +120,20 @@ melodrama schaadde eerder — zie D10):
 
 **Bewaken bij uitvoering:** scanbaar houden (geen dichtheid-terugval, D10), nuchter (geen
 melodrama), geen verzonnen cijfers/claims (D05/credibility), één groot idee in de kop.
+
+---
+
+## 7. SCHRAP-CHECKLIST — redactiepass over élke sectie
+> Bron: COPY-BRON-33-copytips.md (#26–33). Ik haal deze pass over elke nieuwe sectie *vóór* ik 'm toon.
+
+1. **Containerwoorden** (#29) → vaag woord vervangen door concreet ("procesoplossing" → "software").
+2. **Drempelwoorden** (#32) → moeten, betalen, probleem, kosten, vergissing, onmogelijk… schrappen
+   of positief draaien. Geen dubbele ontkenning ("geen probleem" → "kan perfect").
+3. **"maar"** (#33) → meestal veegwoord; vervang door "en".
+4. **Lege werkwoorden** (#26) → kunnen, worden, zullen, hebben, willen schrappen; actief maken.
+5. **Schaapheiding** (#27) → -schap/-heid/-ing → spreektaal.
+6. **"hopen"** (#28) en **overtollige bijwoorden** (#30) → weg.
+7. **Emotionele adjectieven** (#31) → weg; lezer plakt zelf het label.
+
+**Eigen AI-tell (uit deze sessie):** gespiegelde fragmenten ("niet X / net Y", "geen A / wel B") —
+ritmisch maar formulair. Bij elke spiegeling: vlag → herschrijf naar gewone spreektaal.
