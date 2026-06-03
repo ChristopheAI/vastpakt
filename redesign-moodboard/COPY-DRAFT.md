@@ -36,6 +36,22 @@ Geen account manager, geen tussenlaag. Wie naar je luistert, bouwt het ook — e
 
 Past automatisering niet bij wat je nodig hebt? Dan zeg ik dat meteen. Liever een eerlijk nee dan dat je maanden vastzit aan iets dat niet werkt.
 
+## Is dit iets voor jou? / zelfselectie ✅
+## Is dit iets voor jou?
+Het werkt het best als je al een tijd draait en voelt dat het vastloopt op één of twee plekken — niet als je nog zoekt wat je precies doet.
+
+**Wel iets voor jou als:**
+- je dag vol zit met overtikken, dubbel invoeren en opvolgen uit je hoofd
+- je je tools al gebruikt — ze praten alleen nog niet met elkaar
+- je iemand wil die het bouwt én blijft, geen bureau met een tussenlaag
+
+**Beter van niet, als:**
+- je nog zoekt wat je aanbiedt of voor wie
+- je vooral de goedkoopste oplossing zoekt — dit verdient zichzelf terug, gratis is het niet
+- je alles tot in de code zelf in handen wil houden
+
+Twijfel je? Beschrijf één situatie. Past het niet bij jou, dan zeg ik dat meteen.
+
 ---
 
 ## Nog te schrijven (wacht op echt materiaal)
