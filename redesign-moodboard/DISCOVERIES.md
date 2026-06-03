@@ -199,6 +199,22 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
 - **Regel:** techniek & vocabulaire hervertalen, NOOIT letterlijk kopiëren.
 - **Status:** 🔎 — corpus groeit; baan-angst + schuld-absolutie als kandidaat-hefbomen.
 
+## D22 — Copywriting-kennisbasis geïntegreerd (zie COPY-PLAYBOOK.md) 🔎
+- **Bewijs:** 5 klassiekers toegevoegd door Christophe (Veloso, Psych Triggers, Ca$hvertising,
+  Great Leads, Kennedy). Gedistilleerd + gefilterd door Vastpakt's eerlijkheids-wig.
+- **Bron:** COPY-PLAYBOOK.md.
+- **Kern-inzichten:** (1) **Honesty = de #1 trigger** volgens de meesters zelf → Vastpakt's wig
+  ís wat ze voorschrijven. (2) **Awareness-niveau** = de grote unlock: prospect is *problem-aware
+  & sceptisch* → vraagt een **indirecte Problem-Solution-lead** (pijn erkennen vóór pitchen), niet
+  de huidige directe Promise-lead. Verklaart waarom Stefhan's structuur werkt (D21). (3) **Rule of
+  One**: hero moet ÉÉN groot idee dragen. (4) ADOPT: emotie-eerst, schuld-absolutie, benefits>features,
+  echte specificiteit, bezwaar-vooraf, gezicht/foto, risk-reversal. (5) **REJECT** (breekt de wig):
+  nepschaarste, valse deadlines, hype/PVA, verborgen manipulatie, greed-trigger.
+- **Implicatie:** kandidaat **v3.9** = hero ombouwen van Promise-lead → Problem-Solution-lead
+  (probleem+emotie → schuld-absolutie → brug → resultaat met objectie-killers → 1 CTA), in nuchter
+  register, scanbaar (geen dichtheid-terugval D10), geen verzonnen claims (D05). Te scoren vs v3.8.
+- **Status:** 🔎 — playbook klaar; v3.9-toepassing wacht op go van Christophe (hero-richting = keuze).
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
