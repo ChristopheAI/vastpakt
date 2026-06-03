@@ -1,3 +1,4 @@
-# Render local explorations (file:// works in CI). Path = GitHub Actions workspace.
-file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3/index.html
+# Iteratie 1 — baseline + 2 varianten
 file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.1/index.html
+file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.2/index.html
+file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.3/index.html
