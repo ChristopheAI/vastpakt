@@ -8,6 +8,8 @@ Regel: een wijziging is enkel "beter" als ≥1 as stijgt ZONDER dat een andere d
 | v2     | 3 | 3 | 3 | 4 | 3 | 16 | Warm Craft-richting gezet, maar nog niet person-first; differentiatie impliciet. |
 | v3     | 4 | 4 | 4 | 4 | 3 | 19 | Synthese: person-first, eerste-stap-transparantie, serif-craft. Conversie nog 1 herhaalde CTA. |
 | v3.1   | 4 | 5 | 4 | 5 | 3 | 21 | Solo-wig expliciet (D↑) + italic-serif + opinieuze opener (R↑). T/K ongewijzigd: bewijs nog placeholder. |
+| v3.2   | 4 | 5 | 3 | 4 | 3 | 19 | KILL — wig vlak na hero = defensief; T+R dalen, niets stijgt. Volgorde v3.1 behouden. |
+| v3.3   | 4 | 4 | 4 | 5 | 4 | 21 | TRADE — bewijs-kaart in hero: K↑ (WIIFM), maar D↓ (mens-wig weg uit hero). → synthese v3.4. |
 
 ## Per-as-notities
 - **C 4:** sterke typografie/ritme; plafond op 5 vereist echte beeld-/fotodichtheid (nu strepen-placeholder).

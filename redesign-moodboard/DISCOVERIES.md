@@ -56,6 +56,25 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
 
 ---
 
+## D07 — De solo-wig is defensief als hij te hoog staat ❌ (positie weerlegd)
+- **Bewijs:** v3.2 zette de wig vlak na de hero, vóór "hoe het werkt" en "werk".
+  Adversarieel: beantwoordt een bezwaar dat de lezer nog niet heeft; opener
+  "Het aanbod is overal hetzelfde" als bijna-eerste boodschap = negatief/argumentatief.
+- **Bron:** shots/v3-2-full.png.
+- **Score:** T 4→3, R 5→4, D ongewijzigd → geen as stijgt zonder daling = KILL.
+- **Implicatie:** wig hoort NÁ wat/hoe (context eerst, dán contrast). Hou v3.1-volgorde.
+
+## D08 — Bewijs-vorm in de hero hefboomt conversie, maar kost de mens-wig 🔎 → FORK
+- **Bewijs:** v3.3 verving persoonskaart door vóór→na-bewijskaart. K 3→4 (concrete
+  WIIFM, duidelijke reden tot actie). Maar D 5→4: de "enige mens"-differentiator
+  verdwijnt uit de hero.
+- **Bron:** shots/v3-3-fold.png.
+- **Adversarieel:** verzonnen metrics ("~6 u/week") met disclaimer = eerlijk maar
+  zwakker dan echt bewijs; plafonneert T op 4.
+- **Implicatie:** NIET of/of. Synthese-hypothese **v3.4 = persoon ÉN bewijs in de
+  hero-kaart** (gezicht + beschikbaar-pill + één concrete vóór→na-regel).
+  ← strategische vork, voorgelegd aan Christophe.
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
