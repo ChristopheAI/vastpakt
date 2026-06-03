@@ -79,3 +79,51 @@
 - [ ] **Schuld-absolutie**-lijn ("niet omdat jij/je team traag is — je systemen groeiden niet mee").
 - [ ] Eventueel een **emotionele micro-on-ramp** testen (voorzichtig — eerder bleek dichtheid/
   melodrama schadelijk in de hero; werkt hier omdat het long-form LinkedIn is).
+
+---
+
+## Bron 02 — Krits (krits.be)
+- **Herkomst:** website, gedeeld door Christophe (juni 2026). Fetch geblokkeerd (403) → zoek-snippets.
+- **Plaatsing:** **Hasselt** (Limburg) — Vlaams, niet Antwerpen. Rebrand van "VBdesign".
+  Maatwerk-software-bureau met **AI-first** aanpak (team, niet solo; oprichters niet zichtbaar).
+- **Categorie:** maatwerksoftware + AI-assistenten + procesautomatisering voor KMO's.
+
+### Verbatim (≈letterlijk, uit snippets)
+- Titel: **"Maatwerksoftware versterkt door AI"**
+- Slogan (oude/merk): **"Wij maken slimme apps voor slimme ondernemers"**
+- **"Je bestaande tools blijven gewoon werken. Ze worden slimmer. Data stroomt automatisch,
+  processen regelen zichzelf en je team focust op wat echt waarde creëert."**
+- **"van slimme procesautomatisering tot op maat gebouwde AI-assistenten: we bouwen oplossingen
+  die écht iets opleveren"**
+- **"geen hype, maar tastbare tijdwinst en minder routinewerk"**
+- **"Dankzij onze AI-first aanpak bouwen we sneller dan traditionele agencies"**; "werkende
+  software in korte cycli, na elke sprint zie je resultaat en kan je feedback geven"
+- **"Na go-live worden we je vaste partner voor support, nieuwe features en software die blijft
+  meegroeien met je business."**
+
+### Sleutel-vocabulaire
+- "**je bestaande tools blijven gewoon werken**" / "**ze worden slimmer**"
+- "**processen regelen zichzelf**"
+- "je team focust op **wat echt waarde creëert**"
+- "**geen hype, maar tastbare tijdwinst**"
+- "**AI-first aanpak**" / "sneller dan traditionele agencies"
+- "**na go-live je vaste partner**" / "software die **blijft meegroeien**"
+
+### Plaatsing t.o.v. Vastpakt
+- **Gedeelde markttaal:** "bestaande tools blijven werken" ≈ Vastpakt "geen nieuwe tool als eerste
+  antwoord" + Stefhan "zonder alles te vervangen". Dit is nu 3x bevestigd → **kern-markttaal.**
+- **"geen hype" is GEEN unieke claim** — Krits zegt het ook, maar leunt dan op "AI-first",
+  "AI-assistenten", "processen regelen zichzelf" (= licht hypey). Les: *zeggen* "geen hype" is
+  gratis; Vastpakt's onderscheid is het ook echt *zijn* (geen AI-buzz, mens vooraan).
+- **Krits raakt Vastpakt's wig aan:** "**na go-live je vaste partner voor support**" = de
+  support-na-oplevering + continuïteit-belofte. Net als Nordant ("vaste partner") en CAIKMO
+  (onderhoud). → Vastpakt's continuïteit (v3.8) is goed, maar **"ik blijf je partner na oplevering"
+  wordt door meerdere concurrenten geclaimd** — Vastpakt mag dit explicieter maken (mits model).
+- **Verschil:** Krits = team/bureau, AI-first, "slimme apps voor slimme ondernemers" (vleiend,
+  techy). Vastpakt = solo, mens-vooraan, nuchter, eigenaarschap + eerlijk-nee. Krits toont
+  **geen gezicht** → zelfde gat als de rest.
+
+### Toevoeging aan kandidaten
+- [ ] **Support-na-oplevering / "ik blijf je partner"** explicieter maken (markt-conventie:
+  Krits, Nordant, CAIKMO claimen het; Vastpakt impliceert het via "ik blijf"). Vereist
+  Christophe's bevestiging van het model.
