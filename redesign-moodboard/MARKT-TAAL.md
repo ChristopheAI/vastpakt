@@ -127,3 +127,48 @@
 - [ ] **Support-na-oplevering / "ik blijf je partner"** explicieter maken (markt-conventie:
   Krits, Nordant, CAIKMO claimen het; Vastpakt impliceert het via "ik blijf"). Vereist
   Christophe's bevestiging van het model.
+
+---
+
+## Bron 03 — Miran Scharrenberg ("Code architect | Bouwt wat anderen bedenken")
+- **Herkomst:** LinkedIn-post, gedeeld door Christophe (2026-06-03).
+- **Plaatsing:** maatwerk-software/product-bouwer, solo, 20j ervaring. **Geen directe geo-concurrent**,
+  wél een near-identiek *register*: solo, mens-vooraan, eerlijk, anti-hype. Sterk voorbeeld voor de
+  **Over-mij**-stem én voor de **accountability-wig**.
+- **Regel blijft:** moves & vocabulaire lenen, **nooit letterlijk overnemen.**
+
+### Verbatim (sleutelzinnen, letterlijk)
+> Na twintig jaar apps en websites bouwen weet ik precies waar mijn energie zit en waar niet.
+> […] daar ben ik ook heel goed in, ook al zeg ik het zelf :-)
+> Maar waar ik dus echt niet goed in ben: om de wereld te laten weten dat ik een geweldige app heb gebouwd.
+> […] een goed product is nooit af.
+> Iedereen heeft wel een goed idee […] Nu gooi je je idee in een AI tool en […] heb je een werkend prototype. En dat voelt goed. **Maar een demo is nog geen product.**
+> Want dáár houden de tools op. Met AI bouw je een demo, maar **je AI tool neemt geen verantwoordelijkheid voor een eventueel datalek. Ik wel.**
+> **Jij hebt het idee. Ik bouw het.**
+> Niet voor hobbyprojecten of wegwerp-experimenten. Wél voor ondernemers en teams met een idee dat ertoe doet […] waar het verschil […] je klanten of je reputatie kan kosten.
+> Heb jij zo'n idee dat al te lang op de plank ligt? […] dan maken we er samen iets echts van.
+
+### Copy-techniek (herbruikbaar, niet de woorden)
+1. **Autoriteit-opener met cijfer + eerlijk kader:** "Na twintig jaar… weet ik waar mijn energie zit en waar niet."
+2. **Ontwapenende eerlijkheid / anti-sell:** openlijk toegeven waar je *slecht* in bent ("mezelf verkopen"),
+   ontmijnd met "ook al zeg ik het zelf :-)". → exact de "loftrompet/arrogant"-angst uit INTENT-waarom-inhuren.
+3. **Pivot-zin als Groot Idee:** "Maar een demo is nog geen product." — ontkracht de AI-hype in 5 woorden (Schwartz stadium 4).
+4. **Collier — instappen in het lopende gesprek:** "Nu gooi je je idee in een AI tool… en dat voelt goed" vóór de kanteling.
+5. **Accountability als wig:** "een AI-tool neemt geen verantwoordelijkheid. Ik wel." → de mens wint op aansprakelijkheid.
+6. **Zelfselectie gekoppeld aan inzet:** "Niet voor hobbyprojecten. Wél voor… waar het je reputatie kan kosten." (= ADR-0004.)
+7. **Rol-splitsing + ritme:** "Jij hebt het idee. Ik bouw het." + collaboratieve CTA "samen iets echts van maken."
+
+### Wat transfereert naar Vastpakt
+- **Over-mij-stem (hervertaald):** *"Ik ben geen verkoper. Ik bouw liever dan dat ik over mezelf praat.
+  Waar ik energie van krijg: een vaag probleem omzetten in iets dat élke dag werkt — en erbij blijven om
+  het beter te maken. Iets dat echt werkt, is nooit helemaal af."*
+- **Accountability-zin (kandidaat voor wig óf Over-mij, niet beide — Rule of One):**
+  *"Een AI-tool neemt geen verantwoordelijkheid als het misloopt. Ik wel."* → onafhankelijke bevestiging
+  van INTENT-waarom-inhuren (de "doet AI dit niet?"-objectie wordt de wig).
+- **Bevestigt ADR-0004** (zelfselectie) door een vakgenoot.
+
+### Wat NIET overnemen
+- "De lol is eraf zodra het klaar is" / "het traject erna… laat maar" → **tegengesteld** aan Vastpakt's
+  continuïteit-wig ("ik blijf na oplevering"). Omgekeerd gebruiken: "erbij blijven om het beter te maken".
+- Het hele **"idee → demo → product"**-frame is Miran's aanbod (starters met een demo). Vastpakt's lezer
+  is een KMO die verzuipt in werk, geen starter. Leen de moves, niet het verhaal.
