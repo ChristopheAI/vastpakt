@@ -109,6 +109,56 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
 - **Implicatie:** de warme-crème ondergrond is DRAGEND, geen smaak. Licht wint. Divergentie
   bevestigt de kern i.p.v. die te ondermijnen — precies waarvoor de regel dient.
 
+## ── VoC intent-first onderzoek (extern, sessie 2) ──
+> SOURCING-CAVEAT: netwerk blokkeerde Reddit + WebFetch (403 op BE-sites). Geen rauwe
+> forum-verbatims. Onderstaande = thema-convergentie over meerdere onafhankelijke
+> SECUNDAIRE bronnen (vendor-blogs, experts, org's, enkele snippet-quotes). Confidence:
+> THEMA hoog, exacte bewoording laag. Verbatims niet publiceren zonder bron te openen.
+
+## D13 — #1 vertrouwensblokker = ONVOORSPELBARE KOSTEN (homepage zwijgt erover) ⚠️ GAP
+- **Bewijs:** "onverwachte kosten — bijna universeel" (Network-IT); factuur die telkens
+  tegenvalt; prijsstijgingen ondanks beloftes (Teamleader Trustpilot). Spiegel-wens:
+  "ik wou gewoon vaste, voorspelbare kosten, geen verrassingen."
+- **Implicatie:** voeg kost-helderheid toe (afgebakende eerste stap · vooraf weten wat het
+  kost · geen openeind-factuur). ← BUSINESS-keuze van Christophe, niet te verzinnen.
+- **Daagt uit:** mijn pagina noemt prijs nergens. Grootste onbenutte T-hefboom.
+
+## D14 — Solo heeft een SCHADUWZIJDE: "wat als hij wegvalt?" (bus factor) ⚠️ GAP
+- **Bewijs:** single point of failure / "one resignation away from chaos" /
+  leverancier-stopt-continuïteit (we-interactive, foundersbar, it-jurist, crivitslegal
+  faillissement). In BE loopt vertrouwen via mond-tot-mond + "de klik".
+- **Implicatie:** neutraliseer met wat al WAAR is — je bezit alle code/data, standaard-tech
+  (elke dev kan over), documentatie, evt. back-up/exit-afspraak. "Ik blijf" alléén kan de
+  angst zelfs oproepen.
+- **Daagt uit:** ik speelde "één mens" enkel als upside; de onderkant adresseerde ik niet.
+
+## D15 — Anti-AI-hype is JUIST, nu met cijfer ✅ (versterkt D04)
+- **Bewijs:** AI-Barometer 2025 (VLAIO): 28,2% gebruikt geen AI én niet van plan; ~28% ziet
+  geen wekelijkse tijdwinst. Houding = anti-buzzword, niet anti-tech.
+- **Implicatie:** "AI/automatisering" niet als kop; verkoop de UITKOMST. Bevestigt toon.
+
+## D16 — Standaardpakket-frustratie = overkill / te complex / "jij past je aan de software aan"; frame = HYBRIDE ✅ nuance
+- **Bewijs:** "betalen voor 100 functies, gebruik er 5"; Odoo "extremely complicated";
+  Teamleader "increasingly complex/expensive"; consensus = hybride (standaard waar kan,
+  maatwerk voor de onderscheidende 20%).
+- **Implicatie:** positioneer als "ik fix het stuk waar je pakket je tegenwerkt", NIET
+  "geen standaardsoftware" (dat is net We Are's frame).
+
+## D17 — Emotioneel register van de druppel is zwaarder/menselijker dan mijn copy ⚠️ register
+- **Bewijs:** "Ik haat administratie" / "nerveus van een brief in de bus" (CUBE4); "dan kan
+  je niet slapen... net iets te veel" (Liantis burn-out); schaamte tegenover klagende klant;
+  "leads verdwijnen stilletjes". Druppel = vaak CUMULATIEVE uitputting of SLUIPEND verlies,
+  niet één drama.
+- **Implicatie:** mijn kop is rationeel ("welke versie klopt?"). Eén menselijke noot kan
+  dieper raken: "je avonden terug", "jij bent vakman, geen administrateur".
+- **Daagt uit:** ik onderschatte het identiteits-/uitputtingsregister.
+
+## D18 — "Het werkt niet / raakt nooit af" is reëel (~50% IT-projecten faalt) ✅ de-risk klopt
+- **Bewijs:** ~50% bedrijfssoftware-projecten faalt (deels); ghosting/scope creep; ~4/5
+  AI-trajecten mislukt.
+- **Implicatie:** mijn "kleine eerste stap, eerst kijken dan kiezen" is goed gericht — maak
+  'm explicieter als de-risker ("afgebakend, je ziet snel iets werkends").
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
