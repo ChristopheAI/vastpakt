@@ -168,6 +168,24 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
 - **CAVEAT:** T's reële plafond hangt nog op kosten-helderheid (D13) + echt bewijs/foto
   (D05) — beide user-content; niet door mij te leveren zonder de eerlijkheids-wig te breken.
 
+## D20 — Concurrentie-deepdive bevestigt witte ruimte: gezicht + prijs zijn onbezet 🔎 (zie CONCURRENTIE.md)
+- **Bewijs:** 5-agent research over 15+ Vlaamse solo/kleine AI-automatisten (Flowlift, CAIKMO,
+  Nordant, AI-voor-KMO, Hugarro, Nunki, Codelines, Onoweb, Sevendays, n8n-spelers…).
+- **Bron:** CONCURRENTIE.md (citaten uit zoek-snippets; directe fetch overal geblokkeerd, 403).
+- **Kernpatronen:** (1) tijdwinst-belofte is generiek geworden; (2) doorlooptijd-hook ("X weken
+  live") is bijna verplicht — Vastpakt mist die; (3) prijs = gespleten markt, Vastpakt zit in de
+  zwijgende helft; (4) twee toon-polen: bouwers=hype, adviseurs=nuchter → Vastpakt's anti-hype is
+  onderscheidend t.o.v. de bouwer-pool; (5) support ná oplevering marktbreed zwak; (6) continuïteit
+  amper geclaimd (enkel Codelines "geen lock-in"); (7) **bijna niemand toont een gezicht** (enkel
+  Nunki); (8) geen *solo* claimt hard Antwerpen (Codelines=bureau, Sevendays=n8n-breed).
+- **Implicatie:** de 4 witte-ruimte-hefbomen (gezicht / eerlijke prijs / anti-hype / continuïteit)
+  raakt elke concurrent los aan, niemand combineert ze. v3.8 dekt anti-hype + continuïteit al.
+  **De twee resterende — echt gezicht (foto) + eerlijke prijs/afgebakende eerste stap — zijn exact
+  de user-content-hefbomen (D05, D13).** Concurrentie bevestigt dus onafhankelijk dat dáár de
+  grootste vertrouwens-winst ligt. Continuïteit scherpen als *solo*-troef (bus-factor), niet enkel
+  "geen lock-in" (dat zegt bureau Codelines ook).
+- **Status:** 🔎 — gezicht + prijs wachten op Christophe; rest gevalideerd.
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
