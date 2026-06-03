@@ -14,9 +14,9 @@ de eerste stap → slot-CTA.
 *(eyebrow)* Voor Vlaamse KMO's die verzuipen in manueel werk, losse tools en vergeten opvolging.
 
 # Je werkt harder dan je bedrijf. Dat is niet jouw schuld.
-Je team is niet traag. Je systemen groeiden gewoon niet mee.
+Jij bent niet traag. Je manier van werken groeide gewoon niet mee.
 
-Ik bouw één brug tussen je bestaande tools — zodat het dubbele werk wegvalt. Met je huidige team. Zonder alles te vervangen. En jij blijft eigenaar van alles.
+Ik bouw één brug tussen je bestaande tools — zodat het dubbele werk wegvalt. Zonder alles te vervangen. En jij blijft eigenaar van alles.
 
 **[ Beschrijf één situatie → ]** — Binnen 24u een eerlijk antwoord, ook als dat "nee" is.
 
@@ -46,7 +46,7 @@ Past automatisering niet bij wat je nodig hebt? Dan zeg ik dat meteen. Liever ee
 
 ## 6 · Over-mij-teaser ✅ → /over-mij/
 ## Eén mens, geen logo.
-Geen bureau, geen tussenpersoon. Eén iemand die luistert, bouwt en blijft.
+Benieuwd wie er achter Vastpakt zit — en waarom ik dit doe?
 
 **Wie ik ben →** (`/over-mij/`)
 

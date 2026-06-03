@@ -137,3 +137,7 @@ melodrama), geen verzonnen cijfers/claims (D05/credibility), één groot idee in
 
 **Eigen AI-tell (uit deze sessie):** gespiegelde fragmenten ("niet X / net Y", "geen A / wel B") —
 ritmisch maar formulair. Bij elke spiegeling: vlag → herschrijf naar gewone spreektaal.
+
+**Voice-bewaking — geen "team" aannemen:** de lezer is vaak solo of micro-KMO (hij *ís* het team).
+Spreek "jij" aan, niet "je team". Geleende taal van grotere-doelgroep-bronnen (bv. Stefhan's
+"MKB-directeuren") sluipt zo binnen en botst met onze eigen draad ("je droeg het alleen").
