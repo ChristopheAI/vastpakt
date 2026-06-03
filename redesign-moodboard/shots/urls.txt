@@ -1,3 +1,3 @@
-# Iteratie 1 — synthese: baseline v3.1 vs v3.4
-file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.1/index.html
+# Iteratie 2 — basis v3.4 vs v3.5 (wrijvingsverlager)
 file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.4/index.html
+file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.5/index.html
