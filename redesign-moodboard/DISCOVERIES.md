@@ -186,6 +186,19 @@ Elk inzicht: bewijs · bron · implicatie · welke v-versie het veranderde.
   "geen lock-in" (dat zegt bureau Codelines ook).
 - **Status:** 🔎 — gezicht + prijs wachten op Christophe; rest gevalideerd.
 
+## D21 — Echte markttaal-corpus gestart (zie MARKT-TAAL.md) 🔎
+- **Bewijs:** Christophe deelt verbatim copy van near-identieke spelers. Bron 01 = Stefhan
+  van der Sligte ("procesversneller", stefhan.ai, NL/MKB). Near-identiek positionerings-sjabloon
+  in dezelfde nuchtere proces-pool.
+- **Bron:** MARKT-TAAL.md (groeiend corpus; Christophe voedt aan).
+- **Implicatie:** (1) Vastpakt zit al in dezelfde taalwereld ("geen nieuwe tool"≈"zonder nieuwe
+  software", "brug bouwen"≈"verbinden zonder vervangen") — positionering bevestigd. (2) Twee
+  leerpunten die Vastpakt mist: **baan-angst** ("met dezelfde mensen") en **schuld-absolutie**
+  ("niet omdat je mensen inefficiënt zijn — je processen groeiden niet mee"). (3) Stefhan zwijgt
+  over prijs/continuïteit/eerlijk-nee → Vastpakt's vertrouwens-wig blijft onbezet.
+- **Regel:** techniek & vocabulaire hervertalen, NOOIT letterlijk kopiëren.
+- **Status:** 🔎 — corpus groeit; baan-angst + schuld-absolutie als kandidaat-hefbomen.
+
 ## Openstaande hefbomen (kandidaat-hypotheses)
 - **L1 (uit D05):** vervang abstracte hero-rechts door een concrete vóór→na-bewijskaart. → T,K?
 - **L2:** positie van de solo-wig — hoger (vlak na hero) = sceptisch oog ziet differentiator eerder? → T,D?
