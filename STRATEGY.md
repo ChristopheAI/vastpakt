@@ -64,5 +64,9 @@ geen prijs/claim zonder bewijs.
 - ~~Prijsmodel (#18) blokkeert launch~~ → posture beslist: **stil + lage drempel** (geen bedrag op de
   site, eerlijke interim blijft; ADR-0007). #18 is géén go-live-blocker meer; een transparant
   "vanaf"-bedrag is een latere optie op een diepere pagina en wacht nog op Christophe's floor-cijfer.
-- kmo-portefeuille als hefboom — geparkeerd (registratie/voorwaarden uitzoeken vóór copy).
+- ~~kmo-portefeuille als hefboom~~ → ✅ uitgezocht (VLAIO, 2026-06-07): **niet bruikbaar voor de
+  kerndienst.** IT-development/implementatie/procesanalyse zijn uitgesloten; sinds 1 feb 2026 verdween
+  ook de advies-dienst (behalve cybersecurity). Enkel *opleiding* is subsidieerbaar (30% klein /
+  20% middelgroot, max €7.500/j) en vereist registratie als dienstverlener + audit. → **Geen
+  site-lever.** Enkel relevant als Christophe ooit een echte opleidings-/trainingslijn opzet. Bron: vlaio.be.
 - Site-architectuur → beslist: **lean 4-pagina-spine**, de rest redirect (ADR-0006).
