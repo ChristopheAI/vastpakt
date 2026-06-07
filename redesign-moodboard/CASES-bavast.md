@@ -37,4 +37,4 @@ Korter: **data erin → BAVAST structureert → rapport eruit.**
 ## Open (vóór het live gaat)
 - [x] Sector ("plaatsbeschrijver"), naam **BAVAST** en cijfer **"30 min–1 u per dossier"** mogen
   publiek getoond worden — bevestigd door Christophe 2026-06-03.
-- [ ] Een letterlijke **klant-quote** beschikbaar? (= sterkste social proof; nog niet aangeleverd)
+- [ ] Een letterlijke **klant-quote** beschikbaar? (= sterkste social proof; nog niet aangeleverd) → tracked: issue #19

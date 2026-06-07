@@ -70,7 +70,7 @@ Het werkt het best als je al een tijd draait en voelt dat het vastloopt op één
 
 Twijfel je? Beschrijf één situatie. Past het niet bij jou, dan zeg ik dat meteen.
 
-## 8 · De eerste stap 🟡 (framing — vereist Christophe's bevestiging van het model)
+## 8 · De eerste stap 🟡 (framing — vereist Christophe's bevestiging van het model) → tracked: issue #18
 ## De eerste stap is klein.
 Je beschrijft één situatie. Ik kijk ernaar en zeg eerlijk of ik kan helpen — binnen 24u. Past het, dan stel ik een afgebakende eerste stap voor: vaste scope, vaste prijs, een duidelijk resultaat. Geen open eindje, geen abonnement waar je niet meer uit raakt.
 
@@ -87,7 +87,7 @@ Beschrijf in een paar zinnen wat er vastloopt. Binnen 24u weet je of ik kan help
 
 ## Status
 - ✅ Blokken 1–7 + 9: afgewerkt, in onze stem, door de schrap-checklist.
-- 🟡 Blok 8: framing staat; wacht op Christophe's echte prijs-/eerste-stap-model.
+- 🟡 Blok 8: framing staat; wacht op Christophe's echte prijs-/eerste-stap-model. (issue #18)
 - 🔴 Subpagina's (later, "andere pagina"): `/werk/` (echte cases), `/over-mij/` (verhaal + foto).
 
 → Volgende stap zodra blok 8 bevestigd is: copy in `index.html` gieten en renderen.
