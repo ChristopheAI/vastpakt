@@ -1,3 +1,5 @@
-# Copy-iteratie — basis v3.8 vs v3.9 (Problem-Solution-lead + schuld-absolutie)
-file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.8/index.html
-file:///home/runner/work/vastpakt/vastpakt/redesign-moodboard/v3.9/index.html
+# Live site — nieuwe spine (desktop 1440 + mobiel 390, fold + full)
+file:///home/runner/work/vastpakt/vastpakt/index.html
+file:///home/runner/work/vastpakt/vastpakt/werk/index.html
+file:///home/runner/work/vastpakt/vastpakt/voor-wie/index.html
+file:///home/runner/work/vastpakt/vastpakt/over-mij/index.html
