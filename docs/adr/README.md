@@ -27,3 +27,4 @@ Niet *hoe* de code werkt, wel *waaróm* we iets zo kozen.
 | [0002](0002-homepage-als-opstap.md) | Homepage is een opstap die naar losse pagina's linkt | Aanvaard |
 | [0003](0003-problem-solution-lead.md) | Homepage-copy: Problem-Solution-lead met één Groot Idee | Aanvaard |
 | [0004](0004-zelfselectie-blok.md) | "Is dit iets voor jou?" — zelfselectie + eerlijke diskwalificatie | Aanvaard |
+| [0005](0005-sessie-copy-supersedet-wireframe-map.md) | Sessie-copy (Problem-Solution) supersedet de wireframe-map Promise-lead | Aanvaard |

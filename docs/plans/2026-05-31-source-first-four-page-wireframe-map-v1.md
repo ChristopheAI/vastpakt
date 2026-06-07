@@ -4,6 +4,30 @@ Datum: 2026-05-31
 
 Status: uitvoering van GitHub issue `#11 - 00 - Source-first four-page wireframe map`. Intern plan. Geen publieke copy. Geen implementatie.
 
+> ⚠️ **v2-reconciliatie toegevoegd 2026-06-07 — lees eerst de sectie hieronder.** De homepage-spine in v1 is gesupersed.
+
+## v2 — Homepage-spine reconciliatie (2026-06-07)
+
+> **Besluit (Christophe): de sessie-copy is nieuwer en wint.** De homepage-spine verderop in v1
+> (Promise-lead, "minder dubbel werk") is **gesupersed** door de Problem-Solution-spine uit
+> `redesign-moodboard/COPY-DRAFT.md`. Zie **ADR-0005** (+ ADR-0003). De rest van dit document
+> (`/voor-wie/`, `/werk/`, `/over-mij/`, copylabels, proof gates) blijft geldig — daar is geen conflict.
+
+**Canonieke homepage-spine (v2):**
+
+1. Hero — "Je werkt harder dan je bedrijf. Dat is niet jouw schuld." (Problem-Solution / schuld-absolutie)
+2. Herkenning — "Jij bént het systeem geworden."
+3. Brug — "We halen het uit jouw hoofd." (vervangt de v1 `user-approved` brugzin — zie ADR-0005, **omkeerbaar punt**)
+4. Werk — echte BAVAST-mini-case → link naar `/werk/`
+5. Wig — "En je praat met wie het bouwt."
+6. Over-mij-teaser → link naar `/over-mij/`
+7. "Is dit iets voor jou?" — zelfselectie + eerlijke diskwalificatie
+8. De eerste stap — prijs/framing (issue #18, wacht op Christophe's model)
+9. Slot-CTA — "Beschrijf één situatie."
+
+**Behouden uit v1:** CTA "Beschrijf je situatie", "geen bestand nodig / binnen 24u eerlijk nee", de vier paginajobs, de copylabels en de proof gates.
+**Gewijzigd t.o.v. v1:** hero lead-type (Promise → Problem-Solution); de brugzin vervangen; de spine voegt *herkenning*, *on-homepage BAVAST-proof*, *zelfselectie* en een expliciet *eerste-stap-blok* toe.
+
 Doel: de competitor transfer map opnemen in een bouwbare vierpagina-architectuur voor het Vastpakt-homepageherontwerp.
 
 Bronnen:
@@ -181,6 +205,8 @@ Ik kan klein beginnen door één situatie te beschrijven.
 ```
 
 De homepage is geen bewijsarchief, geen dienstenpagina en geen volledige over-mij.
+
+> ⚠️ **De onderstaande v1-blokkenvolgorde (Promise-lead) is gesupersed door de v2-spine bovenaan dit document (ADR-0005 + `COPY-DRAFT.md`).** De v1-tabel blijft staan als historische referentie.
 
 ### Blokkenvolgorde
 
