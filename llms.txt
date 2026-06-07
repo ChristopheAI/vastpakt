@@ -1,16 +1,15 @@
 # Vastpakt
 
-> Vastpakt helpt Vlaamse KMO's waar werk blijft hangen tussen Excel, mail, WhatsApp, CRM, facturatie, afspraken of documenten.
+> Vastpakt helpt Vlaamse KMO's die harder werken dan hun bedrijf: werk dat blijft hangen tussen Excel, mail, CRM, facturatie, afspraken of documenten.
 
-Vastpakt is de website van Christophe. De eerste stap is geen nieuwe tool of groot traject. Een bezoeker stuurt of beschrijft een echte werksituatie. Christophe geeft binnen 24 uur een korte geschreven eerste blik terug, of een eerlijk nee.
+Vastpakt is de website van Christophe. De eerste stap is geen nieuwe tool of groot traject. Een bezoeker beschrijft één echte werksituatie. Christophe geeft binnen 24 uur een eerlijk antwoord terug, ook als dat nee is.
 
-## Belangrijkste pagina
+## Belangrijkste pagina's
 
-- [Homepage](https://vastpakt.be/): legt uit voor wie Vastpakt is, welke signalen herkenbaar zijn, welke praktijkvoorbeelden bestaan en hoe iemand een vraag kan sturen.
-- [Dubbel werk](https://vastpakt.be/dubbel-werk/): focust op informatie die opnieuw wordt overgenomen tussen Excel, mail en facturatie.
-- [Offerte-opvolging](https://vastpakt.be/offerte-opvolging/): focust op een offerte die verstuurd is, maar waarvan status, eigenaar of volgende stap niet duidelijk zichtbaar is.
-- [Facturatie en bewijs](https://vastpakt.be/facturatie-bewijs/): focust op werk dat klaar is, maar waar facturatie wacht op akkoord, bewijs of een seintje.
-- [Over Vastpakt](https://vastpakt.be/over-vastpakt/): legt kort uit wat Vastpakt is, wie de eerste situatie bekijkt, welke werkobjecten herkenbaar zijn en wat Eerste Zicht teruggeeft.
+- [Homepage](https://vastpakt.be/): je werkt harder dan je bedrijf — Vastpakt verbindt de tools die je al gebruikt zodat overtikken, dubbel invoeren en opvolgen vanzelf gaan; jij blijft eigenaar.
+- [Voor wie](https://vastpakt.be/voor-wie/): herkenbare signalen die tonen of Vastpakt bij je werkdag past, en waar het niet voor is.
+- [Werk](https://vastpakt.be/werk/): een echte praktijkcase waar werk vastzat in één hoofd en in een systeem terechtkwam.
+- [Over mij](https://vastpakt.be/over-mij/): wie Christophe is en waarom je rechtstreeks met de bouwer praat.
 
 ## Herkenbare werkobjecten
 
@@ -23,15 +22,14 @@ Vastpakt is de website van Christophe. De eerste stap is geen nieuwe tool of gro
 - Planningwijziging
 - Word-document
 
-## Eerste Zicht
+## De eerste stap
 
-Eerste Zicht is de kleine eerste stap. De vraag is waar status, eigenaar, bewijs, akkoord of volgende stap onduidelijk wordt.
+Je beschrijft één situatie — in een paar zinnen, geen bestand nodig. Christophe kijkt ernaar en zegt binnen 24 uur eerlijk of hij kan helpen, ook als dat nee is. Een eerste gesprek kost niets.
 
 Wat iemand terugkrijgt:
 
-- wat er werd gestuurd, in de woorden van de bezoeker;
-- waar status, bewijs of volgende stap onduidelijk wordt;
-- de kleine volgende stap, als verdergaan zinvol is;
+- een eerlijk antwoord of Vastpakt kan helpen;
+- zo ja, wat een kleine eerste stap zou zijn;
 - een eerlijk nee als het niet past.
 
 ## Contact
