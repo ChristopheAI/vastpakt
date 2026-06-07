@@ -70,12 +70,13 @@ Het werkt het best als je al een tijd draait en voelt dat het vastloopt op één
 
 Twijfel je? Beschrijf één situatie. Past het niet bij jou, dan zeg ik dat meteen.
 
-## 8 · De eerste stap 🟡 (framing — vereist Christophe's bevestiging van het model) → tracked: issue #18
+## 8 · De eerste stap ✅ (eerlijke interim-versie — prijs-mét-cijfers blijft #18)
 ## De eerste stap is klein.
-Je beschrijft één situatie. Ik kijk ernaar en zeg eerlijk of ik kan helpen — binnen 24u. Past het, dan stel ik een afgebakende eerste stap voor: vaste scope, vaste prijs, een duidelijk resultaat. Geen open eindje, geen abonnement waar je niet meer uit raakt.
+Je beschrijft één situatie — in een paar zinnen, geen bestand nodig. Ik kijk ernaar en zeg je binnen 24u eerlijk of ik kan helpen, ook als dat nee is. Een eerste gesprek kost je niets.
 
-> ⚠️ Aannemelijke framing, géén verzinsel dat live mag zonder bevestiging. Open: vast bedrag?
-> kmo-portefeuille? maandmodel? Zie COPY-PLAN themablok 3.
+Wat een volgende stap kost, hangt af van wat er nodig is — dat spreken we vooraf helder af, zonder verrassingen achteraf.
+
+> ✅ Source-true interim: gratis eerste gesprek + transparante afspraak (current-site/runbook + eerlijk-ethos). Géén verzonnen bedrag of model. De transparante "vanaf"-prijs (Miran-model, Bron 04) blijft open in **issue #18** (raakt D13).
 
 ## 9 · Slot-CTA ✅
 ## Eén situatie. Eén eerlijk antwoord.
@@ -87,7 +88,7 @@ Beschrijf in een paar zinnen wat er vastloopt. Binnen 24u weet je of ik kan help
 
 ## Status
 - ✅ Blokken 1–7 + 9: afgewerkt, in onze stem, door de schrap-checklist.
-- 🟡 Blok 8: framing staat; wacht op Christophe's echte prijs-/eerste-stap-model. (issue #18)
+- ✅ Blok 8: eerlijke interim-versie (gratis gesprek + transparante afspraak, géén verzonnen cijfer); prijs-mét-cijfers = issue #18.
 - 🔴 Subpagina's (later, "andere pagina"): `/werk/` (echte cases), `/over-mij/` (verhaal + foto).
 
-→ Volgende stap zodra blok 8 bevestigd is: copy in `index.html` gieten en renderen.
+→ Volgende stap: copy in `index.html` gieten en renderen (blok 8 nu shipbaar via de eerlijke interim).
