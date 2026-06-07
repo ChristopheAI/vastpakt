@@ -27,9 +27,11 @@ sceptisch (AI-hype-moe), en — cruciaal — **nog niet beslist dat hij "softwar
 ## 4. Het Groot Idee (Rule of One)
 **"Je werkt harder dan je bedrijf. Dat is niet jouw schuld."** — schuld-absolutie, Problem-Solution-lead (ADR-0003/0005).
 
-## 5. Identiteitslijn — 🟡 HYPOTHESE (nog niet door Christophe bevestigd)
+## 5. Identiteitslijn — ✅ BEVESTIGD (Christophe, 2026-06-07)
 > "Ik haal het werk uit je hoofd — en zet het in een systeem dat van jou is."
-Pijn → systeem → eigenaarschap. Veralgemening van de BAVAST-stelling. **Bevestigen vóór publiek gebruik.**
+Pijn → systeem → eigenaarschap. Veralgemening van de BAVAST-stelling. Officiële spine onder Over-mij én
+de site-stem. **Bewaak:** "systeem" blijft altijd vastgeklonken aan "je bestaande tools" — nooit los,
+anders leest het als "software adopteren" (botst met de wig + koper §2).
 
 ## 6. De ene CTA
 **"Beschrijf één situatie."** Geen bestand nodig. Binnen 24u een eerlijk antwoord, ook als dat nee is.
@@ -58,5 +60,9 @@ Geen AI-agency · geen automation-first · geen consultancy-theater · geen soft
 geen prijs/claim zonder bewijs.
 
 ## 10. Open strategische punten
-- Identiteitslijn (§5) bevestigen — `ja/nee/anders`.
-- Prijsmodel (#18) — bepaalt of er een transparante "vanaf"-prijs op de site komt.
+- ~~Identiteitslijn (§5) bevestigen~~ → ✅ bevestigd 2026-06-07.
+- ~~Prijsmodel (#18) blokkeert launch~~ → posture beslist: **stil + lage drempel** (geen bedrag op de
+  site, eerlijke interim blijft; ADR-0007). #18 is géén go-live-blocker meer; een transparant
+  "vanaf"-bedrag is een latere optie op een diepere pagina en wacht nog op Christophe's floor-cijfer.
+- kmo-portefeuille als hefboom — geparkeerd (registratie/voorwaarden uitzoeken vóór copy).
+- Site-architectuur → beslist: **lean 4-pagina-spine**, de rest redirect (ADR-0006).

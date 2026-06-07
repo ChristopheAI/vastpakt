@@ -28,3 +28,5 @@ Niet *hoe* de code werkt, wel *waaróm* we iets zo kozen.
 | [0003](0003-problem-solution-lead.md) | Homepage-copy: Problem-Solution-lead met één Groot Idee | Aanvaard |
 | [0004](0004-zelfselectie-blok.md) | "Is dit iets voor jou?" — zelfselectie + eerlijke diskwalificatie | Aanvaard |
 | [0005](0005-sessie-copy-supersedet-wireframe-map.md) | Sessie-copy (Problem-Solution) supersedet de wireframe-map Promise-lead | Aanvaard |
+| [0006](0006-lean-vierpagina-spine.md) | Lean vierpagina-spine; oude use-case- en over-pagina's redirecten | Aanvaard |
+| [0007](0007-prijsposture-stil-lage-drempel.md) | Prijsposture: stil + lage drempel (geen bedrag op de site) | Aanvaard |
