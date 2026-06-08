@@ -52,6 +52,7 @@ anders leest het als "software adopteren" (botst met de wig + koper §2).
 | 4-page architectuur | `docs/plans/…wireframe-map-v1.md` (v2-sectie) |
 | Beslissingen | `docs/adr/` (0001–0007) |
 | Positionering (de lane) | `redesign-moodboard/POSITIONING.md` |
+| Markt-stadium / timing | `redesign-moodboard/MARKT-STADIUM.md` (Sultanic — Realism-stage) |
 | Aanbod-model / lead-gen | `redesign-moodboard/MODEL-TEARDOWN.md` |
 | Mechanisme + avatar (RMBC/PDOCS) | `redesign-moodboard/UNIQUE-MECHANISM.md`, `redesign-moodboard/PDOCS-AVATAR.md` |
 | Koper-research + copy-formules | `redesign-moodboard/BUYER-BRIEF.md` (49-vragen-standaard, coverage + gaps) |
