@@ -48,7 +48,7 @@ anders leest het als "software adopteren" (botst met de wig + koper §2).
 ## 8. Waar de canonieke waarheid leeft
 | Domein | Bron |
 |---|---|
-| Homepage-spine (copy) | `redesign-moodboard/COPY-DRAFT.md` |
+| Homepage-spine (copy) | `redesign-moodboard/COPY-DRAFT.md`, `HOMEPAGE-BRIEF.md` (RMBC-blauwdruk + v2-lead) |
 | 4-page architectuur | `docs/plans/…wireframe-map-v1.md` (v2-sectie) |
 | Beslissingen | `docs/adr/` (0001–0007) |
 | Positionering (de lane) | `redesign-moodboard/POSITIONING.md` |
