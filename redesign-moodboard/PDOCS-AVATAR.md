@@ -37,15 +37,17 @@ AI-hype-moe, sceptisch, **nog niet beslist dat hij "software" wil.** Voelt de pi
 - Zijn **bestaande tools houden** — niet alles overhoop.
 *(Bron: STRATEGY §2/§3, INTENT, MARKT-TAAL. 🟡 waar het verlangen afgeleid is, niet verbatim.)*
 
-## O — Obstacles (wat hem tegenhoudt om ja te zeggen) · 🟡
-- **AI-hype-moe** / ooit verbrand door een tool of bureau.
-- **Baan-angst:** raakt automatisering mijn mensen?
-- **Tool-angst:** moet ik alles weggooien/vervangen?
-- **Lock-in-angst:** zit ik straks vast aan die ene bouwer?
-- **"Zwart gat na de offerte"** — wordt het wel afgewerkt?
-- **"Geen tijd om dit uit te zoeken"** — de drempel om te beginnen.
-*(Bron: CONCURRENTIE §2-§4, MARKT-TAAL Bron 01 leerpunten, INTENT. 🔴 de exacte woorden vragen verse
-Reddit/review-mining — gate-geblokkeerd; zie §onderaan.)*
+## O — Obstacles (wat hem tegenhoudt om ja te zeggen) · 🟢 markt-bevestigd
+- **Bang voor AI / AI-hype-moe** — *"31% scared to implement AI"* (markt, `MARKT-VRAGEN.md` §2).
+- **Baan-angst:** raakt automatisering mijn mensen? — *"low headcounts, close-knit teams… want to avoid
+  redundancies"* (markt).
+- **"Weet niet waar te beginnen"** — *"41% want to integrate AI but don't know where to start"* (markt).
+- **Tool-angst:** moet ik alles weggooien/vervangen? · 🟡
+- **Lock-in-angst:** zit ik straks vast aan die ene bouwer? · 🟡
+- **"Zwart gat na de offerte"** — wordt het wel afgewerkt? · 🟡
+- **"Geen tijd om dit uit te zoeken"** — de drempel om te beginnen. · 🟡
+*(De top-3 zijn markt-bevestigd via WebSearch-vraag-mining — `MARKT-VRAGEN.md` §1-D + §2; aangevuld met
+CONCURRENTIE §2-§4, INTENT. De 🟡-rijen blijven corpus tot vers gemined.)*
 
 ## C — Common Beliefs (wat hij nú gelooft → de flip) · 🟡 belief / 🟢 flip
 > Dit is de scherpste rij: elke flip is een **objectie-killer én een content-hoek.**
@@ -59,6 +61,11 @@ Reddit/review-mining — gate-geblokkeerd; zie §onderaan.)*
 | "Ik zit straks vast aan die bouwer." | **Jij blijft eigenaar** — valt mij iets, elke ontwikkelaar kan verder. |
 | "AI doet dit toch automatisch?" | Een tool neemt geen verantwoordelijkheid als het misloopt. Een mens wel. |
 *(Flips traceren naar COPY-DRAFT blok 1/3/5, STRATEGY §3, MARKT-TAAL Bron 03. 🟢)*
+
+> **Markt-bevestigd (`MARKT-VRAGEN.md` §2):** de top-2 flips staan letterlijk in de markt —
+> *"The real issue isn't discipline — it's lack of structure"* (schuld-absolutie) en *"processes live
+> only in their heads, not documented procedures"* (het mechanisme). Je *beweert* ze niet; je *benoemt*
+> wat de koper al voelt en leest.
 
 ## S — "Steroids" → eerlijke accelerators (wat de ja versnelt) · 🟢
 > Geen hype-"steroids"; de échte versnellers die het vertrouwen en de beslissing versnellen:
@@ -76,8 +83,10 @@ Reddit/review-mining — gate-geblokkeerd; zie §onderaan.)*
 **flip** hem → toon **1 accelerator** → de ene **CTA** ("Beschrijf één situatie").
 Dat is meteen het Stefhan-postskelet (`MODEL-TEARDOWN.md` §C3), nu gevoed met een research-grid i.p.v. gevoel.
 
-## Verse-research-gap (eerlijk) · 🔴
-PDOCS-stap "ga naar Reddit/reviews/3-4-sterren *right now*" kon ik niet live doen (netwerk-gate, 403).
-**O (Obstacles)** en de exacte **Common Beliefs in zijn eigen woorden** zijn nu 🟡 corpus-afgeleid.
-Allowlist Reddit/YouTube/review-hosts óf plak threads/reviews, en ik til deze twee rijen van 🟡 naar 🟢
-(de echte woorden van de markt = de scherpste copy-grondstof, AGENTS.md "captured language first").
+## Verse-research-gap (eerlijk) · 🟡 deels gesloten
+WebSearch-vraag-mining (2026-06-07 → `MARKT-VRAGEN.md`) sloot een deel: **O (Obstacles, top-3)** en de
+**top-2 Common Beliefs** zijn nu markt-bevestigd 🟢. **Nog open 🔴:** (1) **volume-ranking** — welke vraag
+het *meest* gezocht wordt (keyword-tool nodig); (2) **rauwe Vlaamse Reddit/forum-taal** in de moedertaal
+(US-WebSearch onderbelicht die; de NL-bronnen zijn blog-titels, geen operator-taal). Allowlist
+Reddit/YouTube/review-/keyword-hosts óf plak echte threads, en de rest gaat van 🟡 naar 🟢
+(AGENTS.md: "captured language first").
