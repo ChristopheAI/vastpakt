@@ -54,6 +54,7 @@ anders leest het als "software adopteren" (botst met de wig + koper §2).
 | Positionering (de lane) | `redesign-moodboard/POSITIONING.md` |
 | Aanbod-model / lead-gen | `redesign-moodboard/MODEL-TEARDOWN.md` |
 | Mechanisme + avatar (RMBC/PDOCS) | `redesign-moodboard/UNIQUE-MECHANISM.md`, `redesign-moodboard/PDOCS-AVATAR.md` |
+| Koper-research + copy-formules | `redesign-moodboard/BUYER-BRIEF.md` (49-vragen-standaard, coverage + gaps) |
 | Markt-/klanttaal | `MARKT-TAAL.md` (Bron 01–04), `INTENT-*.md`, `CASES-bavast.md`, `CONCURRENTIE.md`, `MARKT-VRAGEN.md` |
 | Empirische learnings | `redesign-moodboard/DISCOVERIES.md` (D-log) |
 | Schrijf-/review-regels | `COPY-PLAYBOOK.md`, `reviews/*.md` |
