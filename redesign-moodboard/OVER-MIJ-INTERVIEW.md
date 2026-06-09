@@ -63,7 +63,34 @@
 
 ---
 
+---
+
+## Vraag 3 — de poederlakkerij / Nicola (de waarom)
+
+### Christophes ruwe woorden
+- "Het begon doordat **Nicola** zijn bedrijf aan het opstarten was. Hij was **letterlijk op zoek naar
+  software** voor één proces: het **ingeven en bijhouden van zijn voorraad poederdozen.**"
+- "Er was héél veel software — maar voor **wat enkel Nicola nodig had, bestond dat niet.**"
+- "Je hebt heel wat **grote, logge software in een echt groot pakket** zitten. Maar net **dat ene stuk dat
+  Nicola enkel nodig had — enkel de stuks/voorraad — dat bestond niet.**"
+- ⭐ "**Dát was de waarom. Want het bestond niet.** Dus de waarom was: *hé, laten we dat zelf bouwen.*"
+
+### Mijn notities (de drijfveer — en het is goud)
+- ⭐ **DE WAAROM, scherp:** *de software die je écht nodig hebt, bestaat vaak niet. Er is alleen niets —
+  of een groot, log pakket vol dingen die je niet gebruikt. Dus bouw ik precies dát ene stuk dat jij nodig
+  hebt. Niet meer.*
+- **Dit klikt met de AI-nuance (vraag 1):** vóór AI was "enkel het stukje dat Nicola nodig heeft" bouwen
+  te duur/te moeilijk → mensen werden gedwongen in een groot log pakket (of niets). **Mét AI** kan je dat
+  kleine, exact-passende stuk wél economisch bouwen. → **Dat is de hele thesis:** exact wat je nodig hebt,
+  done-for-you, nu pas mogelijk.
+- **Sluit aan op de site-wig** (MARKT-VRAGEN): de markt verkoopt het grote pakket/de tool; Vastpakt bouwt
+  exact het stuk dat je mist. Twee leveringsvormen van dezelfde precisie-fit: bestaande tools verbinden
+  *of* het kleine ontbrekende stuk bouwen.
+- **Naam-proof:** "Nicola" + poederlakkerij + voorraad poederdozen (matcht de werkplaatsvoorraad-case op
+  /werk/). 🔴 mag Nicola's naam/bedrijf publiek? (vragen)
+
+---
+
 ## Nog op te graven
-- ⭐ **De waarom/drijfveer:** waarom bouwt hij dít (werk-uit-je-hoofd) voor KMO's? Wat pakt hem aan het probleem?
-- De poederlakkerij: wat liep daar vast + wat voelde hij toen het werkte (proof + emotie).
+- Het **gevoel** toen Nicola de app dagelijks gebruikte (de emotionele why).
 - Een echte "nee"-scène. · Eén menselijk ding dat z'n manier-van-werken verklaart. · Z'n stem.
