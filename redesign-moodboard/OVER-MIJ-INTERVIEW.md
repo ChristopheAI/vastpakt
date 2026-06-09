@@ -133,6 +133,30 @@
 
 ---
 
+## Vraag 6 — de flow concreet (de laatste keer dat het klikte)
+
+> Dig deeper op Vraag 5: "laatste keer dat je in flow zat met een écht probleem — wat voelde je toen het
+> op z'n plaats viel?"
+
+### Christophes ruwe woorden (verbatim)
+- "**die software bouwen voor Nicolas** — heb daar **dagen aan gewerkt.**"
+- "**recursive improvement** gedaan — **constant leren en verbeteren tot het eindresultaat behaald is.**"
+- "dus een **afgewerkte software die in gebruik is genomen door de zaakvoerder zelf.**"
+
+### Mijn notities (de copy-haken)
+- ⭐ **De cirkel sluit:** flow (V5) → **dagen recursive bouwen** → **afgewerkt + in gebruik** → de vreugde
+  van V4 ("hij gebruikt het nóg"). Motor en voldoening zijn één beweging.
+- **Persistence-trait wordt concreet:** "niet halverwege stoppen / pas loslaten als het draait" =
+  letterlijk *dagen blijven verbeteren tot het klopt.*
+- ⚠️ **Niet in copy lichten:** "recursive improvement / constant leren en verbeteren" = **heady/proces-taal.**
+  Menselijke vertaling: *"ik bleef dagen schaven tot het écht klopte — tot iemand het elke dag gebruikt."*
+- ⚠️ **Nicola-naam:** C zei eerder "geen meerwaarde in de over-mij" → in copy **licht/anoniem** houden
+  ("voor iemand z'n zaak"), als **textuur van hoe flow voelt**, niet als case-proof. Cases horen op /werk/.
+- 🔵 **Nog te halen voor Pieter-warmte:** de **niet-werk** mens-toets in zíjn eigen woorden (nu nog mijn
+  gok: circuit/water/papa uit de oude pagina). Of: wat de flow hém persoonlijk geeft.
+
+---
+
 ## ✅ Genoeg om te schrijven — de bouwstenen
 1. **Honest arc:** 15j IT-troubleshooter → sales → naast developer (RelaxY) die met AI/Claude bouwde →
    "dat kan ik ook" (2025).
