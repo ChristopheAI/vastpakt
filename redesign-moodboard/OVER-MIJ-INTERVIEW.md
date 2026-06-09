@@ -109,6 +109,30 @@
 
 ---
 
+## Vraag 5 — waar verlies je jezelf in (de mens achter de motor)
+
+> Tweede interview-ronde (Pieter-insteek: de mens moet voelbaar zijn). Trigger: "waar ga je in op,
+> en wat gebeurt er in je hoofd?"
+
+### Christophes ruwe woorden (verbatim)
+- "Als ik me volledig verlies in een creatief of intellectueel proces — zoals het **oplossen van een
+  complex codeprobleem, het structureren van data of het schrijven van creatieve content** — dan ben
+  ik in een ware **'flow'-staat.**"
+
+### Mijn notities (de copy-haken)
+- ⭐ **Captured:** de motor "uitzoeken hoe iets werkt" krijgt nu een gevoel: **flow.** Drie smaken —
+  *complex codeprobleem · data structureren · creatieve content* — tonen breedte zonder opschepperij
+  (Pieter-move: concrete lijst als charme).
+- ⚠️ **Niet in copy lichten:** de tekstboek-definitie van flow (Csikszentmihalyi, "being in the zone",
+  skill-matcht-challenge) die hij erbij plakte = **generieke tekst, niet zijn stem.** Captured sentence
+  = enkel zijn eigen opsomming.
+- ⚠️ **Risico:** "flow / complex codeprobleem / data structureren" is **heady/technisch.** Volgende vraag
+  moet dit **concreet + menselijk** landen, anders wordt de over-mij abstract i.p.v. warm (≠ Pieter).
+- 🔵 **Nog te halen:** wat *geeft* die flow hem, en waarom is het goed voor de **klant** dat hij in flow
+  gaat van hún rommelige probleem (Pieter koppelt passie → klantwaarde).
+
+---
+
 ## ✅ Genoeg om te schrijven — de bouwstenen
 1. **Honest arc:** 15j IT-troubleshooter → sales → naast developer (RelaxY) die met AI/Claude bouwde →
    "dat kan ik ook" (2025).
