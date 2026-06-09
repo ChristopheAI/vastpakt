@@ -1,91 +1,83 @@
-# Vastpakt — Session Handoff (2026-06-07)
+# Vastpakt — Session Handoff (2026-06-07, avond)
 
 > Plak dit als openingsbericht in de nieuwe sessie (of zeg: "lees HANDOFF.md").
-> Branch: **`codex/homepage-redesign-shell`**.
+> Je werkt verder als **Christophes copywriter** (hij noemt je "Alen", naar Alen Sultanic).
 
-Je zet het werk aan de Vastpakt-homepage voort. Vastpakt = solo Vlaamse KMO AI/automatisering-bouwer
-(Christophe). Done-for-you. De site moet de overweldigde zaakvoerder omzetten in één lage-drempel-actie:
-*"beschrijf één situatie."*
+## 0. Lees eerst (bron van waarheid, in volgorde)
+1. `CLAUDE.md` — Honesty Protocol (verify-before-write, niets verzinnen, zeg "niet geverifieerd").
+2. `AGENTS.md` — source-first copy-discipline (captured language eerst).
+3. `STRATEGY.md` — strategisch anker; **§8 = waar alle canonieke docs leven** (lees die tabel).
+4. `redesign-moodboard/COPY-PLAYBOOK.md` + de `docs/adr/` (0001–0007).
 
-## 0. Lees eerst (bron van waarheid, in deze volgorde)
-1. `CLAUDE.md` — Honesty Protocol (4 lagen).
-2. `AGENTS.md` — source-first copy-discipline.
-3. `rules.md`.
-4. `STRATEGY.md` — strategisch anker (doel, koper, wedge, Groot Idee, meetlat).
-5. `redesign-moodboard/COPY-DRAFT.md` — de canonieke homepage-copy (9 blokken).
-6. `docs/adr/` — beslissingen 0001–0005.
-7. `docs/plans/2026-05-31-source-first-four-page-wireframe-map-v1.md` — let op de **v2-sectie bovenaan**.
+## 1. DE DIRECTE TAAK: maak `/over-mij/` af
+We deden een **live interview** met Christophe en schreven een nieuwe over-mij. Alles staat klaar:
+- **Interview-capture:** `redesign-moodboard/OVER-MIJ-INTERVIEW.md` (zijn ruwe woorden + notities).
+- **De draft:** `redesign-moodboard/OVER-MIJ-V2-DRAFT.md` (volledige nieuwe over-mij, belief-chain).
+- **Wacht op 3 antwoorden van Christophe** (vraag ze als hij ze nog niet gaf):
+  1. 🔴 Mag **"Nicola" + poederlakkerij** bij naam? (anders anonimiseren)
+  2. 🔴 **Feiten reconcileren:** de draft zegt "15 jaar IT → 2 jaar geleden de verkoop in"; de huidige
+     `/over-mij/` zegt *Cisco / eigen bedrijf FixZit / sinds 2005.* Wat klopt + mag publiek?
+  3. 🟡 Eén **menselijke toets** terug (papa / circuit) of bewust strak houden?
+- **Daarna:** `source-first-copy-audit` + `ogilvy-audit` op de nieuwe regels → de draft in
+  `over-mij/index.html` zetten (vervangt de huidige profile-page hobby-collage) → renderen → deploy-klaar.
+- **Waarom de huidige over-mij weg moet:** het is een personal-brand-collage (opent met muzieksmaak,
+  hobby's vóór de credibility). De nieuwe is een **operator-trust belief-chain** (Realism: "the guru
+  becomes the product").
 
-## 1. Werkregels (niet onderhandelbaar)
-- **Honesty protocol:** verify-before-write (lees bestaande bestanden vóór je claimt/schrijft); nooit
-  "het werkt"/"done" zonder verificatie; zeg expliciet "I haven't verified this"; verwijs naar `file:line`.
-- **Source-first:** elke publieke regel traceert naar een bron. Draai de **`source-first-copy-audit`**-skill
-  op copy vóór shippen (doel: 0 🔴). Synthese mag nooit hero/proof/CTA dragen.
-- **Branch + commit:** ontwikkel op `codex/homepage-redesign-shell`, `git push -u origin <branch>` na elke
-  afgeronde wijziging (een **stop-hook** waarschuwt bij niet-gecommitte changes).
-- **Skills (in `.claude/skills/`):** `source-first-copy-audit` (bron-waarheid), `ogilvy-audit` (schrijf-craft),
-  `compound-learnings` (learnings vastleggen in bestaande stores).
-- **Agents (in `.claude/agents/`):** ai-engineer, backend-architect, workflow-architect, mcp-builder,
-  offer-lead-gen-strategist, content-creator, seo-specialist, aeo-foundations, pricing-analyst.
+## 2. Branch + PR (super specifiek)
+- Werk op **`codex/homepage-redesign-shell`** (canoniek). Een **mirror** `claude/cool-keller-fk8cE` houden
+  we identiek (force-sync na elke push). Huidige tip: **`8f4746e`**.
+- **PR #21 is open:** `codex/homepage-redesign-shell` → `main`. ⚠️ **Mergen naar `main` = productie-deploy
+  naar vastpakt.be** — pas doen als Christophe akkoord is.
+- Een **stop-hook** waarschuwt bij niet-gecommitte/untracked files → commit + push na elke wijziging.
+- Push-patroon: `git push origin HEAD:codex/homepage-redesign-shell`, dan
+  `git branch -f claude/cool-keller-fk8cE HEAD` + `git push origin HEAD:claude/cool-keller-fk8cE --force`.
 
-## 2. Waar we staan
-- **Richting vastgelegd** (ADR-0003 + 0005): Problem-Solution-lead, schuld-absolutie. De sessie-copy
-  supersedet het oude Promise-lead-plan (de wireframe-map kreeg een v2-sectie).
-- **Homepage-copy** (`COPY-DRAFT.md`): 9 blokken, source-led, audit schoon (0 🔴 nadat blok 8 herkaderd is).
-  Draad: hero → herkenning ("jij bent het systeem") → brug ("we halen het uit je hoofd") → BAVAST-proof →
-  wig ("praat met wie het bouwt") → over-mij-teaser → "is dit iets voor jou?" → eerste stap → slot-CTA.
-- **GESHIPT in `index.html`:** de nieuwe **hero** (Problem-Solution, één CTA "Beschrijf één situatie").
-  Blok 8 (eerste stap) is herkaderd naar een **eerlijke interim** (gratis gesprek + transparante afspraak,
-  GEEN verzonnen prijs).
-- ⚠️ **`index.html` is HALF-NIEUW:** nieuwe hero bovenaan, daaronder nog het oude "Eerste Zicht"-concept.
+## 3. Wat al AF is (deze sessie)
+De hele site staat op de nieuwe lat, geaudit (source-first 0🔴 + ogilvy 0 kritiek), gerenderd, gepusht:
+- **`/` homepage v2** — Sultanic/Realism belief-chain, mechanisme-led ("van hoofd → systeem dat van jou
+  is"). Hero met mechanisme-seed; "je bent de harde schijf"; nieuw blok "waarom harder werken niet werkt";
+  BAVAST-proof met grens; operator-blok; zelfselectie; eerste stap; slot. Contactformulier intact.
+- **`/werk/`** — pijn-first bewijsbibliotheek (4 echte cases, elk met "wat we niet beloven").
+- **`/voor-wie/` v2** — recognition + signalen met mechanisme-tie + eerlijke Wel/Niet + FAQ.
+- **`/over-mij/`** — nog de OUDE versie live; de v2-draft wacht (taak 1).
+- **Lean 4-pagina-spine** (ADR-0006): oude pagina's → 301-redirects in `vercel.json`. sitemap/llms/nav coherent.
 
-## 3. De directe taak: de homepage-body afshippen
-Map `COPY-DRAFT.md` blokken 2–9 op de bestaande secties in `index.html` (grotendeels copy vervangen,
-bestaande CSS):
+## 4. Werkregels (niet onderhandelbaar)
+- **Honesty:** verify-before-write; nooit verzonnen proof/cijfers/quotes/scarcity; alleen het publiek-
+  gecleardde BAVAST-cijfer (30 min–1 u). Zeg "niet geverifieerd" als je het niet checkte.
+- **Source-first:** elke publieke regel traceert naar een bron/captured sentence. Draai
+  `source-first-copy-audit` (doel 0🔴) + `ogilvy-audit` vóór je copy shipt.
+- **Stem = Sultanic-craft in Vastpakts nuchtere Vlaamse register** (je/jouw): belief-chain, mechanisme als
+  ruggengraat, **waarheid/herkenning i.p.v. hype** (de markt is in de **Realism-stage** — zie
+  `MARKT-STADIUM.md`). Géén nepschaarste, géén bro-toon, leid met de **pijn**, niet met "ik bouw apps".
+- **Interview-methode** (als je meer van Christophe nodig hebt): hij wil **heldere, enkele vragen als
+  trigger**; jij vangt zijn **letterlijke woorden** (captured language) en graaft één vraag dieper.
 
-| COPY-DRAFT blok | Bestaande sectie in index.html |
-|---|---|
-| 2 Herkenning | `questions-section` / `problem-section` |
-| 3 Brug | `aftercare-section` of nieuwe band |
-| 4 BAVAST-proof (pijn-first) | `proof-section` (BAVAST-case staat er al ~regel 292) |
-| 5 Wig | `person-section` |
-| 6 Over-mij-teaser | kleine band → `/over-mij/` |
-| 7 Zelfselectie (Wel/Niet) | `qualification-section` (boundary-grid) |
-| 8 Eerste stap (interim) | `offer-section` (#scan) |
-| 9 Slot-CTA | `contact-section` |
+## 5. De strategie-stack (waar alles leeft — `redesign-moodboard/`)
+`STRATEGY.md` (anker) · `POSITIONING.md` (de lane = eigenaarschap/onafhankelijkheid) ·
+`UNIQUE-MECHANISM.md` (van hoofd → systeem) · `MODEL-TEARDOWN.md` (aanbod-ladder + content-motor) ·
+`PDOCS-AVATAR.md` · `MARKT-VRAGEN.md` (echte zoek-vragen + markt-bevestiging) · `MARKT-STADIUM.md`
+(Realism) · `BUYER-BRIEF.md` (49-vragen) · `HOMEPAGE-BRIEF.md` · `HOMEPAGE-V2-COPY.md` ·
+`CONCURRENTIE.md` · `MARKT-TAAL.md` (Bron 01–04) · `CASES-bavast.md` · `OVER-MIJ-INTERVIEW.md` +
+`OVER-MIJ-V2-DRAFT.md`.
 
-Werk in reviewbare brokken (per 2–3 secties een commit). Na elke brok: `source-first-copy-audit` +
-`ogilvy-audit`; `git diff --check`; `node --check script.js`.
-Daarna nog: `<title>`/meta updaten (staan nog op "Eerste Zicht") = ticket #9.
+## 6. Omgeving-valkuilen (bespaart uren)
+- **Netwerk-gate:** `WebFetch` faalt (403) op de meeste externe hosts; `WebSearch` werkt (US-geïndexeerd).
+  Geen Vercel-deploy/CLI vanuit de sandbox (API geblokkeerd).
+- **Geen lokale browser.** Visuele QA via de **`site-shots` GitHub Action**: `mcp__github__actions_run_trigger`
+  → `run_workflow`, `workflow_id: shots.yml`, `ref: codex/homepage-redesign-shell`. `urls.txt` staat al op
+  de 4 live pagina's. Wacht tot de bot een commit pusht (poll `git ls-remote`), pull, lees de PNG's in
+  `redesign-moodboard/shots/`.
+- **GitHub MCP** (`mcp__github__*`) valt soms even weg en komt terug; grote list-outputs → naar bestand
+  (parse met python/jq, niet inline).
 
-## 4. Browser-screenshots (de reden voor de nieuwe sessie)
-`agent-browser` (vercel-labs) is de gekozen browser-QA-tool, maar is **niet gepersisteerd** (globale
-npm-install, nieuwe container = weg). Stappen:
-1. `npm install -g agent-browser`
-2. Gate testen: `curl -sS -o /dev/null -w "%{http_code}" --max-time 30 https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json`
-3. **Als 200** → `agent-browser install` → `agent-browser open "file:///home/user/vastpakt/index.html"` →
-   `agent-browser screenshot` (desktop + mobiele viewport) → lever de screenshots.
-4. **Als 403 "Host not in allowlist"** → de allowlist (`googlechromelabs.github.io` + `storage.googleapis.com`)
-   is nog niet actief; meld dit eerlijk, ga verder met de structurele self-check (markup + leesvolgorde via
-   een html-parse) en laat de visuele check aan Christophe's branch-preview.
+## 7. Open blockers (Christophes input / beslissingen)
+- **`/over-mij/` afmaken** = taak 1 (3 antwoorden hierboven).
+- **#19 — rauwe BAVAST klant-quote** (blok 5 homepage / `/werk/`): de laatste open proof-hefboom.
+- **Deploy:** Christophe regelt Vercel (branch-preview) of mergt PR #21 → main (= live).
+- **Pricing (#18):** bewust geen bedrag op de site (ADR-0007); floor-cijfer/continuïteit-model = later, intern.
 
-## 5. Heeft Christophe nodig (de échte blockers — niet verzinnen)
-- **#18** prijsmodel (vast bedrag? kmo-portefeuille? project- of maandmodel? of bewust geen bedrag).
-- **#7/#14** Over-mij verhaal (hoe erin gerold, achtergrond) + één echte warme foto.
-- **#19** letterlijke klant-quote bij BAVAST (sterkste social proof).
-- Identiteitslijn-hypothese bevestigen (`STRATEGY.md §5`): *"Ik haal het werk uit je hoofd — en zet het in
-  een systeem dat van jou is."*
-
-## 6. Open tickets (19)
-Origineel #1–#16 (4-page redesign, 00–15). Nieuw deze sessie: **#18** prijs, **#19** klant-proof,
-**#20** bus-factor. Blockers voor go-live: #18 + de implementatie (#2 hero ✅ gedeeltelijk, #3/#4/#5/#6/#7).
-
-## 7. Guardrails
-- **Vastpakt leidt met de pijn, niet met de bouw** (≠ "Miran in Vlaanderen", Bron 04). `/werk` blijft
-  pijn-first ("ik haalde de chaos uit één hoofd"), niet "ik bouw apps".
-- **Compounding dient shippen.** De beperking is nu *shippen + Christophe's inputs*, niet meer research.
-  Bouw geen nieuw apparaat als het de lancering niet dichterbij brengt.
-
-## 8. Housekeeping
-- Oude remote-branch `claude/determined-gates-1VURx` bestaat nog op origin (lokaal verwijderd; remote-delete
-  gaf proxy-403). Optioneel opruimen via de GitHub-UI.
+## 8. Guardrails
+- Vastpakt leidt met de **pijn**, niet met de bouw. Realism-markt → currency = **waarheid**.
+- **Compounding dient shippen.** De research is rijk; de beperking is nu **shippen + Christophes inputs**.
