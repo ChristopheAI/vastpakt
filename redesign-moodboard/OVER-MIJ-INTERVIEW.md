@@ -157,6 +157,31 @@
 
 ---
 
+## Vraag 7 — de mens (niet de bouwer)
+
+> Trigger: "wat zouden mensen die je goed kennen als eerste over je zeggen? En één ding buiten het werk
+> waar je oprecht van geniet?"
+
+### Christophes ruwe woorden (verbatim)
+- "ik ben helemaal **into melodic vibes — think Tomorrowland.**"
+- "geniet van **te gaan fietsen, met de kids naar de speeltuin.**"
+- "van **diepgaande gesprekken** en vooral het **ontdekken van nieuwe kennis en ervaringen.**"
+- "mensen beschrijven mij als: dat ik een **belachelijk hoog empathisch vermogen** heb."
+
+### Mijn notities (de copy-haken)
+- ⭐⭐ **DE UNLOCK — empathie:** "belachelijk hoog empathisch vermogen" is een **persoonlijke trek die
+  tegelijk zijn vakkant is.** Het is *waarom* zijn software past: hij voelt eerst hoe jij werkt, dan bouwt
+  hij. Sultanic-move (trek = edge; cf. Pieters "zot nieuwsgierig" = persoonlijkheid én waarom z'n copy
+  werkt). → **ruggengraat van de over-mij.**
+- **Nieuwsgierigheid, persoonlijk:** "diepgaande gesprekken + ontdekken van nieuwe kennis/ervaringen" =
+  dezelfde motor als V1/V5, nu in mens-taal. Rijmt met oude pagina "energie wanneer ik iets bespreek".
+- **Echte niet-werk-textuur (zijn woorden, vervangt mijn gok):** *melodic vibes/Tomorrowland · fietsen ·
+  met de kids naar de speeltuin.* (NIET meer circuit/water — die waren oude-pagina-gok.)
+- ✅ **Nu beide Pieter-helften binnen:** levendige mens-textuur + passie/nieuwsgierigheid gekoppeld aan
+  klantwaarde (empathie → software die past). **Genoeg om v3 te schrijven.**
+
+---
+
 ## ✅ Genoeg om te schrijven — de bouwstenen
 1. **Honest arc:** 15j IT-troubleshooter → sales → naast developer (RelaxY) die met AI/Claude bouwde →
    "dat kan ik ook" (2025).
