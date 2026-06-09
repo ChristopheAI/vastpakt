@@ -91,6 +91,38 @@
 
 ---
 
-## Nog op te graven
-- Het **gevoel** toen Nicola de app dagelijks gebruikte (de emotionele why).
-- Een echte "nee"-scène. · Eén menselijk ding dat z'n manier-van-werken verklaart. · Z'n stem.
+---
+
+## Vraag 4 — het gevoel (de emotionele why)
+
+### Christophes ruwe woorden
+- "Ik vergelijk bouwen veel met een **architect die een huis bouwt.**"
+- "Het is zo fijn om **iets te bouwen waar iemand anders echt iets mee is.** Dat is de grootste voldoening."
+- ⭐ "De grootste blijheid, de grootste vreugde: dat **Nicola het tot de dag van vandaag nog altijd
+  gebruikt.**"
+
+### Mijn notities
+- ⭐ **Emotionele why:** voldoening = iets bouwen dat iemand **écht gebruikt** — en dat hij **vandaag nóg**
+  gebruikt. Architect-metafoor (iets solides waar iemand mee verder kan).
+- **Rijmt 1-op-1 met "een demo is geen systeem / wat blijft draaien".** Zijn trots zit in het **duurzame,
+  gebruikte** ding — niet in de demo. → dit is de rode draad die de hele over-mij bindt.
+
+---
+
+## ✅ Genoeg om te schrijven — de bouwstenen
+1. **Honest arc:** 15j IT-troubleshooter → sales → naast developer (RelaxY) die met AI/Claude bouwde →
+   "dat kan ik ook" (2025).
+2. **AI-nuance (eerlijk, van-deze-tijd):** zonder AI was dit moeilijk; AI maakt het mogelijk — ook voor hem.
+3. **De waarom:** de software die je écht nodig hebt bestaat vaak niet (alleen grote logge pakketten) →
+   ik bouw exact dat ene stuk. Nu pas economisch mogelijk dankzij AI.
+4. **Emotionele why:** voldoening = iets dat iemand écht & blijvend gebruikt (architect; Nicola gebruikt
+   het nóg).
+5. **Operator-DNA (bestaand, approved):** "kijken wat er echt gebeurt, niet halverwege stoppen, pas
+   loslaten als het draait" · "eerst juist, dan snel" · "een demo is geen systeem".
+6. **Grenzen:** geen boekhouder/jurist/toolverkoper · eerlijk-nee.
+
+## 🔴 Te bevestigen door Christophe vóór ship
+- Mag **Nicola's naam + poederlakkerij** publiek? (de /werk/-case is nu anoniem "een poederlakkerij")
+- **Feiten reconcileren:** huidige pagina zegt "Sinds 2005 · Cisco · eigen bedrijf FixZit"; interview zegt
+  "15j IT → ~2j geleden werkgever → sales". Wat klopt + mag publiek?
+- Eén **menselijke toets** (i.p.v. de hobby-lijst) — wil hij er één houden, en welke?
