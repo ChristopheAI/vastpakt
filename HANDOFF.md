@@ -25,8 +25,17 @@ We deden een **live interview** met Christophe en schreven een nieuwe over-mij. 
   becomes the product").
 
 ## 2. Branch + PR (super specifiek)
-- Werk op **`codex/homepage-redesign-shell`** (canoniek). Een **mirror** `claude/cool-keller-fk8cE` houden
-  we identiek (force-sync na elke push). Huidige tip: **`8f4746e`**.
+- **Samenwerking Alen (copy-agent) × Codex (build-agent) — werkafspraken (2026-06-07):**
+  - **GitHub Issues = de gedeelde backlog.** Lanes via labels: `lane:copy-alen` (woorden/copy/posts),
+    `lane:build-codex` (CSS/JS/api/SEO-tech/perf), `lane:christophe` (beslissingen/input).
+  - **Claim vóór je start** (comment "ik pak dit") → geen dubbel werk.
+  - **Eén ticket = één task-branch (`copy/<slug>` of `build/<slug>`) = één PR naar
+    `codex/homepage-redesign-shell`.** NIET rechtstreeks op de gedeelde branch werken; geen force-pushes
+    daarop. (Eerdere botsing: twee agents op één branch → rejects/rebases.)
+  - Open tickets: #19+#26 (quote), #22-24 (build), #25/#27 (copy), #28 (merge-beslissing), #10 (QA).
+    17 verouderde tickets zijn opgeruimd (geshipt/superseded).
+- Integratie-branch: **`codex/homepage-redesign-shell`** (canoniek). De mirror `claude/cool-keller-fk8cE`
+  is uitgefaseerd voor nieuw werk; task-branches + PR's vervangen dat patroon.
 - **PR #21 is open:** `codex/homepage-redesign-shell` → `main`. ⚠️ **Mergen naar `main` = productie-deploy
   naar vastpakt.be** — pas doen als Christophe akkoord is.
 - Een **stop-hook** waarschuwt bij niet-gecommitte/untracked files → commit + push na elke wijziging.
