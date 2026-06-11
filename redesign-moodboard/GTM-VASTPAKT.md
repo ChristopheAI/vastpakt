@@ -167,6 +167,8 @@ verantwoordelijkheid voor het resultaat — en blijf erbij."*
 
 **Key Person of Influence** = exact onze content-motor (§4e): Christophe wordt de **herkenbare persoon**
 voor één resultaat — "de KMO-zaakvoerder uit zijn hoofd halen." Build-in-public bouwt die KPI-status.
+> **Priestley's volledige denken (KPI 5 P's, Ascending Transaction Model, Scorecard Marketing,
+> Oversubscribed, 24 Assets) → uitgewerkt en vertaald in `PRIESTLEY-GTM.md`.**
 
 **⚠️ De eerlijke spanning (niet wegmoffelen):** Priestley duwt richting *schaalbaar platform* (zijn
 ScoreApp-arc: agency → product, "duizenden klanten, werk van waar je wil"). Vastpakts hele wig is net het
