@@ -1,0 +1,26 @@
+{
+  "title": "404 - Page not found",
+  "h1": "Page not found",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Page not found"
+    }
+  ],
+  "buttons": [],
+  "paragraphs": [
+    "The page you are looking for doesn't exist or has been moved."
+  ],
+  "firstScreen": "404 Page not found The page you are looking for doesn't exist or has been moved.",
+  "internalLinks": [],
+  "metrics": {
+    "first_person_singular_ik_mij": 0,
+    "second_person_jij_u": 1,
+    "first_person_plural_wij_ons": 0,
+    "numbers_digits": 0,
+    "ai_mentions": 0,
+    "heading_word_count": 3,
+    "heading_count": 1
+  },
+  "_url": "https://we-are.be/team"
+}

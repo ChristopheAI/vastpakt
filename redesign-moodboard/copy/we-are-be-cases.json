@@ -1,0 +1,74 @@
+{
+  "title": "Discover the projects we've done with SMEs and startups",
+  "h1": "Engineered for impact",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Engineered for impact"
+    },
+    {
+      "tag": "H2",
+      "text": "Ready to start your project?"
+    }
+  ],
+  "buttons": [
+    "contact us",
+    "contact us",
+    "get in touch",
+    "Subscribe to our newsletter",
+    "Subscribe",
+    "Preferences",
+    "Deny",
+    "Accept",
+    "Reject all cookies",
+    "Allow all cookies",
+    "Confirm my preferences and close"
+  ],
+  "paragraphs": [
+    "Let's talk custom software and build something remarkable together.",
+    "Newsletter: write the future",
+    "Serious news and insights on technology and innovation. Not-so-serious random facts about we are. All in one monthly email.",
+    "I agree to receive your newsletters and accept the data privacy statement."
+  ],
+  "firstScreen": "SERVICES what we do CASES what we did ABOUT who we are INSIGHTS what we wrote AI AI services contact us Engineered for impact application development artificial intelligence integrations automation proof of concept automation integrations Aluvision Integrated and insightful: a fully custom planning tool integrations automation artificial intelligence Evacare From 30 hours of manual Excel work to a single click: fully automated invoicing integrations automation artificial intelligence Baker Tilly Replacing administrative hassle with an automation that pays for itself application development integrations Jong Keukengeweld Guiding 80,000 visitors smoothly through the Jong Keukengeweld booking platform automation application development Upkot All-in-one cleaning planner: easy coordination for student-shared kitchens application development Les Grandes Tables du Monde Connecting 200+ starred restaurants worldwide through one digital platform automation Symons More efficiency, same workflow: how custom software made the difference at Symons application development Droppr Optimizing cargo transport with a digital logistics platform application development Permeke museum A self-guided digital tour for Permeke Museum visitors automation application development Powerhouse A mobile app and internal automation layer on top of Salesforce. Built as one smart, scalable application proof of concept Mace Legal process digitized: more personal contact, faster documents proof of concept automation SVR architects Predicting project costs to drive smarter decisions at SVR Architects application development YourTimeline Your full health history, accessible in one place proof of concept AZ Sint-Lucas Automated phone calls in the patient's native language automation integrations Upgrade Estate",
+  "internalLinks": [
+    "https://we-are.be",
+    "https://we-are.be/what-we-do",
+    "https://we-are.be/cases",
+    "https://we-are.be/who-we-are",
+    "https://we-are.be/blog",
+    "https://we-are.be/ai",
+    "https://we-are.be/nl/cases",
+    "https://we-are.be/contact",
+    "https://we-are.be/careers",
+    "https://we-are.be/cases/aluvision",
+    "https://we-are.be/cases/evacare",
+    "https://we-are.be/cases/baker-tilly",
+    "https://we-are.be/cases/jong-keukengeweld",
+    "http://we-are.be/cases/upkot",
+    "https://we-are.be/cases/les-grandes-tables-du-monde",
+    "http://we-are.be/cases/symons",
+    "https://we-are.be/cases/droppr",
+    "http://www.we-are.be/cases/permeke-museum",
+    "https://we-are.be/cases/powerhouse",
+    "https://we-are.be/cases/mace",
+    "http://we-are.be/cases/svr-architects",
+    "http://we-are.be/cases/yourtimeline",
+    "http://we-are.be/cases/ringme",
+    "https://we-are.be/excel-and-legacy",
+    "https://we-are.be/faq",
+    "https://we-are.be/privacy-policy",
+    "https://we-are.be/general-terms-and-conditions",
+    "https://we-are.be/cookie-policy"
+  ],
+  "metrics": {
+    "first_person_singular_ik_mij": 1,
+    "second_person_jij_u": 2,
+    "first_person_plural_wij_ons": 1,
+    "numbers_digits": 0,
+    "ai_mentions": 0,
+    "heading_word_count": 8,
+    "heading_count": 2
+  },
+  "_url": "https://we-are.be/cases"
+}
