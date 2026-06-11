@@ -41,6 +41,23 @@ const urls = fs
         d.paragraphs = Array.from(document.querySelectorAll('p')).slice(0, 14).map(txt).filter(Boolean);
         d.firstScreen = document.body.innerText.replace(/\s+/g, ' ').trim().slice(0, 1800);
 
+        // Internal link map — reveals the sitemap so a follow-up pass can go deep
+        const host = location.hostname.replace(/^www\./, '');
+        const seen = new Set();
+        d.internalLinks = Array.from(document.querySelectorAll('a[href]'))
+          .map((a) => {
+            try {
+              const u = new URL(a.href);
+              if (u.hostname.replace(/^www\./, '') !== host) return null;
+              u.hash = '';
+              return u.href.replace(/\/$/, '') || u.href;
+            } catch (e) {
+              return null;
+            }
+          })
+          .filter((h) => h && !seen.has(h) && seen.add(h))
+          .slice(0, 60);
+
         // Cheap quantitative metrics over the headline+paragraph corpus
         const corpus = (
           (d.h1 || '') + ' ' + d.headings.map((h) => h.text).join(' ') + ' ' + d.paragraphs.join(' ')
