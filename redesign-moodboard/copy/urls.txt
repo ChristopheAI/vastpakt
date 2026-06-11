@@ -1,13 +1,26 @@
-# GTM-harvest — directe concurrenten (homepage + link-capture onthult hun GTM-structuur)
-# Doel: per speler de acquisitie-motie zien: lead-magnet? content-motor? nieuwsbrief? prijspagina?
-#       eerste-stap-CTA? funnel? — via firstScreen + buttons + internalLinks.
-https://flowlift.be/
+# GTM-deep-pass — de funnel-BINNENKANT van elke concurrent (wig, prijs, lead-magnet)
+# Doel: per speler eerstehands zien hoe de wig verkocht wordt en wat er geprijsd is.
+# Nunki — de enige met publieke prijzen-pagina + workshop-wig
+https://www.nunki.ai/nl/prijzen
+https://www.nunki.ai/nl/workshop
+https://www.nunki.ai/nl/aanpak
+# Codelines — de content-machine: scan-wig + lead-magnet + inzichten-hub
+https://www.codelines.be/digitale-bedrijfsscan
+https://www.codelines.be/consultancy
+https://www.codelines.be/inzichten
+# Krits — meest lead-magnet-rijk: groeiscan, ebook, webinar, ROI-calc
+https://krits.be/groeiscan
+https://krits.be/gratis-ebook
+https://krits.be/roi-calculator
+https://krits.be/ai
+# Hugarro — interactieve tools als wig
+https://hugarro.be/ai-readiness-scan
+https://hugarro.be/ai-calculator
+# Flowlift — use-case-SEO-motor (1 exemplaar volstaat als patroon)
+https://www.flowlift.be/use-case-offerte-automatisering-bouw.html
+# Nordant — diensten/portfolio (funnel-vervolg na de homepage)
+https://nordant.be/diensten/
+https://nordant.be/portfolio/
+# Retry van de geblokkeerde spelers (pass faalde eerder)
 https://caikmo.be/
-https://nordant.be/ai-consultant/
 https://aivoorkmo.be/
-https://hugarro.be/
-https://www.nunki.ai/
-https://www.codelines.be/
-https://leadexpert.be/
-https://onoweb.be/
-https://www.krits.be/
