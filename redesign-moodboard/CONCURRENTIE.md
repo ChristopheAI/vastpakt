@@ -1,5 +1,84 @@
 # Concurrentie-analyse — Vastpakt (juni 2026)
 
+> ⚠️ **v2-upgrade 2026-06-07 — lees eerst de sectie hieronder.** De v1-analyse leunde op zoek-snippets;
+> v2 is **eerstehands geverifieerd** via de copy-extract Action (echte site-copy, in de repo onder
+> `redesign-moodboard/copy/*.json`).
+
+## v2 — Eerstehands geverifieerd (2026-06-07)
+
+> Bron: volledige site-copy van 12 spelers, geharvest via `.github/workflows/copy.yml` (Playwright,
+> GitHub-omgeving). Citaten zijn nu **letterlijk**; register-metrics zijn **geteld**, niet geschat.
+
+### De drie meetbare vondsten (nieuw t.o.v. v1)
+
+**1. De ik-stem is in Vlaanderen volledig onbezet — nu bewezen met cijfers.**
+
+| Speler | ik/mij | wij/ons | AI-mentions |
+|---|---|---|---|
+| Nordant | **0** | 18 | 11 |
+| Codelines | **0** | 11 | 19 |
+| CAIKMO | **0** | 1 | 19 |
+| Nunki (de "gezicht"-speler!) | **0** | 2 | 12 |
+| Flowlift | **0** | 6 | 9 |
+| Onoweb | **0** | 7 | 0 |
+| Krits | **0** | 4 | 11 |
+| LeadExpert | **0** | 7 | 10 |
+| Hugarro | 1 | 8 | **24** |
+| — miransweb (NL) | **25** | 1 | 5 |
+| — stefhan.ai (NL) | 6 | 0 | 4 |
+
+→ **Geen enkele Vlaamse speler spreekt in de ik-vorm.** Zelfs Nunki (het enige duo mét namen) schrijft
+"wij/uw". De enige ik-stemmen in het hele veld zijn **Nederlands** (Miran, Stefhan). Vastpakts
+ik-register + gezicht is dus niet "een beetje anders" — het is **categorisch uniek in Vlaanderen.**
+
+**2. Iedereen CTA't naar een agenda; niemand naar een zin.**
+Geverifieerde CTA's: "Plan een gesprek" (Nordant) · "Plan een kennismaking →" + "Bereken jouw ROI →"
+(CAIKMO) · "Plan je afspraak" (Flowlift) · "Gratis intake aanvragen" (Codelines) · "Gratis AI-scan
+aanvragen" (LeadExpert). → Vastpakts **"Beschrijf één situatie"** (schrijven, async, 24u-antwoord) is
+de enige niet-agenda-CTA in de categorie. Structureel lagere drempel, niet enkel toon.
+
+**3. AI-dichtheid = hype-meetlat.** Hugarro 24× · CAIKMO 19× · Codelines 19× AI-vermeldingen op één
+pagina. Vastpakts homepage: **0×** (AI staat bewust enkel op /over-mij/, eerlijk gekaderd). In een
+Realism-markt (MARKT-STADIUM.md) is die stilte een feature.
+
+### Per speler — geverifieerde kern (selectie)
+- **CAIKMO** — "Automatiseer met impact." Ondanks het anti-consultancy-imago uit v1: hype-leunend
+  ("innovatie zorgt voor maximale winst", ROI-calculator, 19× AI). Wij-stem, geen gezicht.
+- **Nunki** — "Automatiseer uw repetitieve taken met slimme AI." Formeel u-register, wij-stem. Het
+  "gezicht"-voordeel uit v1 zit dus in hun nieuwspagina's, **niet** in hun site-copy.
+- **Flowlift** — "Automatiseer je routine. Win elke maand uren terug... **zonder toolwissel**." ⚠️
+  claimt onze markttaal (bestaande tools); CTA = afspraak.
+- **LeadExpert** — eerstehands prijs: **€8.400 excl. BTW** + "€0 betalen vóór resultaat" + countdown
+  "Geldig t.e.m. 22/06" (= **nepschaarste**, het patroon dat wij rejecten). Valt zelf concurrenten aan:
+  "Geen chatbot van YouTube. Geen n8n-template."
+- **AI voor KMO** — "Tussen AI-dromen en AI-doen zit een kloof. Wij bouwen de brug." ⚠️ gebruikt
+  **"brug"** (ons woord) — maar hun model is *enablement/training* ("je team werkt binnen 90 dagen
+  zelfstandig met AI"), niet done-for-you. Andere lane.
+- **Nordant** — "wij leveren geen rapport"; traject eindigt op "Partner blijven" (continuïteit als
+  betaald model, eerstehands bevestigd). Valt consultants aan.
+- **Codelines** — "Agentic AI", Gartner-stats, "+30%", "6 weken", EU-AI-Act-badge. Claimt "bovenop
+  jouw bestaande stack" + "geen vendor lock-in" (overlap met onze wig — onze scherpere draai "valt mij
+  iets, elke dev kan verder" zegt níémand).
+- **Miransweb** — "Ik bedenk het. AI bouwt." 25× ik. Bevestigt Bron 04 integraal, nu eerstehands:
+  "Jij betaalt voor mijn oordeel en resultaat" · "Ik zeg liever 'dat hoeft niet gebouwd te worden'".
+  Geen prijs op de homepage gezien (de "vanaf"-sectie zit dieper of is weg).
+- **Stefhan.ai** — "Waar processen vastlopen, ontwerp ik een slimmere manier van werken." Ik-stem,
+  ontwerper/adviseur-frame, geen agenda-CTA op de homepage.
+
+### Aangescherpte witte ruimte (v2)
+De v1-conclusie blijft staan, maar is nu hard te maken: **de zichtbare, eerlijke Vlaamse solo in de
+ik-vorm, met een schrijf-CTA i.p.v. een agenda-CTA, nul AI-hype op de voordeur, en de bus-factor-
+garantie** — dat profiel bestaat in de geharveste data exact **nul** keer. Vastpakt bezet het al
+volledig; de enige nog-missende bouwsteen is **publieke proof** (#19).
+
+### Realism-stage bevestigd in het veld
+Verkopers vallen elkaar openlijk aan (Nordant → consultants; LeadExpert → YouTube-chatbots/n8n-
+templates; Codelines → "experimenten") en nepschaarste duikt op (LeadExpert-countdown). Beide zijn
+letterlijk Sultanic's Realism-symptomen (MARKT-STADIUM.md) — de markt zit waar we dachten.
+
+---
+
+
 > **Scope:** solo & kleine (1-3p) AI-/automatiserings-bouwers voor Vlaamse KMO's,
 > focus Antwerpen — de categorie van Flowlift en Vastpakt zelf.
 > **Methode:** 5 parallelle research-agents (WebSearch + WebFetch), Belgische/NL markt.
