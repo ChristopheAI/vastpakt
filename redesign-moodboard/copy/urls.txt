@@ -1,15 +1,13 @@
-# Copy DNA — harvest the actual words (rivals + intent models)
-https://www.codelines.be/oplossingen/ai-ontwikkeling/
+# GTM-harvest — directe concurrenten (homepage + link-capture onthult hun GTM-structuur)
+# Doel: per speler de acquisitie-motie zien: lead-magnet? content-motor? nieuwsbrief? prijspagina?
+#       eerste-stap-CTA? funnel? — via firstScreen + buttons + internalLinks.
+https://flowlift.be/
+https://caikmo.be/
 https://nordant.be/ai-consultant/
+https://aivoorkmo.be/
+https://hugarro.be/
+https://www.nunki.ai/
+https://www.codelines.be/
 https://leadexpert.be/
-https://austinlchurch.com/
-https://pietervanleuven.com/
-https://illustrate.framer.website/
-# GTM-teardown — kernsubpagina's van de rolmodellen (Austin = geproductiseerd; Pieter = personal-brand)
-https://austinlchurch.com/free-money-book
-https://austinlchurch.com/blueprint
-https://austinlchurch.com/speaking
-https://austinlchurch.com/blog
-https://pietervanleuven.com/voor-wie
-https://pietervanleuven.com/werk
-https://pietervanleuven.com/over-mij
+https://onoweb.be/
+https://www.krits.be/
