@@ -1,0 +1,93 @@
+{
+  "title": "Case | A smart backoffice automation for Baker Tilly",
+  "h1": "Replacing administrative hassle with an automation that pays for itself.",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Replacing administrative hassle with an automation that pays for itself."
+    },
+    {
+      "tag": "H2",
+      "text": "The challenge"
+    },
+    {
+      "tag": "H2",
+      "text": "Our approach"
+    },
+    {
+      "tag": "H2",
+      "text": "The solution"
+    },
+    {
+      "tag": "H3",
+      "text": "The result: focus on people, not data-entry"
+    },
+    {
+      "tag": "H2",
+      "text": "Work with us"
+    },
+    {
+      "tag": "H2",
+      "text": "See more work"
+    }
+  ],
+  "buttons": [
+    "contact us",
+    "contact us",
+    "work with us",
+    "Subscribe to our newsletter",
+    "Subscribe",
+    "Preferences",
+    "Deny",
+    "Accept",
+    "Reject all cookies",
+    "Allow all cookies",
+    "Confirm my preferences and close"
+  ],
+  "paragraphs": [
+    "From duplicate data to direct ROI: a smart integration between platforms.",
+    "‍",
+    "Baker Tilly is a leading accounting and advisory firm with around 300 financial experts across 8 offices in Belgium. They faced a problem many companies know all too well: two systems that are both critical to daily operations but don't talk to each other.",
+    "The result? Double work, a growing margin for error, and an HR team losing valuable time on data entry instead of people.",
+    "two systems, zero communication",
+    "‍",
+    "Baker Tilly uses a dedicated HR platform for HR management and leave requests, and a separate tool for time tracking, project management, and payroll processing. Both are essential, but were running in complete isolation from each other.",
+    "‍",
+    "Whenever someone took a day off or called in sick, it got logged in the HR platform. But that information still had to be manually imported into the time tracking and payroll system. Which meant:",
+    "‍",
+    "‍",
+    "On top of that: One of the tools runs on-premise, not in the cloud. That makes integration a lot more technically involved. But we love a challenge.",
+    "‍",
+    "fast, flexible and minimum disruption"
+  ],
+  "firstScreen": "SERVICES what we do CASES what we did ABOUT who we are INSIGHTS what we wrote AI AI services contact us BAKER TILLY Replacing administrative hassle with an automation that pays for itself. process automation connected tools From duplicate data to direct ROI: a smart integration between platforms. ‍ Baker Tilly is a leading accounting and advisory firm with around 300 financial experts across 8 offices in Belgium. They faced a problem many companies know all too well: two systems that are both critical to daily operations but don't talk to each other. The result? Double work, a growing margin for error, and an HR team losing valuable time on data entry instead of people. The challenge two systems, zero communication ‍ Baker Tilly uses a dedicated HR platform for HR management and leave requests, and a separate tool for time tracking, project management, and payroll processing. Both are essential, but were running in complete isolation from each other. ‍ Whenever someone took a day off or called in sick, it got logged in the HR platform. But that information still had to be manually imported into the time tracking and payroll system. Which meant: ‍ No real-time visibility: HR and employees had no accurate view of total logged hours in between imports. Error risk: Leave that existed in the HR platform but wasn't yet in the time tracking system, or employees accidentally logging hours on their day off. Payroll risk: Mistakes that only surface after the facts, when they're hardest to fix. ‍ On top of that: One of the tools runs on-premise, not in the cloud. That makes integration a lot more technically involved. But we love a challenge. ‍ ‍ Our approach fast, flexible and minimum disruption ‍ Baker Tilly's IT and HR teams are busy people. So we ran this project the way we ru",
+  "internalLinks": [
+    "https://we-are.be",
+    "https://we-are.be/what-we-do",
+    "https://we-are.be/cases",
+    "https://we-are.be/who-we-are",
+    "https://we-are.be/blog",
+    "https://we-are.be/ai",
+    "https://we-are.be/cases/baker-tilly",
+    "https://we-are.be/nl/cases/baker-tilly",
+    "https://we-are.be/contact",
+    "https://we-are.be/careers",
+    "https://we-are.be/cases/aluvision",
+    "http://we-are.be/cases/symons",
+    "https://we-are.be/excel-and-legacy",
+    "https://we-are.be/faq",
+    "https://we-are.be/privacy-policy",
+    "https://we-are.be/general-terms-and-conditions",
+    "https://we-are.be/cookie-policy"
+  ],
+  "metrics": {
+    "first_person_singular_ik_mij": 0,
+    "second_person_jij_u": 0,
+    "first_person_plural_wij_ons": 3,
+    "numbers_digits": 2,
+    "ai_mentions": 2,
+    "heading_word_count": 30,
+    "heading_count": 7
+  },
+  "_url": "https://we-are.be/cases/baker-tilly"
+}
