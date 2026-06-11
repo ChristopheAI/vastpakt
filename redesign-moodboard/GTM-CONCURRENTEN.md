@@ -11,6 +11,65 @@
 
 ---
 
+## ⚡ v2 — DEEP-PASS (2026-06-11): de funnel-BINNENKANT, eerstehands
+
+> Tweede harvest-ronde: 17 wig-/prijs-/lead-magnet-pagina's binnengehaald (incl. geslaagde retry van
+> caikmo + aivoorkmo → álle spelers nu eerstehands 🟢). Dit is wat er ACHTER hun homepages zit.
+
+### De geprijsde ladders van het veld (nu exact, niet "vanaf €8k ergens")
+| Speler | Instap/wig | Midden | Doorlopend |
+|---|---|---|---|
+| **Nunki** | Workshop (½ dag) zit in: **PoC vanaf €3.950** (prototype + benchmark + ROI-berekening + roadmap) | **Implementatie vanaf €8.450** | **Pay-per-use vanaf €0,20/transactie** + SLA |
+| **CAIKMO** | gratis intake | pakketten **Starter / Groei / Premium** (8-stappen-aanpak) | €250/mnd onderhoud |
+| **AI-voor-KMO** | **AI-Quiz €0** (12 vragen, 3 min) | **AI-Scan: "Ik kom 3 uur langs"** → top-3 kansen + actieplan (€750) | implementatie "Future Focus Lab" (90 dagen zelfstandig) |
+| **Flowlift** | "eerste gesprek" met deliverable-framing | 3-tier vanaf-prijzen (Quick Win/PoC → per proces) | onderhoud & optimalisatie |
+→ **De marktvloer voor een betaalde eerste bouw-stap is Nunki's €3.950.** Vastpakts interne
+"eerste situatie"-zone (±€1.500–€3.500, `MARKT-VALIDATIE.md`) zit daar bewust onder. 🟢
+
+### De wig-pagina's — wie verkoopt zijn eerste stap het best?
+1. **Krits' Groeiscan = de beste wig-pagina van het veld.** Alles wat werkt, op één pagina:
+   - expliciete ICP: *"zaakvoerders van groeiende kmo's tussen 5 en 50 medewerkers"*;
+   - **gezicht + anti-sales:** *"Door Bert zelf, geen verkoper"* · *"Geen vervolg-spam, beloofd"*;
+   - **ECHTE schaarste** (eerlijk, want zaakvoerder doet het zelf): *"Bert doet elke Groeiscan zelf,
+     dus het aantal plaatsen per maand is beperkt"* — exact het eerlijke-schaarste-patroon dat
+     `BUYER-BRIEF.md` §4 voor Vastpakt opperde (solo-capaciteit), hier al in het wild;
+   - proof-strip: *"30+ Groeiscans · 4.9 op Google · 24u reactietijd"* + klantquote met naam/bedrijf;
+   - deliverable-framing: *"drie concrete actiepunten per mail"* + objection-FAQ ("Is het echt gratis?",
+     "Wat als ik geen IT-achtergrond heb?").
+   → Dit is het sjabloon om te verslaan — met een wig die wij *betaald en gebouwd* maken i.p.v. gratis advies.
+2. **Codelines' digitale scan is ASYNC** — enquête → PDF-actieplan (±5 p., scorecard + 3-5 actiepunten)
+   **binnen 3 werkdagen**, "geen verplichtingen". ⚠️ **Nuance op onze claim:** Vastpakt is dus níet de
+   enige async eerste stap. Het verschil blijft reëel maar preciezer: zij = gestandaardiseerde
+   enquête → generiek maturiteitsrapport; wij = vrije tekst over jóuw situatie → persoonlijk antwoord
+   van de bouwer zelf binnen 24u (vs. 3 werkdagen), incl. eerlijk nee.
+3. **AI-voor-KMO's funnel is de meest geletterde:** Quiz €0 (3 min, instant tips) → Scan (3u on-site,
+   "we starten met dromen… daarna draaien we om naar jullie echte werkdag") → 90-dagen-traject. Let op:
+   gebruikt zowaar **ik** ("Ik kom 3 uur langs bij jullie") — semi-persoonlijk, enablement-lane.
+4. **Hugarro's readiness-scan** = interactieve multi-step quiz ("Hoeveel van je dagelijkse processen
+   verlopen nog volledig manueel?") → e-mail-gate. **Krits' ROI-calculator** opent met loss-framing:
+   *"Uw bedrijf verliest € 41.600 per jaar"* (default-cijfer). Effectief maar manipulatief-randje.
+
+### Content-motoren — binnenkant
+- **Codelines/inzichten = een echte redactie:** artikels met **auteurs-bylines** (Jasper Bakker, Artem
+  Kazakov…), leestijd-labels, development+tech+KMO-mix. Dit is een bemand contentteam, geen AI-spuwer.
+- **Krits' ebook-pagina** opent Stefhan-achtig: *"Je bedrijf groeit. Je processen nog niet."* +
+  *"Gemiddeld verliest een medewerker in een groeiende kmo 4,5 uur per week aan zoeken, dubbel invoeren
+  en handmatig kopiëren."* → onze pijn-taal wordt ook hier al bespeeld (team-gericht, niet zaakvoerder-hoofd).
+- **Flowlifts use-case-pagina's** zijn agressieve SEO-verkooppagina's: "Van 2 uur naar 10 minuten",
+  "4x meer offertes", "45% hogere conversie", **"€180K extra omzet"** — grote, onverifieerbare cijfers
+  zonder klantnaam. (Realism-zwakte: claims zonder bron — precies waar eerlijke, benoemde proof wint.)
+
+### Proof-gaten (intel om te onthouden)
+- **Nordants portfolio-pagina is LEEG:** *"Deze pagina wordt binnenkort gelanceerd."* De anti-rapport-
+  speler heeft zelf nog geen publiek bewijs. Hun diensten-pagina draait op een nagebootst live-dashboard
+  ("Tijd bespaard: 14u deze week") — sfeer, geen klant.
+- **Flowlift:** cijfers zonder namen. **CAIKMO:** pakketten zonder cases op de voorpagina.
+- → In het hele Vlaamse veld hebben alleen Nunki (3 case-detailpagina's + live-teller), Codelines
+  (6 cases) en Krits (klantquote met naam) écht benoemde proof. **De proof-lat ligt laag — één eerlijke
+  BAVAST-quote + cijfer-kop tilt Vastpakt meteen over de helft van het veld.**
+
+---
+
 ## 1. De GTM-matrix (acquisitie-motie naast elkaar)
 
 | Speler | ICP | Wig / eerste aanbod | Prijs zichtbaar | Lead-magnet / tools | Content-motor | Eerste-stap-CTA | Proof | Register |
@@ -94,7 +153,7 @@
 | Conventie van het veld | Waar het gat zit (Vastpakt) |
 |---|---|
 | Wig = **gratis scan/advies** | Vastpakt-wig = een **vast-geprijsde, af te leveren bouw** ("De eerste situatie") — gemonetiseerd vanaf stap 1, niet nog een gratis rapport |
-| Eerste-stap-CTA = **agenda/scan boeken** | **"Beschrijf één situatie"** (async schrijven, 24u) — structureel lagere drempel; niemand anders doet dit |
+| Eerste-stap-CTA = **agenda/scan boeken** | **"Beschrijf één situatie"** (async schrijven, 24u). ⚠️ Nuance (v2): Codelines' scan is óók async (enquête→PDF, 3 werkdagen) — ons verschil = vrije tekst + persoonlijk antwoord van de bouwer in 24u + eerlijk nee, geen generiek maturiteitsrapport |
 | Lead-magnets bestaan, maar **AI-hype-gekleurd** (calculators, readiness-scans, AI-ebooks) | Een **pijn-first, anti-hype lead-magnet** ("uit je hoofd") is onbezet |
 | Content = veel, maar **AI-hype + wij/u-toon** | Een **pijn-first, ik-stem, build-in-public** content-motor met een gezicht is leeg |
 | **0× ik** in het hele veld | Vastpakts **ik + gezicht** is categorisch uniek (nogmaals bevestigd) |
