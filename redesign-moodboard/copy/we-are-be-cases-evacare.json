@@ -1,0 +1,100 @@
+{
+  "title": "Case | Invoice Automation in Healthcare",
+  "h1": "From 30 hours of manual Excel work to a single click: fully automated invoicing",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "From 30 hours of manual Excel work to a single click: fully automated invoicing"
+    },
+    {
+      "tag": "H2",
+      "text": "The challenge"
+    },
+    {
+      "tag": "H2",
+      "text": "The solution"
+    },
+    {
+      "tag": "H2",
+      "text": "AI as accelerator"
+    },
+    {
+      "tag": "H2",
+      "text": "Technical challenges"
+    },
+    {
+      "tag": "H3",
+      "text": "And the results are impressive"
+    },
+    {
+      "tag": "H2",
+      "text": "Work with us"
+    },
+    {
+      "tag": "H2",
+      "text": "See more work"
+    },
+    {
+      "tag": "H2",
+      "text": "Let’s talk"
+    }
+  ],
+  "buttons": [
+    "contact us",
+    "contact us",
+    "work with us",
+    "book a meeting",
+    "Subscribe to our newsletter",
+    "Subscribe",
+    "Preferences",
+    "Deny",
+    "Accept",
+    "Reject all cookies",
+    "Allow all cookies",
+    "Confirm my preferences and close"
+  ],
+  "paragraphs": [
+    "Every month, 30 hours were spent on invoicing. Manually calculating rates and doing it for dozens of care facilities and healthcare workers at once. All tracked and calculated in a spreadsheet. That was the reality at EvaCare, a Belgian company staffing nursing and care professionals at residential care homes. A process that was not just incredibly time-consuming, but also error-prone and entirely dependent on a single person.",
+    "That had to change. And with AI as our accelerator, we made it happen in record time.",
+    "an invoicing process screaming for automation",
+    "‍",
+    "EvaCare manages the scheduling and invoicing of healthcare workers deployed across various residential care homes. Every month, worked hours were exported from Beeple (their scheduling platform) and then manually processed into invoices in Billit (their accounting platform).",
+    "Sounds simple? It’s not. Behind every shift lies a maze of rules:",
+    "Doing that manually every month doesn’t just cost 30 hours, it also carries risk. All the knowledge lived in one person’s head, and a single mistake could have immediate financial consequences.",
+    "one click, the system handles the rest",
+    "‍",
+    "We built an application that automates the entire invoicing process.",
+    "The flow is simple: EvaCare exports their worked hours from Beeple and the custom tool does the rest. Splitting, calculating, and invoicing, without any manual intervention.",
+    "‍",
+    "‍",
+    "Here’s what happens under the hood:"
+  ],
+  "firstScreen": "SERVICES what we do CASES what we did ABOUT who we are INSIGHTS what we wrote AI AI services contact us EVACARE From 30 hours of manual Excel work to a single click: fully automated invoicing web application automation ai development Every month, 30 hours were spent on invoicing. Manually calculating rates and doing it for dozens of care facilities and healthcare workers at once. All tracked and calculated in a spreadsheet. That was the reality at EvaCare, a Belgian company staffing nursing and care professionals at residential care homes. A process that was not just incredibly time-consuming, but also error-prone and entirely dependent on a single person. That had to change. And with AI as our accelerator, we made it happen in record time. The challenge an invoicing process screaming for automation ‍ EvaCare manages the scheduling and invoicing of healthcare workers deployed across various residential care homes. Every month, worked hours were exported from Beeple (their scheduling platform) and then manually processed into invoices in Billit (their accounting platform). ‍ Sounds simple? It’s not. Behind every shift lies a maze of rules: Splitting by time of day: Morning, evening, night. Each with a different rate and coefficient. Public holidays and weekends at additional surcharges. Interrupted shifts with more than 4 hours in between on a single day? A surcharge applies. Rates per care facility, per worker type, and per province. Dual invoicing streams: to the care facilities and to the healthcare workers themselves. Doing that manually every month doesn’t just cost 30 hours, it also carries risk. All the knowledge lived in one person’s head, and a single mistake could have immediate financial consequences. The solution one click, the system handles the rest ‍ We bu",
+  "internalLinks": [
+    "https://we-are.be",
+    "https://we-are.be/what-we-do",
+    "https://we-are.be/cases",
+    "https://we-are.be/who-we-are",
+    "https://we-are.be/blog",
+    "https://we-are.be/ai",
+    "https://we-are.be/cases/evacare",
+    "https://we-are.be/nl/cases/evacare",
+    "https://we-are.be/contact",
+    "https://we-are.be/careers",
+    "https://we-are.be/excel-and-legacy",
+    "https://we-are.be/faq",
+    "https://we-are.be/privacy-policy",
+    "https://we-are.be/general-terms-and-conditions",
+    "https://we-are.be/cookie-policy"
+  ],
+  "metrics": {
+    "first_person_singular_ik_mij": 0,
+    "second_person_jij_u": 0,
+    "first_person_plural_wij_ons": 4,
+    "numbers_digits": 4,
+    "ai_mentions": 3,
+    "heading_word_count": 37,
+    "heading_count": 9
+  },
+  "_url": "https://we-are.be/cases/evacare"
+}

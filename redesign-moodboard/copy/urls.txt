@@ -1,7 +1,34 @@
 # Copy DNA — harvest the actual words (rivals + intent models)
-https://www.codelines.be/oplossingen/ai-ontwikkeling/
+# Directe categorie (AI-automatisering KMO Vlaanderen)
+https://caikmo.be/
 https://nordant.be/ai-consultant/
+https://www.nunki.ai/
+https://flowlift.be/
+https://aivoorkmo.be/
+https://hugarro.be/
+# Maatwerk/bureau + register-buren
+https://www.codelines.be/oplossingen/ai-ontwikkeling/
+https://onoweb.be/
+https://www.krits.be/
 https://leadexpert.be/
-https://austinlchurch.com/
-https://pietervanleuven.com/
-https://illustrate.framer.website/
+# Register-/model-tweelingen (copy-studie)
+https://miransweb.com/
+https://stefhan.ai/
+# we-are.be — softwarestudio Gent, KMO+startups, AI-native, positioneert op EIGENAARSCHAP
+# (directe positionerings-rivaal in Vastpakts lane). Volledige site-verkenning.
+https://we-are.be/
+https://we-are.be/cases
+https://we-are.be/what-we-do
+https://we-are.be/contact
+# pass 2 — echte sitemap (uit internalLinks van pass 1)
+https://we-are.be/who-we-are
+https://we-are.be/ai
+https://we-are.be/excel-and-legacy
+https://we-are.be/nl
+https://we-are.be/faqs/whats-different-about-working-with-a-smaller-studio
+https://we-are.be/faqs/do-you-offer-ongoing-support-after-launch
+https://we-are.be/faqs/how-long-does-a-project-typically-take
+https://we-are.be/faqs/when-do-i-choose-for-custom-software
+https://we-are.be/cases/baker-tilly
+https://we-are.be/cases/evacare
+https://we-are.be/cases/symons

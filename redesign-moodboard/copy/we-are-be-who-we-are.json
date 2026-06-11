@@ -1,0 +1,86 @@
+{
+  "title": "About us | Custom software, minus the nonsense",
+  "h1": null,
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "We are software engineering experts"
+    },
+    {
+      "tag": "H2",
+      "text": "We transform complex business challenges into scalable and sustainable digital solutions"
+    },
+    {
+      "tag": "H2",
+      "text": "Do you want to build software that makes a real impact?"
+    },
+    {
+      "tag": "H2",
+      "text": "Learn more about our process"
+    },
+    {
+      "tag": "H2",
+      "text": "Ready to start your project?"
+    }
+  ],
+  "buttons": [
+    "contact us",
+    "contact us",
+    "get in touch",
+    "Work with us",
+    "Open positions",
+    "learn more",
+    "get in touch",
+    "Subscribe to our newsletter",
+    "Subscribe",
+    "Preferences",
+    "Deny",
+    "Accept",
+    "Reject all cookies",
+    "Allow all cookies",
+    "Confirm my preferences and close"
+  ],
+  "paragraphs": [
+    "From our vibrant workspace in Ghent, we deliver cutting-edge software solutions to clients worldwide. Feel free to pay us a visit!",
+    "You bring the industry expertise, we bring the tech know-how. Together, we engineer software solutions that blend our strengths for maximum impact.",
+    "We keep things straightforward and transparent. Our process is clear, with no hidden costs or surprises.",
+    "Our commitment doesn't end at delivery; we ensure long-term success with continuous quality checks and maintenance.",
+    "Our team is growing in every direction. Ready to join us?",
+    "Stein Van Stichel",
+    "CIO @Upgrade Estate",
+    "Sanjay Aerts",
+    "co-founder @Droppr",
+    "Koen Cassenaer",
+    "Owner @Symons",
+    "Inne Gheeraert",
+    "Coördinator @ Permeke Museum",
+    "No BS, just great software. From early testing to open dialogue, our process ensures you always get the best results."
+  ],
+  "firstScreen": "SERVICES what we do CASES what we did ABOUT who we are INSIGHTS what we wrote AI AI services contact us We are software engineering experts Our office From our vibrant workspace in Ghent, we deliver cutting-edge software solutions to clients worldwide. Feel free to pay us a visit! get in touch Work with us OUR MISSION We transform complex business challenges into scalable and sustainable digital solutions Powerful partnerships You bring the industry expertise, we bring the tech know-how. Together, we engineer software solutions that blend our strengths for maximum impact. No-nonsense approach We keep things straightforward and transparent. Our process is clear, with no hidden costs or surprises. Extraordinary excellence Our commitment doesn't end at delivery; we ensure long-term success with continuous quality checks and maintenance. Thomas Warnier Software Engineer Olivier Loones Project Manager Guillaume Vande Maele Co-founder Lucas Antchougov Software Engineer Manu De Buck Co-founder Jara Vandermeulen Marketing Lead Arne Dierickx Software Engineer Tibo De Smet Office Manager Timon De Backer Team Lead Aiko Vandeputte Software Engineer Peggy Timmermans People Lead Viktor Huygebaert Software Engineer WE'RE HIRING Do you want to build software that makes a real impact? Our team is growing in every direction. Ready to join us? Open positions \"We are is very straightforward and comes directly with the right solutions. They keep things focused and moving. This allows us to reach results together very quickly and efficiently.\" Stein Van Stichel CIO @Upgrade Estate \"What made it unique was that they understood very quickly where we wanted to go. Manu challenged us a lot. He mapped out certain scenarios for us that we sometimes hadn't considered ourselves.\" Sanjay Aerts co-fou",
+  "internalLinks": [
+    "https://we-are.be",
+    "https://we-are.be/what-we-do",
+    "https://we-are.be/cases",
+    "https://we-are.be/who-we-are",
+    "https://we-are.be/blog",
+    "https://we-are.be/ai",
+    "https://we-are.be/nl/who-we-are",
+    "https://we-are.be/contact",
+    "https://we-are.be/careers",
+    "https://we-are.be/excel-and-legacy",
+    "https://we-are.be/faq",
+    "https://we-are.be/privacy-policy",
+    "https://we-are.be/general-terms-and-conditions",
+    "https://we-are.be/cookie-policy"
+  ],
+  "metrics": {
+    "first_person_singular_ik_mij": 0,
+    "second_person_jij_u": 4,
+    "first_person_plural_wij_ons": 16,
+    "numbers_digits": 0,
+    "ai_mentions": 0,
+    "heading_word_count": 37,
+    "heading_count": 5
+  },
+  "_url": "https://we-are.be/who-we-are"
+}

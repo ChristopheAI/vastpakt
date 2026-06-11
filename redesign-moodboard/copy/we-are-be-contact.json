@@ -1,0 +1,81 @@
+{
+  "title": "we are | Contact",
+  "h1": "Or send us a message",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "Book a meeting"
+    },
+    {
+      "tag": "H3",
+      "text": "Let's explore the possibilities together."
+    },
+    {
+      "tag": "H3",
+      "text": "Tell us what's slowing you down."
+    },
+    {
+      "tag": "H1",
+      "text": "Or send us a message"
+    },
+    {
+      "tag": "H3",
+      "text": "Stop by and say hi!"
+    },
+    {
+      "tag": "H3",
+      "text": "Give us a call or send a whatsapp"
+    },
+    {
+      "tag": "H3",
+      "text": "Send us a message"
+    }
+  ],
+  "buttons": [
+    "contact us",
+    "contact us",
+    "Schedule a call with Guillaume",
+    "Schedule a call with Manu",
+    "Keyboard shortcuts",
+    "Map Data",
+    "200 m Click to toggle between metric and imperial units",
+    "Subscribe to our newsletter",
+    "Subscribe",
+    "Preferences"
+  ],
+  "paragraphs": [
+    "Curious about working together? Want to talk about a digital idea? Just want to connect? Book a call with Guillaume or Manu (ps. lowest call count treats the team to pastries at the end of the month, so choose wisely).",
+    "Whatever your challenge, we are eager to talk tech and deliver the digital goods. Fill out the form below, and we'll get back to you shortly.",
+    "Newsletter: write the future",
+    "Serious news and insights on technology and innovation. Not-so-serious random facts about we are. All in one monthly email.",
+    "I agree to receive your newsletters and accept the data privacy statement.",
+    "Quick question?"
+  ],
+  "firstScreen": "SERVICES what we do CASES what we did ABOUT who we are INSIGHTS what we wrote AI AI services contact us Book a meeting Curious about working together? Want to talk about a digital idea? Just want to connect? Book a call with Guillaume or Manu (ps. lowest call count treats the team to pastries at the end of the month, so choose wisely). Guillaume Co-founder, we are Let's explore the possibilities together. Schedule a call with Guillaume Manu Co-founder, we are Tell us what's slowing you down. Schedule a call with Manu Or send us a message Whatever your challenge, we are eager to talk tech and deliver the digital goods. Fill out the form below, and we'll get back to you shortly. What are you looking for... I’d love to connect and get to know we are I’ve got an idea for a new web or mobile app I want to digitize or optimize a process in my business I’m curious about using AI at my company I’m looking for a data solution Something else I accept the Privacy policy Stop by and say hi! we are Brusselsesteenweg 6, 9050 Gent Give us a call or send a whatsapp Guillaume Vande Maele +32 475 20 65 55 Manu De Buck +32 479 52 55 90 Send us a message hi@we-are.be Keyboard shortcuts Map data ©2026 Google Terms Report a map error Services Cases About AI services Excel & legacy software FAQ Blog Contact Jobs Subscribe to our newsletter VAT: BE0784.671.897 Privacy policy Terms of Service Cookies Settings By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our Privacy Policy and Cookie Policy for more information. Preferences Deny Accept Quick question?",
+  "internalLinks": [
+    "https://we-are.be",
+    "https://we-are.be/what-we-do",
+    "https://we-are.be/cases",
+    "https://we-are.be/who-we-are",
+    "https://we-are.be/blog",
+    "https://we-are.be/ai",
+    "https://we-are.be/contact",
+    "https://we-are.be/nl/contact",
+    "https://we-are.be/careers",
+    "https://we-are.be/privacy-policy",
+    "https://we-are.be/excel-and-legacy",
+    "https://we-are.be/faq",
+    "https://we-are.be/general-terms-and-conditions",
+    "https://we-are.be/cookie-policy"
+  ],
+  "metrics": {
+    "first_person_singular_ik_mij": 1,
+    "second_person_jij_u": 4,
+    "first_person_plural_wij_ons": 8,
+    "numbers_digits": 0,
+    "ai_mentions": 0,
+    "heading_word_count": 38,
+    "heading_count": 7
+  },
+  "_url": "https://we-are.be/contact"
+}
