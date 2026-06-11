@@ -99,6 +99,22 @@
       "text": "Got any questions?"
     },
     {
+      "tag": "H3",
+      "text": "Are you available for freelance or contract work?"
+    },
+    {
+      "tag": "H3",
+      "text": "What’s your typical process when starting a new project?"
+    },
+    {
+      "tag": "H3",
+      "text": "Do you work with clients remotely?"
+    },
+    {
+      "tag": "H3",
+      "text": "How long does a typical project take?"
+    },
+    {
       "tag": "H1",
       "text": "Tell your story with illustrate today."
     }
@@ -121,14 +137,29 @@
     "View all"
   ],
   "firstScreen": "Available for work Tell your story with illustrate Designed for creatives who want to make a strong impression without overcomplicating things. Reach out Reach out illustrate your story. Our skills and expertise A mix of creative thinking, technical skill, and attention to detail — here’s what we do best. Content Strategy Structuring content to be purposeful, and aligned with your goals. Brand Identity Building visual systems that reflect your brand through logos, colors, and style. Creative Direction Guiding the direction so every detail works together and tells a clear story. Motion & Interaction Using animation and transitions to guide users and elevate experience. Email Marketing Designing and writing converting email flows and campaigns that engage your audience. SEO Optimization Improving your site’s visibility on search engines through structure & content. Explore our recent work A curated collection of visual and strategic work across different mediums. View all View all Aesop Jan 21, 2025 Soft Horizon Jun 1, 2025 Flourishing Nature Apr 27, 2025 What sets us apart Combining strategy, design, and clear communication to build lasting partnerships and impactful outcomes. Clear Process From first message to final delivery, everything is structured, transparent, and smooth. Custom Solutions Every project is tailored — no templates, just work that fits your exact needs. Reliable Support No ghosting here. You’ll always know what’s happening and where things stand. Trusted by teams & individuals Real feedback from real clients — honest, simple, and to the point. “Illustrate feels personal, refined, and minimal — the kind of layout that speaks without shouting.” Steve A. Startup Founder “Every section has a clear purpose, and the design guides the viewer from start to fi",
+  "internalLinks": [
+    "https://illustrate.framer.website/contact",
+    "https://illustrate.framer.website/project",
+    "https://illustrate.framer.website/project/aesop",
+    "https://illustrate.framer.website/project/soft-horizon",
+    "https://illustrate.framer.website/project/flourishing-nature",
+    "https://illustrate.framer.website/blog",
+    "https://illustrate.framer.website/blog/designing-for-yourself-before-designing-for-clients",
+    "https://illustrate.framer.website/blog/why-personal-projects-still-matter-in-a-professional-portfolio",
+    "https://illustrate.framer.website/blog/the-small-details-that-make-a-portfolio-feel-personal",
+    "https://illustrate.framer.website",
+    "https://illustrate.framer.website/404",
+    "https://illustrate.framer.website/legal/terms-conditions",
+    "https://illustrate.framer.website/legal/privacy-policy"
+  ],
   "metrics": {
     "first_person_singular_ik_mij": 0,
-    "second_person_jij_u": 9,
+    "second_person_jij_u": 12,
     "first_person_plural_wij_ons": 6,
     "numbers_digits": 3,
     "ai_mentions": 0,
-    "heading_word_count": 79,
-    "heading_count": 25
+    "heading_word_count": 110,
+    "heading_count": 29
   },
   "_url": "https://illustrate.framer.website/"
 }
