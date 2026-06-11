@@ -59,6 +59,8 @@ anders leest het als "software adopteren" (botst met de wig + koper §2).
 | Markt-/klanttaal | `MARKT-TAAL.md` (Bron 01–04), `INTENT-*.md`, `CASES-bavast.md`, `CONCURRENTIE.md`, `MARKT-VRAGEN.md` |
 | Empirische learnings | `redesign-moodboard/DISCOVERIES.md` (D-log) |
 | Schrijf-/review-regels | `COPY-PLAYBOOK.md`, `reviews/*.md` |
+| **GTM — synthese (2026-06-11)** | `GTM-VASTPAKT.md` (plan + rolmodellen), `GTM-CONCURRENTEN.md` (funnels van het veld), `GTM-DEMAND.md` (trigger + boekhouder), `GTM-PILOT-boekhouder.md` (de test) |
+| **GTM — frameworks** | `PRIESTLEY-GTM.md` (KPI/ATM/scorecard/oversubscribed), `MARKT-VALIDATIE.md` (prijs/aanbod), `COPY-BRON-HarryDry.md` (3 copy-tests) |
 
 ## 9. Wat we bewust NIET zijn (AGENTS.md anti-hype)
 Geen AI-agency · geen automation-first · geen consultancy-theater · geen software-bouwer-als-instap ·
@@ -75,3 +77,40 @@ geen prijs/claim zonder bewijs.
   20% middelgroot, max €7.500/j) en vereist registratie als dienstverlener + audit. → **Geen
   site-lever.** Enkel relevant als Christophe ooit een echte opleidings-/trainingslijn opzet. Bron: vlaio.be.
 - Site-architectuur → beslist: **lean 4-pagina-spine**, de rest redirect (ADR-0006).
+
+## 11. De synthese — alle dots verbonden (2026-06-11)
+> Aanleiding: te veel losse research-dots, te weinig verbinding. Dit is de connectie. Alle research
+> (concurrenten, rolmodellen, Priestley, Cole, Harry Dry, demand-side) is **geen 9 strategieën — het is
+> één, vanuit 9 hoeken.**
+
+**De ene waarheid:** Vastpakt wint als de **zichtbare, aanspreekbare mens die bewijsbaar één resultaat
+overneemt** — het werk uit het hoofd van de zaakvoerder, in een systeem dat van hém is — in een markt
+waar iedereen zich verschuilt achter *"wij / AI / gratis scan."*
+
+Elke dot snapt op die ene waarheid:
+- **Mechanisme** → het resultaat + eigenaarschap (uit je hoofd → systeem dat van jou is).
+- **Realism-stadium** (Sultanic) → wáárom de zichtbare mens + proof nú wint van hype (waarheid = munt).
+- **Concurrenten** (`GTM-CONCURRENTEN.md`) → de gap *ís* die mens: 0× ik in het hele veld, iedereen
+  free-scan-wig + AI-hype-scorecards; niemand kan volgen zonder z'n model op te geven.
+- **Rolmodellen** (`GTM-VASTPAKT.md`) → de vorm: Austins geproductiseerde ladder + KPI-autoriteit, in
+  Pieters warme Vlaamse ik-stem.
+- **Priestley** (`PRIESTLEY-GTM.md`) → verkoop geen tijd; verkoop het oordeel/resultaat/systeem dat AI
+  niet overneemt; word de Key Person voor dít ene resultaat.
+- **Harry Dry** (`COPY-BRON-HarryDry.md`) → de craft: *bewijs* het (point, don't say); zeg wat enkel jij
+  kan zeggen (de ik + het hoofd).
+- **Cole** → Christophe ís de proof (Nicola); de ontbrekende beweging is *tonen* + *praten*.
+- **Markt-validatie** (`MARKT-VALIDATIE.md`) → verpak het als een vaste-prijs **"eerste situatie"** (geen uren).
+- **Demand-side** (`GTM-DEMAND.md`) → de mens wordt voorgesteld door een **vertrouwde mens (boekhouder)**
+  op het **trigger-moment** (een event, geen sluimerend gevoel).
+
+**De convergentie — en dít was de gemiste dot:** alle research eist niet *méér analyse*. Ze eist exact
+**drie** dingen, en niets anders telt tot die er zijn:
+1. **PROOF** — de letterlijke BAVAST-quote + cijfer (**#19**). Zonder bewijs is alles "nog een claim" in
+   een 0×-ik-veld.
+2. **DE ZICHTBARE MENS, LIVE** — de site/het gezicht/de ik-stem écht online (zit nu vast in branches/PR's).
+   De hele wig is "de zichtbare, aanspreekbare mens" — en die is vandaag onzichtbaar.
+3. **ÉÉN VERTROUWDE INTRODUCTIE** — de boekhouder-pilot (`GTM-PILOT-boekhouder.md`).
+
+Geen van de drie is research. Twee hangen aan Christophe (de quote · de deploy-fiat · de mail versturen),
+één aan mij (de site shippen/mergen). **Meer strategie-docs = uitstel.** De volgende beweging is een van
+deze drie — niet doc #11.
