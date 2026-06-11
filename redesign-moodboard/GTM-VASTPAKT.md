@@ -64,6 +64,7 @@
   het prijs-tier-layoutpatroon (als/wanneer je ooit prijs toont).
 
 ### D. (cross-ref) Concurrent-GTM — wat de Vlaamse rivalen doen · 🟢 (`CONCURRENTIE.md`)
+> **Volledige teardown van de concurrent-GTM (10 spelers, link-capture): `GTM-CONCURRENTEN.md`.**
 - **Acquisitie-motie:** gratis scan/intake → geboekte call → vaste/offerte-prijs. SEO op
   "AI/automatisering KMO". Beperkt blog/insights. we-are.be: nieuwsbrief + talks + named-founder-referral.
 - **Allemaal agenda-CTA, geen lead-magnet, geen publieke geproductiseerde wig.** → Vastpakts **"Beschrijf
