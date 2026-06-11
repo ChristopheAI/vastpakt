@@ -4,6 +4,111 @@
 > v2 is **eerstehands geverifieerd** via de copy-extract Action (echte site-copy, in de repo onder
 > `redesign-moodboard/copy/*.json`).
 
+---
+
+## v3 — we-are.be: eerste VOLLEDIGE site-verkenning (2026-06-11)
+
+> Christophes opdracht: concurrenten **volledig** verkennen, niet enkel de homepage. Start: we-are.be.
+> **Methode:** 2 harvest-passes (15 pagina's eerstehands binnengehaald: home, what-we-do, cases-overzicht,
+> 3 case-details, who-we-are, /ai, /excel-and-legacy, contact, /nl + sitemap via interne-links-capture).
+> Bestanden: `copy/we-are-be*.json`. De `faqs/*`-detailpagina's geven standalone een 404 (antwoorden
+> renderen inline); die teksten zitten deels in de /ai-harvest.
+
+### Wie ze zijn (feiten, geverifieerd)
+- **"we are"** — softwarestudio, Brusselsesteenweg 6, **9050 Gent** (BTW BE0784.671.897).
+- **12-koppig team** op /who-we-are: 2 co-founders (**Guillaume Vande Maele, Manu De Buck** — naam,
+  gsm én WhatsApp staan publiek op /contact) + engineers, PM, marketing lead, people lead.
+  → géén klein studio'tje; een echte agency die zich als "smaller studio" frameert.
+- **Engels-first** site met volledige **/nl-mirror** (je-register, alle pagina's vertaald).
+- Klanten: Baker Tilly (300 medewerkers), Aluvision, musea (Permeke), Jong Keukengeweld (80.000
+  bezoekers), logistiek (Droppr), zorg (EvaCare), maakbedrijf (Symons), AZ Sint-Lucas…
+  → **segment ligt hoger/breder dan Vastpakts micro-KMO-zaakvoerder.**
+
+### Sitemap (volledig in kaart)
+`/` · `/what-we-do` (diensten; `/services` redirect) · `/cases` (**15 case-detailpagina's**) ·
+`/who-we-are` · `/ai` (AI-native pitch + aanbod) · **`/excel-and-legacy`** (probleem-pagina!) ·
+`/blog` · `/faq` (inline antwoorden) · `/contact` · `/careers` · volledige `/nl/*`-spiegel.
+
+### Positionering & aanbod-ladder
+- **H1:** "Custom software. Built at the speed of AI." / NL: "Digitale oplossingen op maat. Versneld
+  door AI." — AI als **werkwijze**, niet als product: *"AI didn't change us. It's how we started."* /
+  *"While others talk about AI, we've already built it into our workflow."*
+- No-nonsense-frame: title-tag *"Custom software, minus the nonsense"*, quote-muur, *"No BS, just
+  great software."*
+- **Ladder:** (1) **"AI opportunity check"** — workshop, "three concrete use-cases with ROI",
+  CTA "Request my AI Scan →" (vgl. LeadExpert/AI-voor-KMO-scan, maar serieuzer gekaderd) →
+  (2) bouwtraject ("Built in 6 weeks"-badge bij één case) → (3) "Ongoing support and maintenance"
+  (Support Service). Plus in-company AI-sessies. **Geen prijs op de site.**
+- Belofte-blok: "No hidden costs. No surprises." · "take full ownership" (= eigenaarschap van het
+  *project*, niet expliciet klant-bezit — al zegt /ai wél één keer **"yours to own"**).
+
+### ⚠️ HET strategische punt: ze gebruiken óns mechanisme — maar richten het anders
+Drie keer, letterlijk geharvest:
+1. `/what-we-do` (Excel-blok): *"knowledge moves out of people's heads and into systems"*
+2. `/excel-and-legacy`: *"the logic lives in two people's heads"* · *"Procedures, exceptions, client
+   agreements and pricing rules often live only in someone's head."*
+3. EvaCare-case: *"All the knowledge lived in one person's head."*
+
+**Maar:** bij hen gaat het altijd over een **medewerker/het team van de klant** (die ene collega met
+dé kritieke Excel). Bij Vastpakt is het de **zaakvoerder zelf** ("jij bént de harde schijf"). Dat is
+geen nuance maar een ander koopmotief: zij verkopen team-efficiëntie aan bedrijven mét personeel en
+IT-aanspreekpunt; wij verkopen **bevrijding van het eigen hoofd** aan de zaakvoerder die alles zelf
+draagt. De wig blijft van ons — maar de *taal* is dus niet exclusief meer. Proof + ik-stem maken het
+verschil zichtbaar.
+
+### Hun case-craft is de beste van het hele veld (model-level stelen, niet kopiëren)
+- **Kop = cijfer + voor/na in één regel:** *"From 30 hours of manual Excel work to a single click"*
+  (EvaCare) · *"+3500 orders each year / 30min saved per order"* (Symons) · *"an automation that
+  pays for itself"* (Baker Tilly).
+- **Pijn-first verteld**, met echte techniek-namen (Beeple→Billit) en de regel-doolhof uitgeschreven.
+- **Echte klantquotes met naam + rol:** Koen Cassenaer (eigenaar Symons): *"their team wasn't sitting
+  across from us, but beside us"* — let op: hun klanten prijzen **nabijheid**, exact wat een solo
+  structureel beter kan. → bevestigt #19 (BAVAST-quote) als onze hoogste proof-prioriteit, en de
+  kop-vorm "cijfer voor/na" is direct toepasbaar op /werk/ (BAVAST: 30 min–1 u → seconden).
+- **Probleem-pagina-patroon** (`/excel-and-legacy`): één pijn = één volledige landingspagina, met
+  "What we solve"-lijst (marges, capaciteit, offertes, voorraad — onze herkenningslijst!) en een
+  "Why now: AI changed the game"-blok.
+- Ze maken het **AI-economics-argument** publiek: *"What used to make this kind of project long and
+  expensive, AI now does in a fraction of the time."* — hetzelfde inzicht als Christophes
+  over-mij-arc ("de software die je écht nodig hebt, bestaat vaak niet" + waarom het nú wel kan).
+- Sterk **data-privacy-antwoord** (/ai): *"Your data stays your data… AWS Bedrock… open-source models
+  locally, fully within your own environment."* — die vraag krijgt Vastpakt ook; eerlijk antwoord
+  voorbereiden.
+
+### Realism-check
+Grotendeels nuchter (truth-currency: privacy-antwoord, "AI accelerates, engineers decide"), maar mét
+mechanization-era urgency: *"The biggest risk isn't moving too fast. It's moving too late."* +
+*"The moment is now."* — milde FOMO die wij bewust niet doen. Geen nepschaarste, geen prijzen.
+
+### CTA-patroon
+Alles eindigt op een **call**: "Book a call with Guillaume or Manu" (met pastry-grapje), "book a
+meeting", "contact us". Wel de beste micro-CTA-formuleringen van het veld: **"Tell us what's broken"**
+(EN) / **"vertel ons je uitdaging"** (NL) — pijn-first, vlak naast onze "Beschrijf één situatie".
+Maar: geen async schrijf-belofte, geen 24u-antwoord. Onze CTA blijft structureel lager in drempel.
+
+### Zwaktes / openingen voor Vastpakt (geverifieerd)
+1. **Onvindbaar op Vlaamse zoektermen:** rankt niet op "software op maat KMO"-searches (WebSearch
+   2026-06-11: Codelines, Onoweb, Corbit, Studio Koko, Jemasoft ranken — we-are.be niet). De
+   /nl-mirror bestaat, maar Engels-first kost hen dat terrein vandaag.
+2. **Wij-stem, 12 man** — 0× ik over de hele site. De "smaller studio"-intimiteit is een claim;
+   bij een solo is het een feit ("praat met wie bouwt").
+3. **Segment hoger:** Baker Tilly/musea/80k-bezoekersplatformen. De zaakvoerder-met-alles-in-zijn-
+   hoofd zonder IT-aanspreekpunt is bij hen bijvangst, bij ons de kern.
+4. **Geen prijs, geen lage eerste stap** behalve call/AI-scan-workshop.
+5. Mechanisme-taal gericht op het team, niet op de eigenaar (zie boven).
+
+### Oordeel
+- **Als direct concurrent: MIDDEL.** Ander segment (groter, Gent/EN, agency-kostprijs), maar dichtste
+  positionerings-buur tot nu toe: ownership-taal, anti-nonsense, Excel-uit-hoofden-mechanisme, en een
+  volledige NL-site die klaarstaat. Schuiven ze hun NL-SEO recht, dan staan ze in onze lane.
+- **Als craft-referentie: HOOG.** Beste case-pagina's, beste probleem-pagina, beste FAQ-diepte van
+  alle 13 onderzochte spelers. Model-level overnemen: cijfer-koppen op /werk/, het privacy-antwoord,
+  en (later, content-motor) het één-pijn-één-pagina-patroon.
+- **Directe acties:** (a) #19 BAVAST-quote wordt urgenter — zij bewijzen hoe hard een naam+rol-quote
+  werkt; (b) /werk/-koppen naar voor/na-cijfervorm waar het BAVAST-cijfer het toelaat; (c) niets aan
+  onze mechanisme-copy wijzigen — wél de zaakvoerder-richting expliciet blijven aanzetten (dat is het
+  verschil dat zij niet kunnen claimen).
+
 ## v2 — Eerstehands geverifieerd (2026-06-07)
 
 > Bron: volledige site-copy van 12 spelers, geharvest via `.github/workflows/copy.yml` (Playwright,
