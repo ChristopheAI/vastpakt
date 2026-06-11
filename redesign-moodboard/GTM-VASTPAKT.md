@@ -142,6 +142,41 @@ situatie"). Dit ís tegelijk leadgen + proof + de start van gesprekken. (= ticke
 ### 4g. Register
 Pieters warmte + jouw **ik-stem** — de enige ik-stem in het Vlaamse veld (`CONCURRENTIE.md` v2). Hou 'm.
 
+### 4h. Het verdienmodel-principe (Daniel Priestley): **verkoop nooit tijd** · 🟢 richtinggevend
+> Bron: Priestley, *"Why You Must Stop Selling Your Time for Money"* (samengevat door Christophe,
+> 2026-06-11). Confidence: het *principe* is sterk; de concrete cijfers (bv. "een jaar kenniswerk voor
+> $200–$2.000 aan tokens") zijn **provocatief/directioneel, niet geverifieerd** — niet als feit citeren.
+
+**De stelling:** uurtarieven, dagtarieven en retainers verkopen *uitvoering* — en uitvoering
+commoditiseert door AI ("token economics"). Wie tijd/taken verkoopt, concurreert met AI; wie uitkomsten +
+systemen + menselijk oordeel verkoopt, gebruikt AI als hefboom. → Dit **valideert hard** wat
+`MARKT-VALIDATIE.md` al voorstelde: **vaste-prijs, geproductiseerde, bezittelijke aanbiedingen — nooit
+"per uur".** Lock dit in als principe: Vastpakt prijst **het resultaat / het gebouwde ding**, niet de uren.
+
+**De 5-factor-moat = je antwoord op "waarom niet gewoon zelf AI gebruiken?"** (de PDOCS-objectie). De
+klant betaalt niet voor de automatisering (die kan AI bouwen) — wel voor wat AI níét levert:
+| Priestley-factor | Vastpakt-vertaling (bestaat al) |
+|---|---|
+| **Conviction** (overtuiging/richting) | jij beslist wélke situatie eerst uit het hoofd moet — niet "bouw maar" |
+| **Judgment** (oordeel) | *"ik zeg liever dat het niet hoeft te worden gebouwd"* (Miran-model, `MARKT-TAAL` Bron 04) |
+| **Taste** (smaak) | het past op hóe jij werkt + je bestaande tools, niet generiek |
+| **Commercial outcome** | minder fouten, uren terug (BAVAST) — de uitkomst, niet de uren |
+| **Systems** | "een systeem dat van jou is" + "het blijft draaien" (continuïteit-wig) |
+→ Dit is munitie voor de homepage-wig én /over-mij: *"Een AI-tool bouwt een demo. Ik neem
+verantwoordelijkheid voor het resultaat — en blijf erbij."*
+
+**Key Person of Influence** = exact onze content-motor (§4e): Christophe wordt de **herkenbare persoon**
+voor één resultaat — "de KMO-zaakvoerder uit zijn hoofd halen." Build-in-public bouwt die KPI-status.
+
+**⚠️ De eerlijke spanning (niet wegmoffelen):** Priestley duwt richting *schaalbaar platform* (zijn
+ScoreApp-arc: agency → product, "duizenden klanten, werk van waar je wil"). Vastpakts hele wig is net het
+**tegenovergestelde**: done-for-you, de mens, "praat met wie bouwt", intimiteit. Té hard naar "platform"
+draaien **erodeert de wig**. Verzoening: neem Priestleys **prijs- en positioneringsles nu** (verkoop geen
+tijd; verkoop oordeel/uitkomst/systeem/eigenaarschap), maar de **platform/productize-verder-arc is een
+LATER-stadium-zet** (zie `MODEL-TEARDOWN.md`). Nu, met 2 jaar track + dunne proof, is de bottleneck niet
+schaalbaarheid — het is **eerste klanten + proof + distributie.** Eerst de productized "eerste situatie"
+verkopen en de KPI bouwen; de schaalbare laag komt als de proof er is. Niet de volgorde omdraaien.
+
 ---
 
 ## 5. 30 / 60 / 90 — de motie
