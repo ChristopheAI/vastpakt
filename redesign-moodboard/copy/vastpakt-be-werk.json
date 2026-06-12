@@ -1,33 +1,64 @@
 {
-  "title": "Pagina niet gevonden | Vastpakt",
-  "h1": "Deze pagina bestaat niet.",
+  "title": "Werk | Vastpakt",
+  "h1": "Werk dat vastzat in één hoofd. Nu in een systeem.",
   "headings": [
     {
       "tag": "H1",
-      "text": "Deze pagina bestaat niet."
+      "text": "Werk dat vastzat in één hoofd. Nu in een systeem."
+    },
+    {
+      "tag": "H2",
+      "text": "Vier echte situaties, telkens hetzelfde patroon."
+    },
+    {
+      "tag": "H3",
+      "text": "Het zat vast in één hoofd. Nu in een systeem."
+    },
+    {
+      "tag": "H3",
+      "text": "Van losse tellingen naar zicht op voorraad."
+    },
+    {
+      "tag": "H3",
+      "text": "Van drie mailboxen naar één Excel met unieke adressen."
+    },
+    {
+      "tag": "H3",
+      "text": "Van afhankelijk van de designer naar beheerbare blokken."
+    },
+    {
+      "tag": "H2",
+      "text": "Herken je hier iets in?"
     }
   ],
   "buttons": [
-    "Terug naar homepage",
-    "Beschrijf je situatie",
-    "Alleen noodzakelijk",
-    "Analytics toestaan"
+    "Beschrijf één situatie",
+    "Is dit iets voor jou?",
+    "Beschrijf één situatie"
   ],
   "paragraphs": [
-    "404",
-    "De link klopt niet meer, of de pagina is verplaatst. Je kan terug naar de homepage of meteen één concrete werksituatie beschrijven.",
-    "Eerst één concrete plek in je werkdag bekijken. Dan pas kiezen wat moet veranderen.",
-    "Vastpakt kan Google Analytics gebruiken om te zien welke pagina's werken. Advertentie-opslag blijft uit."
+    "Werk",
+    "Geen portfolio om indruk te maken. Echte situaties waar werk vastliep op één persoon of tussen losse tools — en wat er daarna te volgen viel.",
+    "Praktijkcase: BAVAST — plaatsbeschrijving",
+    "Eén iemand wist hoe alles moest: welke foto bij welke ruimte, hoe het Word-rapport opgebouwd werd, in welke volgorde. Elk dossier opnieuw: dicteren, overtikken, knippen, plakken, controleren, wachten op freelance hulp.",
+    "Praktijkcase: werkplaatsvoorraad",
+    "Een poederlakkerij moest snel zien wat in huis was, wat bijna op was en hoeveel kg na verbruik overbleef.",
+    "Praktijkcase: mailboxen",
+    "De vraag was eenvoudig: welke e-mailadressen kwamen in elke mailbox terug, inkomend of uitgaand?",
+    "Praktijkcase: merkwebsite",
+    "De site moest aangepast kunnen worden zonder dat elke beheerder opnieuw aan het ontwerp kwam.",
+    "Beschrijf één situatie waar het bij jou vastloopt. Binnen 24u weet je of ik kan helpen — of niet.",
+    "Eerst één concrete plek in je werkdag bekijken. Dan pas kiezen wat moet veranderen."
   ],
-  "firstScreen": "Vastpakt Voor wie Werk Over mij Contact 404 Deze pagina bestaat niet. De link klopt niet meer, of de pagina is verplaatst. Je kan terug naar de homepage of meteen één concrete werksituatie beschrijven. Terug naar homepage Beschrijf je situatie Vastpakt Eerst één concrete plek in je werkdag bekijken. Dan pas kiezen wat moet veranderen. Homepage Privacy Contact Vastpakt kan Google Analytics gebruiken om te zien welke pagina's werken. Advertentie-opslag blijft uit. Alleen noodzakelijk Analytics toestaan",
+  "firstScreen": "Vastpakt Voor wie Werk Over mij Contact Werk Werk dat vastzat in één hoofd. Nu in een systeem. Geen portfolio om indruk te maken. Echte situaties waar werk vastliep op één persoon of tussen losse tools — en wat er daarna te volgen viel. Beschrijf één situatie Is dit iets voor jou? Vier echte situaties, telkens hetzelfde patroon. Praktijkcase: BAVAST — plaatsbeschrijving Het zat vast in één hoofd. Nu in een systeem. Eén iemand wist hoe alles moest: welke foto bij welke ruimte, hoe het Word-rapport opgebouwd werd, in welke volgorde. Elk dossier opnieuw: dicteren, overtikken, knippen, plakken, controleren, wachten op freelance hulp. Waar het vastzat De kennis zat in een mens en in een gewoonte, niet in een systeem. Elk dossier hing af van beschikbaarheid en concentratie. Wat er kwam Een webapp die de ruwe input — tekst en foto's — automatisch omzet naar het ingevulde rapport, op het bestaande Word-template van de klant. Wat veranderde 30 minuten tot een uur minder werk per dossier, minder fouten, en geen wachten meer op freelance hulp. Wat we niet beloven De plaatsbeschrijver controleert nog altijd zelf. Het oordeel blijft bij de mens, niet bij de tool. Praktijkcase: werkplaatsvoorraad Van losse tellingen naar zicht op voorraad. Een poederlakkerij moest snel zien wat in huis was, wat bijna op was en hoeveel kg na verbruik overbleef. Waar het vastzat RAL-code, merk, laktype, gewicht en status zaten niet in één bruikbaar overzicht. Wat er kwam Niet alleen Excel: een webapp met voorraadlijst, nieuw poeder toevoegen, verbruik registreren en een dashboard. Wat veranderde De voorraad wordt vandaag nog opgevolgd in de dagelijkse werking. Wat we niet beloven Eerst gewicht en verbruik laten kloppen, daarna pas extra schermen. Praktijkcase: mailboxen Van drie mailboxen naar één Exce",
   "metrics": {
-    "first_person_singular_ik_mij": 0,
-    "second_person_jij_u": 2,
+    "first_person_singular_ik_mij": 1,
+    "second_person_jij_u": 4,
     "first_person_plural_wij_ons": 0,
     "numbers_digits": 1,
     "ai_mentions": 0,
-    "heading_word_count": 4,
-    "heading_count": 1
+    "heading_word_count": 55,
+    "heading_count": 7
   },
   "_url": "https://vastpakt.be/werk/"
 }

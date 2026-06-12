@@ -1,33 +1,93 @@
 {
-  "title": "Pagina niet gevonden | Vastpakt",
-  "h1": "Deze pagina bestaat niet.",
+  "title": "Over mij | Vastpakt",
+  "h1": "Twee jaar geleden bouwde ik nog geen software. Nu wel.",
   "headings": [
     {
       "tag": "H1",
-      "text": "Deze pagina bestaat niet."
+      "text": "Twee jaar geleden bouwde ik nog geen software. Nu wel."
+    },
+    {
+      "tag": "H2",
+      "text": "Ik kom uit de IT. Sinds 2005."
+    },
+    {
+      "tag": "H2",
+      "text": "De software die je écht nodig hebt, bestaat vaak niet."
+    },
+    {
+      "tag": "H2",
+      "text": "Mensen die mij goed kennen, zeggen het zo: een belachelijk hoog empathisch vermogen."
+    },
+    {
+      "tag": "H3",
+      "text": "Eerst juist, dan snel."
+    },
+    {
+      "tag": "H3",
+      "text": "Een demo is geen systeem."
+    },
+    {
+      "tag": "H3",
+      "text": "Wat ik niet ben."
+    },
+    {
+      "tag": "H2",
+      "text": "Zo pak ik het aan."
+    },
+    {
+      "tag": "H3",
+      "text": "Ik kijk verder dan wat je vraagt."
+    },
+    {
+      "tag": "H3",
+      "text": "Ik werk op je bestaande manier."
+    },
+    {
+      "tag": "H3",
+      "text": "Geen zwart gat na het gesprek."
+    },
+    {
+      "tag": "H3",
+      "text": "Je praat met wie het bouwt."
+    },
+    {
+      "tag": "H2",
+      "text": "Buiten het werk?"
+    },
+    {
+      "tag": "H2",
+      "text": "Eén plek waar het bij jou vastloopt?"
     }
   ],
   "buttons": [
-    "Terug naar homepage",
-    "Beschrijf je situatie",
-    "Alleen noodzakelijk",
-    "Analytics toestaan"
+    "Beschrijf één situatie",
+    "Bekijk het werk"
   ],
   "paragraphs": [
-    "404",
-    "De link klopt niet meer, of de pagina is verplaatst. Je kan terug naar de homepage of meteen één concrete werksituatie beschrijven.",
-    "Eerst één concrete plek in je werkdag bekijken. Dan pas kiezen wat moet veranderen.",
-    "Vastpakt kan Google Analytics gebruiken om te zien welke pagina's werken. Advertentie-opslag blijft uit."
+    "En dat is precies waarom ik snap waar het bij jou vastloopt.",
+    "Installeren, configureren, troubleshooten. Eerst internet, telefonie en digitale tv, daarna enterprise-support bij Cisco, dan mijn eigen IT-bedrijf en zwaardere infrastructuur. Daar leer je kijken wat er écht gebeurt — en pas loslaten wanneer het draait.",
+    "Twee jaar geleden ging ik de verkoop in. Daar zat ik naast een developer die met AI bouwde, en ik dacht: dat kan ik ook. Het bleek waar. En het is niet meer gestopt.",
+    "Eerlijk: zonder AI was dat voor mij niet mogelijk geweest. Mét AI wel. Dat is geen detail — dat is het hele verhaal.",
+    "Iemand die ik goed ken startte zijn zaak en zocht iets simpels: zijn voorraad ingeven en bijhouden. Software genoeg — maar alleen grote, logge pakketten vol dingen die hij nooit zou gebruiken. Net dat ene stuk dat hij nodig had, bestond niet.",
+    "Dus bouwde ik het. Dagen blijven schaven tot het écht klopte. Hij gebruikt het vandaag nog, elke dag.",
+    "Dat is mijn grootste voldoening. Niet de demo — wat blijft draaien.",
+    "In dit vak is dat geen soft skill. Ik bouw pas als ik voel hoe jouw dag echt loopt — waar je zoekt, wat je overtikt, wat je in je hoofd meedraagt. Daarom past wat ik maak bij hoe jij werkt, en niet omgekeerd.",
+    "AI versnelt alleen wat eerst juist zit. De fundering moet staan — en die zie je pas als je luistert naar hoe mensen echt werken.",
+    "Met AI maak je snel iets dat op het scherm werkt. Maar jij draait er elke dag op — dus het moet volgende maand nog kloppen, niet alleen vandaag. Daar zit mijn werk: in wat blijft draaien.",
+    "Geen boekhouder, geen jurist, geen toolverkoper. En niet alles moet automatisch. Past het niet? Dan zeg ik dat meteen — liever een eerlijk nee dan dat je vastzit aan iets dat niet werkt.",
+    "Niet meteen bouwen wat je vraagt — eerst kijken waar het echt vastloopt, zodat de oplossing het juiste probleem raakt.",
+    "Ik verplaats me in hoe je vandaag werkt en bouw daarop voort. Geen tool die jou dwingt je werk om te gooien.",
+    "Je krijgt een helder voorstel met fasen en prijs, vooraf afgesproken. Daarna weet je altijd waar het project staat."
   ],
-  "firstScreen": "Vastpakt Voor wie Werk Over mij Contact 404 Deze pagina bestaat niet. De link klopt niet meer, of de pagina is verplaatst. Je kan terug naar de homepage of meteen één concrete werksituatie beschrijven. Terug naar homepage Beschrijf je situatie Vastpakt Eerst één concrete plek in je werkdag bekijken. Dan pas kiezen wat moet veranderen. Homepage Privacy Contact Vastpakt kan Google Analytics gebruiken om te zien welke pagina's werken. Advertentie-opslag blijft uit. Alleen noodzakelijk Analytics toestaan",
+  "firstScreen": "Vastpakt Voor wie Werk Over mij Contact Twee jaar geleden bouwde ik nog geen software. Nu wel. En dat is precies waarom ik snap waar het bij jou vastloopt. Ik kom uit de IT. Sinds 2005. Installeren, configureren, troubleshooten. Eerst internet, telefonie en digitale tv, daarna enterprise-support bij Cisco, dan mijn eigen IT-bedrijf en zwaardere infrastructuur. Daar leer je kijken wat er écht gebeurt — en pas loslaten wanneer het draait. Twee jaar geleden ging ik de verkoop in. Daar zat ik naast een developer die met AI bouwde, en ik dacht: dat kan ik ook. Het bleek waar. En het is niet meer gestopt. Eerlijk: zonder AI was dat voor mij niet mogelijk geweest. Mét AI wel. Dat is geen detail — dat is het hele verhaal. De software die je écht nodig hebt, bestaat vaak niet. Iemand die ik goed ken startte zijn zaak en zocht iets simpels: zijn voorraad ingeven en bijhouden. Software genoeg — maar alleen grote, logge pakketten vol dingen die hij nooit zou gebruiken. Net dat ene stuk dat hij nodig had, bestond niet. Dus bouwde ik het. Dagen blijven schaven tot het écht klopte. Hij gebruikt het vandaag nog, elke dag. Dat is mijn grootste voldoening. Niet de demo — wat blijft draaien. Mensen die mij goed kennen, zeggen het zo: een belachelijk hoog empathisch vermogen. In dit vak is dat geen soft skill. Ik bouw pas als ik voel hoe jouw dag echt loopt — waar je zoekt, wat je overtikt, wat je in je hoofd meedraagt. Daarom past wat ik maak bij hoe jij werkt, en niet omgekeerd. Eerst juist, dan snel. AI versnelt alleen wat eerst juist zit. De fundering moet staan — en die zie je pas als je luistert naar hoe mensen echt werken. Een demo is geen systeem. Met AI maak je snel iets dat op het scherm werkt. Maar jij draait er elke dag op — dus het moet volgende maand nog kloppen, niet alleen ",
   "metrics": {
-    "first_person_singular_ik_mij": 0,
-    "second_person_jij_u": 2,
+    "first_person_singular_ik_mij": 25,
+    "second_person_jij_u": 24,
     "first_person_plural_wij_ons": 0,
     "numbers_digits": 1,
-    "ai_mentions": 0,
-    "heading_word_count": 4,
-    "heading_count": 1
+    "ai_mentions": 6,
+    "heading_word_count": 93,
+    "heading_count": 14
   },
   "_url": "https://vastpakt.be/over-mij/"
 }
