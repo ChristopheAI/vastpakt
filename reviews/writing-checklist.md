@@ -13,3 +13,4 @@ Use this checklist for copy, tone, clarity, structure, and public-facing wording
 - Key claims are falsifiable: a reader could check whether the sentence is true or false.
 - The main line fails the competitor-sign test: a generic bureau could not put its own name under it.
 - A shorter version of each paragraph was attempted; nothing removable remains.
+- Repeated enumerations across one page are intentional, not template drift; the same object list does not recur in near-identical variants.
