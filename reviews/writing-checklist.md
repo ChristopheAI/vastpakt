@@ -10,3 +10,6 @@ Use this checklist for copy, tone, clarity, structure, and public-facing wording
 - Any recommendation is separated from observed fact.
 - Important public lines are classified as captured sentence, light edit, Vastpakt translation, synthesis, or unproven.
 - The copy uses specific work objects before abstract promises.
+- Key claims are falsifiable: a reader could check whether the sentence is true or false.
+- The main line fails the competitor-sign test: a generic bureau could not put its own name under it.
+- A shorter version of each paragraph was attempted; nothing removable remains.
