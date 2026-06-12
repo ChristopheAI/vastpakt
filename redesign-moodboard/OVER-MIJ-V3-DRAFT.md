@@ -98,11 +98,14 @@ Beschrijf 'm in een paar zinnen. Binnen 24u weet je of ik kan helpen, ook als da
 
 1. **De glimlach ontbreekt nog.** Pieter-moves 3 en 5 (concrete charme-lijst + zelfspot zoals
    "spaghetti 🍝" / "Balen.") kunnen niet uit bestaand captured materiaal komen — die moeten uit jou
-   komen. Eén zin volstaat. Tot dan is "Wat ik niet ben" eerlijk maar zonder knipoog.
-2. **Klopt "sinds 2005"?** (open sinds INTERVIEW: verbatim zei "15 jaar IT"; live zegt 2005.)
-3. **Voorraad-verhaal anoniem houden** ("iemand die ik goed ken") — conform jouw eerdere "geen
-   meerwaarde in de over-mij"? Of toch Nicola bij naam?
-4. **"Zo pak ik het aan" (4 blokken) behouden of laten vallen?**
+   komen. Eén zin volstaat. → **Interview-rondje loopt (2026-06-12), Christophe koos "stel me 2-3
+   vragen".** Tot dan is "Wat ik niet ben" eerlijk maar zonder knipoog.
+
+## ✅ Beslist door Christophe (2026-06-12)
+
+- **"Sinds 2005" klopt** — bevestigd; de open reconciliatie-vraag uit OVER-MIJ-INTERVIEW.md is dicht.
+- **Voorraad-verhaal blijft anoniem** ("iemand die ik goed ken").
+- **"Zo pak ik het aan" (4 blokken) vervalt** in de nieuwe over-mij — de essentie zit al in de secties.
 
 ## Daarna
 
