@@ -1,0 +1,468 @@
+{
+  "typography": {
+    "h1": null,
+    "h2": {
+      "fontFamily": "\"Atkinson Hyperlegible Next\", \"Atkinson Hyperlegible Next Placeholder\", sans-serif",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "lineHeight": "48px",
+      "letterSpacing": "-1.92px",
+      "textTransform": "none",
+      "color": "rgb(17, 16, 17)"
+    },
+    "h3": {
+      "fontFamily": "\"Atkinson Hyperlegible Next\", \"Atkinson Hyperlegible Next Placeholder\", sans-serif",
+      "fontSize": "36px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "letterSpacing": "-0.72px",
+      "textTransform": "none",
+      "color": "rgb(17, 16, 17)"
+    },
+    "p": {
+      "fontFamily": "Inter, \"Inter Placeholder\", sans-serif",
+      "fontSize": "15px",
+      "fontWeight": "500",
+      "lineHeight": "22.5px",
+      "letterSpacing": "-0.15px",
+      "textTransform": "none",
+      "color": "rgb(17, 16, 17)"
+    },
+    "link": {
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 238)"
+    },
+    "button": null
+  },
+  "fonts": [
+    "Atkinson Hyperlegible Next 400 italic",
+    "Atkinson Hyperlegible Next 500 italic",
+    "Atkinson Hyperlegible Next 700 italic",
+    "Atkinson Hyperlegible Next 400 normal",
+    "Atkinson Hyperlegible Next 500 normal",
+    "Atkinson Hyperlegible Next 700 normal",
+    "Hanken Grotesk 300 normal",
+    "Hanken Grotesk 400 normal",
+    "Hanken Grotesk 500 normal",
+    "Instrument Sans 400 normal",
+    "Lustria 400 normal",
+    "Allison 400 normal",
+    "Fragment Mono 400 normal",
+    "Inter 400 normal",
+    "Inter 600 normal",
+    "Inter 700 normal",
+    "Inter 700 italic",
+    "Inter 400 italic",
+    "Inter 500 normal",
+    "Inter 500 italic",
+    "Inter 100 normal",
+    "Inter 200 normal",
+    "Inter 300 normal",
+    "Inter 800 normal",
+    "Inter 900 normal",
+    "Inter 100 italic",
+    "Inter 200 italic",
+    "Inter 300 italic",
+    "Inter 600 italic",
+    "Inter 800 italic",
+    "Inter 900 italic",
+    "Inter Variable 400 normal",
+    "Inter Variable 400 italic",
+    "Inter Display 400 normal",
+    "Inter Display 100 normal",
+    "Inter Display 200 normal",
+    "Inter Display 300 normal",
+    "Inter Display 500 normal",
+    "Inter Display 600 normal",
+    "Inter Display 700 normal",
+    "Inter Display 800 normal",
+    "Inter Display 900 normal",
+    "Inter Display 100 italic",
+    "Inter Display 200 italic",
+    "Inter Display 300 italic",
+    "Inter Display 400 italic",
+    "Inter Display 500 italic",
+    "Inter Display 600 italic",
+    "Inter Display 700 italic",
+    "Inter Display 800 italic",
+    "Inter Display 900 italic",
+    "Satoshi 400 normal",
+    "Lora 400 normal",
+    "Satoshi 700 normal",
+    "Satoshi 500 normal",
+    "Hanken Grotesk Placeholder normal normal",
+    "Atkinson Hyperlegible Next Placeholder normal normal",
+    "Lustria Placeholder normal normal",
+    "Instrument Sans Placeholder normal normal",
+    "Inter Placeholder normal normal",
+    "Inter Variable Placeholder normal normal",
+    "Inter Display Placeholder normal normal",
+    "Satoshi Placeholder normal normal",
+    "Lora Placeholder normal normal"
+  ],
+  "palette": {
+    "backgrounds": [
+      [
+        "rgba(0, 0, 0, 0.75)",
+        24
+      ],
+      [
+        "rgb(230, 230, 230)",
+        12
+      ],
+      [
+        "rgb(236, 235, 228)",
+        8
+      ],
+      [
+        "rgb(244, 242, 239)",
+        8
+      ],
+      [
+        "rgb(255, 255, 255)",
+        7
+      ],
+      [
+        "rgb(220, 228, 234)",
+        7
+      ],
+      [
+        "rgb(250, 250, 250)",
+        6
+      ],
+      [
+        "rgb(244, 237, 247)",
+        4
+      ],
+      [
+        "rgba(16, 15, 16, 0.7)",
+        4
+      ],
+      [
+        "rgb(229, 250, 220)",
+        3
+      ],
+      [
+        "rgb(235, 243, 250)",
+        3
+      ],
+      [
+        "rgb(229, 219, 235)",
+        2
+      ]
+    ],
+    "text": [
+      [
+        "rgb(0, 0, 0)",
+        1069
+      ],
+      [
+        "rgb(0, 0, 238)",
+        306
+      ],
+      [
+        "rgb(17, 16, 17)",
+        92
+      ],
+      [
+        "rgb(20, 20, 20)",
+        72
+      ],
+      [
+        "rgba(16, 15, 16, 0.7)",
+        34
+      ],
+      [
+        "rgb(255, 255, 255)",
+        4
+      ],
+      [
+        "rgb(194, 137, 81)",
+        4
+      ],
+      [
+        "rgba(17, 16, 17, 0.4)",
+        3
+      ],
+      [
+        "rgb(111, 153, 84)",
+        3
+      ],
+      [
+        "rgb(25, 29, 29)",
+        2
+      ],
+      [
+        "rgb(157, 121, 173)",
+        2
+      ],
+      [
+        "rgb(148, 161, 170)",
+        2
+      ]
+    ]
+  },
+  "radius": [
+    [
+      "8px",
+      42
+    ],
+    [
+      "36px",
+      39
+    ],
+    [
+      "32px",
+      36
+    ],
+    [
+      "24px",
+      28
+    ],
+    [
+      "9999px",
+      18
+    ],
+    [
+      "12px",
+      13
+    ],
+    [
+      "16px 16px 0px 0px",
+      12
+    ],
+    [
+      "0px 0px 16px 16px",
+      12
+    ]
+  ],
+  "shadow": [
+    [
+      "rgba(0, 0, 0, 0.05) 0px 10px 40px -14px",
+      4
+    ],
+    [
+      "rgb(225, 227, 233) 0px 0px 0px 1px, rgba(13, 17, 27, 0.12) 0px 1px 3px 0px",
+      3
+    ],
+    [
+      "rgb(36, 38, 40) 0px 0px 0px 1px, rgba(27, 28, 29, 0.48) 0px 1px 2px 0px",
+      2
+    ],
+    [
+      "rgba(0, 0, 0, 0.36) 0px 0.602187px 0.602187px -1.25px, rgba(0, 0, 0, 0.32) 0px 2.28853px 2.28853px -2.5px, rgba(0, 0, 0, 0.13) 0px 10px 10px -3.75px",
+      2
+    ],
+    [
+      "rgba(0, 0, 0, 0.18) 0px 0.602187px 0.602187px -1.25px, rgba(0, 0, 0, 0.16) 0px 2.28853px 2.28853px -2.5px, rgba(0, 0, 0, 0.06) 0px 10px 10px -3.75px",
+      2
+    ],
+    [
+      "rgba(0, 0, 0, 0) 0px 0.636953px 0.636953px -0.9375px, rgba(0, 0, 0, 0) 0px 1.9316px 1.9316px -1.875px, rgba(0, 0, 0, 0) 0px 5.10612px 5.10612px -2.8125px, rgba(0, 0, 0, 0) 0px 16px 16px -3.75px",
+      1
+    ]
+  ],
+  "verticalSpacing": [
+    [
+      "4px",
+      88
+    ],
+    [
+      "14px",
+      72
+    ],
+    [
+      "10px",
+      38
+    ],
+    [
+      "16px",
+      28
+    ],
+    [
+      "32px",
+      22
+    ],
+    [
+      "8px",
+      22
+    ],
+    [
+      "24px",
+      13
+    ],
+    [
+      "50px",
+      9
+    ],
+    [
+      "64px",
+      9
+    ],
+    [
+      "20px",
+      7
+    ],
+    [
+      "120px",
+      6
+    ],
+    [
+      "80px",
+      5
+    ],
+    [
+      "96px",
+      2
+    ],
+    [
+      "12px",
+      2
+    ],
+    [
+      "110px",
+      1
+    ],
+    [
+      "100px",
+      1
+    ]
+  ],
+  "gaps": [
+    [
+      "10px",
+      93
+    ],
+    [
+      "4px",
+      57
+    ],
+    [
+      "16px",
+      24
+    ],
+    [
+      "24px",
+      22
+    ],
+    [
+      "12px",
+      17
+    ],
+    [
+      "5px",
+      12
+    ],
+    [
+      "32px",
+      10
+    ],
+    [
+      "7px",
+      10
+    ],
+    [
+      "64px",
+      9
+    ],
+    [
+      "6px",
+      8
+    ]
+  ],
+  "fontSizes": [
+    [
+      "12px",
+      1353
+    ],
+    [
+      "14px",
+      87
+    ],
+    [
+      "16px",
+      61
+    ],
+    [
+      "18px",
+      37
+    ],
+    [
+      "15px",
+      16
+    ],
+    [
+      "36px",
+      13
+    ],
+    [
+      "48px",
+      8
+    ],
+    [
+      "20px",
+      7
+    ],
+    [
+      "52px",
+      4
+    ],
+    [
+      "24px",
+      4
+    ],
+    [
+      "26px",
+      4
+    ],
+    [
+      "100px",
+      2
+    ],
+    [
+      "11px",
+      2
+    ],
+    [
+      "10px",
+      2
+    ],
+    [
+      "8.4px",
+      1
+    ],
+    [
+      "13px",
+      1
+    ]
+  ],
+  "fontWeights": [
+    [
+      "400",
+      1486
+    ],
+    [
+      "500",
+      68
+    ],
+    [
+      "300",
+      36
+    ],
+    [
+      "700",
+      8
+    ],
+    [
+      "600",
+      4
+    ]
+  ],
+  "cssVariables": {},
+  "_url": "https://athos2.framer.website/"
+}

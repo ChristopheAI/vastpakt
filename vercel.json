@@ -1,4 +1,14 @@
 {
+  "redirects": [
+    { "source": "/offerte-opvolging", "destination": "/voor-wie", "permanent": true },
+    { "source": "/offerte-opvolging/:path*", "destination": "/voor-wie", "permanent": true },
+    { "source": "/facturatie-bewijs", "destination": "/voor-wie", "permanent": true },
+    { "source": "/facturatie-bewijs/:path*", "destination": "/voor-wie", "permanent": true },
+    { "source": "/dubbel-werk", "destination": "/voor-wie", "permanent": true },
+    { "source": "/dubbel-werk/:path*", "destination": "/voor-wie", "permanent": true },
+    { "source": "/over-vastpakt", "destination": "/over-mij", "permanent": true },
+    { "source": "/over-vastpakt/:path*", "destination": "/over-mij", "permanent": true }
+  ],
   "headers": [
     {
       "source": "/assets/images/(.*)",

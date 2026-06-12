@@ -1,0 +1,413 @@
+{
+  "typography": {
+    "h1": {
+      "fontFamily": "Remingo, sans-serif",
+      "fontSize": "62px",
+      "fontWeight": "400",
+      "lineHeight": "71.3px",
+      "letterSpacing": "-1.24px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "h2": {
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "21px",
+      "letterSpacing": "0.7px",
+      "textTransform": "uppercase",
+      "color": "rgb(233, 174, 65)"
+    },
+    "h3": {
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "21px",
+      "letterSpacing": "0.7px",
+      "textTransform": "uppercase",
+      "color": "rgb(233, 174, 65)"
+    },
+    "p": {
+      "fontFamily": "\"Work Sans\", sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "link": {
+      "fontFamily": "\"Work Sans\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "button": {
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)"
+    }
+  },
+  "fonts": [
+    "Overpass 300 normal",
+    "Overpass 400 normal",
+    "Overpass 500 normal",
+    "Overpass 600 normal",
+    "Overpass 700 normal",
+    "Overpass 300 italic",
+    "Overpass 400 italic",
+    "Overpass 500 italic",
+    "Overpass 600 italic",
+    "Overpass 700 italic",
+    "Remingo 400 normal",
+    "Work Sans 300 normal",
+    "Work Sans 400 normal",
+    "Work Sans 500 normal",
+    "Work Sans 600 normal",
+    "Work Sans 700 normal",
+    "Work Sans 300 italic",
+    "Work Sans 400 italic",
+    "Work Sans 500 italic",
+    "Work Sans 600 italic",
+    "Work Sans 700 italic"
+  ],
+  "palette": {
+    "backgrounds": [
+      [
+        "rgb(255, 255, 255)",
+        9
+      ],
+      [
+        "rgba(9, 31, 36, 0.06)",
+        9
+      ],
+      [
+        "rgb(255, 199, 44)",
+        8
+      ],
+      [
+        "rgba(255, 255, 255, 0.2)",
+        4
+      ],
+      [
+        "rgba(9, 31, 36, 0.5)",
+        3
+      ],
+      [
+        "rgba(255, 199, 44, 0.2)",
+        3
+      ],
+      [
+        "rgb(9, 31, 36)",
+        2
+      ],
+      [
+        "rgb(18, 37, 41)",
+        2
+      ],
+      [
+        "rgba(18, 37, 41, 0.1)",
+        1
+      ],
+      [
+        "rgb(4, 105, 128)",
+        1
+      ]
+    ],
+    "text": [
+      [
+        "rgb(255, 255, 255)",
+        234
+      ],
+      [
+        "rgb(18, 37, 41)",
+        130
+      ],
+      [
+        "rgb(0, 0, 0)",
+        71
+      ],
+      [
+        "rgb(255, 199, 44)",
+        49
+      ],
+      [
+        "rgb(233, 174, 65)",
+        10
+      ],
+      [
+        "rgba(255, 255, 255, 0.7)",
+        9
+      ],
+      [
+        "rgba(255, 255, 255, 0.6)",
+        4
+      ],
+      [
+        "rgba(18, 37, 41, 0.8)",
+        4
+      ]
+    ]
+  },
+  "radius": [
+    [
+      "50%",
+      15
+    ],
+    [
+      "20px",
+      14
+    ],
+    [
+      "30px",
+      10
+    ],
+    [
+      "12px",
+      4
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "4px",
+      2
+    ],
+    [
+      "15px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ]
+  ],
+  "shadow": [
+    [
+      "rgba(0, 0, 0, 0.15) 10px 10px 30px 0px",
+      19
+    ],
+    [
+      "rgba(0, 0, 0, 0.2) 0px 8px 15px 0px",
+      1
+    ],
+    [
+      "rgba(0, 0, 0, 0.2) 0px 4px 15px 0px",
+      1
+    ]
+  ],
+  "verticalSpacing": [
+    [
+      "50px",
+      35
+    ],
+    [
+      "4px",
+      24
+    ],
+    [
+      "5px",
+      18
+    ],
+    [
+      "10px",
+      16
+    ],
+    [
+      "100px",
+      11
+    ],
+    [
+      "8px",
+      10
+    ],
+    [
+      "12px",
+      8
+    ],
+    [
+      "3px",
+      8
+    ],
+    [
+      "20px",
+      6
+    ],
+    [
+      "120px",
+      4
+    ],
+    [
+      "80px",
+      4
+    ],
+    [
+      "140px",
+      2
+    ],
+    [
+      "90px",
+      2
+    ],
+    [
+      "36px",
+      1
+    ],
+    [
+      "95px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ]
+  ],
+  "gaps": [
+    [
+      "20px",
+      17
+    ],
+    [
+      "10px",
+      5
+    ],
+    [
+      "8px",
+      4
+    ],
+    [
+      "6px",
+      4
+    ],
+    [
+      "30px",
+      3
+    ],
+    [
+      "40px",
+      3
+    ],
+    [
+      "16px",
+      2
+    ],
+    [
+      "5.6px 8px",
+      1
+    ],
+    [
+      "60px",
+      1
+    ],
+    [
+      "50px 30px",
+      1
+    ]
+  ],
+  "fontSizes": [
+    [
+      "16px",
+      338
+    ],
+    [
+      "28px",
+      34
+    ],
+    [
+      "17px",
+      22
+    ],
+    [
+      "14px",
+      21
+    ],
+    [
+      "24px",
+      18
+    ],
+    [
+      "18px",
+      16
+    ],
+    [
+      "12px",
+      16
+    ],
+    [
+      "13px",
+      10
+    ],
+    [
+      "20px",
+      7
+    ],
+    [
+      "50px",
+      7
+    ],
+    [
+      "11px",
+      6
+    ],
+    [
+      "19.2px",
+      3
+    ],
+    [
+      "15.2px",
+      3
+    ],
+    [
+      "56px",
+      3
+    ],
+    [
+      "32px",
+      3
+    ],
+    [
+      "62px",
+      1
+    ],
+    [
+      "48px",
+      1
+    ],
+    [
+      "6.4px",
+      1
+    ]
+  ],
+  "fontWeights": [
+    [
+      "400",
+      402
+    ],
+    [
+      "600",
+      80
+    ],
+    [
+      "500",
+      16
+    ],
+    [
+      "700",
+      7
+    ],
+    [
+      "300",
+      6
+    ]
+  ],
+  "cssVariables": {},
+  "_url": "https://www.codelines.be/oplossingen/ai-ontwikkeling/"
+}

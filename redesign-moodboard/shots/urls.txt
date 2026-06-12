@@ -1,0 +1,5 @@
+# Live site — nieuwe spine (desktop 1440 + mobiel 390, fold + full)
+file:///home/runner/work/vastpakt/vastpakt/index.html
+file:///home/runner/work/vastpakt/vastpakt/werk/index.html
+file:///home/runner/work/vastpakt/vastpakt/voor-wie/index.html
+file:///home/runner/work/vastpakt/vastpakt/over-mij/index.html
