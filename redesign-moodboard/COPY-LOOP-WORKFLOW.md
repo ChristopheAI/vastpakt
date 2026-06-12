@@ -44,4 +44,5 @@
 | 153 | Sugarman (slippery slide) + Halbert (Boron-zinnen) | voor-wie FAQ | 2× SHIP, 4× STAAT AL — docs/research/2026-06-12-loop-153-faq-mens-ritme.md |
 | 154 | Vlaamse ondernemers-stemmen (geen copywriters) | voor-wie info-hero | SHIP (Christophe-keuze) — docs/research/2026-06-12-loop-154-voor-wie-hero-operatorstemmen.md |
 | 155 | leesronde: Trott, Sivers, Godin (mechanieken 26–30) | — (leesronde) | corpus uitgebreid; horsepower-regel voor proof-cijfers vastgelegd |
-| 156 | — | homepage Blok 2/3 (herkenning) langs mechanieken 21/23/26 | gepland |
+| 156 | — (toepassing rondes 4–5) | homepage Blok 2/3 + hero-lede | Blok 2/3 STAAT AL; hero-lede SHIP (Christophe-keuze) — docs/research/2026-06-12-loop-156 |
+| 157+ | leesrondes lopen door | nieuwe assets (LinkedIn, nieuwsbrief) i.p.v. bestaande site-copy | zwaartepunt verschoven, zie loop-156 §Geleerd |
