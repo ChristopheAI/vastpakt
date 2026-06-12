@@ -218,3 +218,71 @@
 - "Ik bedenk het. AI bouwt." / het idee→product-frame → Vastpakt leidt met de pijn, niet met de bouw.
 - Miran's prijs-bedragen (andere dienst).
 - Te techy taal (PHP/stack-tags) op de homepage — past bij zijn dev-publiek, niet bij Vastpakt's KMO-lezer.
+
+---
+
+## Bron 05 — Schrijftrainer.be (Stijn Verdickt, Opheers)
+- **Herkomst:** URL gedeeld door Christophe (sessie 2026-06-11). Volledige leesnotitie:
+  `docs/research/2026-06-11-schrijftrainer-reading.md` op branch `claude/schrijftrainer-website-3a0gm0`.
+- **Plaatsing:** Vlaams opleidingsbureau voor schrijftrainingen aan bedrijven. **Geen concurrent** —
+  aangrenzende B2B-dienst, zelfde Vlaamse KMO-koper. Opgenomen voor aanbod-vorm + anti-model.
+- **Leesgrens:** homepage serveerde onleesbare content aan twee fetch-tools; lezing op binnenpagina's
+  (gepubliceerd 2021, laatst gewijzigd feb 2023).
+
+### Verbatim (letterlijk overgenomen)
+> Jouw teksten dienen als voorbeeldmateriaal. Dat vergroot de herkenbaarheid en de onmiddellijke bruikbaarheid.
+> Op basis van een voorbeeldtekst (1 A4) die je vooraf instuurt
+> Prijs workshop copywriting: 690,00 euro (excl. btw) — Volledige dag van 9 tot 17 uur
+> Een 'inhouse' training van een halve dag kost vanaf 1250 euro (excl. btw), een hele dag vanaf 2250 euro (excl. btw).
+> De opleidingen komen via Idearté in aanmerking voor de Kmo-portefeuille. Handig: zo krijg je tot 30% subsidie.
+> Bel naar Stijn Verdickt op het nummer 0495 64 34 94.
+> Al honderden tevreden deelnemers haalden er hún voordeel uit.
+
+### Copy-techniek (herbruikbaar, niet de woorden)
+1. **Genoemde input-grootte:** "1 A4, vooraf ingestuurd" — één kleine, benoemde input maakt het aanbod
+   begrensd en startbaar. Vastpakt-parallel: "beschrijf één situatie" zou een grootte kunnen noemen
+   (één mail, één Excel-blad, één offerte) — hypothese, niet getest.
+2. **Eigen materiaal van de koper als werkmateriaal** → herkenbaarheid; identiek aan Vastpakts
+   één-echte-situatie-intake. Bevestigt dat patroon vanuit een tweede markt.
+3. **Subsidie als drempelverlager:** Kmo-portefeuille expliciet noemen (tot 30%). Checken of
+   Vastpakt-begeleiding in aanmerking komt; zo niet, nooit noemen.
+4. **Persoon + telefoonnummer als contactroute** i.p.v. anoniem formulier.
+
+### Anti-model (wat NIET overnemen)
+- **Geclaimde proof zonder naam:** "honderden tevreden deelnemers" — nul namen op de gelezen pagina's.
+  Precies wat #19 wél goed wil doen (verbatim quote, met toestemming).
+- Garantietaal ("áltijd resultaat garandeert"), je/u-menging binnen één pagina, template-blokken
+  per pagina herhaald met copy-paste-lekken (blogtekst op de brievenpagina), tikfouten in titels.
+  Een site die schrijfkwaliteit verkoopt en dit schipt, ondermijnt zichzelf — zelfde risico voor
+  Vastpakt dat "werk dat niet loshangt" verkoopt.
+
+## Bron 06 — Mint Copywriting (Lori, Retie — mintcopywriting.be)
+- **Herkomst:** URL gedeeld door Christophe (sessie 2026-06-11). Volledige leesnotitie:
+  `docs/research/2026-06-11-mintcopywriting-reading.md` op branch `claude/schrijftrainer-website-3a0gm0`.
+- **Plaatsing:** eenmanszaak copywriter, Kempen. **Geen concurrent** — opgenomen voor proof-discipline
+  en één gecapteerde koper-zin. Tegenpool van Bron 05 qua bewijsvoering.
+
+### Verbatim (letterlijk overgenomen)
+> Stoefmuur (haar naam voor de testimonialsectie)
+> "Zelf zou het me niet lukken dergelijke teksten te kneden – ik werk met mijn handen, niet met woorden."
+> — Jochen Van Nuffel, De Fietsman
+> De website van Evi van The honeymoon planner trok heel wat bezoekers. Toch leverde die in verhouding
+> weinig kennismakingsgesprekken op.
+> Voor straffe ondernemers die tot nu toe zelf hun teksten schreven
+
+### Copy-techniek (herbruikbaar, niet de woorden)
+1. **Proof getoond, niet geclaimd:** elke quote met naam + bedrijf + concrete werkcontext.
+   Direct relevant voor #19/#26: de BAVAST-quote verdient dit formaat ("stoefmuur-niveau").
+2. **De koper-zin als sterkste proof:** "ik werk met mijn handen, niet met woorden" is exact de stem
+   van Vastpakts doelgroep. Niet imiteren — **capteren**: als een klant de Vastpakt-variant uitspreekt
+   ("ik ben geen computermens", "ik werk met mijn handen, niet met systemen"), is dát quote-materiaal.
+3. **Case opent met het zichtbare voor-probleem** (veel bezoekers, weinig gesprekken) — de deliverable
+   komt tweede. Het /werk/-formaat doet dit al (pijn-first); dit bevestigt het vanuit een tweede markt.
+4. **Segmentatie op situatie, niet op sector:** "die tot nu toe zelf hun teksten schreven" — de lezer
+   herkent zijn werkdag, geen categorielabel. Rijmt met /voor-wie/-signalen.
+
+### Wat NIET overnemen
+- Gestapelde hype-adjectieven (ijzersterk, knallen, sky-high, boenk op) — personal-brand-energie,
+  voor Vastpakt = hype waar de markt (Realism-stadium) net allergisch voor is.
+- "Mint Copywriting stelt je niet teleur. Beloofd." — belofte zonder bewijs.
+- Engelse strooisels (Get in touch, all the way) en wij/ik-menging bij een eenmanszaak.
