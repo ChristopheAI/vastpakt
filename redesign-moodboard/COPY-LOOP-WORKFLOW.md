@@ -45,5 +45,4 @@
 | 154 | Vlaamse ondernemers-stemmen (geen copywriters) | voor-wie info-hero | SHIP (Christophe-keuze) — docs/research/2026-06-12-loop-154-voor-wie-hero-operatorstemmen.md |
 | 155 | leesronde: Trott, Sivers, Godin (mechanieken 26–30) | — (leesronde) | corpus uitgebreid; horsepower-regel voor proof-cijfers vastgelegd |
 | 156 | — (toepassing rondes 4–5) | homepage Blok 2/3 + hero-lede | Blok 2/3 STAAT AL; hero-lede SHIP (Christophe-keuze) — docs/research/2026-06-12-loop-156 |
-| 157 | intern: Stefhan-anatomie (MARKT-TAAL 01) + mech. 26–29 | nieuw asset: LinkedIn-post 01 | DRAFT-KLAAR, wacht op Christophe — docs/copy/2026-06-12-linkedin-post-01 |
-| 158 | leesronde: post-vormen (solo-operators, Vlaamse LinkedIn-stemmen) | — | gepland |
+| 157+ | leesrondes lopen door | nieuwe assets (LinkedIn, nieuwsbrief) i.p.v. bestaande site-copy | zwaartepunt verschoven, zie loop-156 §Geleerd |
