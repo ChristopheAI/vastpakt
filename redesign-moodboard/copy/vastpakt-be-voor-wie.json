@@ -1,0 +1,33 @@
+{
+  "title": "Pagina niet gevonden | Vastpakt",
+  "h1": "Deze pagina bestaat niet.",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Deze pagina bestaat niet."
+    }
+  ],
+  "buttons": [
+    "Terug naar homepage",
+    "Beschrijf je situatie",
+    "Alleen noodzakelijk",
+    "Analytics toestaan"
+  ],
+  "paragraphs": [
+    "404",
+    "De link klopt niet meer, of de pagina is verplaatst. Je kan terug naar de homepage of meteen één concrete werksituatie beschrijven.",
+    "Eerst één concrete plek in je werkdag bekijken. Dan pas kiezen wat moet veranderen.",
+    "Vastpakt kan Google Analytics gebruiken om te zien welke pagina's werken. Advertentie-opslag blijft uit."
+  ],
+  "firstScreen": "Vastpakt Voor wie Werk Over mij Contact 404 Deze pagina bestaat niet. De link klopt niet meer, of de pagina is verplaatst. Je kan terug naar de homepage of meteen één concrete werksituatie beschrijven. Terug naar homepage Beschrijf je situatie Vastpakt Eerst één concrete plek in je werkdag bekijken. Dan pas kiezen wat moet veranderen. Homepage Privacy Contact Vastpakt kan Google Analytics gebruiken om te zien welke pagina's werken. Advertentie-opslag blijft uit. Alleen noodzakelijk Analytics toestaan",
+  "metrics": {
+    "first_person_singular_ik_mij": 0,
+    "second_person_jij_u": 2,
+    "first_person_plural_wij_ons": 0,
+    "numbers_digits": 1,
+    "ai_mentions": 0,
+    "heading_word_count": 4,
+    "heading_count": 1
+  },
+  "_url": "https://vastpakt.be/voor-wie/"
+}
