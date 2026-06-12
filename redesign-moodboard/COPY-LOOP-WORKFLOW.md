@@ -30,6 +30,10 @@
 ```
 
 ## Grenzen
+- **SCOPE (user-rejected, 2026-06-12): het doelwit is de wébsite-copy. Alleen die.** Homepage
+  eerst, dan de subpagina's. Geen LinkedIn-posts, nieuwsbrieven of andere assets als doelwit
+  tenzij Christophe er expliciet om vraagt. (Loop 157-oud, een LinkedIn-draft, is om die reden
+  gereverteerd: niet gevraagd.)
 - Hero-, proof- en CTA-wijzigingen: voorleggen aan Christophe vóór ship (preview-keuze zoals
   bij de vastpak-zin). Body-blokken: ship bij duidelijke winst, melden achteraf.
 - Maximaal één gedragen verandering per blok per loop. Recursive betekent kleine stappen.
@@ -45,4 +49,5 @@
 | 154 | Vlaamse ondernemers-stemmen (geen copywriters) | voor-wie info-hero | SHIP (Christophe-keuze) — docs/research/2026-06-12-loop-154-voor-wie-hero-operatorstemmen.md |
 | 155 | leesronde: Trott, Sivers, Godin (mechanieken 26–30) | — (leesronde) | corpus uitgebreid; horsepower-regel voor proof-cijfers vastgelegd |
 | 156 | — (toepassing rondes 4–5) | homepage Blok 2/3 + hero-lede | Blok 2/3 STAAT AL; hero-lede SHIP (Christophe-keuze) — docs/research/2026-06-12-loop-156 |
-| 157+ | leesrondes lopen door | nieuwe assets (LinkedIn, nieuwsbrief) i.p.v. bestaande site-copy | zwaartepunt verschoven, zie loop-156 §Geleerd |
+| 157 | — (toepassing rondes 1–5) | homepage Blok 4 t/m 9 | 6× STAAT AL — homepage compleet; docs/research/2026-06-12-loop-157-homepage-blok-4-9.md |
+| 158 | — (toepassing rondes 1–5) | /werk/ + /over-mij/ (sweep compleet) | STAAT AL + 1 proof-kandidaat voor Christophe; docs/research/2026-06-12-loop-158-werk-overmij-sweep.md |
