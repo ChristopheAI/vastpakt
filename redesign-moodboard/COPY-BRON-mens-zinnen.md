@@ -98,3 +98,86 @@ die 100% glad is, verdacht leest. Mensen schuren een beetje.
 - Niet kunstmatig fragmentjes strooien tot het gimmicky wordt. Eén "Balen." per pagina is
   charme; vijf is een trucje.
 - Dit vervangt source-first niet. Het komt erbovenop: éérst de captured zin, dán dit ritme.
+
+---
+
+# RONDE 2 — acht extra copywriters (2026-06-12, avond)
+
+> Opdracht Christophe: "meer zinnen bestuderen van mensen die copywriting doen — ga op het
+> internet, via research intent." Corpus ronde 2, allemaal mensen van vlees en bloed:
+> **The Brunette** (Nele Waelbers, Mechelen) · **Inke** (inke.be) · **Frie Van der Planken**
+> (tistezeggen.be) · **Johan Verest** · **Jurgen Verbiest** · **Tim Daalderop** (NL) ·
+> **Christine Bonheure** (c-bon.org, Gent) · **Johan Koning** (NL, tekstbureau LetterLuck).
+
+## 5. Nieuwe mechanieken (9 t/m 16, met verbatim bewijs)
+
+### 5.1 (9) Geef de lezer zelf een zin — dialoog op papier
+- "'Allez, waarom zegt die dat nu', vraag jij je af, 'dat is toch niet moeilijk?' **Ge zoudt dat
+  denken, hé.**" (Inke)
+- "Copywritet u ook weleens?" (Frie)
+→ De schrijver typt de gedachte van de lezer uit en antwoordt erop. **Vastpakt heeft deze move
+al in huis:** "Je stuurt een offerte. 'Ik hoor het wel.' Wat gebeurt er daarna?" (homepage).
+Bevestigd als mens-move; vaker durven gebruiken.
+
+### 5.2 (10) Identiteit via micro-precisie
+- "Niet Imke, Ine, Ineke, Inge, Ilke … maar Inke. **Mét de 'n' van Nico, zonder de 'e' van
+  teckel.**" (Inke)
+→ Eén piepklein onderscheid uitvergroten maakt iemand onmiddellijk echt. (Vastpakt-parallel:
+"marcheren", niet "werken".)
+
+### 5.3 (11) Breek de regel zichtbaar
+- "Regel nummer één in het boekje van een copywriter: praat nooit honderduit over uzelf (…)
+  **Zullen we die ijzeren wet even schaamteloos breken?**" (Frie)
+→ De conventie benoemen en er dan doorheen stappen. Eerlijkheid + spel in één beweging.
+
+### 5.4 (12) Ja/Nee als ritme
+- "**Ja**, ik heb een breed portfolio. **Nee**, u zal het hier nergens vinden." (Frie)
+- Christine Bonheure bouwt een hele blog op koppen als "Ja, ik schrijf foutloos Nederlands (…)"
+  / "Neen, niet iedereen kan copywriten".
+→ Antwoordzinnen zonder dat de vraag er staat. Sluit aan op mechaniek 1.2 (reageren).
+
+### 5.5 (13) Tijdsanker via cultuur in plaats van cijfers
+- "Wilfried Martens was premier van België, Kurt Cobain schreeuwde 'Smells like teen spirit' de
+  hitlijsten in en bij de Rode Duivels stond Michel Preud'homme in het doel. **Dat was ongeveer
+  de tijdgeest toen ik begon als copywriter.**" (Johan Verest)
+→ Ervaring voelbaar maken zonder cv-toon. **Direct bruikbaar voor "sinds 2005"** — wat draaide
+er in 2005? Dat zegt meer dan het jaartal. (Kandidaat-experiment voor later, eerst capture.)
+
+### 5.6 (14) Staccato met omkering
+- "Nieuwsbrieven zijn saai. Bijna allemaal. Niet die van mij." (Tim Daalderop)
+→ Drie tikken: bewering, toegeving, draai. Geen voegwoord te bespeuren.
+
+### 5.7 (15) Vlaamse uitdrukkingen onbeschaamd laten staan
+- "Ge weet nooit hoe een koe een haas vangt" (Brunette) · "zonder zever" · "komaan zeg" ·
+  "van haar melk" · "een oor aan te naaien" (Prêt à Écrire) · "met poer in hun gat" (Tine).
+→ Het register mag schuren. Vastpakt-grens blijft: je/jouw, geen ge/gij (rules.md) — maar
+uitdrukkingen en tussenwerpsels zijn toegestaan terrein.
+
+### 5.8 (16) Bewijs via mensen-details, niet via claims
+- "Over monteurs die precies wisten welke auto van wie was. Over klanten die liever even belden."
+  (Johan Koning, over wat een bedrijf écht bijzonder maakt)
+→ Onafhankelijke bevestiging van Vastpakt's werkobject-principe, vanuit de mens-kant.
+
+## 6. Bevestigingen van ronde 1 (zelfde moves, andere monden)
+- Reactiezinnen: "Graag gedaan." (Talitha) · "BAM." (id.) · "I love it." (Frie) · "Probeer 'm
+  maar." (Daalderop)
+- Lijst eindigt klein: "alles geleerd over warmtepompen, verzekeringen en **margarine**" (Frie) ·
+  "van kranen over fietsendragers tot GWW-machines" (De Lekkere Tekst)
+- Motief-herhaling: The Brunette slaat op "woord": woordenbreister, woordbarista, "liefde op
+  haar eerste woord". Christine Bonheure herhaalt "grootste ergernissen als copywriter" tot het
+  komisch wordt.
+- Derde-persoon-over-jezelf (The Brunette: "ze kon praten voor ze kon stappen") genoteerd maar
+  **niet lenen** — te literair voor Vastpakt's register.
+
+## 7. Research-intent (AGENTS.md-vragen, expliciet)
+- **Wat kan Vastpakt lenen?** Lezer-dialoog (zit er al, vaker inzetten) · ja/nee-antwoordritme ·
+  regel zichtbaar breken · micro-precisie als identiteit · tijdsanker via cultuur (2005-kandidaat).
+- **Wat mag Vastpakt niet kopiëren?** Ge/gij-register · derde persoon over jezelf · copywriter-
+  taalspel en woordspelingen (hun vak, niet het onze) · emoji-enthousiasme (Daalderop) ·
+  awards/jury-ankers (wij hebben er geen — Order 4 komt van Bart, niet van een prijs).
+- **Welke exacte woorden zijn markttaal?** N.v.t. — dit is vak-corpus, geen KMO-markttaal
+  (daarvoor: MARKT-TAAL.md).
+- **Welke aannames werden sterker?** De acht regels van ronde 1 (alle acht opnieuw gezien bij
+  andere schrijvers) · de homepage-scene "Ik hoor het wel." is een échte mens-move, geen toeval.
+- **Welke werden zwakker?** Geen. Wel een grens scherper: hoe talig de schrijver, hoe minder
+  Vastpakt — onze stem leunt op werkobjecten en marcheren, niet op woordspel.
