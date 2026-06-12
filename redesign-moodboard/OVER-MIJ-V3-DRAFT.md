@@ -15,8 +15,13 @@ Ook buiten de code.
 
 Melodic vibes — think Tomorrowland. Fietsen. Met de kids naar de speeltuin. En diepgaande gesprekken.
 
-En daarnaast bouw ik software. Dat begon toen ik in de verkoop naast een developer zat die met AI
-bouwde, en dacht: dat kan ik ook. Het bleek waar. En het is niet meer gestopt.
+Als ik iets vastpak, laat ik het pas los vanaf dat het werkt — dat het perfect marcheert zoals het
+moet marcheren. Vandaar de naam.
+
+## En daarnaast bouw ik software.
+
+Dat begon toen ik in de verkoop naast een developer zat die met AI bouwde, en ik dacht: dat kan ik
+ook. Het bleek waar. En het is niet meer gestopt.
 
 Eerlijk: zonder AI was dat voor mij niet mogelijk geweest. Mét AI wel. Dat is geen detail — dat is
 het hele verhaal.
@@ -42,7 +47,8 @@ anders écht mee verder kan. Dat is mijn grootste voldoening. Niet de demo — w
 
 Ik kom uit de IT, sinds 2005 — installeren, configureren, troubleshooten: van internet, telefonie en
 digitale tv tot enterprise-support bij Cisco en mijn eigen IT-bedrijf. Daar leer je kijken wat er
-écht gebeurt, en pas loslaten wanneer het draait.
+écht gebeurt. *(Echo "pas loslaten wanneer het draait" getrimd — de vastpak-zin in de hero zegt het
+nu persoonlijker.)*
 
 AI versnelt alleen wat eerst juist zit. De fundering moet staan — en die zie je pas als je luistert
 naar hoe mensen echt werken.
@@ -94,18 +100,18 @@ Beschrijf 'm in een paar zinnen. Binnen 24u weet je of ik kan helpen, ook als da
 | "Wat ik niet ben." | captured | live |
 | Slot-CTA | captured | live |
 
-## 🔴 Wacht op Christophe vóór ship
-
-1. **De glimlach ontbreekt nog.** Pieter-moves 3 en 5 (concrete charme-lijst + zelfspot zoals
-   "spaghetti 🍝" / "Balen.") kunnen niet uit bestaand captured materiaal komen — die moeten uit jou
-   komen. Eén zin volstaat. → **Interview-rondje loopt (2026-06-12), Christophe koos "stel me 2-3
-   vragen".** Tot dan is "Wat ik niet ben" eerlijk maar zonder knipoog.
-
-## ✅ Beslist door Christophe (2026-06-12)
+## ✅ Beslist door Christophe (2026-06-12) — alle punten dicht
 
 - **"Sinds 2005" klopt** — bevestigd; de open reconciliatie-vraag uit OVER-MIJ-INTERVIEW.md is dicht.
 - **Voorraad-verhaal blijft anoniem** ("iemand die ik goed ken").
 - **"Zo pak ik het aan" (4 blokken) vervalt** in de nieuwe over-mij — de essentie zit al in de secties.
+- **De glimlach is binnen** (interview vraag 8): "Als ik iets vastpak, laat ik het pas los vanaf dat
+  het werkt — dat het perfect marcheert zoals het moet marcheren. Vandaar de naam." Classificatie:
+  captured (verbatim, licht leesbaar) + 3-woorden-turn "Vandaar de naam." (user-approved via
+  preview-keuze). Plaatsing: hero, gekozen door Christophe. Dit is meteen de naamverklaring van
+  Vastpakt — nergens anders op de site aanwezig.
+
+**Status: geshipt naar `over-mij/index.html` op 2026-06-12.**
 
 ## Daarna
 

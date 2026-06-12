@@ -189,11 +189,14 @@
 > persistence-spoor zelf.
 
 ### Christophes ruwe woorden (verbatim, licht leesbaar gemaakt)
-- "Als ik iets vastpak, dan laat ik dat **[niet]** los tot het **perfect marcheert zoals dat moet
-  marcheren.**" *(Het "niet" ontbrak in zijn getypte zin maar is evident bedoeld — anders keert de
-  betekenis om. Origineel getypt: "als ik iets vastpakt laat ik dan laat ik dat los tot het perfect
-  macheert zoals dat moet macheren". Bevestiging van de gecorrigeerde lezing gevraagd.)*
+- Eerste formulering (ruw getypt): "als ik iets vastpakt laat ik dan laat ik dat los tot het perfect
+  macheert zoals dat moet macheren".
+- Herformulering (zelf aangescherpt, 2026-06-12): "als ik iets vastpak laat ik dat los tot **vanaf
+  dat het werkt**, dat het **perfect marcheert zoals dat moet marcheren**." → bedoelde lezing
+  bevestigd: **pas loslaten vanaf dat het werkt.**
 - "Zoiets is iets dat **helemaal over mij gaat.**"
+- Plaatsing gekozen door Christophe (2026-06-12, via preview-keuze): **in de hero**, mét de turn
+  "Vandaar de naam." → user-approved.
 
 ### Mijn notities (de copy-haken)
 - ⭐⭐⭐ **DE SLUITSTEEN — dit is de naamverklaring.** De zin bevat letterlijk "vastpak": de trek
