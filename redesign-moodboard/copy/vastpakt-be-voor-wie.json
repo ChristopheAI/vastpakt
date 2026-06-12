@@ -40,6 +40,10 @@
     },
     {
       "tag": "H3",
+      "text": "Kan ik dit niet zelf met AI proberen?"
+    },
+    {
+      "tag": "H3",
       "text": "Wat kost het?"
     },
     {
@@ -60,19 +64,20 @@
     "Nee. Eén concrete situatie volstaat — ik kijk waar het vastloopt voor je iets hoeft te beslissen.",
     "Niet als eerste antwoord. Soms komt automatisering later; eerst maken we zichtbaar waar het werk blijft hangen.",
     "Nee. Vaak verbinden we net de tools die je al gebruikt, zodat je niets hoeft op te geven.",
+    "Vaak wel — half. Je hebt snel iets dat indrukwekkend oogt, maar een demo is nog geen systeem dat elke dag draait. Het verschil zit in wie het onderhoudt, koppelt en verantwoordelijk blijft. En soms is mijn eerlijk antwoord: doe het zelf.",
     "Een eerste gesprek kost niets. Wil je verder, dan krijg je een helder voorstel met fasen en prijs, vooraf afgesproken. Je betaalt voor het resultaat, niet voor losse uurtjes.",
     "Nee. Vastpakt maakt wel zichtbaar welke afspraak, factuur of volgende stap onduidelijk is.",
     "Eerst één concrete plek in je werkdag bekijken. Dan pas kiezen wat moet veranderen."
   ],
   "firstScreen": "Vastpakt Voor wie Werk Over mij Contact Voor wie Voor wie is dit? Eerlijk: niet voor iedereen. Voor de Vlaamse zaakvoerder die alles rechthoudt met Excel, mail en zijn geheugen — en voelt dat het vastloopt op één of twee plekken. Je hoeft nog niet te weten welke tool of oplossing je nodig hebt. Eén concrete situatie volstaat om te zien waar het losraakt. Beschrijf één situatie Bekijk het werk Je weet dat dit voor jou is als je dit herkent. Je typt dezelfde gegevens steeds opnieuw over — tussen mail, Excel, CRM en facturatie. Een offerte is verstuurd, maar jij bent de enige die weet of ze opgevolgd wordt. Werk is klaar, maar de factuur, het akkoord of het bewijs zit ergens anders. Als jij er even niet bent, weet niemand precies wat er moet gebeuren. Eén ding bindt ze: het werk zit in jouw hoofd, niet in een systeem. Past dit bij jou? Wel, als je al een tijd draait en het loopt vast op één of twee plekken je je tools al gebruikt — ze praten alleen nog niet met elkaar je iemand wil die het bouwt én blijft, geen bureau met een tussenlaag je in een traject denkt, niet in losse uurtjes Beter van niet, als je nog zoekt wat je aanbiedt of voor wie je vooral de goedkoopste uren zoekt — dit verdient zichzelf terug, gratis is het niet je meteen een nieuwe tool wil kiezen zonder eerst te kijken waar het vastloopt je alles tot in de code zelf in handen wil houden Twijfel je? Beschrijf één situatie. Past het niet bij jou, dan zeg ik dat meteen. Veelgestelde vragen. Moet ik al weten wat ik wil? Nee. Eén concrete situatie volstaat — ik kijk waar het vastloopt voor je iets hoeft te beslissen. Is dit automatisering? Niet als eerste antwoord. Soms komt automatisering later; eerst maken we zichtbaar waar het werk blijft hangen. Moet ik van tool veranderen? Nee. Vaak verbinden we net de too",
   "metrics": {
-    "first_person_singular_ik_mij": 5,
-    "second_person_jij_u": 17,
+    "first_person_singular_ik_mij": 7,
+    "second_person_jij_u": 18,
     "first_person_plural_wij_ons": 2,
     "numbers_digits": 0,
-    "ai_mentions": 2,
-    "heading_word_count": 55,
-    "heading_count": 11
+    "ai_mentions": 3,
+    "heading_word_count": 63,
+    "heading_count": 12
   },
   "_url": "https://vastpakt.be/voor-wie/"
 }
