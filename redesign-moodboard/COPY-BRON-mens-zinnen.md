@@ -267,3 +267,54 @@ werkbank, en een berg dromen." → Drie ontkenningen, dan de kale inventaris. Ri
   we spelen hem niet na) · emoji's en uitroeptekens van de blogs.
 - **Sterker geworden:** Vastpakts bestaande herkenningsblokken praten al zoals deze mensen
   schrijven. Dat is de bevestiging dat de markttaal-research van mei klopte.
+
+---
+
+# RONDE 5 — Trott, Sivers, Godin (loop 155, leesronde)
+
+> Drie Engelstalige meesters met een herkenbaar zinsritme: **Dave Trott** (reclamelegende,
+> blogpost over James Watt en horsepower) · **Derek Sivers** ("Obvious to you. Amazing to
+> others.") · **Seth Godin** (acht recente blogposts). Leesronde: geen site-wijzigingen.
+
+## 12. Mechanieken 26–30
+
+### 12.1 (26) Eén zin per alinea — het verhaal in tikken
+Trott schrijft bijna elke alinea als één zin. Het verhaal van Watt bouwt beat voor beat:
+"In 1764, Watt made the whole up-and-down process instantaneous." Nieuwe regel, volgende feit.
+Geen voegwoorden tussen de beats; de witregel doet het werk.
+
+### 12.2 (27) Verhaal eerst, les laatst — de pointe wordt verdiend
+Trott vertelt twintig alinea's Watt en Jobs, en pas de slotzin is de les: "before you can sell
+anything you need to know what is the human problem that you are solving." De les staat nooit
+bovenaan. Wie de les eerst geeft, hoeft het verhaal niet meer te vertellen — en verliest.
+
+### 12.3 (28) De horsepower-move: verkoop in de eenheid van de lezer
+Watt verkocht geen stoommachines maar paarden ("een 6 pk-machine doet het werk van zes
+paarden"). Jobs verkocht geen 5 GB maar "1.000 songs in your pocket."
+→ **Dit bevestigt Vastpakts sterkste proof-cijfer:** "30 minuten tot een uur minder werk per
+dossier" is de eenheid van de plaatsbeschrijver, niet van de bouwer. Elke toekomstige case
+moet zijn resultaat in de eenheid van de klant geven (dossiers, offertes, avonden), nooit in
+techniek (API's, automations).
+
+### 12.4 (29) Eindig op een vraag aan de lezer
+Sivers laat een heel essay uitmonden in één vraag: "Are you holding back something that seems
+too obvious to share?" Godin gebruikt vraag-tweelingen als kompas: "Who's it for? What's it
+for?" → De vraag aan het slot is de spreektaal-versie van een CTA.
+
+### 12.5 (30) Spiegelpaar en drie-woord-definitie — met mate
+Godin: "It's all important. And none of it is." · "Art is a verb." · "No change, no art."
+Krachtig, maar talig — dicht bij aforisme. Voor Vastpakt alleen wanneer het motief het draagt
+(de harde-schijf-regel is er al zo één). Niet stapelen.
+
+## 13. Research-intent
+- **Lenen:** verhaal-eerst-les-laatst (27) voor toekomstige case-verhalen en LinkedIn ·
+  horsepower-eenheid (28) als harde regel voor elk proof-cijfer · slotvraag (29) voor
+  nieuwsbrief/posts.
+- **Niet kopiëren:** Godins aforisme-dichtheid (talig) · Trotts historische-anekdote-formule
+  als sjabloon (één keer is een vondst, elke week is een truc).
+- **Sterker geworden:** de BAVAST-case volgt 27 én 28 al (eerst de scène, dan het cijfer, in
+  dossiers-per-dag). De homepage-CTA "Beschrijf één situatie" + slotvraag-mechaniek liggen in
+  elkaars verlengde.
+- **Hypothese (niet shippen zonder bron):** Godins "stop ruining it"-frame zou een Vastpakt-zin
+  kunnen worden (rust is niet iets dat een tool toevoegt; het is wat overblijft als het werk
+  niet meer alleen in jouw hoofd zit). Gemarkeerd als synthesis — eerst captured taal vinden.
