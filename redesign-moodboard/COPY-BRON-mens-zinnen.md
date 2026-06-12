@@ -219,3 +219,51 @@ Eén per sectie, hoogstens.
   die de site al heeft ("Beschrijf één situatie").
 - Halberts kernadvies aan zijn zoon: **winnende copy met de hand overschrijven** om het ritme in
   je lijf te krijgen. Dat is letterlijk wat deze studie doet — verbatim capturen vóór schrijven.
+
+---
+
+# RONDE 4 — Vlaamse ondernemers, geen copywriters (loop 154)
+
+> De stem van de lézer, niet van de schrijver. Corpus: **titatimi** (nieuwjaarsbrief 2026, winkel
+> in cadeaus) · **Keelin Design** (Ellen Kennes, juwelenatelier Anzegem, solo naast 4/5de job en
+> drie kinderen) · **'t Oostgoed** (veldupdate, boerenbedrijf) · **Atelier Jamaer** (houtbewerker).
+> Dit grenst aan MARKT-TAAL.md (pijntaal) maar gaat over iets anders: hoe deze mensen hun zinnen
+> bouwen als ze over hun zaak schrijven.
+
+## 10. Mechanieken 21–25
+
+### 10.1 (21) De vragenlawine
+titatimi, na haar slechtste jaar: "Is het 'nieuw' eraf? Is het omdat het leven duurder geworden
+is? Geven mensen minder geld uit aan cadeaus? Heb ik te veel concurrentie? (…) Alle vragen kwamen
+al 1000-en keren door mijn hoofd." → Als een zaakvoerder twijfelt, komen de vragen ongefilterd.
+Herkennings-copy mag die lawine spiegelen. (De homepage doet al een mini-versie: "Welke versie
+klopt. Wie nog aan zet is. Wat al rond is, en wat nog moet.")
+
+### 10.2 (22) Stress woont in het lichaam en op de klok
+"slapeloze nachten" · "een heel raar gevoel van zenuwen aan mijn maag" (titatimi) · "we werkten
+(…) tot we letterlijk niet meer zagen wat we deden" (Oostgoed) · "Om 21:30 probeer ik te stoppen"
+(Keelin). → Geen abstracties ("werkdruk") maar lijf en uur. Vastpakts "een harde schijf neemt
+geen verlof" zit in dezelfde familie.
+
+### 10.3 (23) De eindeloze opsomming, en dan de verzuchting
+Keelin: "Bestellingen maken en inpakken, naar de pakketjesmuur rijden, social media voorbereiden,
+blogposts schrijven, administratie bijwerken, materialen bestellen, emails beantwoorden... De
+lijst is eindeloos, en de tijd is beperkt." → De opsomming zelf ís het bewijs van de chaos; de
+korte verzuchting erna maakt het menselijk.
+
+### 10.4 (24) "Eerlijk?" met vraagteken
+Atelier Jamaer: "**Eerlijk?** Het blijft een tweestrijd." → De gesproken variant van Vastpakts
+"Eerlijk:" (over-mij). Het vraagteken maakt het een gesprek in plaats van een mededeling.
+
+### 10.5 (25) Solo-trots zonder opsmuk
+Keelin: "Geen team, geen assistent, geen partner die de administratie doet. Alleen ik, mijn
+werkbank, en een berg dromen." → Drie ontkenningen, dan de kale inventaris. Rijmt met Vastpakts
+"Geen account manager, geen tussenlaag."
+
+## 11. Research-intent
+- **Lenen:** vragenlawine (gedoseerd) · lijf-en-klok-taal · opsomming-plus-verzuchting ·
+  "Eerlijk?"-vraagvorm. Allemaal voor herkennings-secties, niet voor aanbod-secties.
+- **Niet kopiëren:** de rauwheid zelf (titatimi's stress is van háár; wij beschrijven de lezer,
+  we spelen hem niet na) · emoji's en uitroeptekens van de blogs.
+- **Sterker geworden:** Vastpakts bestaande herkenningsblokken praten al zoals deze mensen
+  schrijven. Dat is de bevestiging dat de markttaal-research van mei klopte.

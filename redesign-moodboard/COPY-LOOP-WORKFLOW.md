@@ -42,5 +42,5 @@
 | Loop | Studie | Doelwit | Resultaat |
 | --- | --- | --- | --- |
 | 153 | Sugarman (slippery slide) + Halbert (Boron-zinnen) | voor-wie FAQ | 2× SHIP, 4× STAAT AL — docs/research/2026-06-12-loop-153-faq-mens-ritme.md |
-| 154 | Vlaamse ondernemers-stemmen (geen copywriters) | voor-wie info-hero | gepland |
+| 154 | Vlaamse ondernemers-stemmen (geen copywriters) | voor-wie info-hero | SHIP (Christophe-keuze) — docs/research/2026-06-12-loop-154-voor-wie-hero-operatorstemmen.md |
 | 155 | leesronde zonder schrijven | — | gepland |
