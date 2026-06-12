@@ -197,6 +197,10 @@
 - "Zoiets is iets dat **helemaal over mij gaat.**"
 - Plaatsing gekozen door Christophe (2026-06-12, via preview-keuze): **in de hero**, mét de turn
   "Vandaar de naam." → user-approved.
+- Aanvulling (zelfde dag, n.a.v. Tine-model zelfrelativering): "ik heb ook **2 kids zodus daar sta
+  ik ook voor op**." → doorprikker bij de vastpak-zin, door Christophe gekozen (preview): "Twee kids
+  krijgen mij wél meteen los. Daar sta ik voor op." (Vastpakt-draai op zijn verbatim: kids = de
+  enige uitzondering op niet-kunnen-loslaten; mechaniek uit `TINE-OVER-MIJ-MODEL.md` §2.2.)
 
 ### Mijn notities (de copy-haken)
 - ⭐⭐⭐ **DE SLUITSTEEN — dit is de naamverklaring.** De zin bevat letterlijk "vastpak": de trek

@@ -18,6 +18,8 @@ Melodic vibes — think Tomorrowland. Fietsen. Met de kids naar de speeltuin. En
 Als ik iets vastpak, laat ik het pas los vanaf dat het werkt — dat het perfect marcheert zoals het
 moet marcheren. Vandaar de naam.
 
+Twee kids krijgen mij wél meteen los. Daar sta ik voor op.
+
 ## En daarnaast bouw ik software.
 
 Dat begon toen ik in de verkoop naast een developer zat die met AI bouwde, en ik dacht: dat kan ik
