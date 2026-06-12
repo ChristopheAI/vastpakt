@@ -182,6 +182,30 @@
 
 ---
 
+## Vraag 8 — de zelfspot / het niet-kunnen-loslaten (2026-06-12)
+
+> Derde ronde, n.a.v. de Pieter-glimlach ("Balen."-equivalent). Trigger-vragen: waar plagen ze je
+> mee · wat kun je niet terwijl men het verwacht · jouw "spaghetti". Christophe koos het
+> persistence-spoor zelf.
+
+### Christophes ruwe woorden (verbatim, licht leesbaar gemaakt)
+- "Als ik iets vastpak, dan laat ik dat **[niet]** los tot het **perfect marcheert zoals dat moet
+  marcheren.**" *(Het "niet" ontbrak in zijn getypte zin maar is evident bedoeld — anders keert de
+  betekenis om. Origineel getypt: "als ik iets vastpakt laat ik dan laat ik dat los tot het perfect
+  macheert zoals dat moet macheren". Bevestiging van de gecorrigeerde lezing gevraagd.)*
+- "Zoiets is iets dat **helemaal over mij gaat.**"
+
+### Mijn notities (de copy-haken)
+- ⭐⭐⭐ **DE SLUITSTEEN — dit is de naamverklaring.** De zin bevat letterlijk "vastpak": de trek
+  (niet kunnen loslaten tot het marcheert) = het merk. Nergens op de site wordt de naam Vastpakt
+  verklaard (gecheckt 2026-06-12: geen enkele publieke pagina). Eén captured zin doet trek = edge =
+  merknaam tegelijk. Sterker dan Pieters "zot nieuwsgierig", want het verklaart ook nog de gevel.
+- **"Marcheren"** is zijn eigen Vlaamse register — behouden, niet vertalen naar "werken".
+- **Zelfspot-framing mogelijk** (Pieter-Balen-move): de trek omgekeerd als zwakte — "loslaten kan
+  ik niet" — geeft de glimlach zonder iets te verzinnen.
+- **Echo-waarschuwing:** "pas loslaten wanneer het draait" (live, V2-draft, V3-draft §Eerst juist)
+  zegt hetzelfde professioneel. Als deze zin een eigen plek krijgt, die echo daar trimmen.
+
 ## ✅ Genoeg om te schrijven — de bouwstenen
 1. **Honest arc:** 15j IT-troubleshooter → sales → naast developer (RelaxY) die met AI/Claude bouwde →
    "dat kan ik ook" (2025).
