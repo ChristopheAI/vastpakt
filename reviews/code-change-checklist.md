@@ -3,6 +3,7 @@
 Use this checklist for code edits, PRs, scripts, site changes, and implementation work.
 
 - The real root cause or intended outcome is identified before changing code.
+- The repository landscape was checked before work started: fetched branches, open PRs, open issues, and any handoff doc — the canonical work branch is verified, not assumed to be `main`.
 - The change is scoped to the smallest files needed for the task.
 - Existing user changes are preserved unless the user explicitly asks to replace them.
 - The implementation follows the local structure, naming, and framework patterns.

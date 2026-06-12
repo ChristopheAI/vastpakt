@@ -4,6 +4,7 @@ Use this checklist for metrics, facts, claims, research notes, keyword data, and
 
 - Every factual claim is sourced, observable in the local material, or marked as uncertain.
 - Numbers, dates, names, prices, volumes, and percentages match the cited source exactly.
+- Counts on HTML or templates separate head metadata (meta/OG/JSON-LD) from visible copy before any repetition or frequency verdict.
 - Inferences are separated from observed facts.
 - No missing source is hidden behind confident wording.
 - No invented market data, performance data, keyword volume, CPC, competition score, or ROI claim is present.
