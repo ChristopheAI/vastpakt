@@ -181,3 +181,41 @@ uitdrukkingen en tussenwerpsels zijn toegestaan terrein.
   andere schrijvers) · de homepage-scene "Ik hoor het wel." is een échte mens-move, geen toeval.
 - **Welke werden zwakker?** Geen. Wel een grens scherper: hoe talig de schrijver, hoe minder
   Vastpakt — onze stem leunt op werkobjecten en marcheren, niet op woordspel.
+
+---
+
+# RONDE 3 — de Amerikaanse meesters, zinsniveau (loop 153)
+
+> Bronnen: Gary Halbert, *Boron Letters* hfst. 10–17 (brieven aan zijn zoon, integraal online) ·
+> Joseph Sugarman, *Adweek Copywriting Handbook* (axioma's + slippery slide, via meerdere
+> secundaire bronnen). Geen boek-distillaat zoals COPY-PLAYBOOK — hier alleen wat ze op
+> zínsniveau doen.
+
+## 8. Nieuwe mechanieken (17–20)
+
+### 8.1 (17) De eerste zin is bijna geen zin
+Sugarman: "all of my first sentences are so short they almost aren't sentences." De eerste zin
+heeft één taak: de tweede zin. **Vastpakt doet dit al op zijn best:** "Vaak wel — half." (FAQ) en
+"Je werkt harder dan je bedrijf." (hero). Regel: nooit een openingszin met een bijzin.
+
+### 8.2 (18) Seeds of curiosity — maar dan de sobere
+Sugarman eindigt alinea's met een trekzin naar de volgende ("Let me explain."). De hype-varianten
+("But there's more!") staan op onze reject-lijst. De sobere variant mag: een korte vraag die de
+volgende sectie beantwoordt. Vastpakt heeft er al één: "Wat gebeurt er daarna?" (hero-scene).
+
+### 8.3 (19) Stel de vraag, geef zelf het antwoord
+Halbert: "Ask questions once in a while and then answer them yourself. Like this: What is a good
+writer? Well…" In lopende tekst, niet alleen in een FAQ-blok. Sluit naadloos op het ja/nee-ritme
+van Frie (ronde 2, mechaniek 12).
+
+### 8.4 (20) Haakjes als adempauze
+Halbert: "the judicious use of parentheses (…) provides a little 'eye relief'." Spaarzaam.
+Eén per sectie, hoogstens.
+
+## 9. Bevestigingen
+- "Use 'get' instead of 'procure'" = onze containerwoorden-regel (33-tips #29).
+- Halberts overgangswoorden ("Now," "So," "OK now," "And") = ronde 1, regel 4 (En/Maar/Dus/Want).
+- "Tell him exactly what to do (…) Tell him to use the envelope" = de instructionele CTA-stijl
+  die de site al heeft ("Beschrijf één situatie").
+- Halberts kernadvies aan zijn zoon: **winnende copy met de hand overschrijven** om het ritme in
+  je lijf te krijgen. Dat is letterlijk wat deze studie doet — verbatim capturen vóór schrijven.
