@@ -28,6 +28,8 @@ The benchmark is internal: the mailbox case shows what the page itself already c
 
 The enumeration `opvolging, akkoord, [...]` appears 13 times in 8 slight variations (grep count). Each instance reads fine alone; together they read as template drift — the same risk flagged in the Schrijftrainer reading (`DISC`-blokken herhaald per pagina). Candidate: keep the list in hero + check + FAQ, vary or cut elsewhere.
 
+**Correction (2026-06-12, same day):** 4 of the 13 occurrences are head metadata (meta description, Open Graph, Twitter, JSON-LD) — identical by design, not drift. Visible-copy occurrences are ~9 across 8 variants, each tied to its section. Finding downgraded from "fails" to "mild, monitor". The checklist line stands; this finding alone did not justify cuts.
+
 ## Verdict per test
 
 ```text

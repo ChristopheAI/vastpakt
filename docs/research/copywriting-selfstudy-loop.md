@@ -37,6 +37,8 @@ If two consecutive rounds produce no checklist change and no actionable finding,
 
 - v1 (rounds 1–2): alternate types — a reading round supplies tests, a self-application round cashes them in. Self-application yields more actionable findings per minute and can surface internal benchmarks (the mailbox-case numbers) that external sources cannot. External lessons only count once tested against our own copy.
 - v1: convergence is a result, not a failure: when an external rule restates an existing Vastpakt rule (Dry's `you can't bullshit specifics` = `specific work object > abstract promise`), record the convergence and keep only the non-overlapping tools.
+- v1 (round 2 correction): grep counts on HTML must separate head metadata from visible copy before a repetition verdict — round 2 counted meta tags as drift and had to be corrected. Re-verify counts against the rendered page, not the raw file.
+- v1 (first shipped change): findings become shippable only when every changed line is a captured anchor or a classified light edit, and the change is logged in `docs/experiments/homepage-experiments.tsv` with sources and a follow-up verdict. That route turned round-2 finding 1 into the 2026-06-12 `proof-section-sterkste-zin` experiment.
 
 ## Round index
 
