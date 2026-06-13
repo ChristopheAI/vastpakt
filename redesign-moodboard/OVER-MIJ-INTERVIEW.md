@@ -213,6 +213,32 @@
 - **Echo-waarschuwing:** "pas loslaten wanneer het draait" (live, V2-draft, V3-draft §Eerst juist)
   zegt hetzelfde professioneel. Als deze zin een eigen plek krijgt, die echo daar trimmen.
 
+## Vraag 9 — de klantstem (2026-06-13) ⭐ EERSTE EXTERNE STEM
+
+> Aangereikt door Christophe. Bevestigd: **een klant heeft dit echt gezegd.** Niet Christophes
+> eigen woorden — vraagkant. Dit is het eerste stukje niet-eigen bewijs op de site (het Order-4-gat
+> dat ik markeerde). Bestemming gekozen: /over-mij/.
+
+### Verbatim (letterlijk, zoals doorgegeven)
+> "Dat is hetgeen dat ik nodig heb. Iemand die zegt, oké we gaan dat vastpakken. We gaan daar iets
+> mee doen. We gaan dat doen op de juiste manier."
+
+### Mijn notities (de copy-haken)
+- ⭐⭐⭐ **De naam, gevalideerd vanaf de vraagkant.** De klant gebruikt "vastpakken" als werkwoord,
+  ongevraagd. De hero zegt "Als ik iets vastpak…" (aanbod); deze zin zegt "we gaan dat vastpakken"
+  (vraag). Call-and-response rond de merknaam — sterker dan welke zelfclaim ook.
+- **Mens-ritme zit er al in:** drie beats, elk "We gaan…" (motief-herhaling, mechaniek 6). Niets
+  aan slijpen.
+- **"op de juiste manier"** rijmt op het operator-DNA ("eerst juist, dan snel" / "tot het marcheert").
+- **Functie:** dit is geen prestatie-testimonial ("hij bespaarde ons X"), maar een verlangen-stem
+  ("dit is wat ik nodig heb"). Daarom werkt het als herkenning + naamvalidatie, niet als cijfer-proof.
+
+### 🔴 Proof gate — vóór publicatie (AGENTS.md: testimonials need consent)
+- **Toestemming:** mag deze klantzin publiek op de site? (Christophe bevestigt.)
+- **Attributie:** met naam, voornaam/initiaal, of anoniem ("Een klant")? Verbatim blijft sowieso
+  ongewijzigd.
+- Tot toestemming bevestigd is: **niet live zetten.** Capture is intern en veilig.
+
 ## ✅ Genoeg om te schrijven — de bouwstenen
 1. **Honest arc:** 15j IT-troubleshooter → sales → naast developer (RelaxY) die met AI/Claude bouwde →
    "dat kan ik ook" (2025).
