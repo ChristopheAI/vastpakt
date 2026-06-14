@@ -2,6 +2,8 @@
 
 > **Scope:** solo & kleine (1-3p) AI-/automatiserings-bouwers voor Vlaamse KMO's,
 > focus Antwerpen — de categorie van Flowlift en Vastpakt zelf.
+> **Sinds 2026-06-14** ook één aangrenzend **product-alternatief** waar de koper Vastpakt tegen
+> afweegt (§5: Ziggu — verticale SaaS, build-vs-buy).
 > **Methode:** 5 parallelle research-agents (WebSearch + WebFetch), Belgische/NL markt.
 > **Betrouwbaarheid:** alle aanbieders-sites blokkeerden directe fetch (HTTP 403). Citaten
 > komen uit zoek-snippets → "zeer waarschijnlijk letterlijk", niet woord-voor-woord op de
@@ -114,7 +116,76 @@ De vier hefbomen die concurrenten ELK los wel aanraken, maar **niemand combineer
 
 ---
 
-*Bronnen: flowlift.be, caikmo.be, nordant.be, aivoorkmo.be, hugarro.be, nunki.ai,
+## 5. Aangrenzende concurrent — Ziggu (verticale SaaS / build-vs-buy)
+
+> **Buiten de oorspronkelijke scope** (geen solo-bouwer, maar een gefund SaaS-product), tóch
+> hier omdat het de **koper-keuze** raakt: een KMO met communicatie-chaos weegt een kant-en-klaar
+> portaal als Ziggu af tégen een maatwerk-systeem van Vastpakt — en Ziggu argumenteert zélf
+> expliciet tégen zelf bouwen (zie de build-vs-buy-botsing hieronder).
+> **Betrouwbaarheid:** hoog — volledige live pagina opgehaald (Exa, 2026-06-14), citaten verbatim
+> van `ziggu.io/nl/oplossingen/architecten-designers` (Meta-advertentie, doelgroep architecten/designers).
+
+| Speler | Regio | Wat | Positionering (verbatim) | Prijs-signaal | Gezicht? | Toon |
+|---|---|---|---|---|---|---|
+| **Ziggu** | België (BE-NL) | Verticale SaaS — klantenportaal voor bouw/vastgoed/architectuur | "Je ontwerpen zijn nauwkeurig. Je communicatie zou dat ook moeten zijn." | abonnement **per actief project** (niet per user); 14 dagen gratis | nee (product + supportteam, "echte mensen") | nuchter, anti-hype, geruststellend |
+
+**Proof-model (sterk):** "4.7/5 van 400+ projectteams"; named testimonials met naam·rol·bedrijf
+(o.a. Immobel, ION, Hoprom, Bauwsteen); één gekwantificeerd resultaat: *"tot 120 appartementen
+per jaar opvolgen — voorheen was dat max 80."*
+
+### De botsing: build-vs-buy (strategisch het belangrijkste)
+Ziggu heeft een FAQ-item dat **letterlijk tegen maatwerk argumenteert** — het anti-Vastpakt-
+argument, verbatim van een concurrent:
+> *"Building your own portal might seem like a smart investment — but it rarely stops at launch.
+> Technology, security standards, and privacy laws evolve constantly. That means ongoing
+> maintenance, updates, audits, and bug fixes. (…) Ziggu takes that weight off your shoulders.
+> It's a fully managed, GDPR-compliant platform (…) without the hidden cost of managing it all
+> yourself."*
+
+- **Hun sterkste counter tegen Vastpakt:** onderhoud, security, GDPR, uptime (99,99%) → "wij
+  dragen die last, jij niet." Dit is een **echte objectie die de Vastpakt-site nog niet expliciet
+  beantwoordt.**
+- **Hun verraden zwakte = Vastpakts wig:** lock-in. Ze hinten het zelf — *"een volledige
+  data-export mocht je ooit beslissen om te vertrekken."* Je huurt Ziggu; stop met betalen →
+  portaal weg. Vastpakt: *"het is van jou, elke ontwikkelaar kan verder."*
+
+### Gedeelde pijntaal (capturebaar — NOOIT letterlijk overnemen)
+- "verschillende inboxen, WhatsApp-groepen en WeTransfer-links die verdwijnen"
+- "Waar is v3-final-final?" — versie-chaos, direct herkenbaar
+- "geen sms'jes om 21u" · "achter jou aan zitten" · "dezelfde vraag voor de derde keer
+  beantwoorden" · "updates najagen" · "overvolle mailbox"
+- "Als een collega afwezig is, kan iemand anders het overnemen zonder te hoeven uitzoeken wat er
+  al gezegd of gedeeld is" = Ziggu's framing van **exact Vastpakts bus-factor / "een harde schijf
+  neemt geen verlof"**-thema.
+- ⚠️ "Werkt met wat je al gebruikt" — Ziggu claimt **óók** de werkt-met-je-bestaande-tools-lijn
+  (Teamleader, Exact, SharePoint + REST API). Die grond is bezet → Vastpakts wig mag er niet
+  alleen op rusten.
+
+### Copy-techniek (herbruikbaar, niet de woorden)
+1. **Spiegel-hero:** "[waar je vakman in bent] is precies. [de kloof] zou dat ook moeten zijn."
+   (ook: "Architectuur is precies. Het projectproces? Niet bepaald.")
+2. **Stoefmuur-proof:** rating + aantal + named testimonials + één hard cijfer (120 vs 80). →
+   valideert open hefboom **#19** (rauwe BAVAST-quote met naam + cijfer).
+3. **Anti-hype-CTA in Vastpakts register:** "Te mooi om waar te zijn? Dat horen we vaak. Geen
+   slides, geen hard sell." + "Echte hulp van echte mensen, geen bots, geen radiostilte."
+
+### Leerpunt / craft-tell
+- **Sterker dan Vastpakt:** proof-dichtheid (rating + named clients + cijfers). Vastpakt heeft nu
+  1 case (BAVAST) → #19 wordt urgenter.
+- **Zwakker (craft-tell):** de FAQ is half onvertaald (Engelse antwoorden op een NL-pagina:
+  "Not at all. Most teams customize…"). Lokalisatie-slordigheid.
+
+### Site-implicatie voor Vastpakt
+Voeg een kort blok/FAQ toe: **"Waarom maatwerk i.p.v. een kant-en-klaar portaal?"** — leidend met
+**fit + eigenaarschap** (jóuw knelpunt, niet één portaal-vorm voor iedereen; je bezit alles), en
+**eerlijk** het onderhoud/security-punt adresserend (Ziggu's sterkste counter niet wegmoffelen).
+Dit is de directe tegenzet op de build-vs-buy-objectie die een gefunde speler nú actief in de
+markt zet.
+
+---
+
+*Bronnen §1-4: flowlift.be, caikmo.be, nordant.be, aivoorkmo.be, hugarro.be, nunki.ai,
 autonomateagency.be, codelines.be, onoweb.be, leadexpert.be, sevendays.be, n8n-expert.be,
-n8n-automatisatie.be, databaser.be, malt.be/profile/stevencornelis. Alle via zoek-snippets
-(directe fetch geblokkeerd).*
+n8n-automatisatie.be, databaser.be, malt.be/profile/stevencornelis (alle via zoek-snippets,
+directe fetch geblokkeerd). §5: ziggu.io/nl/oplossingen/architecten-designers — volledige live
+pagina (Exa, 2026-06-14).*
