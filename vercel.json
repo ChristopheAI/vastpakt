@@ -1,13 +1,95 @@
 {
   "redirects": [
-    { "source": "/offerte-opvolging", "destination": "/voor-wie", "permanent": true },
-    { "source": "/offerte-opvolging/:path*", "destination": "/voor-wie", "permanent": true },
-    { "source": "/facturatie-bewijs", "destination": "/voor-wie", "permanent": true },
-    { "source": "/facturatie-bewijs/:path*", "destination": "/voor-wie", "permanent": true },
-    { "source": "/dubbel-werk", "destination": "/voor-wie", "permanent": true },
-    { "source": "/dubbel-werk/:path*", "destination": "/voor-wie", "permanent": true },
-    { "source": "/over-vastpakt", "destination": "/over-mij", "permanent": true },
-    { "source": "/over-vastpakt/:path*", "destination": "/over-mij", "permanent": true }
+    {
+      "source": "/offerte-opvolging",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/offerte-opvolging/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/facturatie-bewijs",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/facturatie-bewijs/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/dubbel-werk",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/dubbel-werk/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/over-vastpakt",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/over-vastpakt/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/over-mij",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/over-mij/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/voor-wie",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/voor-wie/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/werk",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/werk/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/privacy",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/privacy/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/reviews",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/reviews/:path*",
+      "destination": "/",
+      "permanent": false
+    }
   ],
   "headers": [
     {
