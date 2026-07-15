@@ -1,3 +1,3 @@
 # Christophe Van Hoof — vastpakt.be
 
-> Persoonlijk AI-portfolio van Christophe Van Hoof (Antwerpen): AI & software engineer. Systemen die bij echte bedrijven in productie draaien — een rapportgenerator voor een plaatsbeschrijver (betalende opdracht), een voorraadapp voor een poedercoating-bedrijf (ruim een jaar live) en een GTM-engine-demo. Contact: christophe@vastpakt.be
+> AI & software engineer (Antwerpen). Bouwt software met agentic coding agents (Claude Code, Codex): zij schrijven, hij geeft richting en reviewt tot het klaar is voor productie. Cases met live demo's: voorraadapp poedercoating (ruim een jaar live), rapportgenerator voor een plaatsbeschrijver, GTM- en prospectie-engine. Contact: christophe@vastpakt.be
