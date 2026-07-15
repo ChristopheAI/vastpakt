@@ -1,26 +1,31 @@
-# Vastpakt Static Homepage
+# vastpakt.be — portfolio
 
-First static homepage version for Vastpakt.
+Personal site of **Christophe Van Hoof**, AI & software engineer.
 
-## Open Locally
+**Live:** https://vastpakt.be
 
-Open `index.html` in a browser.
+## What this is
 
-## Verify
+Portfolio of software built with **agentic coding agents** (Claude Code, Codex): agents write the code; I set direction and review until it's ready for production.
 
-- Hero starts from recognizable market language, not generic AI/automation language.
-- The first visual proof object is a Situatiekaart.
-- Proof examples use ordinary workday sentences.
-- The page names what is missing: status, eigenaar, bewijs, volgende stap.
-- The page explains what the reader brings, what they get back, and who it is not for.
-- The Loshang-check updates when checkboxes are selected.
-- The contact form posts to `/api/contact` and shows a clear fallback if mail sending is not configured.
-- Public copy does not mention internal process words such as research, Swipefile, proof mechanism, or agent.
+Not a product landing page for a KMO tool — that older draft is gone from the live site.
 
-## Contact Form
+## On the site
 
-The Vercel function at `api/contact.js` expects these environment variables:
+- How I work (agentic coding)
+- Live cases with demo links (inventory app, report generator, GTM/prospectie engines, villa demo)
+- Background and contact
 
-- `RESEND_API_KEY`
-- `CONTACT_FROM`, for example `Vastpakt <contact@vastpakt.be>` after the sending domain is verified
-- `CONTACT_TO`, optional, defaults to `christophe@vastpakt.be`
+## Stack
+
+Static HTML/CSS (and site config) deployed on Vercel → `vastpakt.be`.
+
+## Local
+
+Open `index.html` in a browser, or serve the folder with any static server.
+
+## Contact
+
+- https://vastpakt.be  
+- christophe@vastpakt.be  
+- https://github.com/ChristopheAI  
