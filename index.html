@@ -12,6 +12,8 @@
   <meta property="og:url" content="https://vastpakt.be/">
   <meta property="og:title" content="Christophe Van Hoof · AI &amp; Software Engineer">
   <meta property="og:description" content="AI Portfolio van Christophe Van Hoof — cases met live demo's die je zelf kan aanklikken.">
+  <meta name="theme-color" content="#f7f9f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121713" media="(prefers-color-scheme: dark)">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <style>
     :root {
@@ -41,7 +43,11 @@
       }
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    html { scroll-behavior: smooth; }
+    h1, h2, h3 { text-wrap: balance; }
+    p, .checks li { text-wrap: pretty; }
+    @media (prefers-reduced-motion: no-preference) {
+      html { scroll-behavior: smooth; }
+    }
     body {
       font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
       background: var(--paper);
@@ -53,6 +59,9 @@
     a { color: var(--accent); }
     a:hover { color: var(--accent-dark); }
     ::selection { background: var(--accent); color: var(--accent-ink); }
+    a:focus-visible, .btn:focus-visible {
+      outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px;
+    }
 
     /* Header */
     header.top { border-bottom: 1px solid var(--line); }
