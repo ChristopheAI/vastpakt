@@ -1,3 +1,3 @@
 # Christophe Van Hoof — vastpakt.be
 
-> AI & software engineer (Antwerpen). Bouwt software met agentic coding agents (Claude Code, Codex): zij schrijven de code, hij geeft richting en reviewt tot het klaar is voor productie. Cases met live demo's: voorraadapp poedercoating (ruim een jaar live), rapportgenerator voor een plaatsbeschrijver, GTM- en prospectie-engine. Contact: christophe@vastpakt.be
+> AI & software engineer (Antwerpen). Bouwt software met agentic coding agents (Claude Code, Codex): zij schrijven de code, hij geeft richting en reviewt tot het klaar is voor productie. Cases: voorraadapp poedercoating, rapportgenerator, GTM/prospectie-demo's, bloedwaarden-dashboard (Laravel, open source, geen medisch advies). Contact: christophe@vastpakt.be
