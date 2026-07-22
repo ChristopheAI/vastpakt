@@ -15,6 +15,9 @@
   <meta name="theme-color" content="#f7f9f7" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#121713" media="(prefers-color-scheme: dark)">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Hanken+Grotesk:wght@400..700&display=swap" rel="stylesheet">
   <style>
     :root {
       --paper: #f7f9f7;
@@ -46,13 +49,16 @@
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     h1, h2, h3 { text-wrap: balance; }
+    h1, h2, h3, .top-name, .badge {
+      font-family: "Bricolage Grotesque", "Hanken Grotesk", ui-sans-serif, system-ui, sans-serif;
+    }
     p, .checks li { text-wrap: pretty; }
     @media (prefers-reduced-motion: no-preference) {
       html { scroll-behavior: smooth; }
     }
     html { background: var(--paper); }
     body {
-      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-family: "Hanken Grotesk", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
       background: transparent;
       color: var(--ink);
       line-height: 1.55;
@@ -85,6 +91,7 @@
     .hero h1 em { font-style: normal; color: var(--accent); }
     .hero .sub {
       margin-top: 1.1rem; font-size: 1.05rem; color: var(--muted); font-weight: 500;
+      max-width: 62ch;
     }
 
     /* Sections */
@@ -191,7 +198,7 @@
     .timeline .what b { color: var(--ink); font-weight: 700; }
 
     /* Certs */
-    .certs { font-size: 0.88rem; color: var(--muted); margin-top: 1.6rem; }
+    .certs { font-size: 0.88rem; color: var(--muted); margin-top: 1.6rem; max-width: 72ch; }
     .over p { max-width: 62ch; font-size: 1rem; color: var(--ink); }
     .over p + p { margin-top: 0.9rem; }
     .over .lede { font-weight: 750; font-size: 1.15rem; }
@@ -417,27 +424,72 @@
     <div class="wrap">© 2026 Christophe Van Hoof · vastpakt.be</div>
   </footer>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js"
+    integrity="sha384-/Mc/2ffICYME94wcPOYwoL99IzpbvFsDTty0/5V5t22x2n26tp8JRSsxKjvgZuZs"
+    crossorigin="anonymous" defer></script>
   <script>
-    (function () {
+    window.addEventListener('DOMContentLoaded', function () {
       if (!matchMedia('(prefers-reduced-motion: no-preference)').matches) return;
+
+      var revealTargets = '.card, .timeline li, .over-grid, .contact .wrap > *';
+
+      if (typeof anime === 'undefined') {
+        // Fallback zonder Anime.js: CSS-transities via .reveal
+        if (!('IntersectionObserver' in window)) return;
+        document.documentElement.classList.add('reveal');
+        var ioFallback = new IntersectionObserver(function (entries) {
+          entries.forEach(function (e) {
+            if (!e.isIntersecting) return;
+            e.target.classList.add('in');
+            ioFallback.unobserve(e.target);
+            e.target.addEventListener('transitionend', function () {
+              e.target.style.transitionDelay = '';
+            }, { once: true });
+          });
+        }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+        document.querySelectorAll(revealTargets).forEach(function (el, i) {
+          el.style.transitionDelay = (i % 3) * 70 + 'ms';
+          ioFallback.observe(el);
+        });
+        return;
+      }
+
+      // Hero-intro: h1 per woord, daarna de sub
+      var h1 = document.querySelector('.hero h1');
+      if (h1) {
+        h1.innerHTML = h1.innerHTML.split(/(\s+)/).map(function (part) {
+          return /^\s+$/.test(part) ? part : '<span class="w">' + part + '</span>';
+        }).join('');
+        anime.set('.hero h1 .w', { opacity: 0, translateY: 26 });
+      }
+      anime.set('.hero .sub', { opacity: 0, translateY: 14 });
+
+      var tl = anime.timeline({ easing: 'easeOutExpo' });
+      if (h1) {
+        tl.add({ targets: '.hero h1 .w', opacity: [0, 1], translateY: [26, 0], duration: 750, delay: anime.stagger(55) });
+      }
+      tl.add({ targets: '.hero .sub', opacity: [0, 1], translateY: [14, 0], duration: 650 }, '-=450');
+
+      // Scroll-reveals met Anime.js
       if (!('IntersectionObserver' in window)) return;
-      document.documentElement.classList.add('reveal');
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (e) {
           if (!e.isIntersecting) return;
-          e.target.classList.add('in');
           io.unobserve(e.target);
-          e.target.addEventListener('transitionend', function () {
-            e.target.style.transitionDelay = '';
-          }, { once: true });
+          anime({
+            targets: e.target,
+            opacity: [0, 1], translateY: [18, 0],
+            duration: 650, easing: 'easeOutQuad',
+            delay: e.target._stagger || 0
+          });
         });
       }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
-      document.querySelectorAll('.card, .timeline li, .over-grid, .contact .wrap > *')
-        .forEach(function (el, i) {
-          el.style.transitionDelay = (i % 3) * 70 + 'ms';
-          io.observe(el);
-        });
-    })();
+      document.querySelectorAll(revealTargets).forEach(function (el, i) {
+        el._stagger = (i % 3) * 70;
+        anime.set(el, { opacity: 0, translateY: 18 });
+        io.observe(el);
+      });
+    });
   </script>
 
 </body>
