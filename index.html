@@ -169,16 +169,16 @@
     /* Reveal bij scroll (enkel actief als JS de klasse .reveal zet) */
     [id] { scroll-margin-top: 1rem; }
     .reveal .card {
-      opacity: 0;
-      transition: opacity 0.5s ease, transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+      opacity: 0; filter: blur(6px);
+      transition: opacity 0.5s ease, transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease, filter 0.5s ease;
     }
-    .reveal .card.in { opacity: 1; }
+    .reveal .card.in { opacity: 1; filter: none; }
     .reveal .timeline li, .reveal .over-grid, .reveal .contact .wrap > * {
-      opacity: 0; transform: translateY(14px);
-      transition: opacity 0.5s ease, transform 0.5s ease;
+      opacity: 0; transform: translateY(14px); filter: blur(6px);
+      transition: opacity 0.5s ease, transform 0.5s ease, filter 0.5s ease;
     }
     .reveal .timeline li.in, .reveal .over-grid.in, .reveal .contact .wrap > .in {
-      opacity: 1; transform: none;
+      opacity: 1; transform: none; filter: none;
     }
 
     /* Timeline */
@@ -454,23 +454,31 @@
         return;
       }
 
-      // Hero-intro: h1 per woord, daarna de sub
+      // Hero-intro: h1 per woord, daarna de sub (blur-fade à la Magic UI)
       var h1 = document.querySelector('.hero h1');
       if (h1) {
         h1.innerHTML = h1.innerHTML.split(/(\s+)/).map(function (part) {
           return /^\s+$/.test(part) ? part : '<span class="w">' + part + '</span>';
         }).join('');
-        anime.set('.hero h1 .w', { opacity: 0, translateY: 26 });
+        anime.set('.hero h1 .w', { opacity: 0, translateY: 26, filter: 'blur(8px)' });
       }
-      anime.set('.hero .sub', { opacity: 0, translateY: 14 });
+      anime.set('.hero .sub', { opacity: 0, translateY: 14, filter: 'blur(6px)' });
 
       var tl = anime.timeline({ easing: 'easeOutExpo' });
       if (h1) {
-        tl.add({ targets: '.hero h1 .w', opacity: [0, 1], translateY: [26, 0], duration: 750, delay: anime.stagger(55) });
+        tl.add({
+          targets: '.hero h1 .w',
+          opacity: [0, 1], translateY: [26, 0], filter: ['blur(8px)', 'blur(0px)'],
+          duration: 750, delay: anime.stagger(55)
+        });
       }
-      tl.add({ targets: '.hero .sub', opacity: [0, 1], translateY: [14, 0], duration: 650 }, '-=450');
+      tl.add({
+        targets: '.hero .sub',
+        opacity: [0, 1], translateY: [14, 0], filter: ['blur(6px)', 'blur(0px)'],
+        duration: 650
+      }, '-=450');
 
-      // Scroll-reveals met Anime.js
+      // Scroll-reveals met Anime.js (blur-fade)
       if (!('IntersectionObserver' in window)) return;
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (e) {
@@ -478,7 +486,7 @@
           io.unobserve(e.target);
           anime({
             targets: e.target,
-            opacity: [0, 1], translateY: [18, 0],
+            opacity: [0, 1], translateY: [18, 0], filter: ['blur(6px)', 'blur(0px)'],
             duration: 650, easing: 'easeOutQuad',
             delay: e.target._stagger || 0
           });
@@ -486,7 +494,7 @@
       }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
       document.querySelectorAll(revealTargets).forEach(function (el, i) {
         el._stagger = (i % 3) * 70;
-        anime.set(el, { opacity: 0, translateY: 18 });
+        anime.set(el, { opacity: 0, translateY: 18, filter: 'blur(6px)' });
         io.observe(el);
       });
     });
