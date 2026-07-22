@@ -124,6 +124,7 @@
       backface-visibility: hidden;
     }
     .flip-back { transform: rotateY(180deg); }
+    .hero-foto--face { object-position: 50% center; }
     @media (prefers-reduced-motion: reduce) {
       .flip-inner { transition: none; }
     }
@@ -328,9 +329,9 @@
           </div>
           <div class="hero-foto-wrap">
             <div class="flip-inner">
-              <img class="hero-foto flip-front" src="assets/images/christophe-portret-1024.jpg"
-                alt="Portret van Christophe Van Hoof"
-                width="1024" height="1024" fetchpriority="high">
+              <img class="hero-foto flip-front hero-foto--face" src="assets/images/christophe-portret-office.jpg"
+                alt="Portret van Christophe Van Hoof in een blauw jasje, lachend in een kantooromgeving"
+                width="1024" height="571" fetchpriority="high">
               <img class="hero-foto flip-back" src="assets/images/christophe-circuit-20260601.jpg"
                 alt="Christophe zwaait vanuit een racewagen op het circuit, helm in de andere hand" aria-hidden="true"
                 width="768" height="1024" loading="lazy">
@@ -447,7 +448,10 @@
           </article>
 
           <article class="card">
-            <span class="badge">Persoonlijk · open source</span>
+            <figure class="card-shot">
+              <img src="assets/images/case-bloedwaarden.jpg" alt="GitHub-repo van het bloedwaarden-dashboard: publieke code, recente commits, topics php, laravel en livewire" width="800" height="500" loading="lazy">
+              <span class="badge badge-over">Persoonlijk · open source</span>
+            </figure>
             <h3>Bloedwaarden-dashboard</h3>
             <p>Persoonlijke Laravel-app: labo-PDF uploaden, waarden reviewen, daarna historiek en vergelijking. Geen diagnose, geen medisch advies — wel structuur en een harde grens: alleen bevestigde waarden gaan door. Echte labodata blijft privé; de code is open.</p>
             <ul class="checks">
