@@ -93,6 +93,15 @@
       margin-top: 1.1rem; font-size: 1.05rem; color: var(--muted); font-weight: 500;
       max-width: 62ch;
     }
+    .hero .loc {
+      margin-top: 0.9rem; font-size: 0.9rem; color: var(--muted);
+      display: flex; align-items: center; gap: 0.35rem;
+    }
+    .hero .loc svg {
+      width: 0.95rem; height: 0.95rem; flex-shrink: 0;
+      fill: none; stroke: var(--accent); stroke-width: 2;
+      stroke-linecap: round; stroke-linejoin: round;
+    }
     .hero-grid {
       display: grid; grid-template-columns: 1.25fr 1fr;
       gap: 2.2rem; align-items: center;
@@ -287,6 +296,7 @@
           <div>
             <h1>Hey, ik ben <em>Christophe</em></h1>
             <p class="sub">Let's say I like to connect, build things and help people.</p>
+            <p class="loc"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-5.1-7-11a7 7 0 1 1 14 0c0 5.9-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Schilde–Zoersel · Antwerpen</p>
           </div>
           <div class="hero-foto-wrap">
             <div class="flip-inner">
@@ -502,6 +512,7 @@
         anime.set('.hero h1 .w', { opacity: 0, translateY: 26, filter: 'blur(8px)' });
       }
       anime.set('.hero .sub', { opacity: 0, translateY: 14, filter: 'blur(6px)' });
+      anime.set('.hero .loc', { opacity: 0, translateY: 10, filter: 'blur(4px)' });
 
       var tl = anime.timeline({ easing: 'easeOutExpo' });
       if (h1) {
@@ -516,6 +527,11 @@
         opacity: [0, 1], translateY: [14, 0], filter: ['blur(6px)', 'blur(0px)'],
         duration: 650
       }, '-=450');
+      tl.add({
+        targets: '.hero .loc',
+        opacity: [0, 1], translateY: [10, 0], filter: ['blur(4px)', 'blur(0px)'],
+        duration: 500
+      }, '-=350');
 
       var heroFoto = document.querySelector('.hero-foto-wrap');
       if (heroFoto) {
