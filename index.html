@@ -156,6 +156,13 @@
     }
     .card h3 { font-size: 1.18rem; font-weight: 750; line-height: 1.25; }
     .card p { font-size: 0.95rem; color: var(--muted); }
+    .quote {
+      margin: 0; padding: 0.8rem 1rem;
+      border-left: 3px solid var(--accent);
+      background: var(--soft); border-radius: 0 8px 8px 0;
+    }
+    .quote p { margin: 0; font-size: 1rem; font-weight: 700; color: var(--ink); }
+    .quote footer { margin-top: 0.3rem; font-size: 0.82rem; color: var(--muted); }
     .checks { list-style: none; display: grid; gap: 0.4rem; }
     .checks li { font-size: 0.92rem; padding-left: 1.5rem; position: relative; }
     .checks li::before {
@@ -339,6 +346,10 @@
               <li>Databasemigraties draaien automatisch mee in de deploy</li>
               <li>Nachtelijke versleutelde backups</li>
             </ul>
+            <blockquote class="quote">
+              <p>“Da macheert gelijk nen trein!”</p>
+              <footer>— de zaakvoerder, na ruim een jaar dagelijks gebruik</footer>
+            </blockquote>
             <a class="btn" href="https://app-production-32db.up.railway.app" target="_blank" rel="noopener">Bekijk de demo</a>
             <div class="chips">
               <span class="chip">TypeScript/React</span>
