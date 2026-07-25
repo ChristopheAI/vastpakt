@@ -55,7 +55,9 @@ a:focus-visible, .btn:focus-visible {
 header.top { border-bottom: 1px solid var(--line); }
 .top-inner {
   display: flex; align-items: center; justify-content: space-between;
-  gap: 1rem; padding: 0.9rem 0; flex-wrap: wrap;
+  gap: 1rem; flex-wrap: wrap;
+  /* alleen verticale padding zetten; horizontale 20px komt van .wrap (zelfde element) */
+  padding-top: 0.9rem; padding-bottom: 0.9rem;
 }
 .top-name { font-weight: 800; font-size: 0.95rem; letter-spacing: 0.01em; color: var(--ink); text-decoration: none; }
 .top-mail { font-size: 0.9rem; text-decoration: none; font-weight: 600; }
